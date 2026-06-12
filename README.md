@@ -1,11 +1,54 @@
-# Ember Journal Converter
+# Ember Notes
 
-Converts Foundry VTT journal exports into an Obsidian vault. This project
-folder doubles as the vault — open it directly in Obsidian. The vault has
-two sources, each with its own top-level folder:
+This project folder is both an Obsidian vault and the source for a
+[Quartz](https://quartz.jzhao.xyz/) site published to GitHub Pages, with
+a semantic (natural-language) search page. The vault has two sources, each
+with its own top-level folder:
 
 - `Ember/` - the Ember adventure/setting journals
 - `Crucible/` - the Crucible System Rules journals
+
+## Website & semantic search
+
+The site is built with Quartz and deployed automatically to GitHub Pages
+on every push to `main` (see `.github/workflows/deploy.yml`).
+
+To build/preview locally:
+
+```powershell
+npm install
+npm run serve   # builds the site + search index, then serves it at localhost:8080
+```
+
+`npm run build` produces the same static output in `public/` without
+starting the dev server.
+
+Both scripts run three steps: `scripts/prepare-content.mjs` stages the
+vault into a Quartz `content/` folder, `quartz build` renders the site, and
+`scripts/embed-index.mjs` builds the semantic search index.
+
+### How search works
+
+- The standard Quartz search bar (top left) does fast in-browser keyword
+  search over the rendered site.
+- The **Semantic Search** page (linked from the home page) lets you search
+  either the Crucible rules or the Ember lore by meaning rather than exact
+  keywords. It works by:
+  1. After `quartz build`, `scripts/embed-index.mjs` reads the
+     `static/contentIndex.json` that Quartz emits (the authoritative slug +
+     plain-text content for every page), partitions pages into the
+     `crucible`/`ember` corpora by slug, computes a sentence embedding for
+     each with the `Xenova/all-MiniLM-L6-v2` model, and writes
+     `static/search-index/{crucible,ember}.json` (int8-quantized vectors).
+     Reading Quartz's own index keeps slugs and page text in lockstep with
+     the built site.
+  2. In the browser, `quartz/static/semantic-search.js` loads the same
+     model via [transformers.js](https://github.com/xenova/transformers.js)
+     (from a CDN) to embed your query, then ranks pages by cosine
+     similarity against the precomputed vectors — entirely client-side, no
+     server or API key required.
+- Rerun `npm run build`/`npm run serve` after editing vault content to
+  refresh the semantic search index.
 
 ## Prerequisites
 
