@@ -1,0 +1,36 @@
+{
+  "Ember/Area Walkthroughs/Arctus Plateau/Arcturel Lower/Area Overview.md": {
+    "scroll": 46.67417061611374,
+    "cursor": {
+      "from": {
+        "line": 68,
+        "ch": 0
+      },
+      "to": {
+        "line": 68,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-2-1",
+      "item-1-0"
+    ]
+  },
+  "Ember/_Index.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 3,
+        "ch": 0
+      },
+      "to": {
+        "line": 3,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-2-1",
+      "item-1-0"
+    ]
+  }
+}
