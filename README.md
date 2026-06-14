@@ -17,15 +17,15 @@ To build/preview locally:
 
 ```powershell
 npm install
-npm run serve   # builds the site + search index, then serves it at localhost:8080
+npm run serve   # stages content, builds the site + search index, serves at localhost:8080
+npm run build   # same, without the dev server (output in public/)
+npm run check   # tsc + prettier over the project's own code
+npm run smoke   # asserts known queries still rank correctly (run after build)
 ```
 
-`npm run build` produces the same static output in `public/` without
-starting the dev server.
-
-Both scripts run three steps: `scripts/prepare-content.mjs` stages the
-vault into a Quartz `content/` folder, `quartz build` renders the site, and
-`scripts/embed-index.mjs` builds the semantic search index.
+A build is two steps: `scripts/prepare-content.mjs` stages the vault into a
+Quartz `content/` folder, then `quartz build` renders the site **and**
+generates the semantic search index in the same pipeline.
 
 ### How search works
 
@@ -33,22 +33,31 @@ vault into a Quartz `content/` folder, `quartz build` renders the site, and
   search over the rendered site.
 - The **Semantic Search** page (linked from the home page) lets you search
   either the Crucible rules or the Ember lore by meaning rather than exact
-  keywords. It works by:
-  1. After `quartz build`, `scripts/embed-index.mjs` reads the
-     `static/contentIndex.json` that Quartz emits (the authoritative slug +
-     plain-text content for every page), partitions pages into the
-     `crucible`/`ember` corpora by slug, computes a sentence embedding for
-     each with the `Xenova/all-MiniLM-L6-v2` model, and writes
-     `static/search-index/{crucible,ember}.json` (int8-quantized vectors).
-     Reading Quartz's own index keeps slugs and page text in lockstep with
-     the built site.
-  2. In the browser, `quartz/static/semantic-search.js` loads the same
-     model via [transformers.js](https://github.com/xenova/transformers.js)
-     (from a CDN) to embed your query, then ranks pages by cosine
-     similarity against the precomputed vectors — entirely client-side, no
-     server or API key required.
+  keywords. It runs **entirely from the site's own origin — no external CDN,
+  no API key, no server.** It works by:
+  1. During `quartz build`, the `SemanticSearchIndex` emitter plugin
+     (`quartz/plugins/emitters/semanticIndex.ts`) reads the slug, title, and
+     plain text Quartz already parsed for every page, partitions pages into
+     the `crucible`/`ember` corpora (configured once in `quartz.config.ts`),
+     embeds each with `Xenova/all-MiniLM-L6-v2` (`quartz/util/embed.ts`), and
+     writes `static/search-index/{crucible,ember}.json` (int8-quantized
+     vectors) plus a `corpora.json` manifest. The model id is stamped into
+     each index so the client can't drift from it.
+  2. The `SemanticSearchRuntime` plugin
+     (`quartz/plugins/emitters/semanticRuntime.ts`) copies the transformers.js
+     library, its WASM backend, and the model weights into the published site
+     (from `node_modules` / the build cache — not committed to git).
+  3. In the browser, `quartz/static/semantic-search.js` loads that
+     self-hosted model to embed your query, then ranks pages by cosine
+     similarity against the precomputed vectors. The corpus options and the
+     model id come from the emitted JSON, so UI, build, and index always
+     agree.
 - Rerun `npm run build`/`npm run serve` after editing vault content to
-  refresh the semantic search index.
+  refresh the index. (Quartz watch-mode rebuilds don't re-embed; a full
+  build does.)
+
+Fonts use the system stack (`fontOrigin: "local"`) and the unused KaTeX
+plugin is removed, so the whole site loads with zero external requests.
 
 ## Prerequisites
 
