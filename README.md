@@ -1,3 +1,6 @@
+
+Site viewable at https://dwolfzorn.github.io/ember-notes.
+
 # Ember Notes
 
 This project folder is both an Obsidian vault and the source for a
