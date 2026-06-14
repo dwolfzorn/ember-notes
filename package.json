@@ -7,8 +7,9 @@
   "license": "MIT",
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
-    "build": "node scripts/prepare-content.mjs && npx quartz build && node scripts/embed-index.mjs public/static/search-index",
-    "serve": "node scripts/prepare-content.mjs && npx quartz build && node scripts/embed-index.mjs quartz/static/search-index && npx quartz build --serve",
+    "build": "node scripts/prepare-content.mjs && npx quartz build",
+    "serve": "node scripts/prepare-content.mjs && npx quartz build --serve",
+    "smoke": "tsx scripts/smoke-search.ts",
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write"
   },

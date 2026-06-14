@@ -8,15 +8,13 @@ Search the **Crucible** game system rules or the **Ember** lore by meaning — t
 question or description and get back the most relevant pages.
 
 <form id="semantic-search-form">
-  <fieldset>
-    <label><input type="radio" name="corpus" value="crucible" checked> Crucible (game system rules)</label>
-    <label><input type="radio" name="corpus" value="ember"> Ember (lore)</label>
-  </fieldset>
+  <fieldset id="corpus-options" aria-label="Which content to search"></fieldset>
+  <label for="semantic-search-input">Search query</label>
   <input id="semantic-search-input" type="text" placeholder="e.g. how does burning damage work?" autocomplete="off">
   <button type="submit">Search</button>
 </form>
 
-<p id="search-status"></p>
+<p id="search-status" role="status" aria-live="polite"></p>
 <ul id="search-results"></ul>
 
 <style>
@@ -26,6 +24,11 @@ question or description and get back the most relevant pages.
   gap: 1.5rem;
   margin: 0 0 0.5rem 0;
   padding: 0;
+}
+#semantic-search-form label[for="semantic-search-input"] {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 0.25rem;
 }
 #semantic-search-input {
   width: 100%;

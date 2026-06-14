@@ -1,0 +1,16 @@
+# Vault content (authored in Obsidian, not prettier-managed)
+Crucible/
+Ember/
+index.md
+semantic-search.md
+
+# Obsidian vault config
+.obsidian/
+
+# Generated / vendored
+content/
+public/
+node_modules/
+.cache/
+.quartz-cache/
+package-lock.json

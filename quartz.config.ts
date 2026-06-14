@@ -18,8 +18,10 @@ const config: QuartzConfig = {
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
-      fontOrigin: "googleFonts",
-      cdnCaching: true,
+      // "local" adds no font CDN at all (uses the system font stack) — keeps the site free of
+      // external requests, which Quartz's googleFonts caching can't do reliably.
+      fontOrigin: "local",
+      cdnCaching: false,
       typography: {
         header: "Schibsted Grotesk",
         body: "Source Sans Pro",
@@ -69,7 +71,7 @@ const config: QuartzConfig = {
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
-      Plugin.Latex({ renderEngine: "katex" }),
+      // Latex (KaTeX) removed: the vault uses no math, and it pulled KaTeX from a CDN.
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
@@ -88,6 +90,16 @@ const config: QuartzConfig = {
       Plugin.NotFoundPage(),
       // CustomOgImages (per-page social-card rendering) is disabled: it's the dominant
       // build cost and isn't needed for a reference/lookup site.
+      // Single source of truth for the semantic search corpora.
+      Plugin.SemanticSearchIndex({
+        corpora: [
+          { value: "crucible", label: "Crucible (game system rules)", prefix: "Crucible/" },
+          { value: "ember", label: "Ember (lore)", prefix: "Ember/" },
+        ],
+      }),
+      // Self-hosts the transformers.js library, WASM, and model so search runs from the
+      // site origin with no external CDN requests.
+      Plugin.SemanticSearchRuntime(),
     ],
   },
 }
