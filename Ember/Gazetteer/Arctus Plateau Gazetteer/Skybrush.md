@@ -78,7 +78,7 @@ This aptly-named emporium of adventuring gear, tools, and trade goods also carri
 
 This subterranean quarry of ore and stone is the modern incarnation of an ancient Shent mine at the edge of town, and provides a few dozen Skybrush citizens with their hard-earned livelihoods.
 
- **## Characters of Interest - The Canopy**
+## Characters of Interest - The Canopy
 
 **[[Liestra Grann]]Chaotic Neutral, Arcturian Kivahr, she/her**
 
@@ -116,7 +116,7 @@ This sly witch of [[Malae]] harbors a curious appreciation for entropy and the a
 
 This madcap Kithil animal handler is the eponymous proprietor of Cradley's Uncanny Beasts. Unconventional to the core, Cradley is known for his tendency to strike up fair trades in exchange for rather peculiar errands.
 
-**## Characters of Interest - The Understory**
+## Characters of Interest - The Understory
 
 **[[Mica Valaston]]Lawful Good, Ordani Hul'grun, they/them**
 

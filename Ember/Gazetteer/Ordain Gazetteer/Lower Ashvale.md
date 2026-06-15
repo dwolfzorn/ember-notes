@@ -32,7 +32,7 @@ This large tower structure is one of the most esteemed of healing houses maintai
 
 A bustling inn and tavern owned by **Midnight** **Max** (CG, Ordani Kiska, he/him), a retired wayfinder of the Anachraenum. Known for its lively front room and its unflinching comfort in times of trouble, Valenhome offers some of the most affordable and welcoming rooms in town.
 
-****### Locals
+### Locals
 
 [[Steros Kraver]] (LN, Ordani Human, he/him)
 
@@ -46,6 +46,6 @@ An [[Aster]] druid with a metaphysical connection to Ember's water moon, this co
 
 This 15-year-old streetwise urchin has made a name for herself busking throughout Lower Ashvale, playing her Arcturian and Ordani folk tunes for coin. A skilled player of the vielle, Gabi is known for her stirring renditions of rural dirges, and for emerging talent as a songwriter in her own right. Fortunately, the charity of Lower Ashvale affords her a modest lifestyle as a transient; but her ambitions are far brighter than her checkered past, and the young bard aims to raise enough money to open a venue of her own one day soon.
 
-**### Lore
+### Lore
 
-A unique arcane construct of huge proportions and indomitable power lurks in the dungeons beneath Veneration Hall, crafted from wood and crystal and stone by the skilled Cindaric Sages of Highroad Sanatorium and the celebrated blacksmith **Delos Travertine** (LN, Arcturian Hulg'run, he/him). Not many know of the existence of this enormous sentinel, which the Burnished Hand has promised to only call forth in the most desperate of hours. Some remain skeptical about the massive construct and its clandestine nature, fearful of the potential threats it could pose to the city and its people if control of the automaton fell into the wrong hands (or, worse yet, if the Burnished Hand itself fell under the influence of less-scrupulous leadership).******
+A unique arcane construct of huge proportions and indomitable power lurks in the dungeons beneath Veneration Hall, crafted from wood and crystal and stone by the skilled Cindaric Sages of Highroad Sanatorium and the celebrated blacksmith **Delos Travertine** (LN, Arcturian Hulg'run, he/him). Not many know of the existence of this enormous sentinel, which the Burnished Hand has promised to only call forth in the most desperate of hours. Some remain skeptical about the massive construct and its clandestine nature, fearful of the potential threats it could pose to the city and its people if control of the automaton fell into the wrong hands (or, worse yet, if the Burnished Hand itself fell under the influence of less-scrupulous leadership).

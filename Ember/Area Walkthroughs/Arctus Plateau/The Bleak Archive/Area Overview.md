@@ -57,7 +57,7 @@ The interior walls of the vault are crafted from similar stone as the flagstone 
 
 The grated metallic platform floors located within the [[Unknown]] and the [[Unknown]] are crafted from an unknown adamantine alloy.
 
-**### Mirrors & Walls**
+### Mirrors & Walls
 
 A mirror array puzzle located throughout the Bleak Archive is responsible for reflecting two narrow beams of arcane light from the [[Unknown]] towards the [[Unknown]]. Keep in mind:
 

@@ -60,7 +60,7 @@ Sellen's younger brother, who accompanied her to support her and get his chance 
 
 A human trader who is loosely affiliated with the Ordani Trading Houses and the main source of income and supplies to Yakoshta. They provide the wagon and take requests for goods from Sellen in return for a higher than average fee and the opportunity to gossip freely about everything going on in the Arctus Plateau.
 
-**### Culture
+### Culture
 
 Nearly everyone in the encampment has a primary job within the mine, but there are a few friends, romantic partners, and family members who accompanied the group. Most of these supporters of the project primarily work to keep up the community by building new structures, harvesting the nearby area, or logging and tracking goods that come out of the mine. Others function as traders, meeting caravans that come through the Forest of Stone or transporting wagons of ore to the nearby town of [[Helkas]].
 
@@ -70,4 +70,4 @@ An outlier resident of the town is [[Tauric]], who is focused on learning more a
 
 The leader of the Yakoshta encampment and mining operation, [[Sellen]], brought the miners to Yakoshta to take advantage of the Shent ruins, mine as much as they can, and earn enough money to create a long-term mining community elsewhere.
 
-Sellen is supported in her work by [[Jasper]], the supervisor of the mine who handles most logistical operations related to mining activity.**
+Sellen is supported in her work by [[Jasper]], the supervisor of the mine who handles most logistical operations related to mining activity.

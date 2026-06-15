@@ -32,5 +32,93 @@
       "item-2-1",
       "item-1-0"
     ]
+  },
+  "Crucible/Game Mechanics/Spellcraft/Runes.md": {
+    "scroll": 107.75202251143159,
+    "cursor": {
+      "from": {
+        "line": 122,
+        "ch": 0
+      },
+      "to": {
+        "line": 122,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0",
+      "item-3-3",
+      "item-3-12",
+      "item-2-11",
+      "item-2-2",
+      "item-3-9",
+      "item-2-8"
+    ]
+  },
+  "Crucible/Game Mechanics/Spellcraft/Spellcraft Overview.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
+  },
+  "Crucible/Game Mechanics/Spellcraft/Gestures.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
+  },
+  "Crucible/Game Mechanics/Spellcraft/Countermagic.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 10,
+        "ch": 700
+      },
+      "to": {
+        "line": 10,
+        "ch": 700
+      }
+    },
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-1",
+      "item-3-3"
+    ]
+  },
+  "Crucible/Getting Started/Character Creation/Ancestry.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
   }
 }
