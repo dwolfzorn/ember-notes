@@ -1,4 +1,3 @@
-
 Site viewable at https://dwolfzorn.github.io/ember-notes.
 
 # Ember Notes
