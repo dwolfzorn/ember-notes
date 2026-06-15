@@ -37,7 +37,7 @@ This large stone building has rows of permanent stalls for each of Ordain's Trad
 
 The theme for the Waterfront Bazaar is always a little different, but its general appearance remains the same - a twisting network of stalls and tents that makes its way from Flotsam's main plaza to the floating docks on the river at the edge of the district and is one of the best places in the city to find goods from abroad. The market’s tents and awnings are haphazardly (if lovingly) fashioned from the sails of decommissioned ships, giving the entire area the appearance of a checkered blanket of recycled textile. It is said that there is some way to tell what is being sold by staring at the pattern but if that is true, the secret is not wildly known.
 
-**### Locals**
+### Locals
 
 **Chef Fancie Frumme (CN Lumek Fej, she/her)**
 
@@ -55,6 +55,6 @@ Hypatia is in charge of administering the Trading House markets, which often con
 
 Sick of getting lost in the Flotsam markets, Tilamer has been working on a system of message stones attached to Flotsam carts that will allow her to know what is being sold each day and create fast-drawn maps for visiting tourists. The initiative is controversial, with some merchants believing that it will attract new customers to stalls that might not otherwise get attention and others convinced it will lessen overall foot traffic as buyers go to exactly the stall they need.
 
-**### Lore
+### Lore
 
-Legend has it that Flotsam was created after a merchant's boat capsized in the river, and rather than let their goods float away, the crew decided to sell the floating crates at a discount. While this is likely not true, nearly every shop in Flotsam claims to have a plank from that boat somewhere on their property that visitors can touch or take a shaving from, for a nominal price.**
+Legend has it that Flotsam was created after a merchant's boat capsized in the river, and rather than let their goods float away, the crew decided to sell the floating crates at a discount. While this is likely not true, nearly every shop in Flotsam claims to have a plank from that boat somewhere on their property that visitors can touch or take a shaving from, for a nominal price.

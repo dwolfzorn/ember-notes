@@ -12,9 +12,11 @@ A **Swarm** represents a single Adversary which is in truth a coordinated mass o
 
  Swarms are typically modeled by assigning the specific [[Swarm]] Archetype alongside any base [[Taxonomy]] that could plausibly make up a Swarm. The Taxonomy supplies the biology of the constituent creature; the Swarm Archetype reframes that taxonomy as a swarming throng and grants the [[Swarm]] Talent.
 
-    ![Swarm](../../assets/image005.webp)   ## Swarm
+## Swarm
 
-    This adversary is a group of many identical creatures that operate as a single swarming throng of foes.
+![Swarm](../../assets/image005.webp)
+
+This adversary is a group of many identical creatures that operate as a single swarming throng of foes.
 
 - Maximum **Health** is doubled.
 - Against any single-target source of damage, the swarm gains additional **Resistance** equal to its **Toughness**.

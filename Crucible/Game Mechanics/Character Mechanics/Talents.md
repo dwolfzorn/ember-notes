@@ -22,7 +22,11 @@ You may reset your purchases on the Talent Tree at any time by clicking the Rese
 
 Crucible's Talent Tree is divided into six sections, with each section representing a different [[Ability Scores]] which affects scaling and other aspects of those talents.
 
-![](../../assets/image006.webp)The Talent Tree is divided into sextants based on AbilitiesThe Talent Tree is composed of several subcomponents which help you plot growth and progression for your character.
+![](../../assets/image006.webp)
+
+The Talent Tree is divided into sextants based on Abilities.
+
+The Talent Tree is composed of several subcomponents which help you plot growth and progression for your character.
 
 ## Nodes
 

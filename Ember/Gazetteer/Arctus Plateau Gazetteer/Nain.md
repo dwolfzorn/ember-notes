@@ -77,7 +77,7 @@ This sardonic bartender of the Barrel Bottom is an unscrupulous rogue, rumored t
 
 The eponymous proprietor of Zenodora's General Goods, Zenodora Vann is known as a shrewd but gregarious businesswoman with a passion for Nain history and a taste for foreign cuisine.
 
-**## Characters of Interest - The Riverwinds**
+## Characters of Interest - The Riverwinds
 
 **[[Amalthea Stonecraft]]Chaotic Good, Arcturian Aster/Human, she/her**
 

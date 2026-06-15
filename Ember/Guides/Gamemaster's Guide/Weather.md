@@ -40,7 +40,7 @@ Clear all current Weather Formations from the region.
 
 Create a new Weather Formation of a specified type, strength, and size in a desired location.
 
-**## Weather Hazards**
+## Weather Hazards
 
 **Pollen Storm**
 

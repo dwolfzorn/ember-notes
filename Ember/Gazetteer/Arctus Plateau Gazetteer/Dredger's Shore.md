@@ -81,11 +81,11 @@ Eshka is a skilled woolworker who used to be a fairly renowned weaver in Ordain 
 
 Dorun is one of the figures of the six families, and his crew of carpenters and engineers are responsible for maintaining the cranes and pulley systems of the Siltworks. He has little patience for carelessness, but he is generous with apprentices and crewmen who show discipline and competence.
 
-**## Life In Dreger's Short
+## Life In Dreger's Short
 
 Daily life on the shore of Lake Orial follows a steady cycle of work and rest. Mornings are slow, punctuated by low calls of yarnac being fed and harnessed for the day's work, followed by breakfast and tea as the community comes alive. Work begins midday, where cranes groan overhead and yarnac drag scoops of mud ashore below. Come afternoon, all is still save for the yarnac released to graze the commons. Workers bathe and eat, and by sundown families are spending time together tending gardens, playing music, and telling stories.
 
-### Culture**
+### Culture
 
 A bastion of Bejaki customs and traditions can be found here, especially among the Kivahr families that trace their lineage back to the home country. Here, yarnac are honored as companions in labor rather than simple beasts of burden, and their care is treated as a communal responsibility. When a yarnac grows old or dies, its body is used with solemn gratitude: wool is saved, meat is prepared carefully, and stories of its strength are often told before the meal is shared.
 

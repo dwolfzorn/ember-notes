@@ -56,7 +56,7 @@ The Seeds of Fashion is a clothing and armor shop that is pioneering "hand-grown
 
 The Roost resembles a hollow tree with many windows, and is one of the few places that can easily accommodate travelers of all sizes due to its verticality. Triss Carpel, the Steward of Brevin, is often on hand to greet visitors here.
 
-**## Landmarks - Bloomspray**
+## Landmarks - Bloomspray
 
 **Bloomspray FountainSustenance Fountain**
 
@@ -66,7 +66,7 @@ This fountain is awash with colorful perennials. The district is home to decorat
 
 A flower-themed bar in Bloomspray where all drinks are sipped from inside living flower glasses. Discounts are available for those who promise to plant the remnants of their cup in a location at least 10 miles from Brevin to help spread these floral varieties, and to those who bring a bloom from a Nectar Glass. The bar keeps a detailed map of where Nectar Glass flowers have been found in the Arctus Plateau, and can be a good place to learn local gossip.
 
-**## Landmarks - Crossways**
+## Landmarks - Crossways
 
 **Crossways FountainSustenance Fountain**
 
@@ -76,7 +76,7 @@ This fountain lies nearest to the Brevin Bridge and features complex lattice wor
 
 A crowning feature of Brevin, this interwoven grass bridge has been trained to grow down into the Splinter Canyons and up to the other side. Once it reaches its destination, it will tighten into a permanent crossing, the first of its kind.
 
-**## Landmarks - Riveril**
+## Landmarks - Riveril
 
 **Riveril FountainSustenance Fountain**
 
@@ -86,7 +86,7 @@ This fountain is ringed by smaller cascading fountains, and is home to many of B
 
 A site of worship for Aythorn, consisting of an obelisk that has been fully consumed by vines and Heartmoss, making it climbable. A small hollow at the top can be used for rest and contemplation and is often thought to be a gift from the popular trickster god. While some climb to this perch, most worshippers spend their time at the sculpture's base, enjoying the way it casts shadows on the ground around it.
 
-****## Notable Characters - Moss****
+## Notable Characters - Moss
 
  **TemiNeutral, Arcturian Keth, she/her**
 
@@ -96,19 +96,19 @@ Owner of Temi's Tonics. Her spice blends, which she claims are found nowhere els
 
 This Thornling couple runs The Seeds of Fashion. Though eccentric, they are well-meaning and earnestly invested in the lives of their patrons. They've turned a blind eye to the misdeeds of their child, Carmin Anther, unwilling to believe that they've turned to a life of crime.
 
-**## Notable Characters - Bloomways**
+## Notable Characters - Bloomways
 
 **[[Carmin Anther]]Chaotic Neutral, Arcturian Thornling, they/them**
 
 A ranger who has been influenced by the Otherhood of Fortune, Carmin Anther has secretly begun robbing travelers under the name "the Canyon Crawler." Son of Perri and Valein Anther, the brilliant but somewhat harried proprietors of clothing shop The Seeds of Fashion.
 
-**## Notable Characters - Crossways**
+## Notable Characters - Crossways
 
 **[[Triss Carpel]]Neutral Good, Arcturian Thornling, she/her**
 
 The Steward of Brevin, elected by the people, who is attempting to grow Brevin's popularity in hopes of spreading the message that cities can be grown as easily as they can be built.
 
-**## Notable Characters - Riveril**
+## Notable Characters - Riveril
 
 **[[Edivel Sprout]]Chaotic Good, Arcturian Thornling, they/them**
 
@@ -118,7 +118,7 @@ An ambitious young wizard who seeks to be like the agrimage heroes they idolize.
 
 Most of Brevin's residents are a group of Thornlings who left their previous home of Bramble Gully to build something new, and they share in a common ideal of communal effort. As they prepare for the unveiling of an ambitious hand-grown bridge stretching across the nearby Splinter Canyons, the community is now starting to grow beyond its original size and purpose — there are rumblings of disagreement between those who favor starting similar seed settlements elsewhere and those who want Brevin to grow into a major influence on the Arctus Plateau.
 
-**### Culture**
+### Culture
 
  Like most Arcturians, Brevinites value hard work for mutual gain, but more often value effort over outcome. Many of the projects they work on will eventually die off when their season has ended, so they place less value on individual enduring objects than the average Acturian, focusing more on the cycle of life as a whole. Even the best tender of plants will have some that die due to weather or disease, and those living in Brevin believe that any difficulties in life are matters of circumstance that can be overcome with the support of those nearby, just as a sick plant might be staked to a healthier one as its roots regrow. Without the large multigenerational houses common elsewhere in the Arctus Plateau, Brevinites have created their own substitute — branches. These groupings of those with the same situation or outlook on life range in focus from the physical areas surrounding each of Brevin's fountains to groups that have aligned due to role or place in life, including parents, merchants, druids, the seeders who laid the groundwork for the town, and travelers who call Brevin home, but often spend long periods of time in Ordain or on the Arctus Plateau.
 

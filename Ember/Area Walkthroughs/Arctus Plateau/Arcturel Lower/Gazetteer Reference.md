@@ -54,7 +54,7 @@ This security post is built into the remains of a desiccated tree at the sinkhol
 
 A ramshackle waystation near the sinkhole’s edge that hosts a tavern alongside an assortment of stables. In recent years, The Edge has positioned itself to become a major tourist destination in the Arctus Plateau, but has yet to achieve lasting success. It is owned and operated by a congenial woman named Onsi Urganzi.
 
-**## Landmarks - Upper Arcturel**
+## Landmarks - Upper Arcturel
 
 Light is brighter in Upper Arcturel than anywhere else in the Sinkhole City, thanks to its relative proximity to the surface and the oversized ceilings of many of its buildings. While there are concerns about changing the natural layout of the caverns further down the sinkhole (and any instability that might occur as a result), those who live or work in here in "The Balconies" have been given permission to add flourishes to their homes and businesses. These modifications often include the installation of larger entrances or the lavish use of [[Inkaro Pearl, White]] as light sources (even when it isn't necessary). In addition to these more spacious homes, The Balconies are marked by the ornamentation of its bridges, which are often embedded with small bits of crystal or glass to create a light show during the midday hour when [[Lantyr]] shines down on the city.
 
@@ -82,7 +82,7 @@ A store run by shopkeeper Darvin Nolde, where characters may purchase various od
 
 A fine dining establishment that caters to Arcturel's most sophisticated palates and special occasions.
 
-**## Landmarks - Lower Arcturel**
+## Landmarks - Lower Arcturel
 
 Located a mile below Upper Arcturel, Lower Arcturel is both the heart of the city's mining community and the core of its operations. A collection of mines, businesses, and homes comprise this lightless area, many of which are cut into the rock of the sinkhole itself. Thanks to its traditionally unsavory qualities, "The Dives" isn't exactly renowned as a place for tourists or visiting dignitaries; this industrial area of Arcturel consists of true locals, those who actually live and work within the city.
 
@@ -106,7 +106,7 @@ A repair shop owned by Rennerie Wrest, former miner and current metal artist; th
 
 The Waterborne Distillery, which is run by a family of trained distillers, primarily makes brews from water found in the Inkaro Pools, which improves the taste and is thought to put people in a good mood. The family is currently under the guidance of elder member Sevali Waterborne.
 
-**## Landmarks - Rock Bottom**
+## Landmarks - Rock Bottom
 
 This ramshackle suburb of Arcturel sits on the floor of the sinkhole, a mile beneath Lower Arcturel, and is seen by locals as an ironic bookend to Brimtown above: whereas Brimtown is a bright gateway, Rock Bottom is a gloomy sprawl, a makeshift village of tent rows and canvas pavilions, piles of crates and industrial waste, and the detritus of the finer society overhead. [[Inkaro Pearl, White]] are scarce here, and most residents rely instead on oil and lambent mushrooms for lantern light. Rock Bottom shelters those who can't afford to live elsewhere — or choose not to, for one oft-illicit reason or another.
 
@@ -118,13 +118,13 @@ Owned and operated by Buddy "Big Cap" Moss, this grimy mushroom vendor is one of
 
 The Inkaro Pools lie at the bottommost levels of Arcturel, deep within a cavern overgrown with phosphorescent fungi. These wide, shallow pools glow with the light of [[Mootap]]: large, lamprey-like creatures that scuttle along their beds and feed on the fungi's luminosity. [[Inkaro Pearls]] are the hardened waste product of this process, their color reflecting the dominant band of phosphorescence consumed. A Mootap cannot shed this growth on its own; though it takes years for a pearl to form, it will eventually kill the creature if not removed. The Inkaro Lamplighters tend the pools, herding the Mootaps toward different bands of light and gently harvesting the pearls at the proper time. Their work often puts them at odds with Larissa Toth and the Silver Beam Consortium, as ecological stewardship clashes with the pursuit of profit.
 
-**## Characters of Interest - Brimtown**
+## Characters of Interest - Brimtown
 
 ****Onsi Urganzi**Neutral Good, Arcturian Human, she/her**
 
 A former adventurer turned business owner, Onsi Urganzi possesses a friendliness that many locals describe as "aggressive." Still, The Edge is the only place in Brimtown with stables equipped to properly care for exotic mounts, and one can leave even the most ornery creature under Onsi's protection with confidence.
 
-**## Characters of Interest - Upper Arcturel**
+## Characters of Interest - Upper Arcturel
 
 ****Felisa Waterborne**Neutral Good, Arcturian Human, she/her**
 
@@ -150,7 +150,7 @@ A flamboyant crystal merchant and owner of the Glimmer Lounge, dutifully served 
 
 An absentminded shopkeeper who runs Briez Flywell's General Goods.
 
-**## Characters of Interest - Lower Arcturel**
+## Characters of Interest - Lower Arcturel
 
 ****Hob Korell**Chaotic Good, Waerd Keth, he/him**
 
@@ -172,7 +172,7 @@ A blacksmith as keen with a hammer as she is hopeless with a slogan, Renneri Wre
 
 Sevali is the matron of the Waterborne family and the current operator of its distillery. Well connected within Arcturel and beyond, she is the person to seek out when something — or someone — must be handled discreetly.
 
-**## Characters of Interest - Rock Bottom**
+## Characters of Interest - Rock Bottom
 
 ****Buddy "Big Cap" Moss**Chaotic Neutral, Arcturian Thornling, they/them**
 
@@ -186,7 +186,7 @@ A convivial Inkaro Lamplighter whose love for subterranean nature shines through
 
 The obdurate foreman of the Silver Beam Inkaro Pools.
 
-**## Life In Arcturel**
+## Life In Arcturel
 
 Where others would see only a hole in the ground, Arcturel sees opportunity: its culture is one of making do with what is at hand. In the mines, equipment is used, reused, and repurposed. This attitude is reflected also in its residents' small side trades, from art fashioned from ore scraps to food harvested from mushrooms that have lost their glow, alongside countless other practical crafts.
 
