@@ -19,7 +19,7 @@ As party members enter the room, they encounter a pair of miners who have togeth
 
 **Valka (Chaotic Good, Arcturian Hulg'run, she/her)**
 
-A young Hulg'run who is shorter than most of the others and has tufts of moss growing out of splits in the rock of her body, perhaps suggesting some Thornling heritage, is carrying the large bag. It contains the wheel from the junction. She wanted to protect it from any ooze damage, but will give it to the party with a successful **Diplomacy (DC 14)** check.
+A young Hulg'run who is shorter than most of the others and has tufts of moss growing out of splits in the rock of her body is carrying the large bag. It contains the wheel from the junction. She wanted to protect it from any ooze damage, but will give it to the party with a successful **Diplomacy (DC 14)** check.
 
 - If the party mentions being sent by Sellen, or if they make it clear that they are trying to save Jasper, they automatically succeed on this check.
 

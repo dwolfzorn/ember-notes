@@ -45,7 +45,7 @@ Once one or more characters are caught in the vine trap the nearby Jurtak will t
 >
 > Level 4 · Jurtak Berserker
 >
-> ![Jurtak Warrior](../../../assets/image081.webp)
+> ![Jurtak Warrior](../../../assets/image084.webp)
 >
 > You behold a lean, six-eyed saurian creature, its body clad in fragments of bone and its scales glinting in the dim light. The acrid scent of poison tinges the air, dripping from the bone blade held in its clawed hands. Its long, semi-prehensile tail moves with a predator's anticipation, and a forked tongue flicks across twisted lips as its eyes fix upon you with a predatory malice.
 
@@ -54,7 +54,7 @@ Once one or more characters are caught in the vine trap the nearby Jurtak will t
 >
 > Level 3 · Jurtak Brigand
 >
-> ![Jurtak Hunter](../../../assets/image082.webp)
+> ![Jurtak Hunter](../../../assets/image085.webp)
 >
 > Lurking at the boundary of shadow and light, this lithe saurian creature's six piercing eyes gleam with a dreadful intelligence. At the ready, it cradles a bow lashed together from wood and bone, strung with taut sinews. Adorned in skeletal remnants, it appears equal parts hunter and horror.
 

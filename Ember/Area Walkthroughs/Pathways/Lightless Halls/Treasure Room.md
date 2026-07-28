@@ -34,7 +34,7 @@ Anyone attempting to open either of the massive gold-and-stone chests finds them
 > Once open, the southern chest contains:
 >
 > - **100** worth of massive pristine First Giant coins.
-> - 5 large gemstones, including 1 [[Ruby]], 1 [[Opalix]], 1 [[Luxony]], and 2 [[Onyx]].
+> - 5 large gemstones, including 1 [[Vermilion Topaz]], 1 [[Opalix]], 1 [[Luxony]], and 2 [[Onyx]].
 > - 2 [[Potions of Greater Healing]].
 >
 > #### Golden Coins

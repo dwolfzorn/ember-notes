@@ -28,8 +28,13 @@ Characters who enter the water and swim through the large culvert enter an under
 > [!tip] Exploration
 > #### Locked Portcullis
 >
-> The portcullis is controlled using a lever next to the sleeping guard in the [[Concealed Dock]]. Its mechanism cannot be finessed open and it can only be raised using its intended control lever or via the application of brute force.
+> The portcullis is controlled using the lever next to the sleeping guard in the [[Concealed Dock]]. This mechanism can only be raised or lowered using its intended control lever or via the application of brute force.
 >
-> The portcullis may be lifted with a successful **Athletics (DC 20)** check, and an ally who has a Strength score of at least **5** provides +2 Boons to this roll.
+> Any character who makes a successful **Athletics (DC 20)** check is able to force the portcullis open.
 >
-> A character who succeeds on an **Awareness (DC 14, Passive)** check notices that the portcullis is well-maintained and shows signs of frequent use. It can most likely be lifted quietly.
+> - **Help from an ally with a Strength of 16 or more**: The character gains **+2 Boons** on this check.
+>
+> A character who makes a successful an **Awareness (DC 14, Passive)** check can readily notice that the portcullis is well-maintained and shows signs of frequent use. Attempts to force it open will most likely not make enough noise to alert any nearby Toothbreakers.
+>
+> - **Knowledge: Machines**: The character automatically succeeds on this check.
+> - **Knowledge: Crime**: The character gains **+2 Boons** on this check.

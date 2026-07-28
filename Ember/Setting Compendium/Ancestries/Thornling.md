@@ -32,3 +32,10 @@ Because of their need for water, Thornlings are vulnerable to dry conditions and
 Thornlings generally live in small family groups, centering their lives around a fresh body of water. Able to successfully thrive in places that others can't, some Thornling settlements live in relative isolation. They generally ignore those who pass them in the wilderness unless the travelers interfere with their lives or limit their access to water in some way, but travelers may still be wary of them, as it can be hard to know what action might trigger a response from the Thornlings, who care about the natural world around them and are fearsome in their near indestructibility.
 
 The ability of Thornlings to survive on their own is countered by a deep personal wanderlust that may have been instilled by some design of their creator. The spread of Thornlings to places across Ember is due in part to this love of exploration and adventure which often centers around the discovery of some new source of water. Once a Thornling settles down in a new place, a small community often grows around them and the source of water they have found, with the new Thornling community taking on the culture of those around them.
+
+> [!danger] Hazard
+> #### Thornling Naming Conventions
+>
+> Unlike nearly all other ancestries in Ember, Thornlings possess an inherent naming system that appears to transcend cultural norms. While most Thornlings adopt names from their respective cultures, either given or chosen, some wild Thornlings and a few rare individuals might refer to themselves using names like the following:
+>
+> Bram, Burrs, Thisty, Briar, Spig, Pricks, Pluck, Gorse, Spike, Nettle, Scraga, Twigy, Barka, Thrip, Prode, Rasa, Skew, Thornte, Gashy, Spine, Brint, Slit, Brog, Shiver, Nook, Snap, Sprout, Thrip.

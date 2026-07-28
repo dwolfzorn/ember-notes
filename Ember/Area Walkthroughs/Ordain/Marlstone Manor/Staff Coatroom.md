@@ -8,16 +8,16 @@ tags: [ember, area-walkthroughs]
 
 # Staff Coatroom
 
-> [!warning] Gamemaster
-> #### Access to the Staff Coatroom
+### [[Casing the Joint]]
+
+> [!danger] Hazard
+> #### Access Level
 >
-> Access to the Staff Coatroom varies. See [[Gameplay Details]] for more on access levels.
+> This area is **Open**.
+
+### [[The Marlstone Gala]]
+
+> [!danger] Hazard
+> #### Access Level
 >
-> - Before the Gala: **Open** to All
-> - During the Gala: **Restricted** to Guests, **Open** to Staff
->
-> #### Locating Funar Cevher
->
-> See [[Casing the Joint]] for details.
->
-> - Funar Cevher is **in the vicinity.** This is the baseline result within Marlstone Manor.
+> This area is **Restricted**.

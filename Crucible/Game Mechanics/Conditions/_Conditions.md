@@ -11,6 +11,7 @@ tags: [ember, game-mechanics, index]
 
 - [[Blinded]]
 - [[Burrowing]]
+- [[Removing Effects]]
 - [[Conditions Overview]]
 - [[Dead]]
 - [[Diseased]]

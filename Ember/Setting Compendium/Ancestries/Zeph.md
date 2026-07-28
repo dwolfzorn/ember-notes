@@ -14,11 +14,11 @@ Each Zeph is born with a mask, which changes as the Zeph themself does. The mask
 
 ### Biology
 
-A Zeph’s mask is their source of physical constitution and spiritual potency. The more damaged or exhausted a Zeph becomes, the more insubstantial their physical form generally becomes, but the mask endures. The mask is believed to help Zeph recover physically from injury, as Zeph are especially vulnerable if their masks are damaged in any way, and their masks remain behind when they die, unlike the rest of their body, which dissipates over time.
+A Zeph’s mask is their source of physical constitution and spiritual potency. The more damaged or exhausted a Zeph becomes, the more insubstantial their physical form generally becomes, but the mask endures. The mask is believed to help Zeph recover physically from injury, as Zeph are especially vulnerable if their masks are damaged in any way, and their masks remain behind when they die, unlike the rest of their body, which dissipates over time. Zeph require sleep like many other ancestries, but for a Zeph, it's more like an orientation they need to remain centered in the world. Too much time without sleep can make Zeph increasingly distant, and they begin to lose track of the reality around them. They also require sustenance that they consume solely by inhalation, vapor absorption, or, in some cases, very thin liquids. They do not eat solid foods at all and find the idea disturbing. Zeph cuisine revolves around volatile chemical reactions from Cinder Cakes and dense solutions like Acidic Brines they carry in tiny vials.
 
 The form behind a Zeph's masks is partially translucent and partially non-corporeal — a reflection of the wind magic that they possess from their link with Aura. While they have enough physical form to wear clothing, carry items, and take damage, Zeph's ability to shift the edges of their swirling form can make them difficult targets to hit during combat scenarios.
 
-Unlike many of Ember’s humanoid ancestries, Zeph do not reproduce naturally. New Zeph generally generate spontaneously from the winds of Aura, finding their way to the city of Conundrum by instinct. Zeph propagation on Ember has been noted to have happened on Ember, but is not well known, other than the fact that their emergence generally corresponds with the Wind Moon's Zenith.
+Unlike many of Ember’s humanoid ancestries, Zeph do not reproduce naturally. New Zeph generally generate spontaneously from the winds of Aura, finding their way to the city of Conundrum by instinct. Zeph propagation has been noted to have happened on Ember, but is not well known other than the fact that their emergence generally corresponds with the Wind Moon's Zenith.
 
 > [!warning] Gamemaster
 > #### Zeph Heritage

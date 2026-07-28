@@ -29,7 +29,9 @@ The Jekeroka Villa Scene features one vertical Level of elevation, including:
 
 ### Illumination
 
-The interiors of Jekeroka Villa are illuminated by three distinct sources: primary lantern light in the [[Main Chamber]], which radiates bright light for 30 feet and dim light for an additional 15 feet; secondary lantern light in the side chambers, which radiates bright light for 2 feet and dim light for an additional 15 feet; and ambient light originating from the Arcane Fire Pits in the Main Chamber, which radiate bright light for 3 feet and dim light for an additional 8 feet. The lanterns here are magical in nature, and are crafted using orbs of semi-translucent crystal. Outside areas are subject to exterior lighting and associated weather conditions.
+The interiors of Jekeroka Villa are illuminated by three distinct sources: primary lantern light in the [[Main Chamber]], which radiates bright light for 30 feet and dim light for an additional 15 feet; secondary lantern light in the three satellite chambers, which radiates bright light for 2 feet and dim light for an additional 15 feet; and ambient light originating from the Arcane Fire Pits in the Main Chamber, which radiate bright light for 3 feet and dim light for an additional 8 feet. The lanterns here are magical in nature, and are crafted using orbs of semi-translucent crystal. Meanwhile, smaller light sources are scattered around the villa, which are described in their associated areas when necessary. The domed ceilings here are all bathed in darkness, requiring additional illumination or special abilities to fully perceive from ground-level.
+
+Outside areas are subject to exterior lighting and associated weather conditions.
 
 ### Terrain
 

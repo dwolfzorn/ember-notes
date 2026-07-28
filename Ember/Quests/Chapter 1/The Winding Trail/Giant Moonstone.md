@@ -11,11 +11,11 @@ tags: [ember, quests]
 > [!warning] Gamemaster
 > #### Gamemaster's Summary
 >
-> This Exploration and Social Event occurs as the Strayhearth Caravan approaches a mysterious obelisk: the [[Giant's Moonstone]]. By studying the ancient object alongside their NPC companions, the party can:
+> This Exploration and Social Event occurs as the Strayhearth Caravan approaches a mysterious obelisk: the [[Giant's Moonstone]]. By studying the ancient monument to the water moon [[Mayis]] alongside their NPC companions, the party can:
 >
 > - Learn more about the mysterious [[Shent]], an ancient civilization of giants.
 > - Learn an ancient inscription which provides an important clue: "the fate of the moons." This inscription will prove useful later in the [[An Ancient Door]] Event, which occurs in the Side Quest [[Over The Moon]].
-> - Receive a blessing of [[Mayis]].
+> - Receive a [[Blessing of Mayis]].
 > - Be introduced to Lyla and Clipper, companions in the [[Strayhearth Caravan]].
 >
 > This Event is depicted using the "Shent Moonstone" Level of the [[Vista: Verdant Paths]] Vista.
@@ -54,7 +54,7 @@ If the party would like, they can engage Clipper and Lyla in conversation, or ex
 >
 > Level 2 · Human Cevher Heiress
 >
-> ![Lyla Cevher](../../../assets/image097.webp)
+> ![Lyla Cevher](../../../assets/image098.webp)
 >
 > A Human who is sharply dressed in a beautiful and richly decorated coat that proudly displays her wealthy background. It's clear from an initial glance at her overall bearing and clothing style that she is from the city of Ordain itself and while she holds herself with a confident air, she is also friendly and welcoming with a slight smile and small laughter lines appearing around her eyes.
 
@@ -122,9 +122,9 @@ If the party would like, they can engage Clipper and Lyla in conversation, or ex
 >
 > Level 2 · Signborn Trader
 >
-> ![Clipper](../../../assets/image098.webp)
+> ![Clipper](../../../assets/image155.webp)
 >
-> You hear the sound of jingling bells as a purple-skinned Signaran with a slight build draws your attention. Crowned in a feathered mop of cerulean- and lavender-streaked hair, this young merchant's bright cobalt eyes and wide, sharp-toothed smile reveal an unmistakable affability.
+> You hear the sound of jingling bells as a purple-skinned Signborn with a slight build draws your attention. Crowned in a feathered mop of cerulean- and lavender-streaked hair, this young merchant's bright cobalt eyes and wide, sharp-toothed smile reveal an unmistakable affability.
 >
 > Their clothing suggests origins the world over; hints of Maziran style clash with various accents of places from Old Carinth to Ordain. A sash of hand-written parchment coupons hangs around their neck, and a string of curious, multi-colored stones adorns their waist. Tassels and coins also hang from their ostentatious garments, and two tiny bells chime and jingle upon each ankle.
 
@@ -224,7 +224,7 @@ When the characters decipher the ancient runes, read or paraphrase the following
 > [!tip] Exploration
 > #### A Phrase of Power
 >
-> Any character who makes a successful **Arcana (DC 13)** finds it remarkable that the phrase "fate of the moons" is linguistically expressed in Pathward using a prominent runic glyph at the center of the inscription.
+> Any character who makes a successful **Arcana (DC 13)** finds it remarkable that the phrase "the fate of the moons" is linguistically expressed in Pathward using a prominent runic glyph at the center of the inscription.
 >
 > - **Language: Pathward**: The character automatically succeeds on this check.
 >
@@ -256,14 +256,14 @@ Characters who understand that the Giant Moonstone is attuned to the water moon 
 > [!tip] Exploration
 > #### The Moonstone's Blessing
 >
-> Any character who touches the Giant Moonstone can attempt to commune with the ancient artifact. Characters who commune this way while Mayis is present in the sky are empowered with additional temporary reserves of energy:
+> Any character who touches the Giant Moonstone can attempt to commune with the ancient artifact. Characters who commune this way while Mayis is present in the sky are empowered with additional temporary reserves of energy via the [[Blessing of Mayis]], which temporarily increases a character's Attunement by granting a +5 Attunement bonus.
+
+> [!warning] Gamemaster
+> #### How To: Awarding Blessings and Curses
 >
-> You gain the benefits of an effect, **Patience of Mayis**, which grants the following benefits:
+> During the course of gameplay, characters may encounter opportunities to receive special benefits or afflictions that alter their mechanical impact on the game. These are represented via an array of features known as Blessings and Curses, which can be found as an array of Features in the "Effects" folder of the [[Ember]] Compendium.
 >
-> - **If Mayis is Waxing or Waning**, you gain **+1 Maximum Focus**.
-> - **If Mayis is Full**, you gain **+2 Maximum Focus**.
->
-> *This effect will be provided in the Crucible system once Ember is upgraded to use Foundry Virtual Tabletop version 14.*
+> When a character receives one of these Blessings or Curses, simply drag the appropriate Feature onto the PC's character sheet. Please note: you will need to track the duration of this Effect on your own, as not all Blessings or Curses are permanent (indeed, many of them are not). Be sure to remove these additional features from a PC's character sheet when and if necessary.
 
 #### Mayis Attunement: Moonstone Communion
 

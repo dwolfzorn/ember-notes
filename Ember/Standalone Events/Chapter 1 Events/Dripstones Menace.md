@@ -25,7 +25,7 @@ The party are assaulted by a Hydroxol that emerges from a nearby pond with inten
 >
 > Level 3 (Elite) · Amphibian Hydroxol
 >
-> ![Hydroxol](../../assets/image001.webp)
+> ![Hydroxol](../../assets/image002.webp)
 >
 > This large creature watches its surroundings with keen eyes, its wide maw hanging open, prepared to snap at a moment's notice. A long tongue moves back and forth, like it is actively scenting the area. It's wide frame boasts an almost gelatinous sheen with threads of shimmering ethereal light running down its back from head to tail, and large glowing gills pulse with each breath it takes.
 

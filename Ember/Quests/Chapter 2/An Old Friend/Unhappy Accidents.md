@@ -18,23 +18,21 @@ tags: [ember, quests]
 > - Question Hob Korell about his slugging riding lizards in [[Unhappy Accidents]].
 > - Question Tantrin about the rumors spreading through Rallyhome in [[Unhappy Accidents]].
 >
-> The party only needs to investigate one of these leads to proceed to the next Event, where they can uncover direct evidence of sabotage in Lower Arcturel. Lyla separates from the party after the initial conversation with Zodi and can summarize one or more leads the characters did not pursue.
+> The party only needs to investigate one of these leads to proceed to the next Event, where they can uncover direct evidence of sabotage in The Dives.
 
 > [!warning] Gamemaster
 > #### What's Wrong In Arcturel
 >
 > Arcturel has been the victim of sabotage by a Tyraphem [[Aburyx]] named Kilner, who was sent to the sinkhole city with the goal of disrupting trade and discrediting House Cevher, using his [[Cloak of Kindly Visage]] to appear to be a friendly traveler or merchant.
 >
-> All of Kilner's attempts at sabotage have had the side benefit of clearing the area around the Level 3 Mine, a mine in Lower Arcturel that Kilner is using as a home base — the nearby distillery, lizard stables, and repair shop have all been successfully taken out of commission, and the mine has been shut down. Kilner has been building a device within the abandoned mine to create and amplify ground shakes, though its purpose is unclear to the party at this time.
+> All of Kilner's attempts at sabotage have had the side benefit of clearing the area around the Level 3 Mine, a mine in The Dives that Kilner is using as a home base — the nearby distillery, lizard stables, and repair shop have all been successfully taken out of commission, and the mine has been shut down. Kilner has been building a device within the abandoned mine to create and amplify ground shakes, though its purpose is unclear to the party at this time.
 
 ### Entering Rallyhome
 
 > [!quote] Read Aloud
-> Under the cap of what might be one of the largest mushrooms to ever exist, a large seating area is filled with tables and chairs, many made of unexpected materials, like discarded pipes and interlocking pickaxes. Above, in the remaining gray petrified flesh of the mushroom cap, a colony of smaller luminescent mushrooms has taken up residence, shedding a faint glowing light on the locals eating, drinking, and sharing news below. As you enter, Lyla points across the room at a tall Kiska man in work clothing sitting in front of a pile of maps and diagrams.
+> Inside a golden-walled building with large skylights, a large seating area filled with tables, chairs, and what looks to be a bar can be seen one level below. As you enter, Lyla points across the room at a tall Kiska man in work clothing sitting in front of a pile of maps and diagrams.
 >
 > > There's Zodi! From what I've heard, he's a real leader of the people, coming up through the ranks to become the foreman and main House Cevher contact, which isn't easy, given all of our regulations about who can represent us in our mining interests.
-> >
-> > You're welcome to come with me to meet him. Or you can gather information on your own — either way, I know we'll get to the bottom of what's going on.
 
 > [!warning] Gamemaster
 > #### Gamemaster's Note: Zodi's Current State
@@ -52,8 +50,8 @@ tags: [ember, quests]
 >
 > Zodi claims that everything fine, but any character who makes a successful **Deception (DC 14)** check intuits that he is deeply worried and needs help. Any character who presses further and makes a successful **Diplomacy (DC 14)** check will get him to reveal the following:
 >
-> - There have been a few small issues going on in Arcturel, which Zodi believes that people are making too much of a big deal about - a few more machines have broken down than normal, there's something wrong with Hob Korell's lizards, and the town's famous local brew, karal, is making people sick.
-> - The most recent issue is the closing of the mine on Level 3 - the ground started shaking there recently, among other strange incidents, and Zodi closed it for safety. He's trying to figure out a new location in that level of Arcturel, which has unusually rich iron deposits.
+> - There have been a few small issues going on in Arcturel, which Zodi believes that people are making too much of a big deal about - a few more machines have broken down than normal, there's something wrong with Hob Korell's lizards down the Dives, and the town's famous local brew, karal, is making people sick.
+> - The most recent issue is the closing of the mine on Level 3 - the ground started shaking there recently, among other strange incidents, and Zodi closed it for safety. He's trying to figure out a new location to start mining in the walls of the Dives.
 > - Individually, the issues are nothing, but there are whispers that Cevher is to blame for all of it, many of which are being spread by Tantrin, a local “reporter” who is little more than a glorified gossip. Zodi isn’t sure where Tantrin is getting his information.
 > - If the party wants to learn more, they can:
 >   - Speak to one of his former workers, Felisa, who now works in Rallyhome as a server and whose adopted family makes the brew ([[Unhappy Accidents]]).
@@ -70,7 +68,7 @@ tags: [ember, quests]
 >
 > **A:**
 >
-> > Honestly, it's not really worth talking about. Sounds much worse than it is. There have just been a few small issues. Tiny things, really. Other than the mine on Level 3 closing, that is.
+> > Honestly, it's not really worth talking about. Sounds much worse than it is. There have just been a few small issues. Tiny things, really. Other than the mine on Level 3 in the Dives closing, that is.
 
 > [!question] Q&A
 > **Q:** What's happening in Arcturel?Successful Diplomacy
@@ -220,7 +218,7 @@ In lieu of speaking to Zodi, the party can attempt to gather information on thei
 >
 > > No fancy leather or phrases about fortunes here. Mostly just folks working hard. But that ink? The Waterbornes use it sometimes to protect the karal formula, though they'd never admit it. I'm no expert, but I think I can make out a few words: drakes, cloaked man, and Arcturel. There was actually a man in a cloak here recently — a merchant — but I can't see how he would be involved in anything needing a code.
 
-To find out more about the karal brew, characters can get a sample from the locked up distillery in Lower Arcturel. But first, they are approached by Lyla for an update in [[Unhappy Accidents]].
+To find out more about the karal brew, characters can get a sample from the locked up distillery in the Dives below Arcturel. But first, they are approached by Lyla for an update in [[Unhappy Accidents]].
 
 ### Investigating the Sluggish Steeds
 
@@ -284,7 +282,7 @@ To find out more about the karal brew, characters can get a sample from the lock
 >
 > > I keep thinking it's all my fault. If I hadn't misplaced all the lamps and had to replace them — the lizards loved those lamps. Kept everything just the right temperature. I was able to get new ones from that merchant who came by a little while back in the very warm-looking cloak, but I think the lizards know the difference, and it's completely thrown them off.
 
-To find out more about what happened to Hob's lizards (and check in on his behalf), the party will need to go to Lower Arcturel to visit his stables. But first, they are approached by Lyla for an update in [[Unhappy Accidents]].
+To find out more about what happened to Hob's lizards (and check in on his behalf), the party will need to go to the Dives to visit his stables. But first, they are approached by Lyla for an update in [[Unhappy Accidents]].
 
 ### Investigating the Mechanical Breakdowns
 
@@ -345,7 +343,7 @@ To find out more about what happened to Hob's lizards (and check in on his behal
 >
 > > I don't know anything about weird ink or leather. That phrase, though — "For Other Fortunes?" There was a merchant here a while back, before things started going wrong around here - sold me metal glue and a few other bits and bobs. He used that phrase. Struck me as kinda odd, especially because he kept insisting that I say something about my own hands back, like some kind of code. I don't remember anything else about him, though, or what the rest of that code was. Sorry.
 
-To find out more about what might have caused the mechanical breakdowns, the party will need to check out the chalky metal left behind in the repair shop in Lower Arcturel. But first, they are approached by Lyla for an update in [[Unhappy Accidents]].
+To find out more about what might have caused the mechanical breakdowns, the party will need to check out the chalky metal left behind in the repair shop in the Dives. But first, they are approached by Lyla for an update in [[Unhappy Accidents]].
 
 ### Determining Next Steps
 
@@ -367,4 +365,4 @@ Back at Rallyhome, Lyla is eager to share her updates and to hear what the party
 >
 > The party heads down to the lower level of Arcturel to follow up on the leads generated in [[Unwelcome Diversions]]. Lyla accompanies the party throughout their time in Arcturel, even if the party decides to investigate the Side Quest [[Glitter in the Dark]].
 >
-> To trigger the next Event, move the Party Token to Elevation -1, which will transition to the current location of Lower Arcturel in the Pathways section of the Region Map.
+> To trigger the next Event, move the Party Token to Elevation -1, which will transition to the current location of the Dives in the Pathways section of the Region Map.

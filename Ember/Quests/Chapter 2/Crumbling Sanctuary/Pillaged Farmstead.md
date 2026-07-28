@@ -45,7 +45,7 @@ tags: [ember, quests]
 >
 > Level 0.5 (Minion) · Rask Pack Member
 >
-> ![Rask Juvenile](../../../assets/image167.webp)
+> ![Rask Juvenile](../../../assets/image180.webp)
 >
 > The eyes of this majestic quadruped appear to glow with subtle phosphorescence. A lean mammal with features both canine and feline in nature, the young creature is marked by feathery tufts of fur, and appears remarkably dexterous. A striped pelt crowns the beast's regal head, and a short fluffy tail sways behind it with graceful intention.
 

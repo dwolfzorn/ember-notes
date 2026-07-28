@@ -35,7 +35,7 @@ Although they can scrounge for a modicum of information outside the stadium wall
 > 3. Violence in the stands and adjoining facilities is not allowed. There is no second strike. Violators are promptly ejected by a contingency of Stadium Security staff. Treat Stadium Security as [[Ordani Bouncer]].
 > 4. Gambling on events is not precisely forbidden, but there is no formal sportsbook maintained by Grand Kalion Stadium or its affiliates.
 >
-> The Solar Games are not the only event at Grand Kalion Stadium, but they are perhaps the most popular. The Solar Games take place twice a week, on Wednesdays and Fridays, with sets of matches typically starting at Noon and 3pm.
+> The Solar Games are not the only event at Grand Kalion Stadium, but they are perhaps the most popular. The Solar Games take place twice a week, on every third and fifth day, with sets of matches typically starting at Noon and 3pm.
 >
 > #### Box Office Banter
 >

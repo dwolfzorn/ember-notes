@@ -11,7 +11,7 @@ tags: [ember, quests]
 > [!warning] Gamemaster
 > #### Gamemaster's Summary
 >
-> This social event affords the party a final meeting with Zodi Trask and Varholomew Chess in Lower Arcturel, who eagerly await evidence of Silver Beam's illicit activity in the sinkhole city. In this event, the characters can:
+> This social event affords the party a final meeting with Zodi Trask and Varholomew Chess in the DivesArcturel, who eagerly await evidence of Silver Beam's illicit activity in the sinkhole city. In this event, the characters can:
 >
 > - Present the evidence they collected during the raid on the Silver Beam Headquarters, notably [[Larissa Toth's Memory Shard]], and receive the agreed-upon reward for their efforts.
 > - Learn about the hopeful futures of the four Downsiders.
@@ -19,7 +19,7 @@ tags: [ember, quests]
 
 ### Mission Accomplished
 
-When the characters reach [[Zodi Trask's Apartment]] in Lower Arcturel, they'll encounter [[Zodi Trask]] himself alongside [[Vartholomew Chess]], who are eager to discuss matters with the party.
+When the characters reach [[Zodi Trask's Apartment]] in the Dives, they'll encounter [[Zodi Trask]] himself alongside [[Vartholomew Chess]], who are eager to discuss matters with the party.
 
 > [!tip] Exploration
 > #### The FInal Evidence

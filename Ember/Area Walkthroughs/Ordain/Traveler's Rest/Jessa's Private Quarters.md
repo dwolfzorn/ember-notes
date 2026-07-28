@@ -18,7 +18,7 @@ The kindhearted Jessa Aritou is a [[Cindaric Sage]] equipped with a [[Traveler's
 > [!danger] Hazard
 > #### Locked & Off Limits
 >
-> The doors to this chamber remain locked unless Jessa is present. Each door can be unlocked with a [[Traveler's Rest Key]] or a successful `[[/skill sleightofhand 15 tool=thief]]`; alternatively, it can be bashed open with a **Athletics (DC 22)** check.
+> The doors to this chamber remain locked unless Jessa is present. Each door can be unlocked with a [[Traveler's Rest Key]] or a successful `[[/skill sleightofhand 15 tool=thief]]`; alternatively, it can be bashed open with a successful **Athletics (DC 22)** check.
 >
 > Characters who are found in this area without permission (or a good reason) will be asked to leave Traveler's Rest, and may be barred from returning.
 

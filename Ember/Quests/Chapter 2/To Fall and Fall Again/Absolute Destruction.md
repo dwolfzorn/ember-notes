@@ -27,7 +27,7 @@ As the characters approach the pillar, they are further hailed by Issa Sunsword,
 >
 > Level 1 · Unknown Unknown
 >
-> ![Issa Sunsword](../../../assets/image172.webp)
+> ![Issa Sunsword](../../../assets/image185.webp)
 
 > [!quote] Read Aloud
 > The woman studying the pillar turns toward you.
@@ -122,7 +122,7 @@ A group of 5 Abyssal Echoes appear from nowhere amidst the shadows cast by the g
 >
 > Level 1 · Abyssal Harbinger Echo
 >
-> ![Abyssal Echo](../../../assets/image023.webp)
+> ![Abyssal Echo](../../../assets/image024.webp)
 >
 > Emerging from the darkness is a terrifying eldritch apparition composed of dark smoke and malice, with prominent rows of gleaming sharp teeth. Its softly glowing eyes radiate spiteful hatred and cunning as it glides through the air with measured movements. Grasping hands, as if yearning to escape its form, materialize and vanish instantly, while its two enormous clawed hands seem to appear and disappear at will.
 
@@ -133,7 +133,7 @@ A group of 5 Abyssal Echoes appear from nowhere amidst the shadows cast by the g
 >
 > During combat, Abyssal Echoes will:
 >
-> - Prioritize attacking Issa Sunsword. If Issa falls, they prioritize targeting spellcasters, those who have Attunement to Lantyr, and those who carry any holy symbol.
+> - Prioritize attacking Issa Sunsword. If Issa falls, they prioritize targeting spellcasters, those who have Heart Attunement, and those who carry any holy symbol.
 > - Use their Fly Speed to swarm their targets in order to take advantage of [[Unknown]] while attacking with [[Unknown]].
 > - Target known spellcasters with [[Unknown]] to prevent them from casting Spells with verbal components.
 >

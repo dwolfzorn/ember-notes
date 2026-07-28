@@ -18,14 +18,14 @@ There are three Toothbreakers Thugs here, led by one of Raster Thorn's ringleade
 >
 > Level 1 · Unknown Unknown
 >
-> ![Toothbreaker Thug](../../../assets/image029.webp)
+> ![Toothbreaker Thug](../../../assets/image034.webp)
 
 > [!abstract] Toothbreaker Scaletamer
 > **[[Toothbreaker Scaletamer]]**
 >
 > Level 1 · Unknown Unknown
 >
-> ![Toothbreaker Scaletamer](../../../assets/image030.webp)
+> ![Toothbreaker Scaletamer](../../../assets/image032.webp)
 
 If the party was escorted here by the guards in the [[Guardroom]], they must speak with Taamsin to convince him of their pretended purpose.
 
@@ -54,7 +54,7 @@ If diplomacy fails, or if the party is caught trespassing in this area, then com
 > [!danger] Hazard
 > #### Toothbreakers
 >
-> The Toothbreakers here follow the tactics described in [[Gameplay Details]].
+> The Toothbreakers here follow the tactics described in [[Gazetteer Reference]].
 >
 > #### Raising the Alarm
 >

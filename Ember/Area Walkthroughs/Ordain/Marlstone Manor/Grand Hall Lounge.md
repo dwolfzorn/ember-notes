@@ -8,23 +8,22 @@ tags: [ember, area-walkthroughs]
 
 # Grand Hall Lounge
 
-> [!warning] Gamemaster
-> #### Access to Grand Hall Lounge
->
-> Access to the Grand Hall Lounge is **open to all** at all times (See [[Gameplay Details]] for more on access levels.)
->
-> #### Locating Funar Cevher
->
-> See [[Casing the Joint]] for details.
->
-> - Funar Cevher is **in the vicinity.** This is the baseline result while in Marlstone Manor.
+### [[Casing the Joint]]
 
-### Pre-Gala
+> [!danger] Hazard
+> #### Access Level
+>
+> This area is **Open**.
 
 > [!quote] Read Aloud
 > Staff run to and fro, moving chairs and decorations around in an attempt to create a "comfortable" atmosphere.
 
-### At the Gala
+### [[The Marlstone Gala]]
+
+> [!danger] Hazard
+> #### Access Level
+>
+> This area is **Open**.
 
 > [!quote] Read Aloud
 > From the bar on one end to the comfortable chairs on the other, the Grand Hall Lounge is filled with conversation — and a fair amount of gossip — punctuated by the soft sound of music from the musical ensemble in the nearby gala hall.

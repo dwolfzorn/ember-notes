@@ -58,7 +58,7 @@ In the future, Foundry will allow for switching back and forth between Area Map 
 > [!tip] Exploration
 > #### Moving Through the Manor
 >
-> Throughout their time in Marlstone Manor, the party may need to sneak off, whether it is to take the key to Janix Mance, return the key to Hephiss Wandren, locate the secret door to the lair beneath Marlstone Manor, find Juro Wandren's hidden ledger, or simply search for information and loot. Their difficulty in doing this depends on how much access they have been given to that section of the manor — **Open**, **Restricted**, or **Forbidden**. For more on access levels, see [[Gameplay Details]].
+> Throughout their time in Marlstone Manor, the party may need to sneak off, whether it is to take the key to Janix Mance, return the key to Hephiss Wandren, locate the secret door to the lair beneath Marlstone Manor, find Juro Wandren's hidden ledger, or simply search for information and loot. Their difficulty in doing this depends on how much access they have been given to that section of the manor — **Open**, **Restricted**, or **Forbidden**. For more on access levels, see [[Area Overview]].
 
 As the party moves through Marlstone Manor, they may trigger suspicion among the staff and guards, gaining suspicion with failed checks or bold actions as noted below.
 

@@ -41,7 +41,7 @@ Whenever a character interacts with or closely inspects one of the Crystal Relic
 >
 > Level 18 (Boss) · Memory Shent Seer
 >
-> ![Mioroth](../../../assets/image085.webp)
+> ![Mioroth](../../../assets/image088.webp)
 >
 > Appearing as if from legends, a ghostly, semi-transparent, colossal figure looms over you even as he sits with his legs crossed. He is serene, calm, and intangible, as if made of pure energy and flickering strands of light. Shadows and motes of magic constantly evaporate from his body, and his only constant is his wise and gentle smiling expression. He looks faintly like a Kivahr, but as if carved from stone, with heavy brows, long limbs, and a muscular frame. The clothing he wears matches no recognizable style.
 
@@ -141,7 +141,7 @@ Two Corrupted Cadrithor, the abyssally twisted and deathless remnants of once-no
 >
 > Level 4 · Corrupted Cadrithor Guardian Beast
 >
-> ![Corrupted Cadrithor](../../../assets/image086.webp)
+> ![Corrupted Cadrithor](../../../assets/image089.webp)
 >
 > You behold a quadruped creature made of pure shadow. The curves of its tenebrous form unmistakably resemble the grotesque skeleton of some vaguely canine monstrosity, shrouded in a black and purple cloak of abyssal fire. It's cruel eyes shine with a ghostly radiance, and its otherworldly growl reeks of grave nitre.
 

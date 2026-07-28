@@ -18,7 +18,7 @@ tags: [ember, area-walkthroughs]
 >
 > Level 1 · Unknown Unknown
 >
-> ![Radiant Ultra Drake](../../../assets/image048.webp)
+> ![Radiant Ultra Drake](../../../assets/image049.webp)
 
 > [!danger] Hazard
 > #### Radiant Resident

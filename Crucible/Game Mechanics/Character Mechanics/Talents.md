@@ -1,7 +1,7 @@
 ---
 title: "Talents"
 journal: "Game Mechanics / Character Mechanics"
-source_uuid: "JournalEntry.32WRGVSqCAFveEzA"
+source_uuid: "JournalEntry.xg2008Bzlw2i2ghf"
 type: ember.lore
 tags: [ember, game-mechanics]
 ---
@@ -22,11 +22,7 @@ You may reset your purchases on the Talent Tree at any time by clicking the Rese
 
 Crucible's Talent Tree is divided into six sections, with each section representing a different [[Ability Scores]] which affects scaling and other aspects of those talents.
 
-![](../../assets/image006.webp)
-
-The Talent Tree is divided into sextants based on Abilities.
-
-The Talent Tree is composed of several subcomponents which help you plot growth and progression for your character.
+![](../../assets/image006.webp)The Talent Tree is divided into sextants based on AbilitiesThe Talent Tree is composed of several subcomponents which help you plot growth and progression for your character.
 
 ## Nodes
 
@@ -55,3 +51,5 @@ Training talents are specific types of talent nodes that grant advancements to S
 ## Signature Talents
 
 Talent nodes at the outer edges of the Talent Tree contain **Signature Talents**, powerful bonuses that "Spellblade" or "Dread Lord" which offer iconic abilities. Signature Talents represent the culmination of the abilities required to select them, and are mirrored across two ability scores. Taking a Signature Talent forms a bridge to its paired ability score, allowing you to continue your path of progression into that sextant regardless of whether you have already purchased lower-tier Talents.
+
+The number of Signature Talents you may acquire is determined by your character level. You acquire your first Signature Talent at level 3, and one additional Signature Talent at every third level thereafter, to a maximum of six Signature Talents at level 18. Within this limit there are no further restrictions: you may acquire multiple Signature Talents from the same node, or from nodes which share the same tier or ability scores.

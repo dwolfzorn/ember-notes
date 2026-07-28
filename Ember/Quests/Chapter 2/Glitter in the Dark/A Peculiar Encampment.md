@@ -68,7 +68,7 @@ If the characters can remain hidden throughout the course of their observation, 
 >
 > Level 4 (Elite) · Automaton Servitor
 >
-> ![Hew](../../../assets/image185.webp)
+> ![Hew](../../../assets/image197.webp)
 >
 > A humanoid clad in battered and dirty steel stands before you. It moves with a slow, almost weary smoothness, each motion punctuated by a mechanical whir. This faceless construct is heavy and reinforced, meant for manual labor. It has only glowing eyes on its otherwise smooth head. It's body bears a series of shallow scrapes gouges on its chest, and a pale spot, like something was pried off it recently.
 
@@ -77,7 +77,7 @@ If the characters can remain hidden throughout the course of their observation, 
 >
 > Level 4 (Elite) · Automaton Servitor
 >
-> ![Rider](../../../assets/image185.webp)
+> ![Rider](../../../assets/image197.webp)
 >
 > > [!quote] Read Aloud
 > > A humanoid clad in oxidized copper stands before you. It moves with a slow, smooth gait, unhurried but still precise. You notice that it has a simpler, lighter frame that other constructs of its type, as though weight were a concern. This faceless construct has only glowing eyes on its otherwise smooth head. It's chest has a word engraved into it:
@@ -89,7 +89,7 @@ If the characters can remain hidden throughout the course of their observation, 
 >
 > Level 4 (Elite) · Automaton Servitor
 >
-> ![Lucent](../../../assets/image185.webp)
+> ![Lucent](../../../assets/image197.webp)
 >
 > > [!quote] Read Aloud
 > > A humanoid clad in brushed rose gold metal stands before you. It moves with smooth but mechanical precision, and appears especially watchful. This faceless construct has only glowing eyes on its otherwise smooth head. It's body bears a silvery badge that reads:
@@ -101,7 +101,7 @@ If the characters can remain hidden throughout the course of their observation, 
 >
 > Level 4 (Elite) · Automaton Servitor
 >
-> ![Chamberlain](../../../assets/image185.webp)
+> ![Chamberlain](../../../assets/image197.webp)
 >
 > A humanoid clad in smooth silver steel stands before you. It moves with mechanical precision, and you can’t help but notice that its chassis is scuffed, worn and dirty. This faceless construct has only glowing eyes on its otherwise smooth head. It's body bears the logo of the Silver Beam Consortium, though it looks like some vain effort was made to pry it free.
 
@@ -110,7 +110,7 @@ If the characters can remain hidden throughout the course of their observation, 
 >
 > Level 1 · Jobri Pack Member
 >
-> ![Jobri](../../../assets/image078.webp)
+> ![Jobri](../../../assets/image081.webp)
 >
 > The eyes of this large reptilian beast are remarkably big, and the padded five-toed feet that accompany its six muscular legs only accentuate the creature's charming awkwardness. Fitted with tack and bridle, this riding lizard lurks with a measure of domesticated calm, absentmindedly hunting for insects with each flick of its prehensile tongue.
 
@@ -135,7 +135,7 @@ If adequately convinced about the humanity of the Chessmen's plight, the party c
 > - The nature of their respective malfunctions (including the influence of [[Inkaro Pearl, Entropic]]) are not fully understood by the constructs themselves. While they're familiar with Silver Beam and their overt practices, their perspectives on the Railen theocracy and the Altyra people are fairly limited.
 > - Each of the constructs has their own unique story of escape and survival, along with sincere hopes for a future as an awakened individual.
 >
-> Hew reveals what really happened during the accident in Lower Arcturel, despite a fragmented recollection:
+> Hew reveals what really happened during the accident in the Dives, despite a fragmented recollection:
 >
 > > "I could feel myself slipping away, losing control. And I knew, somehow, that the pearl had something to do with it. I remember walking outside the mine and reaching out for a pearl on the catwalk. The next thing I know, I was falling a few thousand feet to the sinkhole floor. The look on Kellan Lorde's face was terrifying. And for the first time, I think I felt what you humanoids call fear.
 > >
@@ -153,7 +153,7 @@ If adequately convinced about the humanity of the Chessmen's plight, the party c
 > - Help the Downsiders storm the Silver Beam Consortium headquarters to expose Larissa Toth's plot, or
 > - Confront the Downsiders on Silver Beam's behalf, preferably after presenting evidence to Zodi Trask, Larissa Toth, and the people of Acturel.
 >
-> If the party decides to help the constructs, Lucent will agree to meet them in Lower Arcturel for the events of [[Presenting the Evidence]]. Since Hew is wanted for murder, Rider for thievery, and Chamberlain for desertion, Lucent is the only Downsider with enough personal freedom for a meeting with Larissa Toth and Zodi Trask.
+> If the party decides to help the constructs, Lucent will agree to meet them in the Dives for the events of [[Presenting the Evidence]]. Since Hew is wanted for murder, Rider for thievery, and Chamberlain for desertion, Lucent is the only Downsider with enough personal freedom for a meeting with Larissa Toth and Zodi Trask.
 >
 > Alternately, if the party decides to condemn the constructs, they can either confront the Downsiders here and now or deliver their findings in person during "Presenting the Evidence." Hew will join them if adequately convinced to do so during "Apprehending the Renegade" (see below).
 
@@ -232,4 +232,4 @@ If the party raids the Chessmen camp and apprehends the Renegade Construct using
 >
 > The party is free to explore the rest of the [[Sinkhole Depths]] for clues, gathering information during the events of [[Poolside Predicaments]], [[Junkyard Cogs]], and `[[/eventState arcutrelSideBottom]]` if they have yet to do so.
 >
-> Once they've gathered enough clues, the party can return to Arcturel Lower to trigger the events of [[Presenting the Evidence]], during which time they can provide proof that either absolves or condemns the Downsiders for their so-called crimes.
+> Once they've gathered enough clues, the party can return to the Arcturel Dives to trigger the [[Presenting the Evidence]] Event, during which time they can provide proof that either absolves or condemns the Downsiders for their so-called crimes.

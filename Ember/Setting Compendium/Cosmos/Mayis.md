@@ -8,7 +8,7 @@ tags: [ember, setting-compendium]
 
 # Mayis
 
-- Keywords: Water, Survial, Storms
+- Keywords: Water, Survival, Storms
 - Ideal: Patience
 - Age: Countless Ages
 - Other Names: The Tempest Moon, The Fathomless, The Eternal Tide

@@ -67,7 +67,7 @@ Once they have handed over any items they want stashed, the guard will cinch up 
 >
 > Level 1 · Unknown Unknown
 >
-> ![Jonico Daridane](../../../assets/image124.webp)
+> ![Jonico Daridane](../../../assets/image132.webp)
 
 > [!question] Q&A
 > **Q:** Your lobby?

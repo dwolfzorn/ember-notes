@@ -29,7 +29,7 @@ Lyla's primary focus is in bringing the evidence she has gathered to the Ordinat
 >
 > - House Wandren is in a bit of disarray after the death of Hephiss Wandren, but is pretending that everything is okay. It is still unclear who will take over going forward.
 > - Lyla is going through all the information you all found during the heist and its lead-up. She believes she has enough to get House Wandren removed from the Ordinate and House Cevher restored.
-> - If Yllith, the captive Tyraphem prisoner found in Wandren HQ, survived (`[[/eventState otherhood2Wandren survived]]`), they have left Ember, but promised to return with information about what Pyix might be planning.
+> - If Ylith, the captive Tyraphem prisoner found in Wandren HQ, survived (`[[/eventState otherhood2Wandren survived]]`), they have left Ember, but promised to return with information about what Pyix might be planning.
 > - With Funar's help, Lyla will be taking her father's old position as one of the leaders of House Cevher. It isn't the position she sought, but she thinks it will give her the opportunity to do some real good.
 
 > [!info] Social

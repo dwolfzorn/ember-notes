@@ -11,13 +11,13 @@ tags: [ember, quests]
 > [!warning] Gamemaster
 > #### Against the Consortium
 >
-> This combat event challenges the party with the exploration and infiltration of the Silver Beam Headquarters in Upper Arcturel, where they must obtain evidence of Larissa Toth's insidious plan to undermine House Cevher, Vartholomew Chess, and other denizens of Arcturel. In this event, the characters can:
+> This combat event challenges the party with the exploration and infiltration of the Silver Beam Headquarters in Arcturel, where they must obtain evidence of Larissa Toth's insidious plan to undermine House Cevher, Vartholomew Chess, and other denizens of Arcturel. In this event, the characters can:
 >
 > - Join the Downsiders in the Underbelly nighclub at Glimmer, where they'll receive a report from Chamberlain about the Silver Beam facility and its security protocols.
 > - Plan their precise method of infiltration.
 > - Set out to infiltrate the Silver Beam headquarters and secure the evidence necessary to bring Larissa Toth to justice: [[Larissa Toth's Memory Shard]].
 
-The party begins this event in the [[Glimmer Lounge]] of Upper Arcturel's Underbelly, alongside the Downsiders: [[Hew]], [[Rider]], [[Lucent]], and [[Chamberlain]] — who is particularly suited to provide a few clear details about the Silver Beam facility and its inhabitants.
+The party begins this event in the [[Glimmer Lounge]] of Arcturel's Underbelly, alongside the Downsiders: [[Hew]], [[Rider]], [[Lucent]], and [[Chamberlain]] — who is particularly suited to provide a few clear details about the Silver Beam facility and its inhabitants.
 
 > [!info] Social
 > #### A Brief from Chamberlain
@@ -93,7 +93,7 @@ If the party chooses the Direct Approach for their infiltration of the Silver Be
 
 ### Point of No Return
 
-If the alarm is sounded at any point in time while the characters are infiltrating the Silver Beam headquarters, the entire facility is placed on alert, per the [[Arcturel Upper]] of the [[Arcturel Upper]] area walkthrough.
+If the alarm is sounded at any point in time while the characters are infiltrating the Silver Beam headquarters, the entire facility is placed on alert, per the [[Arcturel Tradeway]] of the [[Arcturel Tradeway]] area walkthrough.
 
 > [!danger] Hazard
 > #### Silver Beam Security Protocol
@@ -102,7 +102,7 @@ If the alarm is sounded at any point in time while the characters are infiltrati
 >
 > - The [[Silver Beam Engineer]] move to activate any inactive Silver Beam Servitors.
 > - The [[Silver Beam Guard]] maintain a suppressing fire against the advancing party with their [[Heavy Crossbow]].
-> - The Receptionist in the Silver Beam Foyer retreats from the scene into the Upper Arcturel Tradeway, never to be seen again. Any other arcturians in the area retreat as well via the Elevators into Lower Arcturel.
+> - The Receptionist in the Silver Beam Foyer retreats from the scene into the Arcturel Tradeway, never to be seen again. Any other arcturians in the area retreat as well via the Elevators into the Dives.
 > - Once activated, the [[Silver Beam Servitor]] here will start off by targeting enemies at range with their [[Net]]. After a volley of nets, the Servitors will move into offensive positions, utilizing their [[Lightning Burst]] against any adjacent enemies before attacking with their [[Claws]] and [[Charged Claw]].
 > - [[Larissa Toth]] will stand back to utilize her array of composed magic to reinforce the attacks of other Silver Beam forces from a distance, ordering the Silver Beam Servitors, Guards, and Engineers as she sees fit — notably leaning on the Control rune to target already engaged enemies and weaken their resolve, while reserving attention to any noticeable enemy spellcasters in order to lean heavily on Counterspells. She'll otherwise use **Arrow of Flame** and **Illuminated Ray** liberally throughout the battle. As soon as the party poses any kind of threat to Larissa, she'll retreat into the confines of the [[Director's Office]] and activate the 4 [[Silver Beam Servitor]] located therein.
 >

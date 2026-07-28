@@ -40,7 +40,7 @@ The bush containing Everbloom that Edivel needs to reach is on the far side of t
 > - The flower is called an Everbloom, and can be used as a spell component when others won't work. Edivel is sure this will make their spell a success.
 > - Edivel can't guarantee that their spell will save Brevin, but believe it could be of help if the earthquakes continue to rock the region.
 >
-> Characters who succeed on a `[[/check insight 16]]` check can confirm that Edivel is being truthful, telling the party everything they know about the flower and the region. They are nervous, but only about something going wrong with the plan.
+> Characters who succeed on a **Diplomacy (DC 16)** check can confirm that Edivel is being truthful, telling the party everything they know about the flower and the region. They are nervous, but only about something going wrong with the plan.
 
 > [!question] Q&A
 > **Q:** Dangers of the Gully?
@@ -75,9 +75,12 @@ The movement of the vines on the canyon walls is due to the presence of 2 Gumtoa
 > [!abstract] Gumtoad
 > **[[Gumtoad]]**
 >
-> Level 1 · Unknown Unknown
+> Level 2 · Gumtoad Chomper
 >
-> ![Gumtoad](../../../assets/image156.webp)
+> ![Gumtoad](../../../assets/image169.webp)
+>
+> > [!quote] Read Aloud
+> > The squat and colorful skin of bulk of these colorful frog-like amphibians is deceiving - while they might seem to be nothing more than odd decoration stuck to the canyon walls by their sticky skin, their long prehensile tongues dart back and forth, readying to shoot out and wrap themselves around the gumtoad's next unsuspecting target.
 
 > [!danger] Hazard
 > #### Ambush!
@@ -86,6 +89,8 @@ The movement of the vines on the canyon walls is due to the presence of 2 Gumtoa
 >
 > #### Gumtoad Tactics
 >
+> TODO; RECONVERT AFTER ACTOR CREATED
+>
 > The Gumtoads in Bramble Gully attack any creature that moves within range of their tongue attack (30 feet). If they see a creature moving 30-60 feet ahead of them, they will attempt to close the distance by jumping toward the target with their [[Standing Leap]]. If choosing between targets, Gumtoads favor creatures of Small or Medium size, which they believe are easier for them to grapple.
 >
 > Once Gumtoads have selected a target, they use their very long [[Barbed Tongue]] to grab at members of the party — once the gumtoad has successfully used it to grapple a target, they can either pull the creature toward them with [[Tongue Pull]] or propel themselves onto the target from a distance with [[Tongue Boomerang]].
@@ -93,9 +98,12 @@ The movement of the vines on the canyon walls is due to the presence of 2 Gumtoa
 > [!abstract] Sarracenias
 > **[[Sarracenias]]**
 >
-> Level 1 · Unknown Unknown
+> Level 2 · Sarracenias Constrictor
 >
-> ![Sarracenias](../../../assets/image157.webp)
+> ![Sarracenias](../../../assets/image170.webp)
+>
+> > [!quote] Read Aloud
+> > What at first glance seems to be a pile of plant debris spread across the ground moves, ever so slightly, at the hint of nearby motion, waiting for an opportunity to strike. Beneath the green and purple mass that blends into the scenery around it, its vines are ready to snatch up any who come too close and draw them into its waiting hungry maw.
 
 > [!danger] Hazard
 > #### Ambush!
@@ -120,9 +128,12 @@ Once on the far side of the canyon, Edivel points out the location of the bush t
 > [!abstract] Ketral
 > **[[Ketral]]**
 >
-> Level 1 · Unknown Unknown
+> Level 1 · Ketral Pack Member
 >
-> ![Ketral](../../../assets/image140.webp)
+> ![Ketral](../../../assets/image146.webp)
+>
+> > [!quote] Read Aloud
+> > The small creature has a dark rocky skin and mane, barely distinguishable from a pile of rocks or sodden earth beyond its glowing yellow eyes and sharpened claws. Its teeth, though small, seem to crowd its mouth, bared and ready to strike at anything that comes within their reach.
 
 > [!danger] Hazard
 > #### Ambush!
@@ -140,9 +151,12 @@ Once on the far side of the canyon, Edivel points out the location of the bush t
 > [!abstract] Swarm of Cave Wasps
 > **[[Swarm of Cave Wasps]]**
 >
-> Level 1 · Unknown Unknown
+> Level 0.5 · Cave Wasp Swarm
 >
-> ![Swarm of Cave Wasps](../../../assets/image158.webp)
+> ![Swarm of Cave Wasps](../../../assets/image171.webp)
+>
+> > [!quote] Read Aloud
+> > In dark caves and shadowy canyon corners, a whirring sound is often your only warning before your light extinguishes, swarmed by the cave wasps that wait in crevices and corners, following any source of light that passes by to claim it for their own.
 
 > [!danger] Hazard
 > #### Cave Wasp Attack
@@ -153,7 +167,7 @@ Once on the far side of the canyon, Edivel points out the location of the bush t
 
 Once the party has made it to the top of the outcropping, they reach the bush needed for Edivel's spell and can retrieve the [[Everbloom]] without a check.
 
-If characters wish, they can examine the Everbloom for themselves as well. With a successful `[[/check 15 nature]]` or `[[/check 15 arcana]]` check, they can confirm that this is the flower known as Everbloom, and know that it can be used as a substitute for other components in lower level spells that require a material component. It has no known harmful or toxic properties.
+If characters wish, they can examine the Everbloom for themselves as well. With a successful **Wilderness (DC 15)** or **Arcana (DC 15)** check, they can confirm that this is the flower known as Everbloom, and know that it can be used as a substitute for other components in lower level spells that require a material component. It has no known harmful or toxic properties.
 
 > [!quote] Read Aloud
 > > We made it!

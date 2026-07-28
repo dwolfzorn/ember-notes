@@ -67,7 +67,7 @@ Once the party has finished exploring the camp, or once some time has passed, co
 >
 > Level 3 (Minion) · Human Scout
 >
-> ![Mutagist Scout](../../../assets/image009.webp)
+> ![Mutagist Scout](../../../assets/image010.webp)
 >
 > A rugged, sly-looking individual, clad in a patchwork cloak of leather and fabric, their attire a mismatched collection of adventure-worn gear. They have the bearing of a well traveled and road worn adventurer or mercenary. It is concerning how utterly nondescript they actually are.
 
@@ -192,13 +192,7 @@ The party may also ask questions of the scout team, but need to be careful as th
 > A successful **Society (DC 12)** may lead one to wonder why there are multiple teams of adventurers down here. Characters with the **Culture: Ordani** know that usually Anachraenum only work in teams of 3-5 people unless it's an official/sponsored expedition.
 
 > [!question] Q&A
-> **Q:** A question?
->
-> **A:**
->
-> > A narrated quote answer.
->
-> Additional out-of-character information.
+> **Q:**
 
 > [!question] Q&A
 > **Q:** Have you seen anyone out of place or suspicious down here?

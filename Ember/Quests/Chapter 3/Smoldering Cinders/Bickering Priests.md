@@ -26,7 +26,7 @@ Following her conversation with [[Conaris Haid]], [[Sionia]] promptly leaves the
 >
 > Level 1 · Unknown Unknown
 >
-> ![Sionia](../../../assets/image114.webp)
+> ![Sionia](../../../assets/image122.webp)
 
 Meanwhile, the absentminded High Priest of Sockets lingers in his rectory. He's eager to proselytize and preach the tenets of Sockets to the characters, and immediately assumes that religion is their reason for being here.
 
@@ -35,7 +35,7 @@ Meanwhile, the absentminded High Priest of Sockets lingers in his rectory. He's 
 >
 > Level 1 · Unknown Unknown
 >
-> ![Conaris Haid](../../../assets/image115.webp)
+> ![Conaris Haid](../../../assets/image123.webp)
 
 > [!info] Social
 > #### A Conversation with the High Priest

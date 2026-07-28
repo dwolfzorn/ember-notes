@@ -24,18 +24,18 @@ Most major decisions in House Bastilla are made by vote, with each ship and, by 
 
 ## Key Members
 
-**[[Katerin Bastilla]](Lawful Neutral, Ordani Kivahr, she/her)**
+**[[Katerin Bastilla]](LN, Ordani Kivahr, she/her)**
 
 The current leader of House Bastilla.
 
-**[[Darion the Soulthief]] (Chaotic Neutral, Ordani Signborn, he/him)**
+**[[Darion the Soulthief]] (CN, Ordani Signborn, he/him)**
 
 Darion is one of the most famous Ordani in recent memory, a legendary swashbuckler, explorer, and warrior whose life reads like something torn from the pages of an embellished myth rather than something true. Equal parts rogue and hero, Darion carved his name into history through daring feats, impossible escapes, and a seemingly endless string of near-suicidal adventures. His fame rose to glittering heights when he joined forces with the Cascilian Navy to take on a massive fleet commanded by the Blood Barons. While details of the Battle of the Throat are still debated in taverns and around campfires, it’s agreed that Darion played a crucial role in the confrontation and that he moved through the battle, grinning, laughing, and destroying the undead.
 
-**[[Bortusk Flamebeard]] (Neutral, Ordani Vrjnhar, he/him)**
+**[[Bortusk Flamebeard]] (N, Ordani Vrjnhar, he/him)**
 
 A large, cheerful Vrjnhar who captains the ship The Razorcrumb. Like many captains in House Bastilla, Bortusk is an extremely wealthy individual. They are rarely in Ordain and instead primarily trade with the Lumek and the Waerds, spending long months and years in foreign ports.
 
-**Matienne Bastilla (Lawful Neutral, Ordani Human, she/her)**
+**Matienne Bastilla (LN, Ordani Human, she/her)**
 
 A stoic figurehead of House Bastilla and overseer of Coinwealth Heights, Matienne is not what most expect of the normally bombastic Bastilla members. She rarely appears in public, preferring to run district affairs from her estate or the private lounges of the Gilded Stem. She is known for cultivating cordial ties with those useful to her house and enforcing district order with an iron hand slipped into a velvet glove.

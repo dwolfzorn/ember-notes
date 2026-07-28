@@ -8,16 +8,16 @@ tags: [ember, area-walkthroughs]
 
 # Storage
 
-> [!warning] Gamemaster
-> #### Access to Storage
+### [[Casing the Joint]]
+
+> [!danger] Hazard
+> #### Access Level
 >
-> Access to Storage varies. (See [[Gameplay Details]] for more on access levels.)
+> This area is **Open**.
+
+### [[The Marlstone Gala]]
+
+> [!danger] Hazard
+> #### Access Level
 >
-> - **Pre-Gala:** Open to all staff.
-> - **Gala:** Open to staff, restricted to guests.
->
-> #### Locating Funar Cevher
->
-> See [[Casing the Joint]] for details.
->
-> - Funar Cevher is **in the vicinity.** This is the baseline result while in Marlstone Manor.
+> This area is **Restricted**.

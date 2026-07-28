@@ -11,39 +11,72 @@ tags: [ember, area-walkthroughs]
 > [!warning] Gamemaster
 > #### Area Map Context
 >
-> The area map for Mythspire Observatory encountered in the [[Ancient Paths]] quest.
-
-## Gazetteer Entry
-
-> [!quote] Read Aloud
-> The air grows colder and more biting as you approach, each breath a laborious effort, underscoring the observatory’s isolation and the daunting effort required to reach it. As you climb the treacherous path up the lonely mountain, the Mythspire Observatory comes into view, silhouetted against the sky.
+> The [[Mythspire Observatory]] Area Map depicts the legendary [[Shent]] stronghold in the [[Wedgelands]] east of [[Skybrush]], which serves as a potential conduit to the [[Pathways]]. It is featured in the [[Guardian of Myth]] Event of the [[Ancient Paths]] Main Quest.
 >
-> The ancient structure is partially hewn from the living rock of the mountain, and masterfully cut pieces of stone, making it seem as though Ember itself helped form parts of the structure.
+> - This map depicts two Scene Levels: [[Mythspire Observatory - Upper]], and [[Mythspire Observatory - Lower]].
+> - After all these years, the observatory still stands as a stronghold that provides passage between the surface of [[World of Ember]] and the [[Mycelian Expanse]] of the subterranean Pathways, and is guarded to this day by an immortal sentinel known as the [[Mythspire Guardian]].
+> - The party arrives at the [[Mythspire Approach]] area of the map.
+
+## Gameplay Details
+
+The areas of Mythspire Observatory have the following features unless otherwise specified.
+
+### Levels & Elevation
+
+The Mythspire Observatory Scene features two vertical Levels of elevation, including:
+
+- **Mythspire Observatory - Upper:** The upper level is set to an elevation of 0 and has 25-foot-high ceilings.
+- **Mythspire Observatory - Lower:** The lower level is set to an elevation of 0 and has 25-foot-high ceilings.
+
+The distance between levels is 30ft in most places, and stairways serve as difficult terrain due to the height of steps. Due to damage and decay in the structure, only the upper chambers and lower chambers are available, with the intervening levels too choked with debris to be accessible.
+
+The central space of the ruins features a 300 foot descent to the lowest level.
+
+### Illumination
+
+The interiors of Mythspire Observatory are illuminated by three distinct sources:
+
+primary lantern light in the [[Main Chamber]], which radiates bright light for 30 feet and dim light for an additional 15 feet; secondary lantern light in the three satellite chambers, which radiates bright light for 2 feet and dim light for an additional 15 feet; and ambient light originating from the Arcane Fire Pits in the Main Chamber, which radiate bright light for 3 feet and dim light for an additional 8 feet. The lanterns here are magical in nature, and are crafted using orbs of semi-translucent crystal. Meanwhile, smaller light sources are scattered around the villa, which are described in their associated areas when necessary. The domed ceilings here are all bathed in darkness, requiring additional illumination or special abilities to fully perceive from ground-level.
+
+Outside areas are subject to exterior lighting and associated weather conditions.
+
+Direct and diffuse light from the torn open ceilings of the structure provide dim light throughout the structure, with the deepest pockets of darkness being banished by wall-mounted lanterns burning with eternal blue light.
+
+### Terrain
+
+The terrain here resembles the typical landscape of a well-constructed Aedir edifice, with enough clutter, rubble, and detritus to create intermittent spots of &reference[difficult terrain].
+
+The solitary front door to Mythspire Observatory is usually locked, unless an Anachraenum Guild Member with the [[Jekeroka Villa Key]] is present, in which case the door is unlocked and attended at nearly all times. Powerful magic prohibits the door from being opened by any method other than the key (or other suitably powerful magic).
+
+Though once an enclosed structure with a massive dome of stone and glass, some catastrophic failure in the past has left these ruins open to the sky. The mountain winds howl through the gaps in ancient stone, making the ruins gloomy and cold at all times.
+
+The high altitudes and dry air make the environment feel harsher than it is. Nothing lives here — no plants, no animals, the top of the mountain is barren and devoid of life.
+
+The terrain is ancient ruins. Crumbling stone, uneven footing, and scattered debris make travel difficult in many places. The scale alone of this place makes it clear that this place was not built by or for conventional humanoids, but giants.
+
+### Inhabitants
+
+The following characters and creatures inhabit this area:
+
+- [[Mythspire Guardian]]
+
+### Enemies
+
+During the [[Guardian of Myth]] Event, the following enemies are encountered here:
+
+- TBD
+
+### Additional Mechanics
+
+> [!danger] Hazard
+> #### Falling Hazard
 >
-> Despite its grandeur, the observatory appears crumbling and eroded, beaten down by the relentless winds that howl at this altitude. Its once-majestic dome now sits cracked open and crumbling. The surfaces of the stone are pitted and scarred by centuries of exposure to the elements.
-
-Atop the mountains far to the north lies the ruin of an observatory, though the truly ancient structure was once so more than that. The true depth of its history and what it meant to the people who built is lost to time, but even now its crumbling walls hold clues that those keen of eye and mind can discern.
-
-> [!warning] Gamemaster
-> #### Gamemaster's Summary
+> In the event that a character gets too close to any of the open edges of the scene the stone crumbles under foot. A character can make a successful **Athletics (DC 14)** to jump back before being caught in the collapse. Failure leaves the character hanging from the edge.
 >
-> This location exists at ⬢ s.3195.2889 in the [[Wedgelands]], northeast of [[Skybrush]].
+> A follow up **Athletics (DC 14)** allows the character to pull themselves up. If someone helps them, no check is needed.
 >
-> - This location can be explored within the [[Mythspire Observatory - Lower]] and [[Mythspire Observatory - Upper]] Area Maps.
-> - This location is featured in [[Guardian of Myth]].
-
-Perched atop a harsh and barren mountain, the observatory ascent involves a treacherous path through rocky terrain, the air becoming biting and colder the higher one travels. Furious winds are a constant feature at this altitude, creating a desolate and awe-inspiring environment.
-
-### Environment
-
-The mountains that hold this old ruin are inhospitable, difficult to traverse, and unwelcoming to interlopers, but do not significantly differ from the rest of the peaks in the region.
-
-### Ecology
-
-The mountaintop is largely devoid of vegetation and wildlife, dominated instead by the winds and cold that hold sway. The harshness of the environment allows for little in the way of life to flourish here.
-
-### Lore
-
-The Mythspire Observatory is an incredibly ancient structure, possibly the oldest structure the party will have encountered so far, built during the early days of the Age of Sunlight. It was a deeply significant site to Shent, and they carefully maintained and repaired it throughout their history. The Observatory was said to be one of the first places where Giants emerged above ground from the Pathways. Gazing at the cosmos, the moons and stars, for the first time, they marveled at the open skies, which they had never seen, and recorded their history in sprawling murals.
-
-Throughout its long history during the Age of Sunlight, the Observatory was seen as both a historical and spiritual site. Shent would travel hundreds of miles across the Shana mountains to the north to reach the Observatory and mediate under its famous towering dome. It remained a significant location for them until the Shattering and the destruction of the Shent during the subsequent Abyssal Shear. Abandoned, left to the cruel, merciless winds and weather of the mountaintops, the observatory is now crumbling and ruined, a forgotten monument to Ember's grand history.
+> Failure results in them falling again, causing them to land on a stone catwalk some 20 feet down, if they aren't able to tuck and roll to land safely, they'll suffer a **Dangerous Fall (Hazard 20, Reflex, Health, Bludgeoning)**.
+>
+> Characters can climb back up from there with a successful **Athletics (DC 12)** check. If they have help of a rope or other climbing tools no check is needed.
+>
+> Failure causes them to fall to the lower catwalk again.

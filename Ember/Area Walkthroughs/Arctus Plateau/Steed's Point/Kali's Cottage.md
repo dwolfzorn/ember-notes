@@ -22,7 +22,7 @@ tags: [ember, area-walkthroughs]
 >
 > Level 1 · Unknown Unknown
 >
-> ![Kali Andrella](../../../assets/image084.webp)
+> ![Kali Andrella](../../../assets/image087.webp)
 
 If characters came to Kali's cottage via the hedge maze, she lets them in via the side door from the maze:
 

@@ -48,9 +48,11 @@ You can read more about each season in the Setting Compendium:
 - [[Withering]]
 - [[Stilling]]
 
-## Days
+## Days & Weeks
 
-A day in Ember consists of 24 hours. Each hour consists of 60 minutes, and each minute is a standard 60 seconds in length.
+A day in Ember consists of 24 hours. Each hour consists of 60 minutes, and each minute is a standard 60 seconds in length. Every day belongs to a season (as covered above), and the concept of a week doesn't necessarily extend beyond the standard convention of ten days. For example, someone might say the "Harvest is during the first two weeks of the Gleaning," referring to a period of 20 days, or "I will see you in a week" as a shorthand for ten days.
+
+There are no named days of the week in Ember, and instead, people keep track of which day it is by number within the season. For example, someone might say "I'll meet you on the 5th day of Blooming" or "I have every 5th day of the Blooming to relax" etc.
 
 ## Lunar Cycles
 

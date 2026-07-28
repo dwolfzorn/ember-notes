@@ -25,7 +25,7 @@ tags: [ember, quests]
 >
 > Level 1 · Unknown Unknown
 >
-> ![Aythorn](../../../assets/image159.webp)
+> ![Aythorn](../../../assets/image172.webp)
 
 > [!quote] Read Aloud
 > Aythorn moves to the center of the platform at the heart of Brevin, seeming to float as much as they walk, trailing flower petals as they go.
@@ -33,12 +33,12 @@ tags: [ember, quests]
 > [!info] Social
 > #### Social Topic Title
 >
-> Any character who succeeds on a `[[/check religion 15]]` check know that Aythorn is the god of eternal mischief in times of piece and a source of happiness and peace during times of trouble. It is widely believed that the flower blossoms they leave behind are a sign of either luck or trouble — often both.
+> Any character who succeeds on a **Society (DC 15)** check know that Aythorn is the god of eternal mischief in times of piece and a source of happiness and peace during times of trouble. It is widely believed that the flower blossoms they leave behind are a sign of either luck or trouble — often both.
 >
 > - **Knowledge: Gods**: The character automatically succeeds.
 > - **Culture: Arcturian**: The character automatically succeeds.
 
-Any character that picks up one of the blossoms left in Aythorn's wake will see it immediately dissolve in their hand, but leaves them with a sense of calm and grace, and the benefits that would come from completing a &reference[Short Rest].
+Any character that picks up one of the blossoms left in Aythorn's wake will see it immediately dissolve in their hand, but leaves them with a sense of calm and grace, and the benefits that would come from completing a Recovery.
 
 > [!quote] Read Aloud
 > As Aythorn reaches the large platform at the heart of Brevin, ignoring any chaos and clutter they pass along the way, they turn to address the still-growing crowd.

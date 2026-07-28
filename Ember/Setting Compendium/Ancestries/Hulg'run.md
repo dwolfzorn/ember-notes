@@ -12,7 +12,7 @@ Hulg'run are one of the more unusual and distinct ancestries upon the surface [[
 
 Hulg’run are often described as incredibly slow shapeshifters, and each individual can choose how they appear, changing the structure of their bodies, face shapes, colors, materials, and gender on a whim. This process is slow, however, and may take several weeks or months to settle and morph fully. They may also require a physical connection to a rocky element to transform into it, with some Hulgrun carrying small rocks and gemstones for future use. Hulg'run faces and bodies are often rendered with angular, simple shapes, appearing more like carved statues rather than smooth biological skin. Some Hulg'run instead shape intricate details so fine that they seem like living organic stone. It is not uncommon for a Hulg'run to take on the appearance of the people around them or to be deliberately made in the image of others.
 
-A Hulg’run’s eyes are among their most detailed areas and, in almost all cases, are contrasting precious stones or gemstones that glow softly in the darkness. This glow is linked to their spiritual connection with the world around them and fades upon their death. Their eyes may also be faceted instead of round and appear carved like a polished jewel with a darker pupil and a shining geometric iris and sclera.
+A Hulg’run’s eyes are often the same color and texture as the rest of their body, stonelike and flat but a few Hulg'run prefer contrasting precious stones or gemstones that glow softly in the darkness. This glow is linked to their spiritual connection with the world around them and fades upon their death.
 
 ### Biology
 

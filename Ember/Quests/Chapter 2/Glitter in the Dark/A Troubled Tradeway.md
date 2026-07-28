@@ -13,14 +13,14 @@ tags: [ember, quests]
 >
 > This social event introduces (or reintroduces) the party to [[Zodi Trask]], a gregarious Kiska miner that serves as a high-ranking foreman for [[House Cevher]] in [[Arcturel]]. Zodi has a job for the party — one that involves locating a rogue construct accused of murdering an innocent citizen of the sinkhole city. In this event, the characters can:
 >
-> - Visit Rallyhome in Upper Arcturel to meet Zodi Trask for the first time, if they've yet to do so.
+> - Visit Rallyhome in Arcturel to meet Zodi Trask for the first time, if they've yet to do so.
 > - Learn about the state of Arcturel and the investigation so far, including various details about the purported crime and the Renegade Construct accused of the malicious act — the [[Chessman]] named [[Hew]].
 > - Negotiate with Zodi Trask about a reward for their efforts.
 > - Meet with various citizens of Arcturel to further the investigation, including local raconteur **Gullivhar Paras**, famed artificer [[Vartholomew Chess]], crystal merchant **Nodrick Stolas**, and the Silver Beam Mining Consortium's [[Larissa Toth]].
 
 ### A Task from Trask
 
-When the party reaches the threshold of Rallyhome in Upper Arcturel, read the following:
+When the party reaches the threshold of Rallyhome in Arcturel, read the following:
 
 > [!quote] Read Aloud
 > You can't help but notice that the mood in Rallyhome today stands in stark contrast to its reputation. The trademark mirth and merriment seem to have been replaced by a dour gloom, and the eyes of the motley patrons here regard you with no small amount of concern and trepidation. It's apparent the rumors of a killer on the loose have found purchase among the citizens of Arcturel.
@@ -46,7 +46,7 @@ If the Vrjnhar bard's song wasn't a clear indication, the Kiska miner seated in 
 >
 > Level 2 · Kiska Grappler
 >
-> ![Zodi Trask](../../../assets/image077.webp)
+> ![Zodi Trask](../../../assets/image080.webp)
 >
 > You regard a burly Kiska male whose corded muscles suggest a life of strenuous labor, a detail readily confirmed by the timeworn pickaxe at his side and the simplicity of his loose-hanging garb. Covered in a coat of gray-brown fur and quarry dust, this miner wears his long mane of vibrant hair in a thick braid to keep it dutifully out of the way. A smug countenance presides upon his mustachioed face, which appears to be marked by a few scars from some violent childhood scuffle or accident.
 
@@ -59,7 +59,7 @@ At the behest of Arcturel's citizens, Zodi seeks to hire a party to investigate 
 >
 > > "It's good to hear Arcturel means more to the Plateau than a gullet full of inkaro pearls. As you can see, the people here have been troubled of late. A month back, a construct went missing. Then another one. Chessmen, made here in town by a fellow named Vartholomew Chess. Good man, great artificer. But, for one reason or another, a few of his contraptions started going haywire.
 > >
-> > We didn't think much of it until one of them, a mining construct, started malfunctioning outside a mine in the Dives …that's Lower Arcturel for you outsiders. A miner named Kellan Lorde apparently stepped in to help calm things down, and the construct went stumbling off the edge of the catwalk — but not before taking Kellan down with it. We sent a search party down to Rock Bottom looking for some signs of Kellan and the construct, but all they found were the liquified remains of a young miner and a trail of loose automaton parts.
+> > We didn't think much of it until one of them, a mining construct, started malfunctioning outside a mine in the Dives. A miner named Kellan Lorde apparently stepped in to help calm things down, and the construct went stumbling off the edge of the catwalk — but not before taking Kellan down with it. We sent a search party down to Rock Bottom looking for some signs of Kellan and the construct, but all they found were the liquified remains of a young miner and a trail of loose automaton parts.
 > >
 > > Some people are saying the Renegade Construct murdered that poor young man. And I aim to figure out how, why, and what became of it, if only so my city can sleep at night. I've got twenty gold pieces on the barrelhead for anyone who can bring in evidence of the construct's … retirement. What do you say?"
 >
@@ -70,8 +70,8 @@ At the behest of Arcturel's citizens, Zodi seeks to hire a party to investigate 
 > Zodi has the following information to share about the case:
 >
 > - The deceased rented a room here, and scant details about his personality or history can be gleaned from his contemporaries. Kellan Lorde was a bit of a drifter, it seems, with no real roots in town to speak of.
-> - Vartholomew Chess, who built the Chessmen constructs at the heart of this matter, maintains a workshop here in Upper Arcturel. Zodi is happy to provide directions to the shop, dubbed Arcturian Automatons.
-> - A total of 4 Chessmen have gone missing in Arcturel: one employed at the Silver Beam headquarters in the Balconies, one from the Glimmer crystal shop next door to Arcturian Automatons, one from Hob Korell's stables in Lower Arcturel, and the so-called Renegade Construct from the nearby mine.
+> - Vartholomew Chess, who built the Chessmen constructs at the heart of this matter, maintains a workshop here in Arcturel. Zodi is happy to provide directions to the shop, dubbed Arcturian Automatons.
+> - A total of 4 Chessmen have gone missing in Arcturel: one employed at the Silver Beam headquarters in the Balconies, one from the Glimmer crystal shop next door to Arcturian Automatons, one from Hob Korell's stables in the Dives, and the so-called Renegade Construct from the nearby mine.
 > - Larissa Toth and the Silver Beam Consortium, who owned half of the missing constructs, have accused Vartholomew Chess of incompetence and negligence. Local discontent is on the rise in the wake of these accusations.
 >
 > Any character who makes a successful **Diplomacy (DC 14)**, **Deception (DC 14)**, or **Intimidation (DC 16)** check is able to convince Zodi to reveal a few more details:
@@ -79,7 +79,7 @@ At the behest of Arcturel's citizens, Zodi seeks to hire a party to investigate 
 > - Extraction of Pathways resources like [[Inkaro Pearl, White]] and precious gemstones has slowed considerably in recent weeks, to the point where House Cevher has come under scrutiny.
 > - Although the effort to track down the Renegade Construct is important to Arcturel's safety, the city's fragile trust in House Cevher also hangs in the balance. The Silver Beam Consortium's political pull has grown mighty, and they serve as fierce competitors to House Cevher's claims.
 >
-> Trask recommends the party start their investigation with Vartholomew Chess, whose workshop is a stone's throw away from Rallyhome here in Upper Arcturel.
+> Trask recommends the party start their investigation with Vartholomew Chess, whose workshop is a stone's throw away from Rallyhome here in Arcturel.
 
 > [!question] Q&A
 > **Q:** Regarding the Chessmen constructs:
@@ -93,7 +93,7 @@ At the behest of Arcturel's citizens, Zodi seeks to hire a party to investigate 
 >
 > **A:**
 >
-> > The Lower Arcturel mine in question is owned and operated by House Cevher, which is why I keep an apartment nearby. Some of the caverns have been picked clean, but it's been a good source of precious gemstones and silver ore for quite some time now. And as you can imagine, accidents have a way of slowing things down. If you head down to investigate the catwalk where the accident happened, tell them Trask sent you.
+> > The Dives mine in question is owned and operated by House Cevher, which is why I keep an apartment nearby. Some of the caverns have been picked clean, but it's been a good source of precious gemstones and silver ore for quite some time now. And as you can imagine, accidents have a way of slowing things down. If you head down to investigate the catwalk where the accident happened, tell them Trask sent you.
 
 > [!question] Q&A
 > **Q:** Regarding Silver Beam:
@@ -133,7 +133,7 @@ The party can visit Arcturian Automatons, the workshop of the famed artificer Va
 >
 > Level 4 · Hulg'run Commonfolk
 >
-> ![Vartholomew Chess](../../../assets/image178.webp)
+> ![Vartholomew Chess](../../../assets/image191.webp)
 >
 > You see a Hulg'run carved out of a rich brown stone, adorned with rugged, angular aesthetics. His literally chiseled jaw and hard-edged forearms are accented with pale pink marbling. He is dressed as a workman, with a heavy leather apron slung over plain, rugged clothing.
 
@@ -187,7 +187,7 @@ Once the party leaves Arcturian Automatons, they're approached in the street by 
 >
 > Level 2 · Automaton Servitor
 >
-> ![Silver Beam Servitor](../../../assets/image179.webp)
+> ![Silver Beam Servitor](../../../assets/image192.webp)
 >
 > This humanoid construct is made of brushed silver steel with blue accents and bears the distinctive logo of the Silver Beam Consortium. It moves with a smooth precision punctuated with all the whirs and swishes of machinery hidden under it's glossy metal shell.
 
@@ -214,7 +214,7 @@ A long 3 mintues later, Larissa Toth joins the party in the foyer. She has a few
 >
 > Level 6 (Elite) · Altyra Lightweaver
 >
-> ![Larissa Toth](../../../assets/image180.webp)
+> ![Larissa Toth](../../../assets/image193.webp)
 >
 > You regard a tall Altyra woman dressed in Railen fineries, her porcelain-colored skin marked with silver hexagonal lattices. Her long silver hair is worn in a braided low bun, and her attentive eyes are a striking color of bright lambent gold. This atristocrat's sharp features are overtly feminine, and noticeably bereft of scars or blemishes; she is undeniably attractive, and somewhat out of place amidst the grimy industrial subterranea of Arcturel.
 
@@ -260,13 +260,13 @@ A long 3 mintues later, Larissa Toth joins the party in the foyer. She has a few
 >
 > > The Consortium is an enterprise funded by an alliance of Railen and Arcturian investors, including myself. We specialize in the production of skilled machinery and in the industries of resource gathering and refinement. Our doors are always open to your party if you'd ever like to visit — upon appointment, of course — but our engineers do remain quite busy in their day-to-day tasks. We hope to fuse Railen innovation with Arcturian ingenuity, a goal I trust we can all agree upon.
 
-#### Aura Attubement: The Executive's Offer
+#### Aura Attunement: The Executive's Offer
 
 If the party accepts Larissa Toth's offer and takes possession of the Shard of Sending, each character advances their **Attunement: Aura (+1)** at the conclusion of the event.
 
 ### The Crystal Merchant
 
-As they explore Upper Arcturel, the party can also visit Nodrick Stolas, the proprietor of Glimmer and the owner of one of the missing Chessmen. Treat Nodrick Stolas as a [[Arcturian]].
+As they explore Arcturel, the party can also visit Nodrick Stolas, the proprietor of Glimmer and the owner of one of the missing Chessmen. Treat Nodrick Stolas as a [[Arcturian]].
 
 > [!info] Social
 > #### A Meeting with Nodrick Stolas
@@ -291,12 +291,12 @@ As they explore Upper Arcturel, the party can also visit Nodrick Stolas, the pro
 
 ### Investigating the Balconies
 
-The party can investigate other areas in Upper Arcturel for clues, although efforts to gather additional information inevitably point the characters in the same direction: towards the scene of the crime itself, where the Renegade Construct killed Kellan Lorde on a precipitous catwalk in the Dives.
+The party can investigate other areas in Arcturel for clues, although efforts to gather additional information inevitably point the characters in the same direction: towards the scene of the crime itself, where the Renegade Construct killed Kellan Lorde on a precipitous catwalk in the Dives.
 
 > [!warning] Gamemaster
 > #### Gathering Evidence: Inkaro Pool Mandate & Silver Beam Schematics
 >
-> Important evidence can be gathered in Upper Arcturel that can be used in support of Hew the Renegade Construct's exoneration: the [[Inkaro Pool Mandate]] and the [[Silver Beam Schematics]].
+> Important evidence can be gathered in Arcturel that can be used in support of Hew the Renegade Construct's exoneration: the [[Inkaro Pool Mandate]] and the [[Silver Beam Schematics]].
 >
 > In the unlikely event that the characters loot either of these items from the Silver Beam HQ during their early investigation, record the appropriate Event Outcome. These physical clues play a major role in the forthcoming [[Presenting the Evidence]] event.
 
@@ -305,4 +305,4 @@ The party can investigate other areas in Upper Arcturel for clues, although effo
 > [!warning] Gamemaster
 > #### Next Steps
 >
-> The party is free to continue with the investigation as they see fit, starting with a visit to Lower Arcturel where they can survey the [[Scene of the Crime]] itself.
+> The party is free to continue with the investigation as they see fit, starting with a visit to the Dives where they can survey the [[Scene of the Crime]] itself.

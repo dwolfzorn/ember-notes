@@ -16,7 +16,7 @@ tags: [ember, area-walkthroughs]
 >
 > Level 1 · Unknown Unknown
 >
-> ![Ix'erax](../../../assets/image039.webp)
+> ![Ix'erax](../../../assets/image040.webp)
 
 The spider in this room is an ancient creature that was captured hundreds of years ago and trapped in the chamber, but it eventually became accustomed to its new life and became friends with the mage Agaseros.
 

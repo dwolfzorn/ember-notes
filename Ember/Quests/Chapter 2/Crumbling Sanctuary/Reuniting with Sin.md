@@ -27,7 +27,7 @@ The party arrives at Corpin Sanctuary, an enclave of the Cindaric Sages nestled 
 >
 > Level 6 (Elite) · Kiska Cindaric Sage
 >
-> ![Mira Wavehorn](../../../assets/image166.webp)
+> ![Mira Wavehorn](../../../assets/image179.webp)
 >
 > The aloof countenance of this Kiska femme is belied by her jocular smile, a disarming grin on the edge of inquisitiveness. Clad in the red robes of a Cindaric Sage and a light Cascilian breastplate, she appears ready for action despite her calm nature. Your instincts tell you that somewhere inside this gentile sage beats the fierce heart of a fellow adventurer.
 
@@ -38,7 +38,7 @@ Sin regards the characters as favorable companions on the road to Ordain. No mat
 >
 > Level 2 · Keth Cindaric Aspirant
 >
-> ![Sin Marmot](../../../assets/image099.webp)
+> ![Sin Marmot](../../../assets/image100.webp)
 >
 > A Keth with a friendly demeanor and wide blue eyes and a strange half-mask that covers her mouth. She seems to view everything around her with an air of wondrous innocence but her keen glances also suggest the ability to read any given situation quickly and she may be more capable than she appears at first glance.
 

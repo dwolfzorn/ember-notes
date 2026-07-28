@@ -34,21 +34,21 @@ What the party does not know is that both the piles of iron and the heap of gold
 
 ### Ooze Ambush!
 
-Once a character comes within 20 feet of any of the three oozes, all three reveal themselves and combat begins. Unless the party was particularly wary of the metal piles or had prepared themselves for an attack in some way, they begin combat **Unaware** .
+Once a character comes within 20 feet of any of the three oozes, all three reveal themselves and combat begins.
 
 > [!abstract] Luminous Copper Ooze
 > **[[Luminous Copper Ooze]]**
 >
 > Level 0.5 · Slime Metallic Ooze
 >
-> ![Luminous Copper Ooze](../../../assets/image069.webp)
+> ![Luminous Copper Ooze](../../../assets/image073.webp)
 >
 > An amorphous slime of a creature slowly oozes forward, dragging bits of flaked copper and the occasional crystal within its gelatinous body. Though it seems formless as it moves, it reaches out in a long tentacle-like arm when confronted with a fight, readying itself to strike.
 
 > [!danger] Hazard
 > #### Luminous Copper Ooze Tactics
 >
-> The [[Luminous Copper Ooze]] begins combat as an indistinguishable pile of copper coins.
+> The [[Luminous Copper Ooze]] begins combat as an indistinguishable pile of copper coins. Unless the party was particularly wary of the metal pile or had prepared themselves for an attack in some way, they begin combat **Unaware** .
 >
 > At the start of combat, it will advance aggressively toward the party.
 >
@@ -62,14 +62,14 @@ Once a character comes within 20 feet of any of the three oozes, all three revea
 >
 > Level 1 · Slime Metallic Ooze
 >
-> ![Luminous Iron Ooze](../../../assets/image066.webp)
+> ![Luminous Iron Ooze](../../../assets/image070.webp)
 >
 > The viscous body of the luminous iron ooze is a silvery gray, filled with small fragments of metal and the occasional piece of glittering crystal. As it moves, its body shapes and reshapes itself, stretching and contracting in a viscous pool that extends a single gray-iron tentacle.
 
 > [!danger] Hazard
 > #### Luminous Iron Ooze Tactics
 >
-> The [[Luminous Iron Ooze]] begins combat an indistinguishable pile of iron scrap.
+> The [[Luminous Iron Ooze]] begins combat an indistinguishable pile of iron scrap. Unless the party was particularly wary of the metal pile or had prepared themselves for an attack in some way, they begin combat **Unaware** .
 >
 > At the start of combat, it will advance aggressively toward the party.
 >
@@ -96,7 +96,7 @@ After the party's encounter with the oozes, a small figure emerges from behind o
 >
 > Level 1 · Hulg'run Scout
 >
-> ![Tauric](../../../assets/image102.webp)
+> ![Tauric](../../../assets/image158.webp)
 >
 > The young man's gray body appears to be carved from rock, with lines of blue agate running through the stone like veins. His color is matched by the gelatinous body of the small blueish-green ooze that sits on his shoulder, nestled into a hollow that seems to have been carved for the purpose.
 
@@ -117,7 +117,7 @@ The Hulg'run quickly introduces himself as [[Tauric]] and his [[Oozeling]] compa
 >
 > Level 0.5 (Minion) · Slime Metallic Ooze
 >
-> ![Oozeling](../../../assets/image066.webp)
+> ![Oozeling](../../../assets/image070.webp)
 >
 > You spy a tiny translucent ooze that appears to regard you with a measure of curiosity, if its cautious and gregarious movements are any indication. This strange creature extends its viscous form into a hand-like tendril, which waves to you in friendly salutation.
 

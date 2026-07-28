@@ -16,12 +16,13 @@ tags: [ember, area-walkthroughs]
 > [!tip] Exploration
 > #### Security Door
 >
-> The security door here is equipped with a heavy iron crossbar, which makes it nigh impossible to open from the outside while secured in this way. The door also features a traditional lock that uses a key, but while the Toothbreaker Hideout is occupied, the guards within keep this crossbar in place.
+> The security door here is equipped with a heavy iron crossbar, which makes it nigh impossible to open from the outside while secured in this way. The door also features a traditional lock, but the guards within keep this crossbar in place. Thanks to the crossbar, the lock on the door cannot be picked.
 >
-> - The locked door is not possible to pick open or otherwise finesse.
-> - The locked door can be forced open with a successful a **Athletics (DC 30)** check, which loudly bashes it inwards, tearing the door free of its hinges and crashing into the room beyond. Any attempt to force open the door, whether successful or not, immediately causes the [[Toothbreaker Thug]] in the nearby [[Guardroom]] to raise the alarm.
+> Any character who makes a successful a **Athletics (DC 30)** check can force the door open, which loudly tears the door free of its hinges as it crashes into the room beyond.
+>
+> Whether successful or not, any attempt to force the door open immediately causes the [[Toothbreaker Thug]] in the nearby [[Guardroom]] to raise the alarm.
 
-Most groups that seek entrance into the Toothbreaker Hideout via this route will have to socially negotiate a reason for entrance with the guards inside the adjoining [[Guardoom]].
+If the party attempts to enter the hideout via this route, they'll have to navigate a social encounter with the two [[Toothbreaker Thug]] in the adjoining Guardroom.
 
 > [!info] Social
 > #### Talking Your Way In
@@ -56,15 +57,17 @@ Most groups that seek entrance into the Toothbreaker Hideout via this route will
 >
 > One or more characters must succeed on a **Deception (DC 15)** check to seem convincing enough to deserve the attention of their supervisor.
 >
-> - Characters with **Knowledge: Intrigue**, **Knowledge: Trade**, or **Path: Nightwatch** have **+2 Boons** on this check.
+> - **Knowledge: Intrigue**: The character gains **+2 Boons** on this check.
+> - **Knowledge: Trade**: The character gains **+2 Boons** on this check.
+> - **Path: Nightwatch**: The character gains **+2 Boons** on this check.
 >
-> If the party enters in this way, they are escorted by the guards to the [[Planning Room]] to meet with Taamsin the Mastermind.
+> If the party enters this way, the thugs escort them to the [[Planning Room]], where they must meet with Taamsin the Mastermind.
 
-If negotiations go poorly or the party chooses to provoke the guards, combat will erupt between the two chambers.
+If negotiations go poorly or the party chooses to provoke the guards, combat will erupt between the Security Checkpoint and the Guardroom beyond.
 
 > [!danger] Hazard
 > #### Fighting Your Way In
 >
-> As long as the security door remains closed, the [[Toothbreaker Thug]] in the [[Guardroom]] will remain there and fire crossbow bolts through the eyeslit of the door. If the party does not retreat or demonstrates any capability to be a threat, these guards will immediately sound the alarm, summoning more Toothbreakers Thugs to reinforce the chokepoint.
+> As long as the security door remains closed, the [[Toothbreaker Thug]] in the [[Guardroom]] will remain there and fire crossbow bolts through the eyeslit of the door. If the party does not retreat or proves to be a considerable threat, these guards will immediately sound the alarm and summon additional Toothbreakers Thugs to reinforce the chokepoint.
 >
-> See [[Gameplay Details]] for a description of their tactics.
+> See [[Toothbreaker Tactics]] in the Appendix for additional details.

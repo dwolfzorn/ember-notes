@@ -60,7 +60,7 @@ If the party manages to successfully protect Torra's construct Rusty from the mo
 > - The reason for the mob's confrontation and the red paint. A Chessman construct owned by House Cevher is said to have gone haywire and killed a miner in the Dives a few weeks back. The incident has rattled many of the locals, particularly those who already had a tenuous hold on their emotional state — like the down-and-out or the displaced.
 > - A brief history of her time as a young forager. 17 years young and orphaned at an early age, Torra has made a good go of her career as a forager and scavenger of Arcturel's surrounding environs for a couple of years now. She's well-known among frequent travelers for her rotating collection of esoteric trinkets for sale.
 > - The basics about her Chessman companion named Rusty. Torra found Rusty's damaged body in a garbage heap two years ago during one of her early outings, partially dismembered and fried from lightning damage. After dragging him out of the mess and gathering suitable replacement parts, she managed to put the Chessman back together with the help of a few locals. They've been inseparable since.
-> - A job lead. Zodi Trask of House Cevher is looking to hire investigators for an official inquiry regarding the cause of the fatal Chessman incident. He can be found in Rallyhome when he isn't attending the mines in Lower Arcturel.
+> - A job lead. Zodi Trask of House Cevher is looking to hire investigators for an official inquiry regarding the cause of the fatal Chessman incident. He can be found in Rallyhome when he isn't attending the mines in the Dives.
 >
 > A successful **Diplomacy (DC 11)** check validates the honesty of Torra's claims from her perspective, which by all accounts seems to be a measured and educated one (especially compared to Arcos' mob).
 >
@@ -94,10 +94,10 @@ If the party chose to stand by while Torra's construct Rusty was attacked by the
 >
 > The characters are free to chat with Arcos (or another member of the mob), who is willing to provide the following rumors and information:
 >
-> - The reason for the mob's confrontation and the red paint. A Chessman construct owned by House Cevher is said to have gone haywire and killed a miner in the Dives a few weeks back. The incident has rattled many of the locals, particularly those who work in and around the constructs, like lower Arcturel miners and inkaro pearl farmers of the Sinkhole Depths.
-> - The basics about Chessman constructs, from a very biased perspective. The famed constructs were designed by the artificer Vartholomew Chess, who lives in Upper Arcturel. Despite their ubiquity, Chessmen are becoming more and more dangerous and unpredictable. Arcos and other locals view the Chessmen as liabilities in terms of the safety and livelihood of the citizens of Arcturel.
-> - A job lead. Zodi Trask of House Cevher is looking to hire investigators to track down the missing Renegade Construct to ensure it doesn't kill any other citizens of Arcturel. Trask can be found in Rallyhome when he isn't attending the mines in Lower Arcturel.
-> - A brief history of his time in Brimtown. Arcos moved to the surface after being displaced from mining work by a Chessman in Lower Arcturel. Instead of digging for ore, he now spends his days as a cut-rate guide or sellsword. If the party wants to hire him for 5 gp a day, he's willing to join up with them (but his promises far outweigh his efforts).
+> - The reason for the mob's confrontation and the red paint. A Chessman construct owned by House Cevher is said to have gone haywire and killed a miner in the Dives a few weeks back. The incident has rattled many of the locals, particularly those who work in and around the constructs, like the miners and inkaro pearl farmers of the Sinkhole Depths.
+> - The basics about Chessman constructs, from a very biased perspective. The famed constructs were designed by the artificer Vartholomew Chess, who lives in Arcturel. Despite their ubiquity, Chessmen are becoming more and more dangerous and unpredictable. Arcos and other locals view the Chessmen as liabilities in terms of the safety and livelihood of the citizens of Arcturel.
+> - A job lead. Zodi Trask of House Cevher is looking to hire investigators to track down the missing Renegade Construct to ensure it doesn't kill any other citizens of Arcturel. Trask can be found in Rallyhome when he isn't attending the mines in the Dives
+> - A brief history of his time in Brimtown. Arcos moved to the surface after being displaced from mining work by a Chessman in the Dives Instead of digging for ore, he now spends his days as a cut-rate guide or sellsword. If the party wants to hire him for 5 gp a day, he's willing to join up with them (but his promises far outweigh his efforts).
 >
 > A successful**Diplomacy (DC 13)** check confirms the honesty inherent in Arcos' perspective, but does hint at the ignorance and bias that drives his actions. He doesn't seem to be an outright bad person, but bad circumstances have probably led him to make bad decisions.
 >
@@ -107,7 +107,7 @@ If the party chose to stand by while Torra's construct Rusty was attacked by the
 
 ### Brimtown Rumors
 
-After their encounter with Torra and the mob, the characters can optionally spend time gathering additional rumors in Brimtown before proceeding to Upper Arcturel.
+After their encounter with Torra and the mob, the characters can optionally spend time gathering additional rumors in Brimtown before proceeding to Arcturel.
 
 > [!info] Social
 > #### Gathering Additional Information
@@ -115,7 +115,7 @@ After their encounter with Torra and the mob, the characters can optionally spen
 > Any character who succeeds on a **Diplomacy (DC 13)** check is able to track down one of the following rumors via conversation with locals:
 >
 > - A few locals speak of inkaro pearl shortages, opting to use oil lanterns, candles, or torchlight to illuminate their dwellings at night while the local resource grows notably scarce for the first time in recent memory.
-> - Rumor has it that the Renegade Construct in Lower Arcturel wasn't the only Chessman to start acting up. There isn't any hard evidence, but stories are floating through town about other constructs that have gone missing rather than malfunction. Maybe it's just thievery or hearsay. Times can be tough, after all.
+> - Rumor has it that the Renegade Construct in the Dives wasn't the only Chessman to start acting up. There isn't any hard evidence, but stories are floating through town about other constructs that have gone missing rather than malfunction. Maybe it's just thievery or hearsay. Times can be tough, after all.
 > - They say the Sinkhole Depths are crawling with all sorts of strange, carnivorous creatures. If you journey too far from Rock Bottom, be sure to steer clear of the bone effigies left by the jurtak, or you may never see the light of Lantyr again.
 > - Rumors abound regarding the Silver Beam Consortium, a group of Railen engineers and businessfolk who have made some impressive strides over the past months when it comes to their industry and holdings. Members of the Brimtown Watch claim that shipments to and from the Silver Beam headquarters tend to come at night, when the rest of the city is at rest.
 > - Caravaners who've camped at Brimtown in recent weeks have spoken in hushed voices of a growing concern for House Cevher's ability to consistently supply certain goods like inkaro pearls, shadestone, adamantine, silver, and precious gemstones.
@@ -125,4 +125,4 @@ After their encounter with Torra and the mob, the characters can optionally spen
 > [!warning] Gamemaster
 > #### Next Steps
 >
-> After they pass through Brimtown, the party can continue towards the tavern known as Rallyhome in [[Arcturel Upper]], where they'll meet with the quest-giver [[Zodi Trask]] during the events of [[A Troubled Tradeway]].
+> After they pass through Brimtown, the party can continue towards the tavern known as Rallyhome in [[Arcturel Tradeway]], where they'll meet with the quest-giver [[Zodi Trask]] during the events of [[A Troubled Tradeway]].

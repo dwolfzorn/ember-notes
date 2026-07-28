@@ -22,7 +22,7 @@ tags: [ember, quests]
 >
 > Level 1 · Unknown Unknown
 >
-> ![Kali Andrella](../../../assets/image084.webp)
+> ![Kali Andrella](../../../assets/image087.webp)
 
 ### Catching up with Kali
 
@@ -87,11 +87,11 @@ With their talk complete, Kali is open for business as a seller, with a few item
 > [!info] Social
 > #### First One's Free
 >
-> As a thank you for all they have done for her and for Steed's Point, Kali will allow the group to take one item for free from the following list. With a successful `[[/check persuasion 20]]`, the party can convince Kali to part with one additional item at no cost.
+> As a thank you for all they have done for her and for Steed's Point, Kali will allow the group to take one item for free from the following list. With a successful **Diplomacy (DC 20)**, the party can convince Kali to part with one additional item at no cost.
 >
 > - [[Growing Thorns]]
 > - a pouch of Throwing Stones, which have the properties of [[Beads of Force]]
-> - an [[Herbalism Kit]]
+> - an [[Alchemist's Toolkit]]
 > - an [[Everbloom]]
 > - A [[Potion of Healing]]
 >

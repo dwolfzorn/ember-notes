@@ -32,7 +32,7 @@ The characters must gain the favor of one of the Flameguard warriors, who will s
 >
 > Level 1 · Unknown Unknown
 >
-> ![Flameguard Crusader](../../../assets/image111.webp)
+> ![Flameguard Crusader](../../../assets/image119.webp)
 
 > [!tip] Exploration
 > #### Surveying the Scene
@@ -138,7 +138,7 @@ As the party approaches Luna Kerrowrath at the opposite side of the bonfire, rea
 >
 > Level 10 (Boss) · Fej Justiciar
 >
-> ![Luna Karrowrath](../../../assets/image112.webp)
+> ![Luna Karrowrath](../../../assets/image120.webp)
 >
 > Clad in battle scarred Lunaran steel armor covered in the symbols of the Flameguard and the goddess Lumé, this Fej warrior has been through countless battles, and her intense, haunted gaze only reinforces this. She carries herself with an uncharacteristic grace for someone so heavily armored. Even the immense mace strapped to her back doesn't seem to slow her down.
 
@@ -239,7 +239,7 @@ If the party refuses to assist Luna and the Flameguard, each character advances 
 >
 > Level 12 (Boss) · Human Mystic
 >
-> ![Avwynn Taol](../../../assets/image113.webp)
+> ![Avwynn Taol](../../../assets/image121.webp)
 >
 > Tall, regal, and confident, this human woman carries herself with certainty and exudes a powerful confidence back with a steely, unwavering calm. Her icy blue eyes glimmer sharply against black sclera, betraying some hint of non-human ancestry, or perhaps magical twisting in her blood.
 

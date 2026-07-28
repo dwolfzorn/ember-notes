@@ -11,7 +11,7 @@ tags: [ember, setting-compendium]
 > [!warning] Gamemaster
 > #### Lore Summary
 >
-> The Age of Beasts was an era of Ember'sHistroy that lasted for hundreds of thousands of years and saw the rise of some of the largest, most primal beasts and animals, in addition to some of the older mortal ancestries.
+> The Age of Beasts was an era of Ember's history that lasted for hundreds of thousands of years and saw the rise of some of the largest, most primal beasts and animals, in addition to some of the older mortal ancestries.
 >
 > - **Primordial Creatures:** Emergence of the Leviathans as the dominant lifeform on the surface of Ember.
 > - **Mortal Ancestries:** The Creation of the Co'ark, Jarn, Giants, Varak, Vrjnhar, Saurvek, Ashka, Carrow, Leafia, Zeph, and Wirrun.

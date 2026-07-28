@@ -76,7 +76,7 @@ It's relatively easy for the party to track down [[Lilla Arien]] whenever they r
 >
 > Level 8 (Boss) · Signborn Cindaric Sage
 >
-> ![Lilla Arien](../../../assets/image108.webp)
+> ![Lilla Arien](../../../assets/image116.webp)
 >
 > A signborn woman with a round, friendly face that belies the stress she carries. Her gray skin contrasts with her bright blue eyes, rosy cheese, and messy head of white hair. Short, pale blue horns curve softly from her forehead. She is clad in the ornate robes of the Cindaric order.
 

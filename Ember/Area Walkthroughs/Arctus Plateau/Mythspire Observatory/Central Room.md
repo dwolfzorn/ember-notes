@@ -24,7 +24,7 @@ Once the party moves down into the lower area they will be confronted by the gua
 >
 > Level 8 (Elite) · Vanexis Primordial Guardian
 >
-> ![Mythspire Guardian](../../../assets/image074.webp)
+> ![Mythspire Guardian](../../../assets/image078.webp)
 >
 > This luminescent creature moves with predatory grace, each step leaving a faint radiant trail. Its large, glowing eyes seem to peer into the very essence of what it observes. Streaks of radiant color pulse rhythmically through its partially feathered fur, and up its two sets of wings.
 >

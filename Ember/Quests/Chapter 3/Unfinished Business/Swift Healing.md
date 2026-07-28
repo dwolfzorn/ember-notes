@@ -36,7 +36,7 @@ When they reach Traveler's Rest, the party enters via the [[Main Office]], where
 >
 > Level 3 · Human Cindaric Initiate
 >
-> ![Cindaric Adherent](../../../assets/image024.webp)
+> ![Cindaric Adherent](../../../assets/image025.webp)
 >
 > This scholarly healer is clad in garments of bright gold and lush crimson, the colors of the famed Cindaric Sages of the Arctus Plateau. Their shoulders and tunic are marked with the familiar four-leafed diamond that signifies the Cindaric order, and their hands are marked and calloused by the wholesome abrasions of honest labor. The sage regards you with a benevolent smile.
 
@@ -83,7 +83,7 @@ After roughly 3-5 minutes have passed, the party will be joined by an experience
 >
 > Level 8 (Elite) · Human Cindaric Sage
 >
-> ![Cindaric Sage](../../../assets/image024.webp)
+> ![Cindaric Sage](../../../assets/image025.webp)
 >
 > This scholarly healer is clad in garments of bright gold and lush crimson, the colors of the famed Cindaric Sages of the Arctus Plateau. Their shoulders and tunic are marked with the familiar four-leafed diamond that signifies the Cindaric order, and their hands are marked and calloused by the wholesome abrasions of honest labor. The sage regards you with a benevolent smile.
 
@@ -151,7 +151,7 @@ During or after Agraband's treatment, the characters can explore Traveler's Rest
 >
 > Any character who makes a successful **Awareness (DC 13)** check while speaking with the Cindarics or patients of Traveler's Rest can obtain one of the following pieces of information (roll `[[/roll 1d4]]` to determine):
 >
-> 1. The Undaunted compete twice a week in the Solar Games at Grand Kalion Stadium: Wednesdays and Saturdays, during daytime hours.
+> 1. The Undaunted compete twice a week in the Solar Games at Grand Kalion Stadium: every third and fifth day, during daytime hours.
 > 2. The Undaunted have a reputation for playing exceptionally rough, pushing their opponents (and the rules) to the limit.
 > 3. The competitions at Grand Kalion Stadium weren't always as civilized as they are now; bloodsport was commonplace in the arena long ago.
 > 4. Zira Hestidero is known for burning bridges, and has lost a few friends on her way to the top.

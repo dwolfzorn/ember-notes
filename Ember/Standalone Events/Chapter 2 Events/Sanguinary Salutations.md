@@ -30,7 +30,7 @@ If the characters approach Eliren, read or paraphrase the following:
 > [!info] Social
 > #### Eliren, the Wandering Sanguinary
 >
-> **Eliren** (Neutral Good, Ordani Human, she/her) is a [[Sanguinary Druid]] tasked by [[Avwynn Taol]] with studying the effects of arcane maelstroms on the creatures of the Golden Flats. Kindly, soft-spoken, and patient, she is more than willing to engage the characters in light conversation about her current task (see "Eliren's Task" below) and the Sanguinaries' history and philosophy.
+> **Eliren** (Neutral Good, Ordani Human, she/her) is a [[Sanguinary Warden]] tasked by [[Avwynn Taol]] with studying the effects of arcane maelstroms on the creatures of the Golden Flats. Kindly, soft-spoken, and patient, she is more than willing to engage the characters in light conversation about her current task (see "Eliren's Task" below) and the Sanguinaries' history and philosophy.
 >
 > A successful **Deception (DC 13)** check confirms that Eliren is speaking sincerely, and believes what she says to be true.
 

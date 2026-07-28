@@ -66,7 +66,7 @@ If the characters choose to enter the strange structure, describe the following:
 >
 > Level 1 · Unknown Unknown
 >
-> ![Nadin](../../../assets/image174.webp)
+> ![Nadin](../../../assets/image187.webp)
 
 > [!quote] Read Aloud
 > The woman's rasping voice cuts through the smoke, landing not only in your ears but also in your mind.

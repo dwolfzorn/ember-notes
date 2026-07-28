@@ -61,6 +61,20 @@ generates the semantic search index in the same pipeline.
 Fonts use the system stack (`fontOrigin: "local"`) and the unused KaTeX
 plugin is removed, so the whole site loads with zero external requests.
 
+### Page order
+
+The sidebar and folder pages list pages in the same order as the journal
+index notes (`_<Entity>.md`, `_Index.md`), not alphabetically. Both
+`quartz.layout.ts` (sidebar) and `quartz.config.ts` (folder pages) source
+this order from `quartz/util/folderOrder.ts`, which reads every
+underscore-prefixed journal index note in `content/` and turns its
+headings/wikilinks into a slug -> position map: a heading names a subfolder
+and orders it among its siblings, a "## Pages" heading covers the folder's
+own pages, and pages not listed in any journal index fall back to
+alphabetical order after the listed ones. Like the semantic search index,
+this is computed once when the config loads, so a running `--serve` session
+won't pick up journal index edits until restarted.
+
 ## Prerequisites
 
 - Foundry VTT with the **Journal Resolver Exporter** module installed and
@@ -94,8 +108,8 @@ terminal here, or `cd` into it). Each `--source` writes to its own
 top-level folder, so converting one source never touches the other.
 
 ```powershell
-python convert.py --input "$env:USERPROFILE\Downloads\Ember" --output . --source Ember --clean
-python convert.py --input "$env:USERPROFILE\Downloads\Crucible System Rules" --output . --source Crucible --clean
+python convert-foundry-notes.py --input "C:\Users\David\Downloads\Ember.resolved" --output . --source Ember --clean
+python convert-foundry-notes.py --input "C:\Users\David\Downloads\Crucible System Rules.resolved" --output . --source Crucible --clean
 ```
 
 (Replace the `--input` path with wherever you extracted the export folder

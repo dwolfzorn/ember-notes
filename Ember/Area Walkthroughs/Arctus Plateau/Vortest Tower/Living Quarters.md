@@ -35,7 +35,7 @@ The party's timely arrival to the chamber inadvertently deactivates the temporal
 >
 > Level 5 · Jahud Assassin
 >
-> ![Jahud Assassin](../../../assets/image090.webp)
+> ![Jahud Assassin](../../../assets/image092.webp)
 >
 > A four-armed, blue-skinned cutthroat stands before you, armed with two viridian daggers and an array of bladed bracers crafted from dark gray bone. A black half-mask obscures most of the creature's face, exposing its pale blue eyes, a pair of wicked horns, and a mane of bright azure hair that roils like arcane fire. The rogue's strappy leather armor is wrapped tightly around its muscular flesh, and its shoulders boast overlapping plates of cerulean chitin like primeval pauldrons. A pointed tale lashes with ferocious cruelty behind this otherworldly menace, who looks ready to slay anything that moves.
 

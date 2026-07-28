@@ -18,7 +18,7 @@ tags: [ember, area-walkthroughs]
 >
 > Level 4 · Afflicted Pallid Drake Adult Drake
 >
-> ![Afflicted Pallid Drake](../../../assets/image011.webp)
+> ![Afflicted Pallid Drake](../../../assets/image012.webp)
 >
 > This large, serpentine creature is covered in pale white-green scales with a prominent flared tail adorned with ragged, green frills. Its draconic head is set with long horns tipped in the same pale green hue, and halfway down its body are more wide, damaged frills. The Drake's eyes are a cloudy white, hinting at blindness, and its body is marred by unsettling yellow pustules emerging from ragged wounds. Despite its obvious afflictions, it maneuvers with undeterred grace, periodically revealing rows of razor-sharp teeth within a saliva-dripping maw.
 
@@ -27,7 +27,7 @@ tags: [ember, area-walkthroughs]
 >
 > Level 2 · Afflicted Pallid Drake Drakeling
 >
-> ![Afflicted Pallid Drakeling](../../../assets/image012.webp)
+> ![Afflicted Pallid Drakeling](../../../assets/image013.webp)
 >
 > This serpentine creature has a long thin body accentuated by thin, ragged spotted frills midway along its body. Its features are dragon-like, boasting a crown of wavy horns, a maw filled with small, razor-sharp teeth, and a constant drool of acidic saliva. Its cloudy eyes suggest blindness, while the presence of unsettling yellow pustules in unhealed wounds point to a strange affliction. Despite its sickly appearance, the creature appears agile and dangerous.
 
@@ -36,7 +36,7 @@ tags: [ember, area-walkthroughs]
 >
 > Level 3 (Elite) · Human Chirurgeon
 >
-> ![Mutagist Vivisector](../../../assets/image010.webp)
+> ![Mutagist Vivisector](../../../assets/image011.webp)
 >
 > Clad in stained apron and coat, they regard you coolly from behind goggles and mask which make it impossibly to discern anything about them. They turn a razor sharp scalpel in their hand, as their off-hand rests on a pouch containing several vials of undoubtedly dangerous compounds. The air around them is thick with the scent of medicine and blood.
 

@@ -9,25 +9,33 @@ tags: [ember, area-walkthroughs]
 # Holding Cells
 
 > [!quote] Read Aloud
-> Metal walls divide this small prison into smaller holding cells, each large enough to fit a single captive. Beyond the smell of sweat and stink, there is the distinctive scent of acrid smoke, as if someone or something within these walls was set aflame.
+> Metal walls divide this prison into small holding cells, each large enough for a single captive. The cells are arranged in three rows, each marked by a different colored band: orange across the top row, blue across the middle row, and yellow across the bottom row. Beside each cell door, a glyph has been etched in the metal.
+>
+> Beneath the smell of sweat and confinement, there is the sharper stink of acrid smoke, as if someone or something within these walls was set aflame.
+
+> [!danger] Hazard
+> #### Locked Cells
+>
+> Each cell is locked by a complex mechanism, but can be unlocked with a successful `[[/skill sleightofhand 30 tool=thief]]`. Alternatively, the bars can be bent with a successful **Athletics (DC 30)** check.
+>
+> Finally, each cell can be opened from the [[Inner Chamber]] by entering its color-and-number code on the central console. The color corresponds to the cell's row, while the number corresponds to the cell's position in that row, counted from left to right.
+>
+> - **Top Row:** Orange
+> - **Middle Row:** Blue
+> - **Bottom Row:** Yellow
+>
+> For example, the code for [[Funar Cevher's Cell]] is **Yellow 1**.
 
 > [!tip] Exploration
-> #### Opening Funar's Holding Cell
+> #### Reading the Glyphs
 >
-> The door to Funar's Holding Cell is much less well protected than the main door to the holding area. It can be opened or destroyed if the party does any of the following:
+> Any character who makes a successful **Society (DC 15)** check recognizes the glyphs as Harmos, the language used by the Tyraphem who dwell on the Inner Realm of Luxarum.
 >
-> - Break the lock with pure strength with a successful `[[/check strength 18]]` check. If this attempt is made unarmed/without any tools, it is made with **-2 Banes**.
-> - Pick the lock with a successful `[[/check sleightofhand 17]]` with Thieves' Tools.
-> - Secure a key from the desk in the [[Holding Cells Antechamber]]
+> - **Language: Harmos**: The character automatically succeeds on this check.
+> - **Knowledge: Celestials**: The character automatically succeeds on this check.
+>
+> Any character who can read Harmos understands the glyphs to mean numbers ranging from 1-5. The numbers correspond to the cell's position in its respective row.
 
 ### The Empty Holding Cells
 
-The remaining holding cells are mostly (but not all) empty. They can be quickly scanned without a check to determine if there is anything of value.
-
-- [[A Bare Holding Cell]]
-- [[Cell with a Scratched Wall]]
-- [[Cell with a Half-Dressed Skeleton]]
-- [[Cell with Gnawed Remains]]
-- [[The Cell with Empty Chains]]
-- [[The Cell with a Stained Floor]]
-- [[The Scorched Cell]]
+Unlisted holding cells are either empty or contain scorched skeletal remains that have been stripped of possessions.

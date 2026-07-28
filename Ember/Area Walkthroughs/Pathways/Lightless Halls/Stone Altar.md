@@ -18,7 +18,7 @@ Before the party can study the altar further, they are attacked by a Vhismara's 
 >
 > Level 1 · Unknown Unknown
 >
-> ![Vhismara's Claw](../../../assets/image015.webp)
+> ![Vhismara's Claw](../../../assets/image016.webp)
 
 > [!danger] Hazard
 > #### **The Upper Hand**

@@ -8,16 +8,10 @@ tags: [ember, area-walkthroughs]
 
 # Hephiss' Downstairs Bathroom
 
-> [!warning] Gamemaster
-> #### Access to Hephiss' Downstairs Bathroom
+> [!danger] Hazard
+> #### Access Level
 >
-> Access to Hephiss' Downstairs Bathroom is **restricted** at all times. See [[Gameplay Details]] for more on access levels.
->
-> #### Locating Funar Cevher
->
-> See [[Casing the Joint]] for details.
->
-> - Funar Cevher is **in the vicinity.** This is the baseline result within Marlstone Manor.
+> This area is **Forbidden**.
 
 > [!quote] Read Aloud
 > The bathroom, while small, holds a few bottles of perfume made of delicately colored glass.

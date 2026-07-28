@@ -44,10 +44,11 @@ As the party returns to Skybrush after visiting the home of Gedron Tath, they wi
 > - Allow the characters ample time to follow leads and investigate Skybrush in their own way, but be mindful of moments when the narrative stalls out due to confusion or dead ends. Don't be afraid to interject with one of the several NPCs at your disposal to keep things moving along; after all, Skybrush is their town and the party is just visiting.
 > - Always keep track of where each of the five Varùn artifacts are at any given time. If you know where the artifacts are you can determine when, how, and how quickly the Bewilderment is spreading.
 > - When in doubt regarding the sequence of events that preceded the party's arrival or the effects of the curse itself, consult the [[Unknown]] and [[The Bewilderment]] appendices for more details.
+> - If a NPC with an Actor becomes afflicted with [[The Bewilderment]], drag the corresponding Feature onto the PC's character sheet from the [[Ember]] Compendium in the sidebar.
 >
 > #### Offering Hints
 >
-> If at any point during the investigation, the party seems stuck, request that the players roll a **Awareness (DC 16)** or **Deception (DC 16)** check. On a success, provide a hint framed from the perspective of something they realize or remember.
+> If the party gets stuck at any point in time during the investigation, you can require the characters to make a special **Awareness (DC 16)** or **Deception (DC 16)** check. On a success, provide a hint to the party, framed from the perspective of something the characters realize or remember.
 
 ### The Unholy Prisoner
 
@@ -71,7 +72,7 @@ As the party returns to Skybrush after visiting the home of Gedron Tath, they wi
 >
 > Level 4 · Ghoul Horrendor
 >
-> ![Horrendor](../../../assets/image087.webp)
+> ![Horrendor](../../../assets/image090.webp)
 >
 > A disheveled corpse lurks before you, ripe with sepulchral effluvium. A wicked grin dripping a dark crimson ichor twists its way across the cadaver's pale, deathless face, and the exaggerated brows that frame its milky white eyes betray some kind of cunning menace.
 
@@ -201,7 +202,7 @@ Asking around town about a [[Kiska]] with a description matching that of Tath's 
 > [!info] Social
 > #### The Verge of a Curse
 >
-> Although she purchased a cursed [[Rune-Marked Sash]] from [[Liestra Grann]], Kel Kornan simply hasn't succumbed to the full effects of the Bewilderment — yet. But it's only a matter of time.
+> Although she purchased a cursed [[Rune-Marked Sash]] from [[Liestra Grann]], Kel Kornan simply hasn't succumbed to the full effects of [[The Bewilderment]] — yet. But it's only a matter of time.
 >
 > - If questioned about the murders in Skybrush, Kel is honestly ignorant; nor does it occur to her to voluntarily mention the Rune-Marked Sash or how she procured it.
 > - Kel has never met Dereth Erekos, Qory Hult, or any of their kin; she simply lives in a different social strata than these "unfortunate young men."

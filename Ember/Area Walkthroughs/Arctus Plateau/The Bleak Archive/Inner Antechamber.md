@@ -18,7 +18,7 @@ This oblong room serves as an antechamber for the [[Unknown]] of the Bleak Archi
 >
 > Level 4 · Corrupted Cadrithor Guardian Beast
 >
-> ![Corrupted Cadrithor](../../../assets/image086.webp)
+> ![Corrupted Cadrithor](../../../assets/image089.webp)
 >
 > You behold a quadruped creature made of pure shadow. The curves of its tenebrous form unmistakably resemble the grotesque skeleton of some vaguely canine monstrosity, shrouded in a black and purple cloak of abyssal fire. It's cruel eyes shine with a ghostly radiance, and its otherworldly growl reeks of grave nitre.
 

@@ -29,7 +29,7 @@ This is the garden of the strange Fae entity known as Meri, who was once a frien
 >
 > Level 1 · Unknown Unknown
 >
-> ![Meri](../../../assets/image042.webp)
+> ![Meri](../../../assets/image043.webp)
 
 > [!warning] Gamemaster
 > #### Interactivity

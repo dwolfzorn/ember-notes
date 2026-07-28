@@ -8,6 +8,15 @@ tags: [ember, gazetteer]
 
 # Mycelian Expanse
 
+> [!warning] Gamemaster
+> #### Gamemaster's Summary
+>
+> This Biome is located directly below the [[Mythspire Observatory]].
+>
+> - Travel through this Biome is generally [[Region Exploration]].
+> - This Biome is visually depicted by the [[Vista: Mycelian Expanse]] Vista.
+> - This Biome can be explored within the [[Mycelian Expanse]] Area Map.
+
 The Mycelian Expanse is mostly flat ground with few changes in elevation of note save for a few plateaus and winding tunnels. However, the area is home to several rivers that flow toward a massive central chasm which descends abruptly into the core of Ember and presents the main navigational obstacle of the region.
 
 ### Environment

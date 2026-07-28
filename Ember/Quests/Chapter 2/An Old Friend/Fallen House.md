@@ -21,7 +21,7 @@ tags: [ember, quests]
 > - Discover that [[House Cevher]] seat on the [[Ordinate]] held by Ralton Cevher has been stripped away from Lyla, and House Cevher is under investigation for the major earthquake that hit the Arctus Plateau twenty years ago.
 > - Receive a reward for their efforts from Lyla.
 >
-> This Event is depicted using the [[Vista: Ordain Overview]] Vista.
+> This Event is depicted using the "Dense Crowd" Level of the [[Vista: The Ordinate]] Vista.
 
 ### Arriving at the Ordinate
 
@@ -46,7 +46,7 @@ If the party arrives alone/without Lyla:
 > [!quote] Read Aloud
 > No sooner have you stepped a few feet onto the steps of the Ordinate than a cracking voice can be heard behind you as someone says, "You're here?. You turn, and you see Lyla Cevher staring at you with wide eyes.
 >
-> > If you came for me, thank you. I'm not sure what is going on, but something is terribly wrong; everyone is treating me like some kind of ghost. Half of me wants to turn around and run. No one will speak with me — about the bandits, about Arcturel, about anything — and I can't reach anyone in my family. There's been talk of a full session, and I need to take my seat on the Ordinate Council. Will you ... accompany me inside?
+> > If you came for me, thank you. I'm not sure what is going on, but something is terribly wrong; everyone is treating me like some kind of ghost. Half of me wants to turn around and run. No one will speak with me — about the bandits, about Arcturel, about anything — and I can't reach anyone in my family. There's been talk of a full session, and I need to take my place on the Ordinate Council. Will you ... accompany me inside?
 
 > [!warning] Gamemaster
 > #### Music: Default
@@ -73,13 +73,13 @@ As the party makes their way inside the massive Council Atrium, they push past t
 Load the Ordinate Atrium Vista and then read the following:
 
 > [!quote] Read Aloud
-> The large chamber is filled with people, with hundreds congregating on the main floor around the dais and more in the alcoves above. Members of the Veiled Chain, dressed in their rarely seen distinctive black leathers and attire, are maintaining a barrier between the crowd and the council members sitting at the curved table at the far end of the dais.
+> The large chamber is filled with people, with hundreds congregating on the main floor around the dais and more in the alcoves above. Members of the Veiled Chain, dressed in their rarely seen distinctive black leathers and attire, are maintaining a barrier between the crowd and the council members present at the three curved tables encircling the center of the dais.
 >
-> Lyla attempts to sit in the empty seat at the far end of the table, but the Veiled Chain members block her. She attempts to speak, but a loud clang of a staff striking the flagstones echoes through the chamber, silencing all the murmuring voices and conversations.
+> Lyla attempts to move into the empty place at the far end of the center table, but the Veiled Chain members block her. She attempts to speak, but a loud clang of a staff striking the flagstones echoes through the chamber, silencing all the murmuring voices and conversations.
 >
 > > SILENCE.
 >
-> The speaker, a member of the Ordinate, stands holding a long, ornate staff and dressed in long white and gold robes, while all other members remain seated.
+> The speaker, a member of the Ordinate holding a long, ornate staff and dressed in long white and gold robes, moves to the center of the dais while all other members watch from their positions behind the tables.
 >
 > > There has been much discussion and deliberation about the topic we are about to address today. I thank everyone here for their patience. The issue today concerns the devastating earthquake that occurred twenty years ago and that I'm sure everyone here was affected by. For many years, we had assumed the earthquake was a natural, unavoidable phenomenon, and no one person or group was responsible.
 > >

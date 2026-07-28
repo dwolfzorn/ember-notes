@@ -19,7 +19,7 @@ tags: [ember, quests]
 >
 > #### Milestone Progression
 >
-> This is a Side Quest that awards 1 [[Milestone Progression]] upon successful completion of [[Commissioned Work]].
+> This is a Side Quest that awards 1 [[Milestone Progression]] upon successful completion of [[Matters of Perspective]].
 
 Long ago, an adventurer known as Falar struck out to find success in Ordain, and for a while he did well for himself. A man of charm and intelligence, he quickly found allies, made connections in high society, and built a small fortune for himself as a purveyor of magical knowledge and tricks for other ambitious adventurers. However, every luxury and laurel that Ordain can bestow, it can also take away, and through a series of poor decisions, chance encounters, and soured relationships, Falar watched everything he'd spent his life building vanish overnight.
 

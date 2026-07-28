@@ -9,29 +9,34 @@ tags: [ember, area-walkthroughs]
 # Vitt's Office
 
 > [!quote] Read Aloud
-> Paper-filled desks line the walls of the room, nestled between bookshelves whose books have well-worn spines. On one of the, a ledger is opened and a chair pushed back from the desk, as if whoever was writing in the ledger stepped away for only a moment and will soon return.
+> Desks line the walls of this office, their surfaces crowded with papers, inkpots, and stacked folders. Bookshelves fill the spaces between them, holding worn books with cracked spines and loose notes tucked between the pages. On one desk, a ledger lies open beside a chair pushed back from the writing surface, as if its owner stepped away only a moment ago.
 
-With a successful `[[/check perception 16]]` check, or `[[/check perception passive 18]]`, characters can hear someone humming quietly in the next room.
+If [[Vitt Wandren]] is still occupying the [[Vitt's Bedroom]], the party can hear him humming softly to himself. Vitt can hear disturbances in this room.
+
+> [!danger] Hazard
+> #### Avoiding Vitt's Attention
+>
+> Any loud noise in this room draws Vitt's attention, including forced entry, breaking furniture, raised voices, combat, or obvious rummaging. If Vitt hears a disturbance, he activates his [[Gem of Shielding]] and investigates: see [[Vitt's Bedroom]].
+>
+> Any character who makes a successful **Stealth (DC 15)** check can move through or search this room quietly enough to avoid drawing Vitt's attention. If the party moves through the room together, the Gamemaster may call for a group check instead.
 
 > [!tip] Exploration
 > #### Searching Vitt's Office
 >
-> Characters can search Vitt's office, though they must be careful not to alert the Brigade leader.
+> A simple search reveals the following:
 >
-> - To do a superficial check, characters must succeed on a `[[/check stealth 16]]` check to avoid alerting Vitt and a `[[/check perception 16]]` check to find the items they seek. If they succeed on both, they find:
->   - The Brigade's books, which include a list of shopkeepers that the Beacon Brigade is regularly collecting money from and where the money is going, including "20% to HW" - while this is not proof of anything, Lyla is likely to be interested.
-> - To do a deeper search (looking for papers shoved into books and in open desk drawers, characters must succeed on a `[[/check sleightofhand 17]]` check to avoid alerting Vitt and a `[[/check investigation 17]]` to check to find the items they seek. If they succeed on both, they find:
->   - A sketch of Darius Cevher's shop, Threadforge, with notes of entries and exits. A clock, drawn on top, is set to 3:00 PM, believed to be the approximate time of the murder. This is a clear piece of evidence of the Brigade's involvement in his death and a way to clear Funar's name. Mark the appropriate outcome in [[Revealed by Lantern]].
-
-> [!danger] Hazard
-> #### Vitt Alerted
+> - An open ledger on one of the desks.
+> - Stacks of paper.
+> - Worn books with loose pages tucked between them.
 >
-> If characters alert Vitt, the Beacon Brigade leader immediately enters the room and attacks. The party is surprised by the attack and Vitt enters with their Gem of Shielding already active.
+> #### The Ledger and Stacks of Paper
 >
-> #### Vitt Wandren Tactics
+> The ledger and stacks of paper are records of money collected from shopkeepers throughout Lantern Roads, along with notes about where the money is sent. One recurring entry reads "20% to HW." This does not prove Hephiss Wandren's involvement on its own, but Lyla Cevher is likely to be interested in it.
 >
-> [[Vitt Wandren]]is an aggressive combatant who uses a [[Gem of Shielding]] around their neck to protect themselves from the substances that they either throw or shoot with their bow, many of which do damage over a large area and make movement difficult. The destruction to their own home seems unimportant to them.
+> If the party found the bookkeeping records in [[Local Treasures]] and compares them to the records here, they discover that Vitt Wandren has been skimming a small percentage and concealing it from Hephiss.
 >
-> They take **+2 Boons** of their enemies' **-2 Banes** during this time to make close-up strikes with their [[Club]] and avoid taking damage from their enemies.
+> #### Worn Books
 >
-> If the Gem of Shielding is removed from Vitt, they lose their protection from the effects of their own weapons and will resort to traditional combat using their club and bow.
+> Any character who searches the worn books finds a loose sketch of Darius Cevher's shop, Threadforge. The sketch marks entrances, exits, and sightlines around the building, as well as a list of times that correspond to when Darius usually locks up. One time is circled: 3:00 PM, the approximate time of the murder.
+>
+> The Threadforge sketch is clear evidence of the Beacon Brigade's involvement in Darius Cevher's death and can help clear Funar's name. Mark the appropriate Outcome in [[Revealed by Lantern]].

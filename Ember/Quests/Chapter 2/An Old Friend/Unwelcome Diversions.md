@@ -11,7 +11,7 @@ tags: [ember, quests]
 > [!warning] Gamemaster
 > #### Gamemaster's Summary
 >
-> This Combat and Exploration Event brings the party to Lower Arcturel, where they must investigate the leads they discovered in [[Unhappy Accidents]]. In this Event, the characters can:
+> This Combat and Exploration Event brings the party to the Dives, where they must investigate the leads they discovered in [[Unhappy Accidents]]. In this Event, the characters can:
 >
 > - Break into the distillery and get a sample of the brew that has been sickening the locals.
 > - Investigate the repair shop and figure out what has been making the repairs fail.
@@ -20,7 +20,7 @@ tags: [ember, quests]
 >
 > #### Area Walkthrough
 >
-> The party begins in the [[Arcturel Lower]] Scene, where the central gameplay of this Event transpires. A complete room-by-room description of the area and the gameplay that occurs there is detailed in the [[Arcturel Lower]] Area Walkthrough.
+> The party begins in the [[Arcturel Dives]] Scene, where the central gameplay of this Event transpires. A complete room-by-room description of the area and the gameplay that occurs there is detailed in the [[Arcturel Dives]] Area Walkthrough.
 >
 > In addition to the details provided in the Area Walkthrough, there are five key moments during exploration where Event-specific gameplay should occur:
 >
@@ -170,7 +170,7 @@ The young stablehand **Kaol** (Chaotic Neutral, Arcturian Human, he/him) returns
 
 #### Mayis Attunement: Leads Investigated
 
-If the party manages to investigate all three of the primary leads in Lower Arcturel, each character advances their **Attunement: Mayis (+1)** at the conclusion of the Event.
+If the party manages to investigate all three of the primary leads in the Dives, each character advances their **Attunement: Mayis (+1)** at the conclusion of the Event.
 
 ### Asking the Apothecary
 
@@ -216,7 +216,7 @@ With all roads leading to the abandoned mine, the party can keep investigating t
 > [!warning] Gamemaster
 > #### Area Walkthrough
 >
-> Once they enter the mine area, the party's progress can be tracked using the [[Arcturel Lower]] Area Walkthrough. The party's time in the mines ends with their battle against the Tyraphem [[Aburyx]] Kilner and a search of his belongings for information about the issues occurring in Arcturel.
+> Once they enter the mine area, the party's progress can be tracked using the [[Arcturel Dives]] Area Walkthrough. The party's time in the mines ends with their battle against the Tyraphem [[Aburyx]] Kilner and a search of his belongings for information about the issues occurring in Arcturel.
 
 If the characters search Kilner's belongings thoroughly, they may come across his notes, [[Kilner Notes]], which mention a way to decode the [[Coded Bandit Instructions]] found on the bandits in Helkas.
 

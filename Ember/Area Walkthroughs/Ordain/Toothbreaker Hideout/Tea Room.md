@@ -18,7 +18,7 @@ tags: [ember, area-walkthroughs]
 > [!tip] Exploration
 > #### Searching the Tea Room
 >
-> Characters who succeed on a **Society (DC 15)** check or who have completed the `[[/eventState rubyGroveTales]]` event recognize the crimson fluid in the tea set as [[Ruby]], a rare concoction brewed in [[Talei]] to the north of Ordain. However, the tea has gone cold and has lost it's potency; drinking it has no lingering effects.
+> Characters who succeed on a **Society (DC 15)** check or who have completed the `[[/eventState rubyGroveTalk]]` Event recognize the crimson fluid in the tea set as [[Ruby]], a rare concoction brewed in [[Talei]] to the north of Ordain. However, the tea has gone cold and has lost it's potency; drinking it has no lingering effects.
 >
 > Characters with **Culture: Waerd** or who succeed on a **Performance (DC 13)** check recognize the game as "Bastion", a contest of strategy popular among Waerds.
 >
@@ -58,32 +58,32 @@ tags: [ember, area-walkthroughs]
 >
 > Level 1 · Unknown Unknown
 >
-> ![Raster Thorn](../../../assets/image034.webp)
+> ![Raster Thorn](../../../assets/image035.webp)
 
 > [!abstract] Toothbreaker Scaletamer
 > **[[Toothbreaker Scaletamer]]**
 >
 > Level 1 · Unknown Unknown
 >
-> ![Toothbreaker Scaletamer](../../../assets/image030.webp)
+> ![Toothbreaker Scaletamer](../../../assets/image032.webp)
 
 > [!abstract] Toothbreaker Thug
 > **[[Toothbreaker Thug]]**
 >
 > Level 1 · Unknown Unknown
 >
-> ![Toothbreaker Thug](../../../assets/image029.webp)
+> ![Toothbreaker Thug](../../../assets/image034.webp)
 
 > [!abstract] Scalemaw
 > **[[Scalemaw]]**
 >
 > Level 1 · Unknown Unknown
 >
-> ![Scalemaw](../../../assets/image031.webp)
+> ![Scalemaw](../../../assets/image033.webp)
 
 > [!danger] Hazard
 > #### Raster De-Thorned
 >
-> If the party fights Raster Thorn in this location, he and his Toothbreaker allies follow the tactics described in [[Gameplay Details]]. Raster and his allies will fight to the death.
+> If the party fights Raster Thorn in this location, he and his Toothbreaker allies follow the tactics described in [[Gazetteer Reference]]. Raster and his allies will fight to the death.
 >
 > If Raster is defeated, consult the [[Raster's Throne Room]] page for information about Raster's personal belongings and the party's next steps.

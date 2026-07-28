@@ -8,33 +8,55 @@ tags: [ember, area-walkthroughs]
 
 # Vitt's Candy Shop
 
-> [!warning] Gamemaster
-> #### Getting to the North of Lantern Roads
->
-> - **Shadowbox Alleys:** Characters can pursue the Shadowbox Alleys path to Beacon Brigade territory by searching the vicinity of the shop. An entrance to the Beacon Brigade side of town can be found by going past or through Hettie's Divinations.
->
-> There is no information about the rooftop route or bluffing in this area.
-
 ### Outside of the Shop
 
 > [!quote] Read Aloud
-> If there was ever a shadowbox in this picture window, a thick layer of dust prevents you from seeing anything inside. Above the dusty window frame, a wooden sign reads Vitt's Candies, but there is no indication that anyone has been in or out anytime recently.
+> A thick layer of dust covers the shop's picture window, obscuring whatever display might have once stood behind it. Above the dusty window, a wooden sign reads "Vitt's Candies." The door is closed. No tracks, scuffs, or other signs of recent use mark the threshold.
 
-The door to the shop is closed, but not locked.
+A [[Wandren Patroller]] guards the stairway behind the shop. The Patroller remains at their post unless the party attacks, makes enough noise to draw attention, or otherwise reveals their presence.
 
 > [!danger] Hazard
-> #### The Beacon Brigade
+> #### Beacon Brigade Patroller
 >
-> A [[Wandren Patroller]] guards the stairway behind the shop. They remain there and will not emerge unless party members attack or call attention to themselves. In addition to the general options available when encountering members of [[Area Overview]]:
+> The party can deal with this Patroller using the general options described in [[Area Overview]], with the following addition:
 >
-> - Characters have **+2 Boons** on persuasion checks with the Patroller if they offer a piece of candy taken from the store.
-> - If characters encounter the Patroller after exiting Wandren HQ via the Storage Room, the Patroller is surprised.
+> - **Offer Candy:** The character gains **+2 Boons** on Persuasion checks if they offer a piece of candy taken from the store.
+>
+> If the characters encounter the Patroller after exiting Wandren HQ via the Storage Room, the Patroller is &Reference[surprise]{Surprised}.
+
+> [!abstract] Wandren Patroller
+> **[[Wandren Patroller]]**
+>
+> Level 1 · Unknown Unknown
+>
+> ![Wandren Patroller](../../../assets/image050.webp)
+
+> [!danger] Hazard
+> #### Beacon Brigade Patroller Tactics
+>
+> At the start of combat, the [[Wandren Patroller]] will move to strike an enemy with its [[Hollowed Dagger]], applying either [[Paralyzing Poison]] or [[Slowing Serum]], per the Gamemaster's discretion.
+>
+> Over the course of combat, the Patroller will prioritize the following actions and abilities:
+>
+> - In melee, the Patroller will use their [[Multiattack]] feature to apply [[Paralyzing Poison]] or [[Slowing Serum]] to as many enemies as possible.
+> - Whenever able, the Patroller will position themselves amongst allies to take advantage of their [[Pack Tactics]] feature.
+>
+> Once reduced below half their Hit Point maximum, the Patroller will attempt to flee toward the nearest ally.
 
 ### Inside of The SHop
 
-If the party heads inside, they find the shop unoccupied.
-
 > [!quote] Read Aloud
-> The inside of the shop is just as dusty as the outside, with one major exception - the shop's side window has been kept relatively clean. Through it, you can clearly see a stairway headed down.
+> The shop is unoccupied. Dust covers the shelves, counters, and floors, though the side window has been kept cleaner than the rest of the storefront. Through it, you can see a stairway descending behind the shop.
 
-If the party hasn't yet dealt with the [[Wandren Patroller]] in the stairway, they can clearly see the Patroller through the window.
+The door is closed, but unlocked.
+
+> [!tip] Exploration
+> #### Searching Vitt's Candies
+>
+> A simple search reveals the following:
+>
+> - A few pieces of wrapped candy behind the counter.
+> - Jars of stale, spoiled, or missing candy.
+> - A side window overlooking the stairway behind the shop.
+>
+> If the party has not yet dealt with the Patroller behind the shop, the Patroller is visible through the side window.

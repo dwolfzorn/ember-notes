@@ -26,7 +26,7 @@ As soon as you finish the readaloud, the characters are in mortal danger from th
 >
 > Characters who sustain damage from this hazard are affected by the chaotic resonance of the crystals and must also withstand the **Psychic Resonance (Hazard 0, Willpower, Psychic)** caused by the crystal shards or roll once each on the [[Kaleidoscope Crystal Effects]] table.
 
-Following the stalactite's seismic impact, the party members can take a moment to observe their surroundings. However, the characters must also assess whether or not the event has thrown them off course - an outcome that becomes more likely based on whether or not some of them were hit by the crystal shards.
+Following the stalactite's seismic impact, the party members can take a moment to observe their surroundings. However, the characters must also assess whether or not the event has thrown them off course.
 
 > [!tip] Exploration
 > #### Surveying the Scene

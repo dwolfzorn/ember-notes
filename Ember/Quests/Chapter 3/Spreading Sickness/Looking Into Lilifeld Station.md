@@ -32,7 +32,7 @@ If the party arrives the same day as Ill Tidings, or investigates another locati
 >
 > Level 12 (Boss) · Cor'ak Sorcerer
 >
-> ![Serethus](../../../assets/image127.webp)
+> ![Serethus](../../../assets/image135.webp)
 >
 > Tall and imposing, with a strong, bulky frame typical of the Cor'ak, this man's brown and tan are accented by splashes of vibrant purple. Long, purple horns that frame his head in a regal yet intimidating manner. His teal eyes are striking and seem to pierce through those he engages with. His robes are bright and vibrant, in Ordani fashion, and draped with glittering gems of all shapes and sizes.
 
@@ -50,16 +50,18 @@ If the party arrives the same day as Ill Tidings, or investigates another locati
 > [!abstract] Eamon Mariflor
 > **[[Eamon Mariflor]]**
 >
-> Level 1 · Unknown Unknown
+> Level 8 · Hulg'run Agrimage
 >
-> ![Eamon Mariflor](../../../assets/image128.webp)
+> ![Eamon Mariflor](../../../assets/image109.webp)
+>
+> Before you stands a short figure with dusky, gray hair shimmering with tiny magical stars and crescent moons. Glowing orange lines coil up his arms and over his face, making his skin look like a bed of cooling lava. His amber eyes seem to always glint with keen interest, and his wide, sharp-toothed smile is overtly friendly. He is dressed practically, and wears the mark of the Redrak Agrimage Circle pinned to his coat. He moves with lively energy.
 
 > [!abstract] Del Kalais
 > **[[Del Kalais]]**
 >
 > Level 1 · Unknown Unknown
 >
-> ![Del Kalais](../../../assets/image129.webp)
+> ![Del Kalais](../../../assets/image136.webp)
 
 > [!info] Social
 > #### Eamon Mariflor

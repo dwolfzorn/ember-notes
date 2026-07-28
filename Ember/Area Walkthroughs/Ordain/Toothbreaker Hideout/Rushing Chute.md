@@ -11,12 +11,12 @@ tags: [ember, area-walkthroughs]
 > [!danger] Hazard
 > #### One-Way Water
 >
-> Characters who enter the water in the grid space next to this chute are sucked into the rushing water and deposited seconds later in the canals of the [[Tea Room]] to the southeast. Characters are momentarily submerged by the water:
+> Any character who enters the water in the grid space west of this chute must make a successful `[[/save strength 30]]` save to avoid being sucked into the chute's rushing water. Failure results in the character being deposited seconds later in the canals of the [[Tea Room]] to the southeast, as well as being subject to the following effects:
 >
-> - Any flames they are carrying are extinguished.
-> - **Ancestry: Fej** characters must make a saving throw against Exhaustion.
+> - Any flames the character is carrying are extinguished.
+> - Any character with **Ancestry: Fej** suffers 1 level of Exhaustion.
 
 If a character is pulled into the chute, read the following aloud:
 
 > [!quote] Read Aloud
-> You draw closer to a narrow chute on the wall, where you feel a quick tug on your lower body as you're suddenly swept up in a rapid flow of water to the southeast. Before you know it, you're pulled down and away through the subterranean torrent, emerging moments later into a different section of the hideout's lazy canals.
+> As you draw closer to a narrow chute on the wall, you feel a sudden and violent tug on your lower body as you become swept up in a rapid flow of water to the southeast. Before you know it, you emerge from this subterranean torrent and find yourself in a different section of the hideout's lazy canals.

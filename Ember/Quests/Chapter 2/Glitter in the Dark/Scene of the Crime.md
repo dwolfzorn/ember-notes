@@ -11,7 +11,7 @@ tags: [ember, quests]
 > [!warning] Gamemaster
 > #### Gamemaster's Summary
 >
-> This social and exploration event allows the party to continue their investigation into the Renegade Construct's so-called murder of Kellan Lorde by visiting the scene of the crime in Lower Arcturel. In this event, the characters can:
+> This social and exploration event allows the party to continue their investigation into the Renegade Construct's so-called murder of Kellan Lorde by visiting the scene of the crime in the Dives. In this event, the characters can:
 >
 > - Speak with a House Cevher miner named Eolas Hathwick, who was a secondhand witness to the altercation between Kellan Lorde and the Renegade Construct.
 > - Meet an inkaro lamplighter named **Calandra**, who was the key witness when the accident occurred, and learn about the time-honored duties of the lamplighters.
@@ -22,7 +22,7 @@ tags: [ember, quests]
 > [!warning] Gamemaster
 > #### Off Limits: The Mines
 >
-> This event takes place in Lower Arcturel, near a mine that plays an important role in the [[An Old Friend]] main quest. Unless the party is allied with Lyla Cevher and currently engaged in the events of [[Unhappy Accidents]], the mine is closed and narratively off limits. Don't allow the characters to enter the mine at this time, citing the following readaloud should you need it:
+> This event takes place in the Dives, near a mine that plays an important role in the [[An Old Friend]] main quest. Unless the party is allied with Lyla Cevher and currently engaged in the events of [[Unhappy Accidents]], the mine is closed and narratively off limits. Don't allow the characters to enter the mine at this time, citing the following readaloud should you need it:
 >
 > > The entrance to the mine is sealed with a barricade and a sign that reads: "Off Limits. Mine Closed for Refurbishment. See Zodi Trask for credentials." By all accounts, you can't get in. And the mundane silence that awaits you on the other side of the threshold does very little to hold your attention.
 
@@ -57,7 +57,7 @@ The miner exiting the edifice is a middle-aged quarryman named Eolas Hathwick, w
 
 ### The Lamplighter's Plight
 
-The party has arrived in Lower Arcturel at a convenient time for their investigation, as the empathic lamplighter **Calandra** (Neutral Good, Arcturian Nir'ae, she/her) is currently making her daily rounds. According to locals, Calandra was the only eye-witness to Kellan Lorde's death.
+The party has arrived in the Dives at a convenient time for their investigation, as the empathic lamplighter **Calandra** (Neutral Good, Arcturian Nir'ae, she/her) is currently making her daily rounds. According to locals, Calandra was the only eye-witness to Kellan Lorde's death.
 
 When the party decides to approach the thoughtful lamplighter or catch her attention, read the following:
 
@@ -92,7 +92,7 @@ When the party decides to approach the thoughtful lamplighter or catch her atten
 >
 > - She was the only one on the catwalk other than Kellan Lorde and the Chessman when the accident happened. The construct was apparently fiddling with the inkaro lantern outside the Mine Office near Hob Korell's, and Kellan tried to stop it. As soon as the miner put his hands on the construct, the Chessman erupted into a fit. She heard Kellan yell: "Put that down. Do your job." And after a short struggle, they both went over the ledge.
 > - She's quick to point out the specific location of the accident to the players, an inkaro lantern outside [[Hob Korell's Unconventional Steeds]] along the southern section of the catwalk. (The details of this area are featured below in "Surveying the Crime Scene").
-> - Calandra and a few of her lamplighter associates have seen Silver Beam workers toiling in their headquarters in Upper Arcturel during odd hours. It seems innovation never sleeps for that group.
+> - Calandra and a few of her lamplighter associates have seen Silver Beam workers toiling in their headquarters in Arcturel during odd hours. It seems innovation never sleeps for that group.
 > - According to rumors, yet another accident involving a Chessman occurred in the past day or two, a fatality involving a Mootap in the [[Inkaro Pools]] down in the Sinkhole Depths. The poolside foreman Zirca Bronzebellow is a reasonable person to speak with about the incident.
 >
 > Although she teeters on the edge of hesitation, a successful **Diplomacy (DC 15)** **Diplomacy (DC 15)** check (or a small bribe of 5 sp or more) compels Calandra to relate anecdotal evidence suggesting that the Silver Beam Consortium has also been withholding some of their inkaro pearls from public consumption.
@@ -118,12 +118,12 @@ The party can inspect the scene of the crime itself: the catwalk outside Hob Kor
 
 ### Investigating the Dives
 
-The party can investigate other areas in Lower Arcturel for clues, although efforts to gather additional information inevitably point the characters in the same direction: towards whatever evidence might remain at the bottom of the sinkhole, where the construct and the deceased victim presumably fell.
+The party can investigate other areas in the Dives for clues, although efforts to gather additional information inevitably point the characters in the same direction: towards whatever evidence might remain at the bottom of the sinkhole, where the construct and the deceased victim presumably fell.
 
 > [!info] Social
 > #### Other Denizens of the Dives
 >
-> Rumors abound in Lower Arcturel, if the characters want to seek them. Most of the local superstition is fruitless, but a few citizens have some adequate information to share. Helpful locations and individuals include:
+> Rumors abound in the Dives, if the characters want to seek them. Most of the local superstition is fruitless, but a few citizens have some adequate information to share. Helpful locations and individuals include:
 >
 > [[Hob Korell's Unconventional Steeds]]. The friendly lizard trader **Hob Korell** (Chaotic Good, Waerd Keth, he/him) can also be a source of information.
 >

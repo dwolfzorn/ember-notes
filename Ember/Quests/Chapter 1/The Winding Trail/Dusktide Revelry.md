@@ -120,7 +120,7 @@ After the performance, Sadri approaches the party to introduce herself, recogniz
 >
 > Level 1 · Altyra Trader
 >
-> ![Sadri Zhalimorne](../../../assets/image063.webp)
+> ![Sadri Zhalimorne](../../../assets/image067.webp)
 >
 > You regard a steel-skinned woman with luminous golden eyes and side-parted bob of short-cropped silver hair. Adorned in a brown sleeveless tunic with leather shorts and boots, her countenance is equal parts purposeful and amused, and you can’t help but notice the lambent lines of bright copper that decorate her legs. A beaded Arcturian plastron necklace hangs around her neck, proudly signifying some kind of social station.
 
@@ -294,11 +294,11 @@ Each of the five Strayhearth Caravan characters are associated with one of the f
 > > I mostly run the stall for the local kids, but I know everyone loves cute animals and cake… even if they pretend they don't.
 
 > [!tip] Exploration
-> #### Critters and Crumbs
+> #### Critters and Cakes
 >
-> Admission to the Petting Zoo is  **-1**. Animal feed is available for an additional  **-1**; a single purchase provides a character with enough animal feed for the duration of their visit.
+> Admission to the Petting Zoo is 1 cp. Animal feed is available for an additional 1 cp; a single purchase provides a character with enough animal feed for the duration of their visit.
 >
-> Treats meant for humanoids can also be acquired for  **-2** each. The cake pops are sweet, moist, and delicious. The available options are the Water Moon Mayis, which is filled with a salted caramel, the Dark Moon Orbis, which is chocolatey and a little bitter, and the Fire Moon Ragen, a strong spiced cake.
+> Treats meant for humanoids can also be acquired for 2 cp each. The cake pops are sweet, moist, and delicious. The available options are the Water Moon Mayis, which is filled with a salted caramel, the Dark Moon Orbis, which is chocolatey and a little bitter, and the Fire Moon Ragen, a strong spiced cake.
 >
 > #### Petting Zoo
 >
@@ -329,9 +329,9 @@ Each of the five Strayhearth Caravan characters are associated with one of the f
 > Clipper is here attempting to win the prize with all their might, but can't quite manage it. A party member can help by winning the prize themselves. Doing so is worth nothing more than Clipper's endless gratitude, and the satisfaction of seeing them united with a giant stuffed leviathan that is equal parts adorable and monstrous.
 
 > [!tip] Exploration
-> #### Hammer Time
+> #### High Striker
 >
-> For each  **-1** a character spends, they get a single chance to see how high they can launch a feather-falling lodestone using a heavy wooden mallet against a calibrated lever. The lightly-enchanted stone chimes and glows bright orange and emits a high-pitched tone when it reaches a height of 20 feet.
+> For each 1 cp a character spends, they get a single chance to see how high they can launch a feather-falling lodestone using a heavy wooden mallet against a calibrated lever. The lightly-enchanted stone chimes and glows bright orange and emits a high-pitched tone when it reaches a height of 20 feet.
 >
 > Any character can drive the enchanted lodestone high enough to chime with a successful **Athletics (DC 16)** check. A character who successfully chimes the stone is awarded an oversized Stuffed Leviathan Doll as a prize. Losers are swiftly encouraged to play again.
 

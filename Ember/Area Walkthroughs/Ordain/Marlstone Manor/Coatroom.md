@@ -8,18 +8,12 @@ tags: [ember, area-walkthroughs]
 
 # Coatroom
 
-> [!warning] Gamemaster
-> #### Access to the Coatroom
->
-> Access to the Coatroom is **open to all** at all times. See [[Gameplay Details]] for more on access levels.
->
-> #### Locating Funar Cevher
->
-> See [[Casing the Joint]] for details.
->
-> - Funar Cevher is **nearby**.
+### [[Casing the Joint]]
 
-### Pre-Gala
+> [!danger] Hazard
+> #### Access Level
+>
+> This area is **Open**.
 
 > [!quote] Read Aloud
 > Coats and jackets fill the hangers of the room. Most are everyday fare, likely belonging to the staff who are working to prepare the house for the gala.
@@ -29,7 +23,12 @@ tags: [ember, area-walkthroughs]
 >
 > Characters who search through the coat room and succeed on a `[[/check perception 15]]` check find a discarded [[Apron of Many Pockets]].
 
-### At the Gala
+### [[The Marlstone Gala]]
+
+> [!danger] Hazard
+> #### Access Level
+>
+> This area is **Open**.
 
 > [!quote] Read Aloud
 > An array of coats, jackets, and scarves have filled the room, taking up every hanger spot. Between the vibrant colors, soft fabrics, and occasional stuffed pockets, the room looks like a display case of cutting-edge fashion and casual luxury.

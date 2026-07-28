@@ -195,7 +195,7 @@ On the Ordain side of the bridge, the party encounters a company of Lumek discus
 >
 > Level 10 (Boss) · Fej Justiciar
 >
-> ![Luna Karrowrath](../../../assets/image112.webp)
+> ![Luna Karrowrath](../../../assets/image120.webp)
 >
 > Clad in battle scarred Lunaran steel armor covered in the symbols of the Flameguard and the goddess Lumé, this Fej warrior has been through countless battles, and her intense, haunted gaze only reinforces this. She carries herself with an uncharacteristic grace for someone so heavily armored. Even the immense mace strapped to her back doesn't seem to slow her down.
 
@@ -204,7 +204,7 @@ On the Ordain side of the bridge, the party encounters a company of Lumek discus
 >
 > Level 5 · Human Protector
 >
-> ![Burnished Hand Protector](../../../assets/image025.webp)
+> ![Burnished Hand Protector](../../../assets/image026.webp)
 >
 > You regard a heavily-armored Ordani warrior, whose bronze splint mail gleams with a gorgeous russet luster. A symmetrical crimson hand with the roots of an oak tree decorates this soldier's chest piece, and the well-oiled longsword at their side looks poised and ready for action.
 

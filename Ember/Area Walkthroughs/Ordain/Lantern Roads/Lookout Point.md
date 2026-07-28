@@ -9,16 +9,17 @@ tags: [ember, area-walkthroughs]
 # Lookout Point
 
 > [!quote] Read Aloud
-> This small hideaway nook, generally accessible only through the Terrace Gardens, offers an incomparable view of all of Lantern Roads. Below, lights flicker and shadowbox scenes play out as locals and tourists walk back and forth, though many appear to avoid the roads that lead to the northern half of the neighborhood, a place shrouded in secrets.
+> This small rooftop hideaway looks out over Lantern Roads. Below, lanterns flicker in shopfronts and shadowbox scenes move across glass as locals and tourists past through the southern streets. Fewer people approach the roads north of the gate, where the lights thin out and armed figures keep watch.
 
-The vantage point offered from this location gives characters a clear view of the rooftops that lead from the public section of Lantern Roads to the Beacon Brigade section north of the gate.
+A rocky outcropping rises near the edge of the rooftop, close enough to reach [[Vitt's Balcony]] with a difficult climb or a dangerous jump.
 
-> [!tip] Exploration
-> #### Crossing the Gap
+> [!danger] Hazard
+> #### Climbing the Gap
 >
-> Characters can make their way to [[Vitt's Balcony]] by either climbing or jumping over the rocky outcropping between them.
+> Any character who makes a successful **Athletics (DC 15)** check can climb across the rocky outcropping to reach [[Vitt's Balcony]]. A character who fails falls 20 feet into the plaza below, taking `[[/damage 2d6 Bludgeoning]]` damage and landing &reference[prone].
 >
-> - Characters who wish to climb must have a climbing speed and must succeed on a `[[/check acrobatics 17]]` check to keep their grip during the slippery climb.
-> - Characters who wish to jump can attempt a `[[/check perception 16]]` check or `[[/check nature 17]]` to gauge the distance and slipperiness of the rock before jumping. If they succeed, they have **+2 Boons** on the `[[/check athletics 17]]` check to jump across.
+> - **Proper Equipment:** The character gains **+2 Boons** on this check if they use proper equipment (pitons, for example).
 >
-> Characters who fail either the jump or the climb checks fall hard to the ground below, taking `[[/damage 1d6 bludgeoning]]` damage.
+> #### Jumping the Gap
+>
+> The gap between the ledges is approximately 15 feet. Any character may attempt to [[Jump]] the gap. A character who fails to clear the full distance falls 20 feet into the plaza below, taking `[[/damage 2d6 Bludgeoning]]` damage and landing &reference[prone].

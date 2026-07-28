@@ -24,7 +24,7 @@ tags: [ember, quests]
 >
 > Level 1 · Unknown Unknown
 >
-> ![Edivel Sprout](../../../assets/image153.webp)
+> ![Edivel Sprout](../../../assets/image166.webp)
 
 Edivel explains the situation at hand:
 
@@ -44,11 +44,11 @@ Edivel explains the situation at hand:
 > [!tip] Exploration
 > #### Tis A Shrubbery
 >
-> Any character that succeeds on a `[[/check arcana 15]]` check while examining the animated bramble recognizes that it has been magically awakened, and has gained a modicum of intelligence and the ability to move slowly. Because of this, they can be dealt with a number of ways:
+> Any character that succeeds on a **Arcana (DC 15)** check while examining the animated bramble recognizes that it has been magically awakened, and has gained a modicum of intelligence and the ability to move slowly. Because of this, they can be dealt with a number of ways:
 >
 > - A source of fire (real, magical, or illusory) should cause them to move out of fear.
 > - Use of the [[Speak with Plants]] spell might allow the caster to reason with them.
-> - Use of the [[Dispel Magic]] would undo the spell, returning the plants back to normal shrubs.
+> - Use of the **Counterspell (Control, Influence, Negate, DC 15)** would undo the spell, returning the plants back to normal shrubs.
 >
 > A character that succeeds on a **Wilderness (DC 13)** check knows that destroying the brambles would be trivially easy with the use of fire or weapons that deal slashing damage.
 >
@@ -61,13 +61,13 @@ The party can move or destroy the brambles by whatever means they deem suitable.
 >
 > There are multiple methods available for the party to deal with the animated brambles. The party can utilize any of the following actions:
 >
-> A character that can communicate with the plants, such as with the [[Speak with Plants]] spell finds the plants are not especially brave or cunning, and are easily swayed with any of the following actions:
+> A character that can communicate with the plants finds that the plants are not especially brave or cunning, and are easily swayed with any of the following actions:
 >
 > - **Diplomacy (DC 13)** to convince them to go elsewhere.
 > - **Deception (DC 13)** to trick the plants into relocating.
 > - **Intimidation (DC 13)** to threaten the plants with the consequences of not moving.
-> - Any fire, whether mundane, or magical (via [[Thaumaturgy]], [[Produce Flame]], [[Prestidigitation]], or similar) will cause the brambles to move away from the source.
-> - The Brambles do not have any form of defense or attack, and any attempts to attack them automatically succeed and deal damage. The brambles have a total of 30 hit points and are vulnerable to fire and slashing damage. The brambles reflexively move away from their attacker, which can be used to herd them off the road.
+> - Any fire, whether mundane, or magical (via **Talent: Rune: Flame** or similar) will cause the brambles to move away from the source.
+> - The Brambles do not have any form of defense or attack, and any attempts to attack them automatically succeeds. The brambles reflexively move away from their attacker, which can be used to herd them off the road.
 > - The above list of solutions is not ironclad or exhaustive, and players may use whatever methods you deem effective to move or deal with the hedges in the road.
 
 Once the party has dealt with the brambles, mark the appropriate outcome below.
@@ -107,14 +107,14 @@ Characters that want to help Edivel with their spell may want to look at the pag
 > [!tip] Exploration
 > #### Convincing Edivel to Share
 >
-> Edivel can be convinced to share the spell page in question with a successful `[[/check persuasion 14]]` or **Intimidation (DC 12)** check.
+> Edivel can be convinced to share the spell page in question with a successful **Diplomacy (DC 14)** or **Intimidation (DC 12)** check.
 >
 > - **Path: Academy Dropout**: The character automatically succeeds on this check.
 > - **Character is a Wizard**: The character gains **+2 Boons** on this check.
 >
 > #### Studying the Design
 >
-> The spell is called "Vine Weaving" and to any character with a `[[/skill arcana 13 passive format=long]]` it is immediately obvious upon basic examination of the page that a good half of the spell is missing. Many of these blank spots have been drawn over with newer ink in clumsy attempt to complete the designs.
+> The spell is called "Vine Weaving" and to any character with a **Arcana (DC 13, Passive)** it is immediately obvious upon basic examination of the page that a good half of the spell is missing. Many of these blank spots have been drawn over with newer ink in clumsy attempt to complete the designs.
 >
 > A character that examines the spell design closely and makes a successful **Arcana (DC 15)** check recognizes that the spell utilizes a series of complex verbal and somatic components to establish temporary control over a body of vines, roots, or similar mundane plants. However, the damage to the spell is so extensive that it would be sheer luck if the spell did anything close to what it was meant to.
 >
@@ -131,7 +131,7 @@ Characters that want to help Edivel with their spell may want to look at the pag
 >
 > Edivel wants to be a great Agrimage, like the ones they grew up idolizing. This walking hedge is a result of their latest attempt at Agrimagic.
 >
-> A successful `[[/check insight 12]]` check reveals that Edivel is a young, bright, and resourceful spellcaster that has done well for themselves so far, but desperately needs a proper mentor. However, Edivel is prideful and likely deeply embarrassed by his failure to cast the spell, and too self-conscious about the gaps in his magical knowledge to admit he needs help.
+> A successful **Awareness (DC 12)** check reveals that Edivel is a young, bright, and resourceful spellcaster that has done well for themselves so far, but desperately needs a proper mentor. However, Edivel is prideful and likely deeply embarrassed by his failure to cast the spell, and too self-conscious about the gaps in his magical knowledge to admit he needs help.
 
 > [!question] Q&A
 > **Q:** About Edivel?

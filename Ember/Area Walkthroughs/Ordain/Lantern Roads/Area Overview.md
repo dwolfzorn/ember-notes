@@ -24,7 +24,7 @@ The areas of Lantern Roads have the following features unless specified otherwis
 
 The Lantern Roads Scene features a single Level, and its areas are organized into four sections: Shadowbox Alley, Plaza, Hideout, and Wandren HQ.
 
-- **All Sections:** All sections of Lantern Roads are set to an elevation range of 0 to 30, with 0 representing ground level, and 30 representing rooftops and upper walkways. Interior areas have 30-foot-high ceilings.
+- **All Sections:** All sections of Lantern Roads are set to an elevation range of 0 to 30, with 0 representing ground level, 10 representing upper walkways and Wandren HQ, and 30 representing rooftops. Interior areas have 30-foot-high ceilings.
 
 ### Illumination
 
@@ -49,11 +49,10 @@ The following enemies are encountered here:
 
 - 2 [[Kynryth]]
 - 6 [[Kynryth Husk]]
-- 4 [[Skither]]
+- 3 [[Skither]]
 - 1 [[Aburyx]]
-- 4 [[Wandren Guards]]
-- 4 [[Wandren Watcher]]
-- 5 [[Wandren Patroller]]
+- 5 [[Wandren Watcher]]
+- 12 [[Wandren Patroller]]
 - [[Vitt Wandren]]
 
 During the [[Not All Who Wandren]] Event, the following enemies are encountered here:
@@ -62,57 +61,47 @@ During the [[Not All Who Wandren]] Event, the following enemies are encountered 
 
 ### The Beacon Brigade
 
-Members of the Beacon Brigade, a gang running a protection and smuggling racket out of Lantern Roads, are scattered throughout the area as guards and sentries. Each time they are encountered, the party has the choice to sneak by the Brigade, persuade members that they are not a threat, or fight them.
+Members of the Beacon Brigade, a gang running a protection and smuggling racket out of Lantern Roads, are stationed throughout the area as guards, lookouts, and moving patrols. Unless otherwise noted, these NPCs are not eager to start a fight in public. They want to identify trouble, keep outsiders away from restricted spaces, and report anything that looks dangerous.
 
-> [!tip] Exploration
-> #### Avoiding the Beacon Brigade
+> [!danger] Hazard
+> #### Getting Past the Beacon Brigade
 >
-> With a successful Stealth check when out of a Beacon Brigade member's line of sight, characters can use the Hide action to conceal themselves, becoming temporarily Invisible.
+> When the characters encounter members of the Beacon Brigade on the Area Map, their response depends on the party's approach, the Brigade member's role, and whether the party has already drawn attention elsewhere in Lantern Roads. There are two types of Brigade members:
 >
-> - Invisibility ends automatically if characters make a sound, come within the line of sight of an enemy, make an attack roll, or cast a spell with a Verbal component.
-> - If a character successfully becomes invisible, the result of their stealth check is the DC of any check to perceive them. When anyone who is invisible comes with 5 feet of a **Patroller** or 10 feet of a **Watcher**, the Brigade member automatically rolls a Perception check against that DC.
+> - **Patrollers** are ordinary gang members assigned to watch foot traffic at street level.
+> - **Watchers** are more experienced Brigade members assigned to monitor rooftops and upper walkways.
 >
-> Characters can use a spell or a physical effect (throwing an item, projecting their voice) to distract Brigade members as follows:
+> #### Stealth
 >
-> - Patrollers are distracted by any successful cantrip, a successful `[[/check 17 performance]]` check for a character to throw their voice, a successful `[[/check 17 athletics]]` check to throw an item far enough away to make a sound, or any similar action at the game master's discretion.
-> - Watchers are distracted by any successful Level 1 spell, a successful `[[/check 19 performance]]` check, a successful `[[/check 19 athletics]]` check, or any similar action at the game master's discretion.
+> If the characters try to move past a Brigade member without being noticed, resolve the attempt using the normal rules for [[Cover]], [[Hiding]], noise, and line of sight. As a default, compare the characters' Dexterity (Stealth) checks against the Brigade member's passive Perception. If the party is moving together, the Gamemaster may call for a group check.
+>
+> On a success, the characters move past the Brigade member without drawing attention. On a failure, the Brigade member notices something suspicious and challenges the party. This does not automatically start combat unless the party attacks, refuses to stop, or has already made the Brigade hostile.
+>
+> #### Distracting
+>
+> The party can also create a distraction to draw a Brigade member away from their post or turn their attention elsewhere. A distraction must make sense in the scene: a thrown object, a staged argument, a visible magical effect, a projected voice, or a similar action. As a default, if the Gamemaster determine that the action would require a roll, the DC is 15 for **Patrollers** and 17 for **Watchers**.
+>
+> On a success, the Brigade member is distracted long enough for the party to pass. On a failure, the Brigade member recognizes the party as the source of the distraction.
+>
+> #### Caught by the Beacon Brigade
+>
+> If the characters are ever reduced to 0 Hit Points, they are captured by the Beacon Brigade and awaken 1 hour later in the [[Impromptu Jail]].
+
+If the party is confronted by a member of the Beacon Brigade, use the following guidance.
 
 > [!info] Social
-> #### Fooling the Beacon Brigade
+> #### Dealing with the Beacon Brigade
 >
-> Whenever a member of the Beacon Brigade is encountered, the party can try to convince them that they are either lost or should be allowed to pass. The difficulty of the check differs based on the Brigade member's role.
+> Members of the Beacon Brigade are suspicious of anyone who looks lost, armed, or too curious about Beacon business. That being said, Beacon Brigade members are not professional soldiers; most of them prefer an easy shift over a public fight, and are willing to accept a bribe or plausible excuse. Some potential approaches the party might employ include (but are not limited to):
 >
-> - With a successful `[[/check persuasion 18]]` check, characters can convince a **Patroller** that they're on official Brigade business and can be let through. For a **Watcher**, they must succeed on a `[[/check persuasion 20]]` check.
->   - Any character with **Knowledge: Crime**, or who is carrying a [[Courier Bag]] has **+2 Boons** on the check.
->   - If characters show the Brigade member their [[Brigade Key]], they automatically succeed on the check.
->   - If characters bribe the Brigade member with either  **-10** or an item of Uncommon rarity or rarer, they lower the DC of the check by 3, but the Brigade member keeps the bribe even if the check fails.
-
-> [!abstract] Wandren Patroller
-> **[[Wandren Patroller]]**
+> - **Passing as Harmless.** The party can claim they are lost, visiting someone nearby, looking for work, or cutting through Lantern Roads on unrelated business.
+> - **Claiming Brigade Business.** The party can pretend to be couriers, hired muscle, smugglers, or associates expected elsewhere in the district.
+> - **Offering Bribe.** A Brigade member may accept coin or valuables to ignore the party or delay reporting them.
 >
-> Level 1 · Unknown Unknown
+> Any character who makes a successful **Deception (DC 15)** or **Diplomacy (DC 15)** check can convince a **Patroller** to let the party pass, provided the party's story is plausible. Convincing a **Watcher** requires a successful **Deception (DC 17)** or **Diplomacy (DC 17)** check.
 >
-> ![Wandren Patroller](../../../assets/image049.webp)
-
-> [!abstract] Wandren Watcher
-> **[[Wandren Watcher]]**
->
-> Level 1 · Unknown Unknown
->
-> ![Wandren Watcher](../../../assets/image050.webp)
-
-> [!danger] Hazard
-> #### Beacon Brigade Tactics
->
-> Beacon Brigade members favor using their items to attack. Patrollers often throw [[Choking Fog Dust]] to incapacitate targets before striking. Once engaged in melee combat, they immediately use an action to fill their Hallowed Dagger with a poison and strike.
->
-> Beacon Brigade Watchers help to find hidden enemies and direct Patroller attention by using their [[Spotlight Shot]] to light up areas in the distance. Patrollers who are within range of one of the spotlights will move to subdue any enemies revealed by the light as soon as they can, even if this means disrupting a previously planned action.
-
-## The Guards in Wandren HQ
-
-> [!danger] Hazard
-> #### Strange Guards with Strange Torches
->
-> All human guards within Wandren HQ are secretly Celestial creatures If hurt or injured, they change shape into the form of strange celestial creatures called [[Kynryth]].
->
-> Defeating a Kynryth gives characters access to a lit [[Lit Kynryth Torch]], which is used to activate the switches needed by the party to rotate the make their way into the Central Chamber.
+> - [[Brigade Key]]: The character automatically succeeds on this check, provided they have not already roused the Beacon Brigade's suspicion, threaten the Brigade member, or contradict their stated business.
+> - **Knowledge: Crime**: The character gains **+2 Boons** on this check.
+> - [[Courier Bag]]: The character gains **+2 Boons** on this check.
+> - **Bribe:** The character gains **+2 Boons** on this check if they offer a bribe worth at least 50 gp or an item of Uncommon rarity or rarer.
+> - **Suspicion:** The character suffers **-6 Banes** on this check if the party has already roused the Beacon Brigade's suspicion.

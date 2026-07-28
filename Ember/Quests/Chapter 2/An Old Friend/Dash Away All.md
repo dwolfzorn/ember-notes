@@ -24,7 +24,7 @@ tags: [ember, quests]
 >
 > Level 3 · Human Brigand
 >
-> ![Otherhood Brigand](../../../assets/image162.webp)
+> ![Otherhood Brigand](../../../assets/image175.webp)
 >
 > A well-armored, season fighter of the Otherhood wearing golden robes and scale armor. They look determined, disciplined and spoiling for a fight.
 
@@ -33,7 +33,7 @@ tags: [ember, quests]
 >
 > Level 1 · Human Brigand
 >
-> ![Otherhood Raider](../../../assets/image100.webp)
+> ![Otherhood Raider](../../../assets/image156.webp)
 >
 > A lightly-armored, heavily armed fighter wearing golden robes and brown leather armor. They look determined, disciplined and spoiling for a fight.
 

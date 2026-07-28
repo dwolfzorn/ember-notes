@@ -77,7 +77,7 @@ Such characters instead hear the voice say:
 >
 > Level 1 · Unknown Unknown
 >
-> ![Luxaroth](../../../assets/image022.webp)
+> ![Luxaroth](../../../assets/image023.webp)
 
 Luxaroth is somewhat wary of the party, having never seen such creatures before and lacking knowledge of their intentions. Moreover, communicating with a being as ancient as Luxaroth can be a difficult endeavor.
 
@@ -256,7 +256,7 @@ Combat begins as soon as initiative is rolled. During the first round, the Abyss
 >
 > Level 1 · Unknown Unknown
 >
-> ![Abyssal Eel](../../../assets/image003.webp)
+> ![Abyssal Eel](../../../assets/image004.webp)
 
 > [!danger] Hazard
 > #### Abyssal Eel Tactics
@@ -268,7 +268,7 @@ Combat begins as soon as initiative is rolled. During the first round, the Abyss
 >
 > Level 1 · Abyssal Harbinger Echo
 >
-> ![Abyssal Echo](../../../assets/image023.webp)
+> ![Abyssal Echo](../../../assets/image024.webp)
 >
 > Emerging from the darkness is a terrifying eldritch apparition composed of dark smoke and malice, with prominent rows of gleaming sharp teeth. Its softly glowing eyes radiate spiteful hatred and cunning as it glides through the air with measured movements. Grasping hands, as if yearning to escape its form, materialize and vanish instantly, while its two enormous clawed hands seem to appear and disappear at will.
 
@@ -282,7 +282,7 @@ Combat begins as soon as initiative is rolled. During the first round, the Abyss
 >
 > Level 1 · Unknown Unknown
 >
-> ![Abyssal Eye](../../../assets/image016.webp)
+> ![Abyssal Eye](../../../assets/image017.webp)
 
 > [!danger] Hazard
 > #### Abyssal Eye Tactics
@@ -294,7 +294,7 @@ Combat begins as soon as initiative is rolled. During the first round, the Abyss
 >
 > Level 1 · Unknown Unknown
 >
-> ![Vhismara's Claw](../../../assets/image015.webp)
+> ![Vhismara's Claw](../../../assets/image016.webp)
 
 > [!danger] Hazard
 > #### Vhismara's Claw Tactics

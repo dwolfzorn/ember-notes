@@ -80,7 +80,7 @@ The woman standing among stacks of books is the Elder Goddess Spectra. She is a 
 >
 > Level 1 · Unknown Unknown
 >
-> ![Spectra](../../../assets/image177.webp)
+> ![Spectra](../../../assets/image190.webp)
 
 > [!quote] Read Aloud
 > While her dazzling appearance and aura clearly indicate that Spectra is a being of great power and influence, her presence in this dusty, tucked-away library is somewhat surprising. Nonetheless, she speaks to you all with warm and flowing tones, as if she has known you your entire lives.

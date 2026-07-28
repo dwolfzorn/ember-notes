@@ -9,27 +9,24 @@ tags: [ember, area-walkthroughs]
 # Just In Time
 
 > [!quote] Read Aloud
-> Timepieces of all kinds line the walls and shelves of this small shop, whose Signborn shopkeeper is hunched over a small handheld timepiece beneath a magnifying glass, using all of the arms he has available in an attempt to wind it. Though he appears deep in concentrated work, he looks up as soon as you enter, fixing you with a assessing gaze.
+> Timepieces of all kinds line the walls and shelves of this small shop. Behind the counter, a Signborn shopkeeper hunches over a handheld clock beneath a magnifying glass, using every available arm to wind, brace, and adjust it at once.
 >
-> > Ah, new customers - who look very good at taking care of themselves. I'm Fozil Dalm. May I ask what brings you to Lantern Roads? I hope you're not part of that horrible Beacon Brigade that's taken over half our neighborhood. You'd tell me if you were, weren't you?
-
-> [!warning] Gamemaster
-> #### Getting to the North of Lantern Roads
+> Though he appears absorbed in his work, he looks up as soon as you enter.
 >
-> Characters seeking to get to the northern part of Lantern Roads can find information on three potential routes from their conversation with shopkeeper Fozil Dalm (see below).
->
-> - **Rooftop Route:** Fozil suspects that the rooftops are used to move goods but has no real proof.
-> - **Shadowbox Alleys:** Fozil is sad that the Shadowbox Alleys area has been largely abandoned, though he has seen people coming and going from that way.
-> - **Bluffing:** Fozil believes there's some way into the Brigade area having to do with the Pawn shop, but he hasn't figured it out.
+> > Ah, new customers — who look very good at taking care of themselves. I'm Fozil Dalm. May I ask what brings you to Lantern Roads? I hope you're not part of that horrible Beacon Brigade that's taken over half our neighborhood. You'd tell me if you were, wouldn't you?
 
 > [!info] Social
 > #### A Conversation with Fozil Dalm
 >
-> It is clear, even without a check, that Fozil Dalm wants something from the party. With a successful `[[/check insight 15]]` check, the party knows that the shopkeeper is desperately eager to uncover secret members of the Beacon Brigade gang.
+> **Fozil Dalm** (Lawful Neutral, Ordani Signborn, he/him) clearly wants something from the party. He watches the door throughout the conversation and speaks in a too-loud whisper.
 >
-> In truth, Fozil Dalm is an associate of the Veiled Chain, one of the investigative bodies of Ordain, and a bad liar. He looks at the door frequently, as if worried someone will come in and interrupt the conversation and speaks with a too-loud whisper. As long as the party assures him that they are not with the gang, he will answer any of the following:
+> Any character who makes a successful **Deception (DC 15)** check realizes that Fozil is desperately trying to identify secret members of the Beacon Brigade.
 >
-> - The Beacon gang has become a nuisance, bothering innocent shop keepers for protection money and moving ill-gotten gains through the neighborhood. They've erected a gate in the middle of the neighborhood that they hide behind.
-> - Fozil blames the gang for the decline in shops on the western side of the neighborhood, called Shadowbox Row, though he does sometimes see suspicious folks headed in that direction.
-> - Fozil is fairly sure that the gang uses the rooftops to get past their gate without anyone seeing their movements, though he doesn't know how. He thinks it may involve the Pawn Shop, [[Second Light]], though he hates to think the shopkeeper Mindeva has anything to do with it.
-> - Fozil will pay  **5** for any proof of Beacon Brigade activity in the neighborhood, which he plans to take to the Veiled Chain.
+> In truth, Fozil is an associate of the [[Veiled Chain]], Ordain's investigative body.
+>
+> As long as the party assures him they are not part of the Beacon Brigade, he readily discusses the following:
+>
+> - **The Beacon Brigade's hold over Lantern Roads:** The gang has become a serious nuisance. They extort protection money from shopkeepers, move stolen goods and coin through the neighborhood, and have erected a gate across Lantern Roads to isolate themselves from the rest of the neighborhood.
+> - **The decline of Shadowbox Alley:** Fozil blames the Brigade for the decline of the shops on the western side of the neighborhood. He sometimes sees suspicious people heading that way, but doesn't know what they do there.
+> - **The Brigade's use of rooftops:** Fozil is reasonably sure the Brigade uses them to move past the gate without being seen. He does not know the exact route, but suspects it involves the pawn shop, [[Second Light]]. He hates to think Luma, the shopkeeper there, has anything to do with the gang.
+> - **His interest in proof of Beacon Brigade activity:** Fozil offers  **5** for any piece of evidence that implicates the Beacon Brigade in illicit activity. He plans to take the evidence to the Veiled Chain.

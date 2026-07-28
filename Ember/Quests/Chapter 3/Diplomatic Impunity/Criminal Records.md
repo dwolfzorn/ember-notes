@@ -37,7 +37,7 @@ tags: [ember, quests]
 >
 > Level 1 · Unknown Unknown
 >
-> ![Katerin Bastilla](../../../assets/image122.webp)
+> ![Katerin Bastilla](../../../assets/image130.webp)
 
 ### Katerin's Tasks
 

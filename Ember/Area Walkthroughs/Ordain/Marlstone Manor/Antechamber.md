@@ -8,19 +8,12 @@ tags: [ember, area-walkthroughs]
 
 # Antechamber
 
-> [!warning] Gamemaster
-> #### Access to Antechamber
->
-> Access to the Antechamber varies. (See [[Gameplay Details]] for more on access levels.)
->
-> - **Pre-Gala: Open** to Decorators, **Restricted** to Gardeners and Kitchen Staff.
-> - **Gala: Open** to Guests.
->
-> #### Locating Funar Cevher
->
-> See [[Casing the Joint]] for details. If the party uses the[[Locator Rod]] in this area, they find that Funar Cevher is **in the vicinity.** This is the baseline result when using the Locator Rod in and around Marlstone Manor.
+### [[Casing the Joint]]
 
-### Pre-Gala
+> [!danger] Hazard
+> #### Access Level
+>
+> This area is **Open** to **Decorators**. This area is **Restricted** to **Gardeners** and **Kitchen Staff**.
 
 > [!quote] Read Aloud
 > Though it is open to the floor below, there are spots in this hidden nook where i almost seems as if you are in your own small corner of the manor, hidden away from prying eyes. Nearby, you can hear run a faint murmur from the room to the west, though the words are indistinct.
@@ -39,7 +32,12 @@ tags: [ember, area-walkthroughs]
 > - With a success of 3 or more, characters can hear all of what Hephiss is saying.
 >   > You're going to wow them all tonight, Hephiss. And tomorrow, back to the experiments. You will figure out what he knows and use it to your advantage. And maybe something you create could be the way to get rid of that pesky Funar.
 
-### At The Gala
+### [[The Marlstone Gala]]
+
+> [!danger] Hazard
+> #### Access Level
+>
+> This area is **Open**.
 
 > [!quote] Read Aloud
 > Two pairs of strangers whisper in a corners of the room, as if on a date in the middle of a party, but while the couple at the back of the room lean towards each other with affection, the one standing by the door gesture angrily in each other's direction, locked in some kind of private war.

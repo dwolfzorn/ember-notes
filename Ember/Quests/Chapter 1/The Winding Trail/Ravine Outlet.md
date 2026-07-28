@@ -34,7 +34,7 @@ The party is attacked by a juvenile suarrok. This strange monstrosity is likely 
 >
 > Level 4 (Elite) · Winged Terror Suarrok
 >
-> ![Suarrok Juvenile](../../../assets/image061.webp)
+> ![Suarrok Juvenile](../../../assets/image066.webp)
 >
 > This creature is an unsettling thing, a strange mixture of bird and lizard, with massive, bat-like wings fringed with trailing feathers. A long, sinuous neck that coils and moves like a serpent holds a massive head with menacing, serrated beak that's perfectly designed for tearing through flesh. On this head rests a single, enormous eye that glows ominously, and as its gaze sweeps over you, a wash of stinging heat can be felt.
 

@@ -8,26 +8,24 @@ tags: [ember, area-walkthroughs]
 
 # Gardens
 
-> [!warning] Gamemaster
-> #### Access to the Gardens
->
-> Access to the Gardens varies. (See [[Gameplay Details]] for more on access levels.)
->
-> - **Pre-Gala: Open** to Gardeners and Decorators, **Restricted** for Kitchen Staff
-> - **During Gala:** **Open** to Guests
->
-> #### Locating Funar Cevher
->
-> See [[Casing the Joint]] for details. If the party uses the[[Locator Rod]] in this area, they find that Funar Cevher is **in the vicinity.** This is the baseline result when using the Locator Rod in and around Marlstone Manor.
+### [[Casing the Joint]]
 
-### Pre-Gala
+> [!danger] Hazard
+> #### Access Level
+>
+> This area is **Open** to **Gardeners** and **Decorators**. This area is **Restricted** to **Kitchen Staff**.
 
 > [!quote] Read Aloud
 > Gardeners are busy straightening up the many hedges, grasses, and flowers found outside the Manor, attempting to perfect them as best they can before the gala. Though most seem harried, an older man in well-worn Ordani garb appears as if he has been here countless times before, humming to himself as he spritzes water on a flower border.
 
 The older gentleman is the gardener Tavro. Characters can speak to him in the event [[Casing the Joint]].
 
-### At The Gala
+### [[The Marlstone Gala]]
+
+> [!danger] Hazard
+> #### Access Level
+>
+> This area is **Open**.
 
 > [!quote] Read Aloud
 > The gardens are in full bloom, as if the gods themselves wanted this night to go perfectly. Even in the dimmer light of evening, their beauty is hard to ignore, drawing the eye away from areas of mundane shadow.

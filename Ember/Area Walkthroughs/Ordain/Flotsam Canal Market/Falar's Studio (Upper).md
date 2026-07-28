@@ -65,7 +65,7 @@ The moment one of the characters disturbs any of the paints or paintings here (i
 >
 > Level 1 · Unknown Unknown
 >
-> ![Paint Globlin](../../../assets/image028.webp)
+> ![Paint Globlin](../../../assets/image029.webp)
 
 > [!danger] Hazard
 > #### Challenging Art

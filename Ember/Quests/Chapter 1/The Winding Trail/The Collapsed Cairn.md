@@ -113,7 +113,9 @@ As the realization of what's happened makes its way through the caravan, more an
 > >
 > > If you also clear a route there, I can send additional people to help, rather than cramming everyone into the collapse on this side.
 > >
-> > So, what do you say? I'll hire you on as scouts for Strayhearth. A nice 100 gold pieces for you to split if you agree to go look for alternate routes to the other side of the collapse!
+> > So, what do you say? I'll hire you on as scouts for Strayhearth. A healthy reward for you to split if you agree to go look for alternate routes to the other side of the collapse!
+>
+> Agraband offers the party  **10** to divide among themselves in exchange for their help. With a successful **Diplomacy (DC 14)** check, Agraband can be talked into offering  **12** instead.
 
 If the party would like to get the opinions and guidance of other characters, both Lyla and Clipper may have useful leads that could help direct the party.
 

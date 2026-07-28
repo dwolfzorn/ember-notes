@@ -24,7 +24,7 @@ tags: [ember, quests]
 >
 > Level 1 · Unknown Unknown
 >
-> ![Kali Andrella](../../../assets/image084.webp)
+> ![Kali Andrella](../../../assets/image087.webp)
 
 > [!quote] Read Aloud
 > Kali sits in much the same place as she was when you left her. While she appears calm, there is something in the way she twists her hands together and occasionally furrows her brow that suggests a bit of unease.
@@ -53,7 +53,7 @@ If the party has news of [[Moriah Foxhaven]], she is thrilled, and offers them a
 > >
 > > That's worth a lot, even if I'm not quite sure how we'll get along this time. I'm not sure I can pay you back, but here's a little something I've been whipping up, in case it helps you on your travels.
 
-If the party knows that Rattletrap is Bertron, she's intrigued, and offers them an [[Herbalism Kit]] as a thank you for the news.
+If the party knows that Rattletrap is Bertron, she's intrigued, and offers them an [[Alchemist's Toolkit]] as a thank you for the news.
 
 > [!quote] Read Aloud
 > > That sounds like a wild story. Something from an Amalthea tale. Might be worth going out there and hearing it from Rattletrap … or should I say Bertron … for myself. Though I don't know how Bertron would feel about me, what he'd think about what this place has become. Maybe one day I'll find out. In the meantime, here. Take one of these herbalism kits for the road, you never know when it'll come in handy.
@@ -75,7 +75,7 @@ If desired, the party can attempt to convince Kali to leave Steed's Point, thoug
 > [!info] Social
 > #### Making Their Case
 >
-> To convince Kali, a character must succeed on a `[[/check persuasion 26]]` check.
+> To convince Kali, a character must succeed on a **Diplomacy (DC 26)** check.
 >
 > - **News of Moriah**: If the party brought Kali new news of Moriah, they have **+2 Boons** on the check if persuading her to leave.
 > - **Info on Rattletrap**: If the party brought Kali news of Rattletrap having the spirit of Bertron Steed, they have **+2 Boons** on the check if persuading her to stay.

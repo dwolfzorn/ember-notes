@@ -24,10 +24,10 @@ The creature has left behind two silvery-gray gelatinous puddles — each about 
 > [!tip] Exploration
 > #### About the Creature
 >
-> Any character who makes a successful **Wilderness (DC 12, Passive)** check while observing the flying beast recognizes it as a [[Suarrok Juvenile]], an aerial predator that has been spotted in this region before.
+> Any character who makes a successful **Wilderness (DC 12, Passive)** check while observing the flying beast recognizes it as a young but dangerous predator. The creature appears to be hurt in some way, and badly distressed. Still, its hooked talons and long beak make it dangerous at close range.
 >
-> - **Knowledge: Monsters**: The character automatically succeeds on this check.
-> - **Critical Success**: The character also recognizes that this creature is an adolescent, and recalls that the suarrok can grow to be huge in size when fully grown. Battle against even a juvenile suarrok could be deadly, but facing a fully grown adult would likely be disastrous.
+> - **Knowledge: Monsters**: The character gains **+2 Boons** on this check.
+> - **Critical Success**: The character identifies the creature as a [[Suarrok Juvenile]], an aerial predator that can sear and blind anything it looks at using its cyclopean gaze. Battle against even an adolescent suarrok such as this one could be deadly, but facing a fully grown adult would likely be disastrous.
 
 ### Sickening Goo
 
@@ -41,15 +41,9 @@ The slime puddles are caustic and hazardous, but they can be easily avoided if t
 > [!tip] Exploration
 > #### The Regurgitated Substance
 >
-> Characters with **Awareness (DC 12, Passive)** notice that there are three different substances mixed together in the puddles.
+> Any character with **Medicine (DC 15, Passive)** while examining the remains can identify them as the partially digested remains of oozes, and can deduce that they must have been recently eaten, suggesting the presence of oozes within a few miles of the party's current location.
 >
-> Any character with **Medicine (DC 12, Passive)** while examining the remains deduces that the retching was caused by something toxic the creature had eaten, rather than by some other illness.
->
-> - **Critical Success**: The character also identifies the puddles as the partially digested remains of oozes. They must have been recently eaten, suggesting the presence of oozes within a few miles of the party's current location.
->
-> Any character who makes a successful **Science (DC 14, Passive)** check correctly deduces that the caustic quality of this substance comes from a toxic agent ingested alongside the organic material — it wasn't the oozes themselves, but something that affected the oozes' biological composition.
->
-> - **Knowledge: Alchemy**: The character automatically succeeds on this check.
+> - **Critical Success**: The character also deduces that the caustic quality of this substance comes from a toxic agent ingested alongside the organic material — it wasn't the oozes themselves, but something that affected the oozes' biological composition.
 >
 > #### Collecting Samples
 >

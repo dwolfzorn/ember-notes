@@ -1,7 +1,7 @@
 ---
 title: "Initiative and Turn Order"
 journal: "Game Mechanics / Combat"
-source_uuid: "JournalEntry.zlYGu6T8PqUvd7UQ"
+source_uuid: "JournalEntry.PETeWXMgCZCt14YN"
 type: ember.lore
 tags: [ember, game-mechanics]
 ---
@@ -40,7 +40,7 @@ Combatants who are **Incapacitated** or **Dead** are automatically placed at Ini
 
 #### Unaware Combatants
 
-Combatants who are @Condition[Unaware] act at Initiative 1, last aside from Incapacitated creatures. Once a creature is no longer Unaware, it rolls Initiative and acts as normal for subsequent rounds.
+Combatants who are **Unaware** act at Initiative 1, last aside from Incapacitated creatures. The Unaware condition is removed at the start of the creature's turn; once a creature is no longer Unaware, it rolls Initiative and acts as normal for subsequent rounds.
 
 #### Tiebreaking Procedures
 
@@ -55,4 +55,4 @@ Ties in initiative are resolved by applying the following tiebreaking criteria i
 
 ## Escalation and Morale
 
-As the tension of combat escalates - so too do the consequences on **Morale** for combatants. After 6 Rounds of Combat at the start of each subsequent round, the combatant with the highest **Initiative** result gains additional Morale equal to the numbered **Round** of combat. The combatant with the lowest Initiative result (excluding Incapacitated and Dead combatants) loses Morale equal to the numbered Round of combat.
+As the tension of combat escalates - so too do the consequences on **Morale** for combatants. After 6 Rounds of Combat at the start of each subsequent round, the combatant with the highest **Initiative** result gains additional Morale equal to the numbered **Round** of combat. The combatant with the lowest Initiative result (excluding **Incapacitated** and **Dead** combatants) loses Morale equal to the numbered Round of combat.

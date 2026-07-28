@@ -39,7 +39,7 @@ A devious [[Sitherian]] has taken residence in this irregularly-shaped chamber a
 >
 > Level 1 · Arachnid Sitherian
 >
-> ![Sitherian](../../../assets/image088.webp)
+> ![Sitherian](../../../assets/image001.webp)
 >
 > This large eight-legged creature boasts two fanged chelicerae that appear to drip a viscous green venom. Its ten reflective eyes regard you with a keen animal maliciousness as it crawls forth from its web-shrouded hiding place.
 

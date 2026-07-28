@@ -49,7 +49,7 @@ The two oozes will direct their limited attention to the crystal that's fallen h
 >
 > Level 0.5 · Slime Metallic Ooze
 >
-> ![Luminous Copper Ooze](../../../assets/image069.webp)
+> ![Luminous Copper Ooze](../../../assets/image073.webp)
 >
 > An amorphous slime of a creature slowly oozes forward, dragging bits of flaked copper and the occasional crystal within its gelatinous body. Though it seems formless as it moves, it reaches out in a long tentacle-like arm when confronted with a fight, readying itself to strike.
 
@@ -70,7 +70,7 @@ The two oozes will direct their limited attention to the crystal that's fallen h
 >
 > Level 1 · Slime Metallic Ooze
 >
-> ![Luminous Iron Ooze](../../../assets/image066.webp)
+> ![Luminous Iron Ooze](../../../assets/image070.webp)
 >
 > The viscous body of the luminous iron ooze is a silvery gray, filled with small fragments of metal and the occasional piece of glittering crystal. As it moves, its body shapes and reshapes itself, stretching and contracting in a viscous pool that extends a single gray-iron tentacle.
 
@@ -90,7 +90,7 @@ The two oozes will direct their limited attention to the crystal that's fallen h
 >
 > Level 3 · Slime Metallic Ooze
 >
-> ![Luminous Gold Ooze](../../../assets/image067.webp)
+> ![Luminous Gold Ooze](../../../assets/image071.webp)
 >
 > Like a puddle of congealing gold ore in motion, the creature elongates its gelatinous ooze of a body into a single slender viscous arm and pulling itself across the ground. Narrower and more willing to stretch than other luminous oozes, it moves more quickly than the average ooze as it moves in search of prey.
 

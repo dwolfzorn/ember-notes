@@ -9,13 +9,31 @@ tags: [ember, area-walkthroughs]
 # Forgotten Rooftop
 
 > [!quote] Read Aloud
-> The tables and the chairs at the top of this building hint that it was once a dining establishment of some sort, but now they seem to be used as nothing more than a resting place for the Watchers who keep an eye on Beacon Brigade territory below.
+> The rooftop still has the remains of an old dining terrace: three sets of dining tables and chairs that have begun to rust. Whatever business once operated here is gone.
 
-The sentry on this roof is a [[Wandren Watcher]]. They will not target the party if the party prominently displays either a [[Courier Bag]] or a [[Brigade Key]].
+The sentry on this roof is a [[Wandren Watcher]].
 
 > [!danger] Hazard
-> #### Sentry Tactics
+> #### Beacon Brigade Watcher
 >
-> Once they have spotted their target, sentries will always attempt, first and foremost, to use their [[Spotlight Shot]] to alert others in the area to intruders, often yelling as they do.
+> The party can deal with this Watcher using the general options described in [[Area Overview]].
+
+> [!abstract] Wandren Watcher
+> **[[Wandren Watcher]]**
 >
-> Any [[Wandren Patroller]] within 100 feet of the sentry will respond and immediately begin moving towards the area that is being spotlit.
+> Level 1 · Unknown Unknown
+>
+> ![Wandren Watcher](../../../assets/image053.webp)
+
+> [!danger] Hazard
+> #### Beacon Brigade Watcher Tactics
+>
+> At the start of combat, the [[Wandren Watcher]] will use their [[Spotlight Shot]] to illuminate an enemy and alert any Beacon Brigade members within 60 feet to come to their aid.
+>
+> Over the course of combat, the Watcher will prioritize the following actions and abilities:
+>
+> - In melee, the Watcher will use their [[Multiattack]] Action to make two attacks with their [[Shortsword]].
+> - From range, the Watcher will use their [[Multiattack]] Action to make two attacks with their [[Longbow]].
+> - If a character is hidden or trying to remain unseen, the Watcher will use their [[Spotlight Shot]] to make hiding more difficult and potentially inflict the &Reference[blinded] condition on nearby enemies.
+>
+> Once reduced below half their Hit Point maximum, the Beacon Brigade Watcher will attempt to flee toward the nearest Beacon Brigade member.

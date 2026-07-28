@@ -9,23 +9,16 @@ tags: [ember, area-walkthroughs]
 # Collapsed Archives
 
 > [!quote] Read Aloud
-> You find yourself in a chamber shrouded in gloom. The air is heavy with the scent of stone dust and rotten paper. The only light is thin and uncertain, slipping in through the gaps in the broken stone overhead. Everywhere, piles of rubble and fallen masonry fill the space, choking most of the floor and leaving only narrow paths to pick through the ruin.
+> The air in this gloom-shrouded chamber is heavy with the scent of stony dust and rotten parchment. Piles of rubble and ruined masonry fill the place, crowding most of the floor, with only a few narrow paths running through the ruin.
 >
-> Along the battered walls you can see the shattered remnants of massive shelving, the stone broken and buried beneath debris that has fallen from the ceiling and upper levels. In the rubble, you spot the remains of scrolls and tablets, all long since pulverized into ruin.
+> Along the battered walls you can see the shattered remnants of massive shelves, their stone broken and buried beneath the debris of a collapsed ceiling. Amidst the rubble, you spot the destroyed remains of several scrolls and stone tablets, all of them pulverized long ago.
 
 > [!tip] Exploration
 > #### Records of the Past
 >
-> A successful **Awareness (DC 14)**check will find one ancient scroll that is still somewhat legible; it is covered in constellations and notations in Pathward. It appears to track celestial movements over a set time period.
+> The first character to make a successful **Awareness (DC 13)** check while searching the rubble here can locate a single undamaged scroll. Covered in glittering diagrams of constellations and written in **Language: Pathward**, this scroll appears to be an ancient celestial map that tracks the ancient movements of the shattered moon [[Akon]].
 >
-> Sadly, no other documents or records survived the collapse of this space.
+> Any character who makes a successful **Arcana (DC 14)** check can recognize the hallmarks of protective Abjuration runes on the scroll, which have done a fine job of magically preserving the document throughout the ages.
 >
-> #### A Lone Record
->
-> Characters that understand **Language: Pathward** can read the discovered scroll, determining that it was a printed record of a season's worth of celestial tracking. The subject is Akon, and no notable events or deviations are recorded in this period.
->
-> The dating schema on the scroll is indecipherable, but it likely dates back several thousand years. Further notations mark it as one of a series of such records.
->
-> #### Mystic Preservation
->
-> Characters with **Knowledge: Artifacts** or making a successful **Arcana (DC 14)** check recognize the hallmarks of magical protection runes on the scroll. While badly damaged and nearly burned out, they've still done the job of preserving the scroll over the centuries.
+> - **Knowledge: Artifacts**: The character automatically succeeds on this check.
+> - **Knowledge: Rituals**: The character gains **+2 Boons** on this check.

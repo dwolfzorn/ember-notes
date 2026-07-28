@@ -1,7 +1,7 @@
 ---
 title: "Spellcraft Overview"
 journal: "Game Mechanics / Spellcraft"
-source_uuid: "JournalEntry.gmAMU9aygeAjlBYZ"
+source_uuid: "JournalEntry.qoXoXou3DQqlPoE6"
 type: ember.lore
 tags: [ember, game-mechanics]
 ---
@@ -26,7 +26,7 @@ Spells which attack an opponent follow the rules of [[Attack Rolls]], with chang
 
 #### Example: Zarajah the Pyromancer
 
-Zarajah is an ambitious Level 6 sorcerer who strives to master the arts of elemental magic. Zarajah knows the runes for **Flame**, **Kinesis**, and **Lightning** as well as gestures for **Touch** (automatically learned), **Influence**, and **Arrow**. Additionally, Zarajah has also learned the **Quicken** inflection. Using these components, Zarajah has access to 18 different combinations which form Spells.
+Zarajah is an ambitious Level 6 sorcerer who strives to master the arts of elemental magic. Zarajah knows the runes for **Flame**, **Kinesis**, and **Storm** as well as gestures for **Touch** (automatically learned), **Influence**, and **Arrow**. Additionally, Zarajah has also learned the **Quicken** inflection. Using these components, Zarajah has access to 18 different combinations which form Spells.
 
 Zarajah's favorite spell is **Quickened Arrow of Flame** which allows her to hurl a projectile of arcane fire at a single target up to 10 spaces distant at the cost of **1 Action** and **2 Focus** points. The Flame rune targets **Reflex** defense and deals **Fire Damage** to **Health**. Arrow and Flame both scale using **Intellect**, so the effectiveness of this spell scales using only Intellect as a single ability score.
 

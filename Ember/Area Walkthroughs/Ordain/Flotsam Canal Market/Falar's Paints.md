@@ -26,7 +26,7 @@ If the party visits Falar's Paints during [[Mixed Media]], they will likely have
 >
 > Level 1 · Unknown Unknown
 >
-> ![Falar](../../../assets/image027.webp)
+> ![Falar](../../../assets/image028.webp)
 
 > [!info] Social
 > #### Conversation with Falar

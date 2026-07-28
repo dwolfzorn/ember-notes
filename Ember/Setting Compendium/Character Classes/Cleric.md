@@ -247,4 +247,14 @@ War Clerics of [[Lumé]] are regarded as some of her most dedicated and tireless
 
 War Clerics of [[Thayloc]] dedicate their lives to the concept of safety through retribution, and are known to be some of the world's most effective slayers of undead creatures. Following Thayloc's exodus from the Lumarin Homelands at the hands of the [[Moiran]] [[Ossarchate]], The Silver Bowman has become increasingly popular throughout Aterica — with militant temples and churches to be found everywhere from [[Ordain]] to [[Old Carinth]].
 
-## Other
+## Grave Domain
+
+> [!warning] Gamemaster
+> It's recommended that you don't learn the true nature of the Howling One as part of your backstory.
+
+Among the Ossarchate are a number of living, twisted mortals called the Silent Acolytes. They are devoted followers of an entity known as the [[Kinalathi]], the god of Undeath. Although they are technically servants of the Blood Barons like others in the [[Ossarchate]], the Silent Acolytes tend to keep to themselves, and the Blood Barons prefer this separation. This is because the Silent Acolytes worship the Howling One directly and are seen as the entity's priesthood within the Ember Cosmos, and are often completely absorbed in their twisted rituals and prayers. They are also regarded as utterly insane and beyond the Blood Barons' control in most situations. Many believe that the Silent Acolytes are the group responsible for pulling the Pale Monoliths into the physical world and may have caused the [[The Evernight]] itself. Silent Acolytes are utterly reviled throughout Ember and are killed on sight in most other nations outside the Ossarchate. However, they do travel to spread the word of their screaming god, keeping their allegiance secret and their abilities hidden using a [[White Stone Rosary]].
+
+> [!danger] Hazard
+> #### Reviled Magic
+>
+> Caution: Undeath in its many forms is considered highly problematic among the people of Ember generally and goes far beyond merely being frowned upon. It is considered [[Magic and Spellcraft]] and therefore kept hidden if at all possible.

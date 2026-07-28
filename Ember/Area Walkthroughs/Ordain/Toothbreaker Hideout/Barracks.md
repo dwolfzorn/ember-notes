@@ -18,12 +18,12 @@ Unless the party members are being escorted through this area as guests or priso
 >
 > Level 1 · Unknown Unknown
 >
-> ![Toothbreaker Thug](../../../assets/image029.webp)
+> ![Toothbreaker Thug](../../../assets/image034.webp)
 
 > [!danger] Hazard
 > #### Toothbreakers
 >
-> The Toothbreaker Thugs here follow the tactics described in [[Gameplay Details]].
+> The Toothbreaker Thugs here follow the tactics described in [[Gazetteer Reference]].
 >
 > #### Raising the Alarm
 >

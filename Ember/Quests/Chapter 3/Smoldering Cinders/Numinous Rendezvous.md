@@ -67,7 +67,7 @@ When one of the characters places a suitable offering on the inscribed flagstone
 >
 > Level 1 · Unknown Unknown
 >
-> ![Sionia](../../../assets/image114.webp)
+> ![Sionia](../../../assets/image122.webp)
 
 > [!info] Social
 > #### A Conversation with Sionia

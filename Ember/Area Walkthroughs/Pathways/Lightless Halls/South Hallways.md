@@ -72,7 +72,7 @@ Once activated, the solitary Abyssal Eel assaults the party as best it can.
 >
 > Level 1 · Unknown Unknown
 >
-> ![Abyssal Eel](../../../assets/image003.webp)
+> ![Abyssal Eel](../../../assets/image004.webp)
 
 > [!danger] Hazard
 > #### **Lone Guardian**

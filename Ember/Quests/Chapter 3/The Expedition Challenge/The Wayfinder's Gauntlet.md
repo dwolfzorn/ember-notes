@@ -37,7 +37,7 @@ As the party approaches, you can read them the following:
 >
 > Level 1 · Unknown Unknown
 >
-> ![Eveis Brightstone](../../../assets/image136.webp)
+> ![Eveis Brightstone](../../../assets/image142.webp)
 
 > [!info] Social
 > #### Conversation with Eveis Brightstone

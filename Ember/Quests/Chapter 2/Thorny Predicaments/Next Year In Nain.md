@@ -21,7 +21,7 @@ tags: [ember, quests]
 >
 > Level 1 · Unknown Unknown
 >
-> ![Kali Andrella](../../../assets/image084.webp)
+> ![Kali Andrella](../../../assets/image087.webp)
 
 ### Too Busy To Chat
 
@@ -115,7 +115,7 @@ If the party goes up to see Kali, they find her at a makeshift stand in a small 
 > With their talk complete, Kali offers the party something to help their future adventures and travels. Generally, she gives a single portion of [[Growing Thorns]] to the party, but if the party brought her specifically joyful news, she gives them an additional item.
 >
 > - If the party met Moriah, she offers a pouch of Throwing Stones, which have the properties of [[Beads of Force]].
-> - If the party saved Brevin, she adds an [[Herbalism Kit]] and an [[Everbloom]], which she has begun cultivating after getting a seed sent to her by Edivel.
+> - If the party saved Brevin, she adds an [[Alchemist's Toolkit]] and an [[Everbloom]], which she has begun cultivating after getting a seed sent to her by Edivel.
 > - If the party brought news of Rattletrap, she offers a [[Potion of Healing]] and a trinket she found while clearing out Steed's Point that reminds her of him. Roll on the [[Arcturian Trinkets]] table for the item at hand.
 
 Kali wishes the party a final goodbye and good luck on their journey, acclaiming them to the crowd.

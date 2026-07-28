@@ -70,7 +70,7 @@ Warlocks of [[Taryakel]] have been known to walk the surface of Ember as long as
 > [!quote] Read Aloud
 > Lantyr is both an Elder Goddess and a lunar body of cosmic size. Although her true name is well known, she is more commonly referred to throughout the cosmos and in the world of Ember as simply The Sun. Lantyr is the most recognizable and beloved of the Elder Deities, the radiant goddess who has watched over Ember since the dawn of creation. To every culture across the world, she is a graceful, golden presence that glides across the sky, banishing the cold and bringing the gift of each new day.
 
-Warlocks of [[Lantyr]] are rare, but not altogether unheard of. Although Lantyr is one of Ember's Elder Gods — with a host of divine adherents at her service — her influence reaches to arcane spellcasters as well. Warlocks of Alar astutely recognize the celestial qualities of The Sun, and strike their otherworldly pacts to beseech her for arcane abilities beyond mortal ken.
+Warlocks of [[Lantyr]] are rare, but not altogether unheard of. Although Lantyr is one of Ember's Elder Gods — with a host of divine adherents at her service — her influence reaches to arcane spellcasters as well. Warlocks of Lantyr astutely recognize the celestial qualities of The Sun, and strike their otherworldly pacts to beseech her for arcane abilities beyond mortal ken.
 
 ## Fathomless Patron
 
@@ -160,3 +160,21 @@ No matter their alliances or personal agendas, Warlocks of [[Sitheera]] are all 
 > A cacophony of silence fills the empty spaces of your mind, an absence that reverberates through you like a precursor to something you just can't remember.
 
 Warlocks who make a pact with the [[Herald of the Whispering Choir]] are often driven by an unparalleled curiosity, a trait held in high esteem by the Herald itself. Furthermore, these eldritch spellcasters tend to stand out as pariahs of normal society, even when they hold positions of relative influence or power. And whatever their occupation, many Warlocks of the Herald find themselves called to venture to the Obsidian Desert at least once in their lifetimes on a pilgrimage to commune with the Herald's undying corpse — which mysteriously lingers somewhere beneath the region's blistering sands.
+
+## Undead Patron
+
+Warlocks who choose Undead patrons are almost universally evil in nature and alignment. Drawing upon unholy necromantic energies and powers that twist and corrupt the life around them. In almost every case, Warlocks who dabble with necromancy and follow undead Patrons are not only shunned but actively hunted in the majority of Cultures on the surface of Ember. When choosing this subclass, pick one or more of the following Deities to serve as your character's Undead patron.
+
+### Elwin Davos
+
+> [!quote] Read Aloud
+> **Elwin Davos**, also known as Tyranous Vamperis, is one of the powerful Blood Barons, a group of undead beings that are on par with Shard Gods.
+
+Warlocks who make a pact with[[Elwin Davos]] are his vanguard, his corrupters, and his schemers; they destabilize kingdoms, infiltrate noble courts, and seed the rot of undeath. If a kingdom is peaceful, a warlock of Elwin must bring war. If a city is pure, they must poison its wells with the curse of vampirism. You do not serve Elwin by hiding in the dark; you serve him by building an empire of the dead in his name.
+
+### Menis Valegar
+
+> [!quote] Read Aloud
+> **Menis Valegar**, also known as the Lord of Torment, is one of the powerful Blood Barons, a group of undead beings that are on par with Shard Gods.
+
+Warlocks who make a pact with[[Menis Valegar]] is to be the assistant to an insane, uncaring [[Zaskryn]]. Menis demands information on the nature of life and death, and his warlocks are granted power solely to fracture the psyches of the living. You are sent to shatter minds, drive holy men to madness, and harvest the raw, terrified spirits of those who die in absolute despair. Every soul his warlocks reap in his name is dragged back to his workshop to be peeled, broken, and ripped apart. If a warlock fails to bring him fresh souls to dissect, Menis's manic attention will inevitably turn to the warlock’s own mind, chipping away at their sanity piece by piece.

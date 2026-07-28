@@ -9,13 +9,26 @@ tags: [ember, area-walkthroughs]
 # Vitt's Front Room
 
 > [!quote] Read Aloud
-> The furnishings and decorations of this small home seem more lush than the surroundings around them would allow for, as if they would be more at home in the luxurious environs of Marlstone than among the commonfolk of Lantern Roads. Whoever lives here is living well.
+> This room is small but expensively furnished. A dark couch sits on a patterned rug beneath the window, and several cushioned chairs have been arranged to face the room's center. The wood floor is spotless. The quality of the furniture and its arrangement look more suited to Marlstone than Lantern Roads.
+
+[[Vitt Wandren]] is occupying the [[Vitt's Bedroom]] and can hear disturbances in this room.
+
+> [!danger] Hazard
+> #### Avoiding Vitt's Attention
+>
+> Any loud noise in this room draws Vitt's attention, including forced entry, breaking furniture, raised voices, combat, or obvious rummaging. If Vitt hears a disturbance, he activates his [[Gem of Shielding]] and investigates: see [[Vitt's Bedroom]].
+>
+> Any character who makes a successful **Stealth (DC 15)** check can move through or search this room quietly enough to avoid drawing Vitt's attention. If the party moves through the room together, the Gamemaster may call for a group check instead.
 
 > [!tip] Exploration
-> #### Entering Vitt's House
+> #### Searching Vitt's Front Room
 >
-> The doors to Vitt's House are locked, but can be opened with the [[Brigade Key]].
+> A simple search reveals the following:
 >
-> - If characters use the Brigade Key, members of the Beacon Brigade will not stop them from entering the facility.
+> - Fine quality furnishings; comfortable and expensive, but too large to remove discreetly.
+> - A polished oak table with a folded letter left on it.
+> - An oak shelf filled with untitled linen-bound books.
 >
-> Characters can unlock the doors to Vitt's House with a successful `[[/check sleightofhand 16]]` check with [[Thieves' Tools]]. If they attempt this check within 30 feet of a Beacon Brigade member, they must succeed on a `[[/check stealth 18]]` check or the Brigade member notices and attacks.
+> The folded letter is half-finished and addressed to Hephiss Wandren. In it, Vitt complains that Lantern Roads is beneath his station, that the Beacon Brigade require constant management, and that the shopkeepers are beginning to complain publicly. The letter has not been signed.
+>
+> Any character who examines the books and makes a successful **Society (DC 12)** check recognizes one as a valuable tome on Cindaric history. The book is worth 10 sp to common merchants, or 10 gp to collectors.

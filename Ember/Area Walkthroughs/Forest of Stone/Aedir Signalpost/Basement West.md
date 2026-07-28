@@ -57,10 +57,10 @@ This trap uses the natural steam cleaning functions of the basement (meant to ke
 >
 > **Steam Release (Initiative 20).** Hot steam is released from the spouts in the wall and begins filling the room. Characters within the room must make a series of checks to avoid the injurious release of steam. The difficulty and danger of this trap escalates the longer it is active:
 >
-> - **Round 1**:**Mild Steam Burn (Hazard 2, Fortitude, Health)**
-> - **Round 2:** **Minor Steam Burn (Hazard 3, Fortitude, Health)**
-> - **Round 3:** **Steam Burn (Hazard 5, Fortitude, Health)**
-> - **Round 4+:** **Major Steam Burn (Hazard 6, Fortitude, Health)**
+> - **Round 1**:**Mild Steam Burn (Hazard 2, Fortitude, Health, Fire)**
+> - **Round 2:** **Minor Steam Burn (Hazard 3, Fortitude, Health, Fire)**
+> - **Round 3:** **Steam Burn (Hazard 5, Fortitude, Health, Fire)**
+> - **Round 4+:** **Major Steam Burn (Hazard 6, Fortitude, Health, Fire)**
 >
 > **Alchemical Cleaning Agents (Initiative 10).** Alchemical cleaning agents are released into the steam. Any creature that ends their turn within range of the steam must make a successful **Medicine (DC 15)** to take precautionary measures against breathing in the toxic air. Failing this check results in the character being **Poisoned**. If the character is already poisoned when making this check, they suffer a coughing fit and are knocked **Prone**.The cleaning agents disperse into the steam and become harmless after 1 round.
 >

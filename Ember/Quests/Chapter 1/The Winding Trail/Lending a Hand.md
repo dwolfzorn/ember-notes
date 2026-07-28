@@ -53,7 +53,7 @@ Mark the following outcome as complete to trigger a transition of the Region Map
 > [!info] Social
 > #### Payment as Promised
 >
-> If the party reminds Agraband about his promise of payment in exchange for assistance, he promptly offers the party  **10** as promised.
+> If the party reminds Agraband about his promise of payment in exchange for assistance, he promptly offers the party payment as promised in [[The Collapsed Cairn]], **10** or more if he was successfully persuaded.
 >
 > If the party does not ask, Agraband approaches the party to provide payment when they next take an opportunity to rest.
 

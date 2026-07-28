@@ -58,28 +58,28 @@ Once they gain entrance to The Pit Trap's interior, Agraband and the party must 
 >
 > Level 1 · Unknown Unknown
 >
-> ![Zira Hestidero](../../../assets/image056.webp)
+> ![Zira Hestidero](../../../assets/image060.webp)
 
 > [!abstract] Jorey Swift
 > **[[Jorey Swift]]**
 >
 > Level 1 · Unknown Unknown
 >
-> ![Jorey Swift](../../../assets/image057.webp)
+> ![Jorey Swift](../../../assets/image061.webp)
 
 > [!abstract] Undaunted Adept
 > **[[Undaunted Adept]]**
 >
 > Level 1 · Unknown Unknown
 >
-> ![Undaunted Adept](../../../assets/image053.webp)
+> ![Undaunted Adept](../../../assets/image056.webp)
 
 > [!abstract] Undaunted Trainee
 > **[[Undaunted Trainee]]**
 >
 > Level 1 · Unknown Unknown
 >
-> ![Undaunted Trainee](../../../assets/image054.webp)
+> ![Undaunted Trainee](../../../assets/image057.webp)
 
 ### Murder on the Dance Floor
 

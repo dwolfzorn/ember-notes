@@ -1,7 +1,7 @@
 ---
 title: "Environmental Hazards"
 journal: "Game Mechanics / Exploration"
-source_uuid: "JournalEntry.YiJVTs79H8jKJDtZ"
+source_uuid: "JournalEntry.JdGNYsYDG684fLH4"
 type: ember.lore
 tags: [ember, game-mechanics]
 ---
@@ -80,7 +80,7 @@ Unless the hazard is resisted, the creature also becomes **Prone**.
 
 #### Automation
 
-Falling is automated during token movement. A creature whose movement ends in mid-air with no supporting surface beneath it gains the falling condition, and a **Fall** action is automatically prompted. This prompt is presented to the Gamemaster as the user who confirms the original action which caused the fall. The Fall action measures the distance to the surface below, applies the appropriate severity of falling damage, drops the creature down to that surface, and applies the **Prone** condition. Falls of 10 feet or less are harmless and deal no damage.
+Falling is automated during token movement. A creature whose movement ends in mid-air with no supporting surface beneath it gains the **Falling** condition, and a **Fall** action is automatically prompted. This prompt is presented to the Gamemaster as the user who confirms the original action which caused the fall. The Fall action measures the distance to the surface below, applies the appropriate severity of falling damage, drops the creature down to that surface, and applies the **Prone** condition. Falls of 10 feet or less are harmless and deal no damage.
 
 This automation applies both to a creature's own movement and to Forced Movement which carries it over an edge. Creatures which are **Flying** or **Burrowing** do not fall.
 

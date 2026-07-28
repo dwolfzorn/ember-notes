@@ -13,31 +13,37 @@ tags: [ember, area-walkthroughs]
 >
 > On the southern wall, two large windows look out over the rolling Ordain cityscape, its tapestry of crimson rooftops stretching into the horizon.
 
+This room serves as Raster Thorne's administrative chamber, and currently contains [[Raster Thorn]] himself, along with two [[Toothbreaker Thug]] and two [[Scalemaw]] companions. The arrival of any interlopers would prompt quite a stir.
+
 > [!tip] Exploration
 > #### Locked Doors
 >
-> The doors to Raster's Throne Room are locked. Two [[Toothbreaker Throne Room Key]] can be found throughout the hideout: one held by Taamsin the Mastermind in the [[Planning Room]], and another in the possession of Raster himself.
+> The doors to Raster's Throne Room are locked, and can be opened with a [[Toothbreaker Throne Room Key]].
+>
+> Two of these particular keys can be found throughout the hideout: one held by Taamsin the Mastermind in the [[Planning Room]], and another in the possession of Raster Thorn himself.
+>
+> The locks on these doors can also be picked by any character who makes a successful **Stealth (DC 20)** check.
 
 > [!abstract] Raster Thorn
 > **[[Raster Thorn]]**
 >
 > Level 1 · Unknown Unknown
 >
-> ![Raster Thorn](../../../assets/image034.webp)
+> ![Raster Thorn](../../../assets/image035.webp)
 
 > [!abstract] Toothbreaker Thug
 > **[[Toothbreaker Thug]]**
 >
 > Level 1 · Unknown Unknown
 >
-> ![Toothbreaker Thug](../../../assets/image029.webp)
+> ![Toothbreaker Thug](../../../assets/image034.webp)
 
 > [!abstract] Scalemaw
 > **[[Scalemaw]]**
 >
 > Level 1 · Unknown Unknown
 >
-> ![Scalemaw](../../../assets/image031.webp)
+> ![Scalemaw](../../../assets/image033.webp)
 
 > [!danger] Hazard
 > #### Raster Thorn
@@ -52,9 +58,11 @@ tags: [ember, area-walkthroughs]
 >
 > #### Raising the Alarm
 >
-> There is an alarm bell on the eastern wall. When combat begins, one of Raster's Toothbreaker Thug allies will move to ring it.
+> There is an **Alarm Bell** on the eastern wall. When combat begins, one of Raster's Toothbreaker Thug allies will move to ring it. See the "Alarm Bells" section of the [[Gameplay Details]] for additional details).
 
 > [!tip] Exploration
 > #### Locked Vault
 >
-> The door to [[Raster's Vault]] on the western wall is locked. The only key is on [[Raster's Keyring]]. Alternately, the lock can be picked with a successful **Stealth (DC 25)** check.
+> The door to [[Raster's Vault]] on the western wall is locked, and the only key to it can be found on [[Raster's Keyring]].
+>
+> The lock on the door can also be picked by any character who makes a successful **Stealth (DC 25)** check.

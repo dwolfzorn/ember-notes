@@ -9,28 +9,23 @@ tags: [ember, area-walkthroughs]
 # Shadowbox Souvenirs
 
 > [!quote] Read Aloud
-> Believed to be one of the oldest buildings in Lantern Roads, this is one of the few that does not use light in its large picture window, opting instead for a display of swirling shadows. Despite its somewhat foreboding facade, it holds only a small souvenir shop, whose shadowcasters throw shadowy tableaus at the wall. The owner, Dolin Aveun, greets you as you enter the shop.
+> This is believed to be one of the oldest buildings in Lantern Roads, and one of the few that does not use light in its large picture window. Instead, the display is made from swirling shadows.
+>
+> Despite the foreboding facade, the building holds a small souvenir shop. Miniature shadowcasters throw dark little tableaux against the wall, and the owner greets you as you enter.
 >
 > > Welcome to Lantern Roads, home of shadows and light. Feel free to browse and let me know if you need anything!
-
-> [!warning] Gamemaster
-> #### Getting to the North of Lantern Roads
->
-> Characters seeking to get to the northern part of Lantern Roads can find information on three potential routes through observation and their conversation with shopkeeper Dolin Aveun.
->
-> - **Rooftop Route:** Dolin mentions that the Brigade uses the rooftops to cross the area. If party members enter the shop, they can find a direct connection from the upstairs section of the shop to the adjoining rooftop of [[Terrace Gardens: Nature's Glory]].
-> - **Shadowbox Alleys:** Dolin alludes to thieves and troublemakers that spend time in Shadowbox Alleys.
-> - **Bluffing:** Dolin gives any characters who ask about the Brigade a lantern, which he believes to have something to do with the Brigade's vetting procedure. He usually gets the used lanterns back from nearby shop Second Light.
 
 > [!info] Social
 > #### Speaking with Dolin Aveun
 >
-> Dolin Aveun is eager to have customers and will readily make conversation with the party about his shadowboxes. He will share the following:
+> **Dolin Aveun** (Lawful Neutral, Ordani Human, he/him) is eager to have customers, and readily makes conversation with the party about his shadowboxes. He is nervous about the Beacon Brigade, but not enough to refuse ordinary questions. As long as the party does not threaten him, he discusses the following:
 >
-> - He sells miniature shadow boxes, which are replicas of some of the famous shadowbox display windows in the neighborhood. Like the windows, they are lit from within, but if a light is shone on them from outside, the scene in the box changes.
-> - There are still shadowboxes up for display in Shadowbox Alley, but there are often shady people skulking around in the area - he avoids it if at all possible.
+> - **His miniature shadowboxes:** Dolin sells miniature replicas of some of the famous shadowbox display windows in the neighborhood. Like the larger windows, they are lit from within, but the scene changes when a light is shone on the box from outside. The characters can purchase a shadowbox for 5 gp.
+> - **Shadowbox Alley:** Dolin says several old shadowboxes are still on display in Shadowbox Alley, though he avoids the alley whenever possible. Shady people and troublemakers often spend time there.
+> - **The Beacon Brigade:** If asked about the Beacon Brigade, Dolin immediately hands the party a lantern from beneath his desk. He does this without explanation, and becomes evasive if asked why.
 >
-> If asked about the Beacon Brigade, Dolin immediately hands the party a lantern from beneath his desk without an explanation. If asked about the lantern, he won't explain why he handed it over. With a successful `[[/check 17 persuasion]]` or `[[/check 17 intimidation]]` check, he shares the following:
+> Any character who makes a successful **Diplomacy (DC 15)** or **Intimidation (DC 15)** check can convince Dolin to explain the lantern: Dolin admits that the Beacon Brigade usually uses the rooftops to move through Lantern Roads, but sometimes comes to him for lanterns, which he believes are part of the gang's process for identifying new members.
 >
-> - The Beacon Brigade usually uses the rooftops to get around, but sometimes they come to him looking for lanterns, which are part of their way of identifying new members.
-> - He doesn't know what they do with the lanterns, but usually sees the lanterns at Second Light, the secondhand shop, where he buys them back from the owner, Luma Texini.
+> Dolin does not know exactly what the Brigade does with the lanterns, but he usually sees them again at [[Second Light]], where he buys them back from Luma Texini.
+>
+> Any character who makes a successful **Deception (DC 13)** check realizes that Dolin is frightened of the Beacon Brigade, but accustomed to cooperating with them when he thinks he has no other choice.

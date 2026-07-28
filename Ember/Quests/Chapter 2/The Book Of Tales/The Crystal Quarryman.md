@@ -13,16 +13,16 @@ tags: [ember, quests]
 >
 > This Social and Combat Event involves a surreptitious meeting in [[Arcturel]] with [[Zodi Trask]], a [[Kiska]] miner whose fateful encounter with a [[Luxarum]] relic has curiously started transmogrifying his physical form into a crystalline one. In this Event, the characters can:
 >
-> - Locate [[Zodi Trask's Apartment]] in [[Arcturel Lower]] aka "The Dives," where they can meet the so-called crystal quarryman himself and discuss the nature of his strange affliction.
+> - Locate [[Zodi Trask's Apartment]] in [[Arcturel Dives]] where they can meet the so-called crystal quarryman himself and discuss the nature of his strange affliction.
 > - Scrutinize the strange [[Uncanny Relic]] responsible for Zodi's transformation — a celestial device that Zodi himself strangely cannot perceive — in an effort to determine how to reverse the crystallization effect.
 > - Defend themselves from a surprise attack by a quintet of [[Skither]] spies, who've been sent to observe Zodi before retrieving the device for its creator — the celestial [[Aburyx]] known as Kilner.
 > - Help restore Zodi to his original organic form using the Uncanny Relic itself, at which time they can transcribe the quarryman's tale in the [[Stonecraft Manuscript]].
 >
-> This Event is depicted using the [[Arcturel Lower]] Area Map.
+> This Event is depicted using the [[Arcturel Dives]] Area Map.
 
 ### An Incident in Arcturel
 
-Unless the characters have already met Zodi Trask during a previous visit like [[Unhappy Accidents]], they will need to gather information throughout the sinkhole town about the Kiska quarryman and his whereabouts: an apartment in the substrata of Lower Arcturel, a shadow-swept area of town also known as "The Dives."
+Unless the characters have already met Zodi Trask during a previous visit like [[Unhappy Accidents]], they will need to gather information throughout the sinkhole town about the Kiska quarryman and his whereabouts: an apartment in the substrata of the Dives, a shadow-swept area of city a mile beneath the surface.
 
 No matter their familiarity with the surrounding environment, the characters should remain well aware of [[Amalthea Stonecraft]]'s directive from [[The Storyteller of Nain]]: "Zodi Trask is rumored to be undergoing a most strange transformation — one that is turning him to solid crystal. Find out how his perilous situation came to be."
 
@@ -38,9 +38,9 @@ The characters need to find Zodi Trask, analyze the strange alien source of his 
 > - **Society (DC 15)** Characters who are more familiar with Arcturel and its local history may already be aware of Zodi Trask based on his reputation as a gregarious foreman for [[House Cevher]] mining operations here. Someone near the [[Level 3 Mine Office]] or in town should be able to provide more information.
 > - **Stealth (DC 13)** Characters who attemptto blend with the crowd while searching for information about Zodi Trask find that people are legitimately concerned about the foreman, who is considered to be one of the more ethical and good-natured citizens of Arcturel. Despite his overtly commercial Trading House affiliation, Trask is known to be a "man of the people" with an open heart and a lot of grit.
 > - **Awareness (DC 13)** Characters who attempt to gather general information while snooping about town are able to discern that Zodi Trask is a well-liked member of the community who dwells in the lower district of Arcturel, also known as "the Dives."
-> - **Deception (DC 13)** Characters who manage to successfully deceive the locals into divulging information are able to learn the precise location of [[Zodi Trask's Apartment]] in Lower Arcturel.
-> - **Diplomacy (DC 13)** Characters who manage to successfully persuade the locals into divulging information are able to learn the precise location of Zodi Trask's Apartment in Lower Arcturel.
-> - **Intimidation (DC 13)** Characters who manage to successfully intimidate the locals into divulging information are able to learn the precise location of Zodi Trask's Apartment in Lower Arcturel.
+> - **Deception (DC 13)** Characters who manage to successfully deceive the locals into divulging information are able to learn the precise location of [[Zodi Trask's Apartment]] in the Dives.
+> - **Diplomacy (DC 13)** Characters who manage to successfully persuade the locals into divulging information are able to learn the precise location of Zodi Trask's Apartment in the Dives.
+> - **Intimidation (DC 13)** Characters who manage to successfully intimidate the locals into divulging information are able to learn the precise location of Zodi Trask's Apartment in the Dives.
 >
 > When making the above checks:
 >
@@ -55,7 +55,7 @@ The characters need to find Zodi Trask, analyze the strange alien source of his 
 > 4. The characters are warned about arousing the suspicion of Trask's neighbors while investigating his apartment. Dives dwellers are said to be on edge about the disappearance of such a prominent member of the blue collar community.
 > 5. The characters are warned about a rumor suggesting Zodi was exposed to a rare supernatural disease in the mines. Some say the foreman already lies dead in that Dives apartment of his, while others maintain he's disintegrated altogether.
 >
-> Once the party members have succeeded on 2 of the aforementioned checks, they are able to pinpoint the exact location of [[Zodi Trask's Apartment]] in Lower Arcturel — which is his last known position.
+> Once the party members have succeeded on 2 of the aforementioned checks, they are able to pinpoint the exact location of [[Zodi Trask's Apartment]] in the Dives — which is his last known position.
 >
 > For more specific dialogue options that citizens of Arcturel might offer during a conversation, consult the Q&A blocks below.
 
@@ -88,7 +88,7 @@ The characters need to find Zodi Trask, analyze the strange alien source of his 
 
 ### Meeting Zodi Trask
 
-Once the party locates [[Zodi Trask's Apartment]] in [[Arcturel Lower]], they can survey the local area for signs of the quarryman himself. Soon enough, they'll discover evidence that the crystalline transformation has started spreading to Zodi's surroundings, and that a strange otherworldly relic is responsible — a relic Zodi can no longer perceive.
+Once the party locates [[Zodi Trask's Apartment]] in [[Arcturel Dives]], they can survey the local area for signs of the quarryman himself. Soon enough, they'll discover evidence that the crystalline transformation has started spreading to Zodi's surroundings, and that a strange otherworldly relic is responsible — a relic Zodi can no longer perceive.
 
 When the characters finally investigate the home apartment of [[Zodi Trask]] in Arcturel's Balconies, read the following aloud.
 
@@ -136,7 +136,7 @@ Once Zodi opens the door, the characters can finally take full stock of his phys
 >
 > Level 2 · Kiska Grappler
 >
-> ![Zodi Trask](../../../assets/image077.webp)
+> ![Zodi Trask](../../../assets/image080.webp)
 >
 > You regard a burly Kiska male whose corded muscles suggest a life of strenuous labor, a detail readily confirmed by the timeworn pickaxe at his side and the simplicity of his loose-hanging garb. Covered in a coat of gray-brown fur and quarry dust, this miner wears his long mane of vibrant hair in a thick braid to keep it dutifully out of the way. A smug countenance presides upon his mustachioed face, which appears to be marked by a few scars from some violent childhood scuffle or accident.
 
@@ -247,7 +247,7 @@ As the characters begin to unravel the mystery of the relic and its effect on [[
 >
 > #### Skither Tactics
 >
-> At the start of combat, one or more of the skithers will attempt to attack the character nearest to the Uncanny Relic in an effort to snatch the relic from them and escape the area. In order to successfully escape, the skither carrying the relic must reach the westernmost extremity of the Area Map, which marks the spot they begin ascending into [[Arcturel Upper]] and beyond, well out of capture range.
+> At the start of combat, one or more of the skithers will attempt to attack the character nearest to the Uncanny Relic in an effort to snatch the relic from them and escape the area. In order to successfully escape, the skither carrying the relic must reach the westernmost extremity of the Area Map, which marks the spot they begin ascending into [[Arcturel Tradeway]] and beyond, well out of capture range.
 >
 > Over the course of combat, the skithers will prioritize the following actions and abilities:
 >

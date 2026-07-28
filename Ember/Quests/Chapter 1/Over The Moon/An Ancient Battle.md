@@ -28,7 +28,7 @@ In this Event, the party faces a Writhing Whisperer, a terrible abyssal monster 
 >
 > Level 6 (Elite) · Abyssal Harbinger Whisperer
 >
-> ![Writhing Whisperer](../../../assets/image065.webp)
+> ![Writhing Whisperer](../../../assets/image069.webp)
 >
 > Ever shifting and reshaping itself, producing new limbs as quickly as it retracts existing ones, occasionally you glimpse flickers of stars and lights swirling around under the surface, but they are always consumed by blackness a moment later.
 >
@@ -53,7 +53,7 @@ Shortly after the Whisperer is slain, the projection of Mioroth faintly appears,
 >
 > Level 18 (Boss) · Memory Shent Seer
 >
-> ![Mioroth](../../../assets/image085.webp)
+> ![Mioroth](../../../assets/image088.webp)
 >
 > Appearing as if from legends, a ghostly, semi-transparent, colossal figure looms over you even as he sits with his legs crossed. He is serene, calm, and intangible, as if made of pure energy and flickering strands of light. Shadows and motes of magic constantly evaporate from his body, and his only constant is his wise and gentle smiling expression. He looks faintly like a Kivahr, but as if carved from stone, with heavy brows, long limbs, and a muscular frame. The clothing he wears matches no recognizable style.
 
@@ -101,9 +101,11 @@ The party can ask about any missed information or topics from [[Lunar Awakenings
 > > If you can find the final resting place of this mage, you can claim the ancient spell case in the remains. Be warned though, if you do go searching the gloomy corners of the caverns, beware the glint of gossamer in the darkness. There are many lurking dangers still.
 
 > [!warning] Gamemaster
-> #### Shent Spell Case
+> #### Mioroth's Reward: Shent Scroll Case
 >
-> The corpse of the seer that Mioroth mentions can be discovered during the [[The Glint of Gossamer]] Event in the [[Kaleidoscope Caverns]] to the south of the ancient battle site. It only appears for parties that have helped Mioroth and learned about its existence.
+> This "final resting place" that Mioroth describes can only be discovered during [[The Glint of Gossamer]]. This downstream Event occurs while the characters explore the [[Kaleidoscope Caverns]] to the south of here, and only after the party has assisted Mioroth by defeating the Writhing Whisperer.
+>
+> If the party can survive an ambush by a group of [[Young Cheliceraeth]], they can retrieve the ancient [[Shent Scroll Case]] from the seer's remains.
 
 > [!question] Q&A
 > **Q:** Will we see you again?

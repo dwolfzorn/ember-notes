@@ -121,7 +121,7 @@ Rising from within the ribcages of the remains of several giants are horrible, s
 >
 > Level 1 · Abyssal Harbinger Echo
 >
-> ![Abyssal Echo](../../../assets/image023.webp)
+> ![Abyssal Echo](../../../assets/image024.webp)
 >
 > Emerging from the darkness is a terrifying eldritch apparition composed of dark smoke and malice, with prominent rows of gleaming sharp teeth. Its softly glowing eyes radiate spiteful hatred and cunning as it glides through the air with measured movements. Grasping hands, as if yearning to escape its form, materialize and vanish instantly, while its two enormous clawed hands seem to appear and disappear at will.
 

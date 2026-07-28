@@ -32,7 +32,7 @@ When the Event begins, Agraband and the party have arrived at the forge of the f
 >
 > Level 1 · Unknown Unknown
 >
-> ![Brackus von Tet](../../../assets/image144.webp)
+> ![Brackus von Tet](../../../assets/image151.webp)
 
 > [!info] Social
 > #### A Conversation with Brackus

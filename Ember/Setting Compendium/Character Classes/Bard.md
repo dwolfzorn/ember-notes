@@ -37,3 +37,10 @@ Ember's College of the Moon is steeped in the legends and lore of the [[Duskflar
 ## College of Valor
 
 Bards who learn their craft from the College of Valor study the heroic deeds of Ember's ancient champions, and carry their bardic talents into battle. Some of the most celebrated Valor Bards hail from the [[Oaken]], a culture of proud monster-hunters and dauntless survivors, whose storied myths and legends date back to the mystery-laden [[Age of Beasts]]. The Oaken's Skalds of Valor are known the world over as keepers of legend whose songs can stir their allies to perform incredible deeds. But the College of Valor is not restricted to the traditions of [[Oakengarde]]; Valor Bards are frequent among many of Ember's cultures, from the folk raconteurs of the [[Arctus Plateau]] to the learned remainders of the ancient [[Aedir]] Empire.
+
+## College of Spirits
+
+> [!warning] Gamemaster
+> The term "College of Spirits" does not exist in Ember. However, the concept of a Bard that follows the College of Spirits persists via the alternative listed below.
+
+Among the [[Waerd]] of the Lowland Bastions are an ancient group of warrior priests known as the Kinthyr. The Kinthyr stand apart from other Waerds in many ways, and becoming one is said to be a trial of such harrowing strength of will that most who attempt it fail and are forever lost. The most powerful Kinthyr are said to be bestowed with great wings and wear oddly ancient-looking armor adorned with glowing symbols indicating a link to Signara. But in truth, they have an especially strong connection with the souls of the dead and can channel spirits in ways that Sockets himself seems to approve. Not only are they able to seemingly communicate with long-dead spirits, but they can also call upon them in combat or for various uses, even for healing. Kinthyr rarely travel openly among distant cultures, as their abilities are often mistaken for necromancy; however, those who have successfully completed the ancient trial of the Spirit Spear and are still young sometimes travel beyond the borders of the Bastions in search of greater meaning and experience.

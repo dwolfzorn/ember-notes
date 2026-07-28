@@ -1,7 +1,7 @@
 ---
 title: "Overview"
 journal: "Game Mechanics / Adversaries"
-source_uuid: "JournalEntry.PcohneXqJUiaWlLq"
+source_uuid: "JournalEntry.b8f1AqQKQd4c6GTL"
 type: ember.lore
 tags: [ember, game-mechanics]
 ---
@@ -22,14 +22,14 @@ Level × Threat Multiplier
 
 ## Threat Categories
 
-Each Threat Category contributes a multiplier to the effective **Threat Level** of the Adversary and also determines the number of [[Actions]] that the Adversary has in combat. The Threat Categories in the Crucible system are:
+Each Threat Category contributes a multiplier to the effective **Threat Level** of the Adversary and also determines the number of [[Actions]] that the Adversary has in combat, as well as bonus Focus capacity for Elite and Boss Adversaries. The Threat Categories in the Crucible system are:
 
-| Threat Category | Threat Multiplier | Action Points | Description |
-| --- | --- | --- | --- |
-| Minion | × 0.5 | 2 | Weaker than average foes at a given level, minions are less dangerous and more easily dispatched - but may be numerous in quantity. |
-| Normal | × 1 | 3 | The standard level of difficulty and challenge for a certain level. |
-| Elite | × 1.5 | 4 | Stronger than average foes at a given level, elites are more dangerous and more difficult to dispatch. Elites are more rarely encountered. |
-| Boss | × 2 | 5 | Especially dangerous enemies which represent the ultimate degree of challenge at a certain level. Most encounters do not contain a boss. |
+| Threat Category | Threat Multiplier | Action Points | Bonus Focus | Description |
+| --- | --- | --- | --- | --- |
+| Minion | × 0.5 | 2 | - | Weaker than average foes at a given level, minions are less dangerous and more easily dispatched - but may be numerous in quantity. |
+| Normal | × 1 | 3 | - | The standard level of difficulty and challenge for a certain level. |
+| Elite | × 1.5 | 4 | +1 | Stronger than average foes at a given level, elites are more dangerous and more difficult to dispatch. Elites are more rarely encountered. |
+| Boss | × 2 | 5 | +2 | Especially dangerous enemies which represent the ultimate degree of challenge at a certain level. Most encounters do not contain a boss. |
 
 ## Defeating Adversaries
 

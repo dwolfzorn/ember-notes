@@ -9,44 +9,69 @@ tags: [ember, area-walkthroughs]
 # Second Light
 
 > [!quote] Read Aloud
-> Filled with odds and ends, the goods in the shop Second Light appear to be arranged haphazardly, with no particular rhyme or reason to where they go. Still, each time someone new enters the shop, they seem to know exactly who to see and what to do, placing their items on the counter and murmuring something to the shopkeeper before walking past her, taking an item from a back counter, and exiting through the back door.
+> Second Light is filled with odds and ends: cracked dishes, old tools, tarnished jewelry, rolled rugs, dented lanterns, and shelves of goods arranged with no obvious system. Behind the counter, the shopkeeper smiles a little too brightly as you enter.
 >
-> As if she sees you watching, the shopkeeper smiles, maybe a little too brightly, and waves in your direction.
->
-> > Welcome to Second Light, where old goods shine just as brightly as new ones. Whether you're looking for secondhand goods or have something to sell, let me know if you need anything - fair prices always offered!
-
-> [!warning] Gamemaster
-> #### Getting to the North of Lantern Roads
->
-> Characters seeking to get to the northern part of Lantern Roads can bluff their way through to the other side by following the procedure noted in Revealed by Lantern:
->
-> - Bring a source of light for sale to the pawn shop
-> - Say the phrase "Have a bright day"
-> - Pick up the correct Brigade Key from the table and use it to exit.
->
-> There is no information about the Rooftops or Shadowbox Alleys readily available.
+> > Welcome to Second Light, where old goods shine just as brightly as new ones. Whether you're looking for secondhand goods or have something to sell, let me know if you need anything. Fair prices always offered!
 
 > [!tip] Exploration
-> #### Observing the Procedure
+> #### Searching Second Light
 >
-> Each customer who makes their way through Second Light brings in an item, speaks to the shopkeeper, and walks indirectly to the back door.
+> A simple search reveals the following:
 >
-> - Characters can look at the recent items on the counter without a check — they include a broken lantern, candle, and torch stick. With a successful `[[/check investigation 16]]` check, characters know that the item brought to the shopkeeper must be something that generates light.
-> - With a successful `[[/check perception 16]]` check, characters can eavesdrop on the conversation between customers and the shopkeeper . If the check is failed, it can be retried, but they must first attempt a `[[/check stealth 16]]` check.
->   - If they succeed on the check, they have **+2 Boons** on their next perception attempt.
->   - If they fail on the check, the shopkeeper questions why they're standing so close to her other customers. They can either back away, raising the DC of the perception check by 2, or explain their position with a successful `[[/check persuasion 16]]` or `[[/check deception 16]]` check.
-> - With a successful `[[/check perception 18]]` check, characters can see that the customers who leave through the back are picking up keys from one of the back tables, which they use to unlock the back door.
+> - Shelves of secondhand goods with little obvious organization.
+> - Several recently traded light-producing items behind the counter: a cracked lantern, an unused candle, and a torch wrapped in linen.
+
+> [!danger] Hazard
+> #### Beacon Brigade Patroller
+>
+> A [[Wandren Patroller]] guards the back door. The Patroller remains at their post unless the party attacks or otherwise makes a disturbance in the shop.
+>
+> The party can deal with this Patroller using the general options described in [[Area Overview]].
 
 > [!info] Social
-> #### Selling to the Shopkeeper
+> #### Speaking with Luma Texini
 >
-> The shopkeeper introduces herself as Luma and encourages the party to look at many of the small items that she has for sale, or to sell something of their own that they no longer need.
+> **Luma Texini** (Neutral, Ordani Human, she/her) encourages the party to browse, buy from the shop's many small items, or sell anything they no longer need. She feigns ignorance if asked about the Beacon Brigade.
 >
-> - If characters offer any item that does **not** generate light, Luma offers them one-quarter of its cost. With a successful `[[/check persuasion 17]]` or `[[/check intimidation 17]]` check, she will raise her offer to half of the initial cost.
-> - If characters offer an item that **does** generate light, she asks if Vitt sent them. Their answer does not matter - if they do not say "Have a Bright Day" during the conversation, she offers cash for the item as above.
->   - If characters do say "Have a Bright Day" or if they succeed on a `[[/check intimidation 24]]` check to bully Luma, she offers them "something priceless" in return for the item - suggesting that they pick up their reward and leave through the back. Characters who do not understand what she means by this can convince her to explain with a successful `[[/check persuasion 16]]` check.
+> If the party offers an item that **does not** generate light, Luma offers one-quarter of its listed value. Any character who makes a successful **Diplomacy (DC 17)** check can convince her to raise the offer to half the item's listed value.
+>
+> If the party offers an item that **does** generate light, Luma looks at the item, then asks:
+>
+> > What kind of day am I to have?
+>
+> If the party responds with "Have a bright day," Luma nods, places the item below the counter, and hands them a small claim ticket stamped with a lantern mark. She then discreetly directs the party toward the back door. Otherwise, she offers coin for the item as normal.
+
+5 minutes after the party enters Second Light, another customer arrives.
+
+> [!warning] Gamemaster
+> #### Token Reveal
+>
+> The [[Unknown]] Token is initially Hidden; reveal their Token now.
 
 > [!tip] Exploration
-> #### Using the Back Exit
+> #### A Customer Arrives
 >
-> The party can easily take one of the keys on the back table without a check - it is a Brigade Key, which opens the back door to the shop. If parties attempt to go through the the back door without the key, Luma acts unconcerned, offering to open the door herself, but sends a silent alert to the Beacon Brigade, who now attack the party on sight.
+> A nervous local enters the shop carrying a cracked lantern. Luma greets them as an ordinary customer, and the two speak quietly at the counter.
+>
+> Any character with `[[/skill perception 18 passive format=long]]` or who makes a successful **Awareness (DC 16)** check overhears the customer say "Have a bright day."
+>
+> After the exchange, Luma takes the cracked lantern and gives the customer a small claim ticket. The customer carries the ticket to the Patroller at the rear of the shop, who takes it, opens the door, and allows the customer to step through.
+
+> [!abstract] Wandren Patroller
+> **[[Wandren Patroller]]**
+>
+> Level 1 · Unknown Unknown
+>
+> ![Wandren Patroller](../../../assets/image050.webp)
+
+> [!danger] Hazard
+> #### Beacon Brigade Patroller Tactics
+>
+> At the start of combat, the [[Wandren Patroller]] will move to strike an enemy with its [[Hollowed Dagger]], applying either [[Paralyzing Poison]] or [[Slowing Serum]], per the Gamemaster's discretion.
+>
+> Over the course of combat, the Patroller will prioritize the following actions and abilities:
+>
+> - In melee, the Patroller will use their [[Multiattack]] feature to apply [[Paralyzing Poison]] or [[Slowing Serum]] to as many enemies as possible.
+> - Whenever able, the Patroller will position themselves amongst allies to take advantage of their [[Pack Tactics]] feature.
+>
+> Once reduced below half their Hit Point maximum, the Patroller will attempt to flee toward the nearest ally.

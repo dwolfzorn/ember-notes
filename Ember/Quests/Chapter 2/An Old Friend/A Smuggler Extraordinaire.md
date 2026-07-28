@@ -88,7 +88,7 @@ Before attempting to ask about Juro Wandren by talking to the local villagers, t
 >
 > Level 4 · Wirrun Operator
 >
-> ![Juro Wandren](../../../assets/image139.webp)
+> ![Juro Wandren](../../../assets/image145.webp)
 >
 > Though he maintains a pleasant smile, with an expression that appears calculated to seem warm, the tall lanky wirrun is unmistakeably sizing up everyone and everything nearby, letting his gaze brush past any potential items of value before focusing on whatever is directly in front of him. As he finishes his appraisal, he smiles more brightly, though whether that's because it's met his expectations or not is hard to tell.
 

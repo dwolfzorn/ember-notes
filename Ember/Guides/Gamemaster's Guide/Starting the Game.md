@@ -52,4 +52,4 @@ Automatic movement of the Strayhearth Caravan is not yet implemented in Beta. We
 
 For now, Gamemasters will need to manually move the Strayhearth Caravan up until the [[The Collapsed Cairn]] event, after which point the players will take control of their own Party token. The caravan should follow the annotated map shown below to reach this point at around noon on Day 2.
 
-![](../../assets/image187.webp)The Gamemaster should follow the above route with the Strayhearth Caravan until the Collapsed Cairn is encountered. Bookmark icons represent events that occur. Bookmarks which contain beds are the places the caravan camps for the night.
+![](../../assets/image102.webp)The Gamemaster should follow the above route with the Strayhearth Caravan until the Collapsed Cairn is encountered. Bookmark icons represent events that occur. Bookmarks which contain beds are the places the caravan camps for the night.

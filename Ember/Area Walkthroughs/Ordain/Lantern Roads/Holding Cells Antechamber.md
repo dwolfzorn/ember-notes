@@ -9,44 +9,34 @@ tags: [ember, area-walkthroughs]
 # Holding Cells Antechamber
 
 > [!quote] Read Aloud
-> A metal desk covered with small items sits empty in what is otherwise a bare room. Opposite the desk, a sign on the wall is written in bold lettering in a language other than Common. Beneath it, in a different hand, is the word *Containment*.
->
-> As you step into the room, you can hear a muffled voice from behind a wall:
->
-> > Hello? Can you hear me? This is Funar Cevher of House Cevher, and I request your immediate assistance on two urgent matters. I must get free of this imprisonment, but more importantly, I need to get a message to my sister Lyla - she may be in grave danger!
+> A metal desk sits in the center of this otherwise bare room, with two chairs drawn up beside it. A thin, metal-bound booklet sits in the center of the desk. At the north side of the room, a thick metal door blocks the way forward. A torch sconce is mounted beside it, empty and waiting.
 
-If Lyla is with the party, she reacts immediately:
-
-> [!quote] Read Aloud
-> Lyla sighs, deeply, and brings her hand to her heart.
->
-> > Funar, thank the Nineteen! What happened?
-
-Whether or not Lyla is present, the conversation with Funar continues in [[Not All Who Wandren]].
+If Funar Cevher is still in his cell, characters in this room can hear a dull, irregular thumping carrying through the north wall. Funar can hear yelling in this room, but that volume is likely to attract any creatures remaining in the [[Training Room]].
 
 > [!tip] Exploration
-> #### Exploring the Room
+> #### Searching the Antechamber
 >
-> The etched sheets of metal on the desk are primarily written in **Language: Harmos**. Characters who go through them can find the following without a check:
+> A simple search reveals the following:
 >
-> - A piece of paper written in a combination of Harmos and **Language: Common** with a list of names that includes several people with the last name Wandren and Funar Cevher.
->   - If Lyla is with the party, or if characters either succeed on a `[[/check history 16]]` check or have **Knowledge: Politics**, they know that that these are some of the old guard of House Wandren, who might have been political rivals of Hephiss Wandren.
->   - If characters know **Language: Harmos**, the remaining papers are notes about the prisoners, most of which detail them being enemies of Hephiss.
-> - A sketched map of the facility with a picture of the key in the upper corner - the sketch is rough, but has three markings on it - one in a room directly to the south of the room the party is in, and one generally in the Northeast and the Southeast. Each marking has a line to it, connecting it to a drawing of the domes in the center of the facility.
->   - With a successful `[[/check investigation 16]]` check, the party can decipher that the marking is a combination of a lever and a flame.
-> - A small key. It does not match the door to the holding cell area. If the party describes the key to Funar, he will confirm that it appears similar to the keys to the individual holding cell cells.
+> - A thin booklet bound in a pressed metal spine.
+> - An empty torch sconce beside the door to the [[Holding Cells]].
+>
+> #### Reading the Book
+>
+> Any character who makes a successful **Society (DC 15)** check recognizes the writing as Harmos, the language used by the [[Tyraphem]] who dwell on the Inner Realm of [[Luxarum]].
+>
+> - **Language: Harmos**: The character automatically succeeds on this check.
+> - **Knowledge: Celestials**: The character automatically succeeds on this check.
+>
+> Any character who can read Harmos can skim through the book and learn the following:
+>
+> - Several Wandren names.
+> - Funar Cevher's name.
+> - Prisoner notes identifying the captives as "Transformed" or "Deceased." Funar's name is not marked.
 
-### The Locked Door
-
-> [!quote] Read Aloud
-> It is hard to tell, at first glance, that the piece of metal in front of you is a door at all. There's no knob, keyhole, or other indication of any kind of how it might be opened.
-
-> [!tip] Exploration
-> #### The Locked Door
+> [!danger] Hazard
+> #### Locked Door
 >
-> Though Funar is certain that the door to the holding cells is locked, the party may wish to take a closer look:
+> The door leading to the [[Holding Cells]] is locked, but can be unlocked with a successful `[[/skill sleightofhand 30 tool=thief]]`. Alternatively, the bars can be bent with a successful **Athletics (DC 30)** check.
 >
-> - Anyone who succeeds on a `[[/check 15 arcana]]` or `[[/check 15 nature]]` check can tell that the metal of the door has a faint glow to it that is magical in nature.
->   - Anyone who uses [[Identify]] (or a similar spell) can tell that the door is magically controlled from elsewhere and repels anyone who touches it.
-> - Anyone who touches the door is thrown backwards 10 feet. [[Dispel Magic]] has no effect on the door. [[Disintegrate]] gets rid of the protection on the door, but there is still keyhole or unlocking mechanishm.
->   - The door underneath the protection has AC 24 and Hardness 6.
+> Finally, the door can be unlocked and opened by placing a [[Lit Kynryth Torch]] in the empty torch sconce. A [[Lit Kynryth Torch]] placed into a sconce in Wandren HQ remains burning for 8 hours.

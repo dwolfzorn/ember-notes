@@ -41,7 +41,7 @@ If the party has already met the Fulgurite Blades during [[Curious Party]], skip
 >
 > Level 4 · Nir'ae War Mage
 >
-> ![Sajor Velex](../../../assets/image043.webp)
+> ![Sajor Velex](../../../assets/image044.webp)
 >
 > A bright-eyed woman stands before you with a curious expression, yet the corners of her mouth are turned downwards, as if she is slightly displeased with your presence. She has short black hair with a shock of white at the front, two large downwards-facing ears, and dark olive skin marked with vivid glittering patterns that signify she is either a descendant or a full Nir'ae herself.
 
@@ -50,7 +50,7 @@ If the party has already met the Fulgurite Blades during [[Curious Party]], skip
 >
 > Level 2 · Cor'ak Fighter
 >
-> ![Rorhim Iron-Cask](../../../assets/image044.webp)
+> ![Rorhim Iron-Cask](../../../assets/image045.webp)
 >
 > A burly figure, tall even for Cor'ak, with a thick hornplate above his head and skin in varying shades of tan and brown. His bright blue eyes take in his surroundings with a noticeable lack of interest. He is clearly a warrior of considerable power, given the presence of an oversized sword slung across his back, an accompanying shortsword on his hip, and heavy armor strapped around his stocky frame.
 
@@ -59,7 +59,7 @@ If the party has already met the Fulgurite Blades during [[Curious Party]], skip
 >
 > Level 2 · Kivahr Priest
 >
-> ![Kazra Steelshift](../../../assets/image045.webp)
+> ![Kazra Steelshift](../../../assets/image046.webp)
 >
 > Hooded and wrapped in a vibrant, shimmering shawl, this young Kivahr woman is initially slightly imposing, but her bookish demeanor and obvious curiosity about your presence reveal a true scholar at heart. Looking at the robes and symbols draped across the well-made chain mail armor, she confidently displays her devotion to the Goddess of Magic, Spectra, and appears to be a fanatic member of the Sect of Arcvold. She holds a mace in one hand and keeps her large pack at her side steady, which appears to be bulging with scrolls, tomes, and journals that she carries with her and studies while adventuring.
 
@@ -68,7 +68,7 @@ If the party has already met the Fulgurite Blades during [[Curious Party]], skip
 >
 > Level 2 · Thornling Thief
 >
-> ![Leeph](../../../assets/image046.webp)
+> ![Leeph](../../../assets/image047.webp)
 >
 > A fidgety little radish-looking Thornling with eyes of shimmering pearlescence looks up at you with an unreadable expression. Their overly large leaves like fronds of hair, sweep back from their head, which they are constantly smoothing backwards to no effect, as if trying to calm themselves. They seem to be a restless ball of energy in all other respects, and even when standing still, their hands and eyes dart about in search of something to keep them occupied. They are clad in dark leathers over the top of their thorny barkskin, with a short-sword that appears to be nothing but a large dagger to anyone else hanging at thier side.
 

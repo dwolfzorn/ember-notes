@@ -37,7 +37,7 @@ The enemy raiding party consists of [[Gafto the Howler]], [[Shimz Shimring]], an
 >
 > Level 4 · Vrjnhar Protector
 >
-> ![Svala Bronwen](../../../assets/image093.webp)
+> ![Svala Bronwen](../../../assets/image095.webp)
 >
 > The vrjnhar woman is broad shouldered and intensely muscled, carrying herself with a fearless confidence. She sports pale white fur that pours off her chin and turns into a lengthy beard which is split into several braided coils and draped over her shoulders in several places. Each strand is adorned with bronze clasps and rings which contrast richly against her pale hair.
 >
@@ -48,7 +48,7 @@ The enemy raiding party consists of [[Gafto the Howler]], [[Shimz Shimring]], an
 >
 > Level 2 (Elite) · Zeph Berserker
 >
-> ![Gafto the Howler](../../../assets/image168.webp)
+> ![Gafto the Howler](../../../assets/image181.webp)
 >
 > Clad in scraps of golden robes and leather covered in bronze plates, this Zeph raider looks like they've been countless battles and never bothered to replace a single thread of their gear. They carry an axe and hammer in either hand, and threads of pulsating energy crawl up their thick arms in wild patterns only to erupt out of their head in great swirls of mist.
 
@@ -57,7 +57,7 @@ The enemy raiding party consists of [[Gafto the Howler]], [[Shimz Shimring]], an
 >
 > Level 2 (Elite) · Altyra Bard
 >
-> ![Shimz Shimring](../../../assets/image169.webp)
+> ![Shimz Shimring](../../../assets/image182.webp)
 >
 > Tall, slender, and imposing, this altyran raider holds herself with a confident swagger, and speaks with a resonant voice that vibrates with magic. At hand are her tools: a lyre made of gray wood, a bow with plentiful arrows, and a keen short sword slung from her hip.
 
@@ -66,7 +66,7 @@ The enemy raiding party consists of [[Gafto the Howler]], [[Shimz Shimring]], an
 >
 > Level 1 · Human Brigand
 >
-> ![Otherhood Raider](../../../assets/image100.webp)
+> ![Otherhood Raider](../../../assets/image156.webp)
 >
 > A lightly-armored, heavily armed fighter wearing golden robes and brown leather armor. They look determined, disciplined and spoiling for a fight.
 

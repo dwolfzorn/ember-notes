@@ -13,8 +13,8 @@ tags: [ember, quests]
 >
 > This Combat and Exploration Event occurs as the party searches for an exit from the [[Kaleidoscope Caverns]]. By exploring the caverns, the characters can:
 >
-> - Navigate a hazardous arena of glittering webs.
-> - Search the desiccated cadavers of long-dead Shent.
+> - Navigate a hazardous arena of glittering spider webs.
+> - Search the desiccated cadavers of long-dead [[Shent]] Giants in search of the [[Shent Scroll Case]] that Mioroth described.
 > - Survive combat with three [[Young Cheliceraeth]].
 >
 > This Event is depicted using the "Spider Maze" Level of the [[Kaleidoscope Caverns]] Area Map.
@@ -106,7 +106,7 @@ Three [[Young Cheliceraeth]] lie in wait here disguised as Medium-sized outcropp
 >
 > Level 2 · Crystal Spider Cheliceraeth
 >
-> ![Young Cheliceraeth](../../../assets/image104.webp)
+> ![Young Cheliceraeth](../../../assets/image160.webp)
 >
 > A melodious, twinkling percussion fills the air — like the sound of softly cascading glass — as you notice a medium-sized growth of crystals transform into a ten-eyed creature with eight spindly legs and two large, articulated fangs. This horrible arachnid resembles an enormous semi-translucent spider made of faceted purple moonstone, which shimmers and scintillates in the scant light. Angry crystalline spikes decorate the extremities of its silicate form, and its ten loathsome eyes appear refracted with a dreadful arcane opalescence.
 

@@ -73,8 +73,7 @@ There are numerous new or significantly improved areas to explore in patch 0.2.0
 
 ### Area Maps
 
-- [[Arcturel Upper - Tradeway]]
-- [[Arcturel Upper - Underbelly]]
+- [[Arcturel Tradeway]]
 - [[Lightless Halls]]
 - [[Bastion Apex]]
 - [[Fogbound Caverns]]

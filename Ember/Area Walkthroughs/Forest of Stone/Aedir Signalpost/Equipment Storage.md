@@ -20,7 +20,7 @@ Before the characters have time to react, the 6 [[Crevvet]] located here scurry 
 >
 > Level 0.25 (Minion) · Rodent Crevvet
 >
-> ![Crevvet](../../../assets/image060.webp)
+> ![Crevvet](../../../assets/image064.webp)
 >
 > This tiny, six-legged rodent is covered in light gray fur and has four beady eyes the color of glittering emeralds. Its front limbs end in rather prodigious claws (especially for its size), which it apparently uses to burrow to and fro through the crumbling earth.
 

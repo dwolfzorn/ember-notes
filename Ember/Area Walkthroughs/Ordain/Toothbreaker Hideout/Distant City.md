@@ -15,9 +15,9 @@ tags: [ember, area-walkthroughs]
 >
 > Despite this, there is great beauty in this view. From an elevated position, you can see clearly across the expanding cityscape — its plateaus and valleys roll into the distance as the crowning dome of the Ordinate rises to meet your eye in the center of the sweeping urban vista.
 
-If a creature or character were to be swept over the edge of the waterfall to plummet towards the city below, they would suffer likely-fatal damage.
+Creatures or characters unfortunate enough to be swept over the edge of the waterfall will plummet towards the city below, most likely suffering fatal damage along the way.
 
 > [!danger] Hazard
 > #### Exterior Waterfalls
 >
-> A character that is pushed or conveyed by the water towards the precipice of an exterior waterfall may make a **Athletics (DC 14)** check to grasp a secure handhold and avoid being swept over the brink. Creatures who fall from this height suffer the full effects of falling damage from a height of 200 feet.
+> Any character that is pushed or conveyed by the water towards the precipice of an exterior waterfall must succeed on a **Athletics (DC 14)** save to avoid being swept over the brink. Creatures who fall from this height suffer the full effects of falling damage from a height of 200 feet.

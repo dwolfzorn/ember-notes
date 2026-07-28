@@ -24,7 +24,7 @@ tags: [ember, quests]
 >
 > Level 1 · Unknown Unknown
 >
-> ![Janix Mance](../../../assets/image130.webp)
+> ![Janix Mance](../../../assets/image137.webp)
 
 If the party previously met Janix and completed [[To Copy a Key]], his greeting changes somewhat:
 
@@ -162,7 +162,7 @@ If the party wants to raise Serethus' concerns about Janix being the source, the
 >
 > Level 1 · Unknown Unknown
 >
-> ![Ordani Ruffian](../../../assets/image131.webp)
+> ![Ordani Ruffian](../../../assets/image138.webp)
 
 > [!danger] Hazard
 > #### Ordani Ruffian Tactics

@@ -13,7 +13,7 @@ tags: [ember, quests]
 >
 > This social event allows the party to reach a conclusion of the quest's narrative by reporting their success at Aberin's Folly to Larissa Toth. In this event, the party can:
 >
-> - Journey to the Silver Beam Headquarters in Upper Arcturel for a meeting with [[Larissa Toth]] in her executive office.
+> - Journey to the Silver Beam Headquarters in Arcturel for a meeting with [[Larissa Toth]] in her executive office.
 > - Present evidence of their victory against the Chessmen at Aberin's Folly, including [[Hew]]'s physical remains — aka the [[Renegade Construct Scraps]] — if not the Renegade himself captured alive.
 > - Receive a reward from Larissa Toth for their efforts.
 > - Acclimate themselves to the Silver Beam Consortium's headquarters, which they can use as a resource going forward.

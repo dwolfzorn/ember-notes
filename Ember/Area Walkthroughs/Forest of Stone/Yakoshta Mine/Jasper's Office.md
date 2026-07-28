@@ -45,16 +45,17 @@ The keyring includes keys for all locked doors and objects in the mine, includin
 
 ## Jasper's Notebook
 
+It's clear from the entries in Jasper's notebook that he has been trying to decipher some sort of symbol — after several attempts with cryptic notes, one is clearly circled. It is the same as the symbol found at the bottom of the pool at [[Ooze Island]] in the Forest of Stone.
+
+The notebook also contains notes on the aftermath of the earthquake. Two entries in particular catch your eye. The first reads:
+
 > [!quote] Read Aloud
-> It's clear from the entries in Jasper's notebook that he has been trying to decipher some sort of symbol — after several attempts with cryptic notes, one is clearly circled. It is the same as the symbol found at the bottom of the ooze pool in the Forest of Stone.
->
-> The notebook also contains notes on the aftermath of the earthquake. Two entries in particular catch your eye. The first reads:
->
-> *"Must clear the rubble in the Excavation Pit before we can start repairs. Will order some more Blast Flasks. This will cut into profits. Must tell Sellen."*
->
-> A second entry, scribbled in an excited hand, reads:
->
-> *"Blast Flasks arriving shortly. Just in time. Ooze attacks are bad enough without exits being blocked. Will lock it up and tell folks to be careful … last thing we need is some kind of chain reaction."*
+> *Must clear the rubble in the Excavation Pit before we can start repairs. Will order some more Blast Flasks. This will cut into profits. Must tell Sellen.*
+
+A second entry, scribbled in an excited hand, reads:
+
+> [!quote] Read Aloud
+> *Blast Flasks arriving shortly. Just in time. Ooze attacks are bad enough without exits being blocked. Will lock it up and tell folks to be careful … last thing we need is some kind of chain reaction.*
 
 The characters may attempt to decipher the strange symbol.
 

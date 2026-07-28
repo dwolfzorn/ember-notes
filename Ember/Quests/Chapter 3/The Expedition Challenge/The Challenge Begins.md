@@ -37,7 +37,7 @@ As the party enters the hall, the characters are stopped and provided brief inst
 >
 > Level 1 · Unknown Unknown
 >
-> ![Adelyne Goss](../../../assets/image073.webp)
+> ![Adelyne Goss](../../../assets/image077.webp)
 
 > [!info] Social
 > #### A Brief Conversation with the Loremistress
@@ -110,7 +110,7 @@ Fernis Ossa is here, reveling in the excitement of the moment while interacting 
 >
 > Level 1 · Unknown Unknown
 >
-> ![Fernis Ossa](../../../assets/image135.webp)
+> ![Fernis Ossa](../../../assets/image101.webp)
 
 > [!info] Social
 > #### Conversation with Fernis
@@ -282,7 +282,7 @@ During this visit to All-Fable Keep, the party is encouraged (and required) to s
 >
 > Level 1 · Unknown Unknown
 >
-> ![Eveis Brightstone](../../../assets/image136.webp)
+> ![Eveis Brightstone](../../../assets/image142.webp)
 
 > [!quote] Read Aloud
 > The majestic carrow regards your group with an expectant smile as you approach.
@@ -386,7 +386,7 @@ Once the party has been given enough time to meet with the various groups in the
 >
 > Level 1 · Unknown Unknown
 >
-> ![Arcos Sarinland](../../../assets/image137.webp)
+> ![Arcos Sarinland](../../../assets/image143.webp)
 
 > [!quote] Read Aloud
 > The guildmaster bows with his entire body, beaming with pride and gratitude towards the massive congregation of contestants assembled before him.

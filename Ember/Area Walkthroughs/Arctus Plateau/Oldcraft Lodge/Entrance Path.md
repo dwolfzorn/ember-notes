@@ -18,7 +18,7 @@ As the party arrives, they are greeted by [[Svala Bronwen]].
 >
 > Level 4 · Vrjnhar Protector
 >
-> ![Svala Bronwen](../../../assets/image093.webp)
+> ![Svala Bronwen](../../../assets/image095.webp)
 >
 > The vrjnhar woman is broad shouldered and intensely muscled, carrying herself with a fearless confidence. She sports pale white fur that pours off her chin and turns into a lengthy beard which is split into several braided coils and draped over her shoulders in several places. Each strand is adorned with bronze clasps and rings which contrast richly against her pale hair.
 >

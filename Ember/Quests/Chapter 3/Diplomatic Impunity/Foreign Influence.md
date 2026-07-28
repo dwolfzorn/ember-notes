@@ -50,14 +50,14 @@ After the party states their business, and presents the messenger bag the attend
 >
 > Level 1 · Unknown Unknown
 >
-> ![Loris Tezran](../../../assets/image120.webp)
+> ![Loris Tezran](../../../assets/image128.webp)
 
 > [!abstract] Ancara
 > **[[Ancara]]**
 >
 > Level 1 · Unknown Unknown
 >
-> ![Ancara](../../../assets/image121.webp)
+> ![Ancara](../../../assets/image129.webp)
 
 > [!quote] Read Aloud
 > From the side of the building a shadow slips across the gravel as a massive winged creature stalks into view, talons clicking, its pinions rustling like heavy silk. It watches you with a predatory intensity that tightens the air.

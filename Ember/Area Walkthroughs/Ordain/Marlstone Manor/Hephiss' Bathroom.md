@@ -8,14 +8,10 @@ tags: [ember, area-walkthroughs]
 
 # Hephiss' Bathroom
 
-> [!warning] Gamemaster
-> #### Access to Hephiss' Bathroom
+> [!danger] Hazard
+> #### Access Level
 >
-> Access to Hephiss' Bathroom is **forbidden** at all times. (See [[Gameplay Details]] for more on access levels.)
->
-> #### Locating Funar Cevher
->
-> See [[Casing the Joint]] for details. If the party uses the[[Locator Rod]] in this area, they find that Funar Cevher is **in the vicinity.** This is the baseline result when using the Locator Rod in and around Marlstone Manor.
+> This area is **Forbidden**.
 
 > [!quote] Read Aloud
 > This relaxing bathroom is filled with luxury items and a large central tub for unwinding. The labels on the various elixirs and salves draw the eye, though it isn't immediately apparent what any of them do.

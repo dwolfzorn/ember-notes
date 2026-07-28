@@ -1,7 +1,7 @@
 ---
 title: "Ability Scores"
 journal: "Game Mechanics / Character Mechanics"
-source_uuid: "JournalEntry.32WRGVSqCAFveEzA"
+source_uuid: "JournalEntry.xg2008Bzlw2i2ghf"
 type: ember.lore
 tags: [ember, game-mechanics]
 ---

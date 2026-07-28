@@ -29,7 +29,7 @@ As the party backtracks from the halted Strayhearth Caravan and the collapsed ca
 >
 > Level 2 · Afflicted Pallid Drake Drakeling
 >
-> ![Afflicted Pallid Drakeling](../../../assets/image012.webp)
+> ![Afflicted Pallid Drakeling](../../../assets/image013.webp)
 >
 > This serpentine creature has a long thin body accentuated by thin, ragged spotted frills midway along its body. Its features are dragon-like, boasting a crown of wavy horns, a maw filled with small, razor-sharp teeth, and a constant drool of acidic saliva. Its cloudy eyes suggest blindness, while the presence of unsettling yellow pustules in unhealed wounds point to a strange affliction. Despite its sickly appearance, the creature appears agile and dangerous.
 
@@ -53,7 +53,7 @@ As the party backtracks from the halted Strayhearth Caravan and the collapsed ca
 >
 > Over the course of combat, the drakelings will prioritize the following actions and abilities:
 >
-> - The drakelings utilize their Climb Speed to scale rocky surfaces that would otherwise be difficult terrain. From an advantageous perch, they will use either [[Pouncing Bite]] to engage vulnerable targets in melee, or use their [[Spit Bile]] to target enemies with ranged attacks.
+> - The drakelings are [[Glider]], and will scale rocky surfaces in order to gain purchase for a good gliding leap so that they can outflank targets. From an advantageous perch, they will use either [[Pouncing Strike]] to engage vulnerable targets in melee, or use their [[Noxious Spit]] to target enemies with ranged attacks.
 > - More often than not, their animal intelligence compels the drakelings to attack the closest or most vulnerable enemy, rather than one of maximal potential.
 > - Foul experimentation has left the drakelings **Blinded**. This condition is partially offset by the their [[Blood Sense]], but this limitation can nevertheless provide the party with an important tactical edge during the encounter.
 >

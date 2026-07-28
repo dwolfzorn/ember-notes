@@ -25,7 +25,7 @@ A Horrendor lurks here, having risen from the long-dead corpse of a medium-sized
 >
 > Level 4 · Ghoul Horrendor
 >
-> ![Horrendor](../../../assets/image087.webp)
+> ![Horrendor](../../../assets/image090.webp)
 >
 > A disheveled corpse lurks before you, ripe with sepulchral effluvium. A wicked grin dripping a dark crimson ichor twists its way across the cadaver's pale, deathless face, and the exaggerated brows that frame its milky white eyes betray some kind of cunning menace.
 

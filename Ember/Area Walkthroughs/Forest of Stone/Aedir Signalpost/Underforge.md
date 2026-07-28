@@ -18,7 +18,7 @@ The humanoid is a Broken Aedir Sentinel. Though it is partially destroyed, it ma
 >
 > Level 4 (Boss) · War Machine Aedir Sentinel
 >
-> ![Broken Aedir Sentinel](../../../assets/image062.webp)
+> ![Broken Aedir Sentinel](../../../assets/image065.webp)
 >
 > This large metal creature once had four arms, but two have eroded, leaving them as crumbling stumps. The remaining arms hold a broad swordlike weapons, one whole and one broken, Both swat at the air in front of the creature as it staggers forward., leaking viscous orange fluid from within its body with every shaky step.
 

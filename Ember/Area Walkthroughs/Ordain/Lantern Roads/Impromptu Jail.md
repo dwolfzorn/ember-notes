@@ -8,80 +8,82 @@ tags: [ember, area-walkthroughs]
 
 # Impromptu Jail
 
+If the party is [[Area Overview]], they are captured and moved to this makeshift prison.
+
 > [!quote] Read Aloud
-> Though this may have once been someone's living place, there are bars on the window and the door has been shut tight. Through the window, you can hear voices below you discussing the situation, one gravelly and quiet, with words coming out as half bark, half whisper, and one thin and pointed, cutting through the sounds around it like a low-pitched knife. :
->
-> > You didn't take their things?
->
-> > I didn't take their things yet. Moving that many infiltrators at once isn't as easy as it looks. And where were you when I needed help, hmm?
->
-> > Well I'm here now. And I'd rather deal with them while they're still knocked out or groggy than when they're awake, so let's go. If we screw this up, Vitt will have our heads.
-
-If the party is caught by the [[Area Overview]] at any point, and unable to get away, they are captured and moved to this makeshift prison.
+> This room may have once been someone's living space, but it has been stripped down and turned into a cell. The window has been fitted with heavy bars, and the door is shut tight, its thick wood reinforced with iron bands.
 
 > [!tip] Exploration
-> #### Searching the Cell
+> #### Searching the Impromptu Jail
 >
-> If characters search the jail cell, with a successful `[[/check 16 perception]]` check, they find two pieces of metal - one hidden in a metal bed frame and another tucked into a pillowcase
+> A simple search reveals the following:
 >
-> > One of the pieces of metal is long and thin, while the other curves, but they appear to be made from the same material.
+> - A bloodied mattress.
+> - A thin pillow and worn bedding.
+> - A reinforced door and a barred window.
 >
-> With a successful `[[/check investigation 17]]` check, characters know that they can arrange the pieces into the shape of a [[Brigade Key]]. Any character who is proficient with [[Tinker's Tools]] has **+2 Boons** on this check.
+> Any character who makes a successful **Awareness (DC 12)** check while searching the room finds two small pieces of shaped metal: one hidden in the bedframe, the other tucked inside the pillow. One piece is long and thin, while the other is hooked at the end.
 >
-> - Characters can join the pieces to make a key with glue, [[Tinker's Tools]], or by using the [[Mending]]spell. Once the key has been created, it is identical to any other [[Brigade Key]].
+> The metal pieces can be used as an improvised set of [[Unknown]] that break once used.
+>
+> Any character who examines the door and window bars can see that they've been coated with a thin layer of some kind of substance. Characters with **Knowledge: Alchemy** recognize the substance as [[Thieves' Lament]].
 
-The door to leave the impromptu jail, unsurprisingly, is locked.
-
-> [!tip] Exploration
-> #### The Front Door
->
-> The door to the impromptu jail is made of 6 inch thick wood with a metal sheet inside, which prevents magic from being cast from the other side and makes breaking through by brute force nearly impossible.
->
-> Characters must succeed on a `[[/check strength 29]]` check to break the door down with force.
->
-> - The character who attempts to break the door down must make a `[[/save constitution 18]]` saving throw. On a failure, they take `[[/damage 1d10 bludgeoning]]` damage. On a save, they take half the damage.
-> - The noise of breaking down the door alerts all Beacon Brigade members within 60 feet. They immediately move to investigate.
->
-> The lock can be picked with a successful `[[/check dexterity 18]]` check with Thieves' Tools.
->
-> - If characters found the pieces of the Brigade Key, even if they are unable to turn them into a working key, they have **+2 Boons** on this check.
-> - If characters created or are carrying a Brigade Key, they can use the key to exit.
->
-> If characters leave through the exit door, it creaks loudly. They must succeed on a `[[/check stealth 17]]` check or they catch the attention of any members of the [[Area Overview]] within 60 feet.
-
-> [!tip] Exploration
-> #### The Barred Windows
->
-> Characters who succeed on a `[[/check perception 16]]` check notice that the bars of the window are thick steel, 3-4 inches in diameter, and have 1-inch gaps between them. They run into the adjoining wall and would be nearly impossible to kick out or saw through.
->
-> - Characters who succeed on the check by 2 or more notice a small amount of heat radiating from the bars. Any character who has proficiency with Smith's Tools, succeeds on a `[[/check history 16]]` check, or has **Knowledge: Alchemy** suspects that they were treated with an alchemical substance known as[[Thieves' Lament]], which burns and marks the hands of anyone who touches it.
+The front door is reinforced and locked, and the bars on the window are sturdy. Both have been coated in [[Thieves' Lament]].
 
 > [!danger] Hazard
-> #### Burning Bars
+> #### Locked Door
 >
-> If characters touch the bars of the jail, they suffer the effects of [[Thieves' Lament]], including the hand markings. Unless the marks on their hands are covered, they have **-2 Banes** on persuasion with members of the Beacon Brigade, who know how to avoid the substance.
+> The front door is reinforced and locked, but can be unlocked with a successful `[[/skill sleightofhand 20 tool=thief]]`; alternatively, it can be bashed open with a successful **Athletics (DC 30)** check. Any character who attempts to bash the door down alerts all Beacon Brigade members within 30 feet.
+>
+> #### Barred Window
+>
+> The bars in the window are made of thick iron and fastened deep into the wall. Any character can rip a bar from the wall over the course of 5 minutes with a successful **Athletics (DC 30)** check.
+>
+> - **Proper Equipment:** The character gains **+2 Boons** on this check if they use proper equipment (a mining pick, for example).
+>
+> Once three bars have been removed, the characters can escape through the window.
+>
+> #### Thieves' Lament
+>
+> Any character who touches the door or window bars is exposed to [[Thieves' Lament]].
 
 ### Guard Arrival
 
-If players are unable to leave the jail cell, or choose not to attempt it, the two guards they overheard will arrive to take their things.
+After 30 minutes — or after the party attempts to bash the door down — two [[Wandren Patroller]] arrive to take their belongings.
+
+> [!warning] Gamemaster
+> #### Token Reveal
+>
+> The [[Wandren Patroller]] Tokens outside the Impromptu Jail are initially Hidden; reveal their Tokens now.
 
 > [!quote] Read Aloud
-> The two voices you heard before reappear, now closer than before.
+> Two muffled voices appear behind the reinforced door.
 >
-> > You think they're up already?
+> > I can't believe you didn't take their things.
+> >
+> > I haven't taken their things **yet**. And where were you, anyway?
 >
-> > Probably not. But if they are, we're taking care of it. I'm sure Vitt won't mind.
+> You hear the jingling of keys.
 >
-> With a clicking sound, the door slowly unlocks and two members of the Beacon Brigade enter, weapons already at hand.
+> > Well, I'm here now. Let's get this over with.
+>
+> The door unlocks, and two members of the Beacon Brigade enter with weapons already in hand.
 
 > [!abstract] Wandren Patroller
 > **[[Wandren Patroller]]**
 >
 > Level 1 · Unknown Unknown
 >
-> ![Wandren Patroller](../../../assets/image049.webp)
+> ![Wandren Patroller](../../../assets/image050.webp)
 
 > [!danger] Hazard
-> #### Guard Tactics
+> #### Beacon Brigade Patroller Tactics
 >
-> The Patrollers will immediately attempt to subdue the party with [[Slowing Serum]] or [[Paralyzing Poison]]. If these don't work, they will go attempt to use [[Hollowed Dagger]] in a direct attack.
+> At the start of combat, the [[Wandren Patroller]] will move to strike an enemy with its [[Hollowed Dagger]], applying either [[Paralyzing Poison]] or [[Slowing Serum]], per the Gamemaster's discretion.
+>
+> Over the course of combat, the Patroller will prioritize the following actions and abilities:
+>
+> - In melee, the Patroller will use their [[Multiattack]] feature to apply [[Paralyzing Poison]] or [[Slowing Serum]] to as many enemies as possible.
+> - Whenever able, the Patroller will position themselves amongst allies to take advantage of their [[Pack Tactics]] feature.
+>
+> Once reduced below half their Hit Point maximum, the Patroller will attempt to flee toward the nearest ally.

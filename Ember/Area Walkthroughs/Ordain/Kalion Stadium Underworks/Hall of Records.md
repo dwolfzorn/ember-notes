@@ -53,7 +53,7 @@ These chambers have served as the Underworks library for ages, and already bore 
 >
 > Level 1 · Unknown Unknown
 >
-> ![Undaunted Trainee](../../../assets/image054.webp)
+> ![Undaunted Trainee](../../../assets/image057.webp)
 
 > [!danger] Hazard
 > #### Raise the Alarm

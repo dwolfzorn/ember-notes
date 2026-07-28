@@ -17,7 +17,7 @@ tags: [ember, quests]
 >
 > The mural "Work in Progress" is unique and should only be discoverable after the party completes [[Outside the Lines]] and [[Mixed Media]]. All other murals can appear at any time.
 >
-> This Event becomes substantially more likely to trigger after the [[Outside the Lines]] Outcome in [[Outside the Lines]]. Once [[Matters of Perspective]] is completed, this Event becomes progressively less likely to occur with each passing day.
+> This Event becomes substantially more likely to trigger after the [[Outside the Lines]] Outcome in [[Outside the Lines]]. Once [[Matters of Perspective]] is completed, this Event is substantially less likely to occur. This event will not reoccur until at least 8 hours have passed.
 
 ### The Work in Progress
 
@@ -33,7 +33,7 @@ This mural should only be discoverable once the party has completed [[Mixed Medi
 >
 > Level 1 · Unknown Unknown
 >
-> ![Falar](../../../assets/image027.webp)
+> ![Falar](../../../assets/image028.webp)
 
 > [!warning] Gamemaster
 > #### Illusory Chase

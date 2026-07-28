@@ -26,6 +26,20 @@ export function byDateAndAlphabetical(cfg: GlobalConfiguration): SortFn {
   }
 }
 
+export function byFolderOrder(folderOrder: Record<string, number>): SortFn {
+  return (f1, f2) => {
+    const orderA = folderOrder[(f1.slug ?? "").replace(/\/index$/, "")]
+    const orderB = folderOrder[(f2.slug ?? "").replace(/\/index$/, "")]
+    if (orderA !== undefined && orderB !== undefined) return orderA - orderB
+    if (orderA !== undefined) return -1
+    if (orderB !== undefined) return 1
+
+    const f1Title = f1.frontmatter?.title.toLowerCase() ?? ""
+    const f2Title = f2.frontmatter?.title.toLowerCase() ?? ""
+    return f1Title.localeCompare(f2Title)
+  }
+}
+
 export function byDateAndAlphabeticalFolderFirst(cfg: GlobalConfiguration): SortFn {
   return (f1, f2) => {
     // Sort folders first

@@ -35,7 +35,7 @@ Liestra is not without manners, and will go around learning everyone's name, sho
 >
 > Level 4 · Kivahr Thief
 >
-> ![Liestra Grann](../../../assets/image150.webp)
+> ![Liestra Grann](../../../assets/image163.webp)
 >
 > > [!quote] Read Aloud
 > > A muscular Kivahr femme clad in in loose layers of cloth and leather leans upon the wall with casual composure. A side-parted bob of tawny hair hangs just below her chin as she scrutinizes some curious trinket using a small eyepiece. A wry, expressive grin rises to meet you moments before she sizes you up with amber-colored eyes, and you can't help but spot a stony ersatz mace strapped to her side. It's quite evident she means business.
@@ -104,12 +104,12 @@ Ankarist wants to know about a way into the [[Pathways]], and suspects that Lies
 >
 > > Well, the short and long of it is that there's been some murders in the town. Nasty ones too. One of the victims was pregnant, which is just… awful. So, naturally everybody's up in arms and wanting justice.
 > >
-> > You know, Ankarist, I'd wager that Constable Valaston could use the help of an actual Veiled Chain investigator. Poor bastard's barely barely holding things together right now.
+> > You know, Ankarist, I'd wager that Constable Valaston could use the help of an actual Veiled Chain investigator. Poor bastard's barely holding things together right now.
 
 > [!info] Social
 > #### Local Law
 >
-> Characters with the path of **Knowledge: Politics** suspect that the constable in a frontier town like this is capable of enforcing local law and dispensing justice, but perhaps out of their depth when it comes to a complex murder investigation.
+> Characters with **Knowledge: Politics** suspect that the constable in a frontier town like this is capable of enforcing local law and dispensing justice, but perhaps out of their depth when it comes to a complex murder investigation.
 
 > [!question] Q&A
 > **Q:** Where should we start looking?
@@ -184,7 +184,7 @@ Hearing about the Mythspire, the party may know a thing or two about it.
 >
 > Characters who succeed on a **Society (DC 15)** check have heard legend of the Mythspire, an ancient Shent ruin somewhere in the Wedgelands. However, its location was never confirmed, and nobody looking for it ever came back.
 >
-> An **Arcana (DC 16)** check suggests that if the location was Observatory it would be built somewhere with an unobstructed view of the night sky and that it would likely be upon a summit that stands solitary from, or higher than, other neighboring peaks.
+> An **Arcana (DC 16)** check suggests that if the location was an observatory, it might be built somewhere with an unobstructed view of the night sky and that it would likely be upon a summit that stands solitary from, or higher than, other neighboring peaks.
 
 If the party wants to ask about the previous group of adventurers, they can. Though Liestra doesn't know it, these were a group of scouts attached to the very group that Ankarist and the party are out here chasing.
 

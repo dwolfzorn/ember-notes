@@ -21,7 +21,7 @@ tags: [ember, quests]
 >
 > Level 2 · Human Cevher Heiress
 >
-> ![Lyla Cevher](../../../assets/image097.webp)
+> ![Lyla Cevher](../../../assets/image098.webp)
 >
 > A Human who is sharply dressed in a beautiful and richly decorated coat that proudly displays her wealthy background. It's clear from an initial glance at her overall bearing and clothing style that she is from the city of Ordain itself and while she holds herself with a confident air, she is also friendly and welcoming with a slight smile and small laughter lines appearing around her eyes.
 

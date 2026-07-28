@@ -13,16 +13,16 @@ tags: [ember, quests]
 >
 > This social event tasks the party with presenting the evidence they've gathered to Zodi Trask and Larissa Toth, and provides a branching-out point for the conclusion of the quest's narrative. In this event, the party can:
 >
-> - Journey to Lower Arcturel for a semi-public meeting with Zodi Trask and Larissa Toth, along with Lucent (if the characters decided to absolve the Downsiders of their erroneous crimes) or Hew (if they decided to condemn the Downsiders and side with Silver Beam).
+> - Journey to[[The Dives]] for a semi-public meeting with Zodi Trask and Larissa Toth, along with Lucent (if the characters decided to absolve the Downsiders of their erroneous crimes) or Hew (if they decided to condemn the Downsiders and side with Silver Beam).
 > - Present the evidence they've gathered throughout Arcturel and the Sinkhole Depths, whether in support for or against the Downsiders.
 > - Convince Zodi Trask about the veracity of their claims, one way or another.
 > - Decide upon their next steps and determine the overall event outcome in the process.
 
 ### Arranging a Meeting
 
-"Presenting the Evidence" presumes the party has gathered enough information to support an argument for either exonerating or condemning the Renegade Construct known as Hew. With evidence in hand, the characters journey back to Lower Arcturel to meet with Zodi Trask, who has been patiently awaiting an update.
+"Presenting the Evidence" presumes the party has gathered enough information to support an argument for either exonerating or condemning the Renegade Construct known as Hew. With evidence in hand, the characters journey back to the Dives to meet with Zodi Trask, who has been patiently awaiting an update.
 
-The characters conveniently reunite Zodi during a moment of contemplation in Lower Arcturel, a stone's throw from both his apartment in the Dives and the scene of the so-called crime.
+The characters conveniently reunite Zodi during a moment of contemplation in the Dives, a stone's throw from both his apartment in the Dives and the scene of the so-called crime.
 
 > [!info] Social
 > #### Prelude to an Inquest
@@ -45,10 +45,10 @@ The characters conveniently reunite Zodi during a moment of contemplation in Low
 
 ### The Inquest Begins
 
-Two hours later, the party gathers once more with Zodi Trask in Lower Arcturel, this time with Larissa Toth in attendance. Since Silver Beam has their own missing Chessman and a vested interest in the entire ordeal, Larissa is insistent upon hearing the so-called evidence for herself.
+Two hours later, the party gathers once more with Zodi Trask in the Dives, this time with Larissa Toth in attendance. Since Silver Beam has their own missing Chessman and a vested interest in the entire ordeal, Larissa is insistent upon hearing the so-called evidence for herself.
 
 > [!quote] Read Aloud
-> The air is thick with anticipation as you make your way to the catwalk outside Hob Korell's stables, where Zodi Trask and Larissa Toth survey the scene of the crime — the precise spot where Kellan Lorde and the Renegade Construct tumbled to their doom. Beyond these two officials, the twinkling lights of lower Arcturel scintillate in the darkness as far as the eye can see, and the clamorous din of the sinkhole city echoes with a relaxing ceaselessness.
+> The air is thick with anticipation as you make your way to the catwalk outside Hob Korell's stables, where Zodi Trask and Larissa Toth survey the scene of the crime — the precise spot where Kellan Lorde and the Renegade Construct tumbled to their doom. Beyond these two officials, the twinkling lights of the Dives scintillate in the darkness as far as the eye can see, and the clamorous din of the sinkhole city echoes with a relaxing ceaselessness.
 >
 > Larissa Toth glances up as you approach, surveying your party with measured aplomb.
 >
@@ -113,9 +113,9 @@ Two hours later, the party gathers once more with Zodi Trask in Lower Arcturel, 
 >
 > Since several NPCs are directly involved in this social encounter, here's some advice to keep the conversation going. If you find the parley is drifting too far from the matter at hand, use the personal motivations of each of the key NPCs as pivot points for the conversation:
 >
-> - Don't waste time. Time is money, and Larissa Toth has very little to waste with antics in Lower Arcturel.
+> - Don't waste time. Time is money, and Larissa Toth has very little to waste with antics in the Dives.
 > - Give everyone a chance to speak. Zodi Trask is a representative of the people's will, and the people of Arcturel believe in fair justice.
-> - Remember the real victims. Lucent is quick to offer words of confirmation and support for any of the party's arguments. Alternately, a Lower Arcturel bystander could have something to say that paints a clearer picture of the accident.
+> - Remember the real victims. Lucent is quick to offer words of confirmation and support for any of the party's arguments. Alternately, a nearby bystander could have something to say that paints a clearer picture of the accident.
 
 One of two scripted moments will occur once the criteria for "Exonerating the Downsiders" or "Condemning the Downsiders" has been fulfilled, based on the party's actions.
 
@@ -185,6 +185,6 @@ In the wake of the inquest, one of two downstream events will take place: [[Stor
 > [!warning] Gamemaster
 > #### Next Steps
 >
-> If the party decided to exonerate Hew and the Downsiders, the characters will proceed to the events of [[Storming the Consortium]]. We recommend not starting the 'Storming the Consortium' event until the party is ready to go. At the top of that event, the characters will find themselves downstairs at the [[Glimmer Lounge]] in Upper Arcturel, where Chamberlain and the other Chessmen will help the party scrutinize their plans in the moments before the final assault against Silver Beam.
+> If the party decided to exonerate Hew and the Downsiders, the characters will proceed to the events of [[Storming the Consortium]]. We recommend not starting the 'Storming the Consortium' event until the party is ready to go. At the top of that event, the characters will find themselves downstairs at the [[Glimmer Lounge]] in Arcturel, where Chamberlain and the other Chessmen will help the party scrutinize their plans in the moments before the final assault against Silver Beam.
 >
 > Alternately, if the party decided to condemn the Downsiders, the characters continue the saga in [[Checkmate for Chessmen]], where they'll be poised to assault the hideout at Aberin's Folly from the camp's outskirts.

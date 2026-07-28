@@ -41,7 +41,7 @@ Agraband is happy to answer some questions about the festival or the town of Hel
 >
 > Level 3 · Human Caravaneer
 >
-> ![Agraband Swift](../../../assets/image095.webp)
+> ![Agraband Swift](../../../assets/image148.webp)
 >
 > A lute is slung across the back of this aged human clad in an odd yet practical assortment of clothing and jewelry. The seasoned bard wears the salt-and-pepper locks of his long hair pulled back into a high half ponytail. His wide smile and calm demeanor lend him an air of experienced confidence, and a certain glint in his eye evokes the mirthful spirit of a beloved uncle. It's clear this man could spin a worthy tale at a moment’s notice.
 

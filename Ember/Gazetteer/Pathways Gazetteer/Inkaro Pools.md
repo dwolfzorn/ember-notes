@@ -8,6 +8,13 @@ tags: [ember, gazetteer]
 
 # Inkaro Pools
 
+> [!warning] Gamemaster
+> #### Gamemaster's Summary
+>
+> This location exists at ⬢ s.3224.2883 in the [[Sinkhole Depths]], north of [[Rock Bottom]].
+>
+> - This location is featured in the [[Glitter in the Dark]] Side Quest.
+
 This particular acreage of pools is owned and operated by the Silver Beam Consortium. Like other Silver Beam holdings, the Inkaro Pools are strictly off-limits to interlopers and uninvited guests. A small team of Silver Beam guards patrol the perimeter surrounding the Pools and drive off trespassers without a second thought.
 
 ## Environment

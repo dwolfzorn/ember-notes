@@ -18,7 +18,7 @@ tags: [ember, area-walkthroughs]
 >
 > Level 1 · Unknown Unknown
 >
-> ![Surge Walker](../../../assets/image036.webp)
+> ![Surge Walker](../../../assets/image037.webp)
 
 > [!danger] Hazard
 > #### Ready and Waiting
@@ -35,7 +35,7 @@ tags: [ember, area-walkthroughs]
 >
 > In either case they can use their [[Focused Beam]] to blind and injure single targets at range, or [[Blinding Blast]] to disable large groups.
 >
-> Unless reduced to half hit points, activating their [[Ortarec Core]] feature, the surge walkers to not attempt to kill prison inmates.
+> Unless reduced to half hit points, activating their [[Ortarec Core]] feature, the surge walkers will not attempt to kill prison inmates.
 >
 > #### Fights in Tight Spaces
 >

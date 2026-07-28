@@ -41,7 +41,7 @@ If the party allows their conversation to finish, read the following:
 >
 > Level 1 · Unknown Unknown
 >
-> ![Adelyne Goss](../../../assets/image073.webp)
+> ![Adelyne Goss](../../../assets/image077.webp)
 
 > [!info] Social
 > #### Speaking with Adelyne Goss

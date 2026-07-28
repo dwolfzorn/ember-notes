@@ -150,7 +150,7 @@ While investigating the site of the ossuaries, Avwynn, who has been shadowing th
 >
 > Level 12 (Boss) · Human Mystic
 >
-> ![Avwynn Taol](../../../assets/image113.webp)
+> ![Avwynn Taol](../../../assets/image121.webp)
 >
 > Tall, regal, and confident, this human woman carries herself with certainty and exudes a powerful confidence back with a steely, unwavering calm. Her icy blue eyes glimmer sharply against black sclera, betraying some hint of non-human ancestry, or perhaps magical twisting in her blood.
 
@@ -202,10 +202,8 @@ If the party asks her to elaborate on the detrimental effects:
 >
 > > Short answer: think of it like walking rot. A little bit of mold on your food can be cut off and you're fine, but leave it sit long enough and it'll take over the whole fruit. These old undead are the spot of mold, and you need to go excise them.
 
-If they mention or ask about the Abyssal energies around the ritual:
-
 > [!question] Q&A
-> **Q:** Avwynn's a Sanguinary?
+> **Q:** What about the lingering Abyssal energies?
 >
 > **A:**
 >

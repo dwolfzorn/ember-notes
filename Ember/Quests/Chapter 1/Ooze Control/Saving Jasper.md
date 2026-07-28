@@ -136,7 +136,7 @@ With Trianda under a wagon making repairs and Shel attempting to focus on their 
 >
 > Level 1 · Hulg'run Operator
 >
-> ![Jasper](../../../assets/image071.webp)
+> ![Jasper](../../../assets/image075.webp)
 >
 > The hulg'run man steps carefully, as if he is assessing everything around him with sharp eyes and careful determination. He wears a slight scowl on his face, as if he is above whatever is around him, but the severity of his expression is somewhat undercut by the brilliance of the gems embedded in his face, arms, and legs, which have been carefully polished to a sparkling shine.
 

@@ -8,6 +8,13 @@ tags: [ember, gazetteer]
 
 # Lake of Whispers
 
+> [!warning] Gamemaster
+> #### Gamemaster's Summary
+>
+> This location exists at ⬢ s.32o8.2887 in the [[Fogbound Caverns]], east of the [[Primordial Bastion]].
+>
+> - This location is featured in the [[To Fall and Fall Again]] Side Quest.
+
 This large lake lies deep underground within the Pathways of Ember. Very little light illuminates its dark waters, and a soft, almost imperceptible whisper lingers over its surface.
 
 ### Environment

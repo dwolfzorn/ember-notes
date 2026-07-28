@@ -8,14 +8,10 @@ tags: [ember, area-walkthroughs]
 
 # Guardhouse
 
-> [!warning] Gamemaster
-> #### Access to the Guardhouse
+> [!danger] Hazard
+> #### Access Level
 >
-> Access to the Guardhouse is **forbidden to all** at all times. (See [[Gameplay Details]] for more on access levels.)
->
-> #### Locating Funar Cevher
->
-> If the party uses the[[Locator Rod]] in this area, they find that Funar Cevher is **in the vicinity.** This is the baseline result when using the Locator Rod in and around Marlstone Manor. See [[Casing the Joint]] for details.
+> This area is **Forbidden**.
 
 The guardhouse connects directly to Lantern Road through the[[Marlstone Manor Entrance]]. It is not significantly different before or during the gala.
 
@@ -38,6 +34,6 @@ The guardhouse connects directly to Lantern Road through the[[Marlstone Manor En
 > [!danger] Hazard
 > #### Fighting the Guards
 >
-> The guards in the guardhouse are [[Wandren Patroller]] dedicated to preventing the party from passing between Lantern Roads and Marlstone Manor - one guard will block the entrance opposite the one that the party entered through, using their [[Paralyzing Poison]]and [[Slowing Serum]] to stop the party from exiting quickly. If they are nearing death, they will throw [[Choking Fog Dust]] in the room, even though they will be affected as well.
+> The guards in the guardhouse are [[Vitt Wandren]] dedicated to preventing the party from passing between Lantern Roads and Marlstone Manor - one guard will block the entrance opposite the one that the party entered through.
 >
 > The other guard will go for help, though they will move at a normal pace so as not to alert the guests or staff about the problem. If they reach another guard before being subdued, the party is either kicked out (if scouting the manor) or detained in an upstairs room (if at the gala).

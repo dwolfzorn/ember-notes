@@ -8,8 +8,6 @@ tags: [ember, gazetteer]
 
 # Bloodwoods
 
-**Work In Progress!** This biome and its accompanying entry are not in the scope of current Gameplay. All text provided here is currently **in development** and **incomplete**. This entry will be revised and expanded on in future updates.
-
 > [!warning] Gamemaster
 > #### Gamemaster's Summary
 >
@@ -28,4 +26,4 @@ Within the Bloodwoods, common creatures are transformed by primordial magic into
 
 ### Lore
 
-During [[The Shattering]]and the subsequent [[Abyssal Shear]], this area was the scene of a final confrontation between the Shent Shard God Kyra and an Abyssal Horror of Sha-Xotha. Their fierce battle decimated the region, rending a deep fissure into the [[Pathways]] below. For many years, Abyssal energy fluctuated across the region until the Casia Nimaella attempted to mend the damage by planting a seed from [[Primordis]] in the wound. Over time, the Bloodwoods grew and covered the scar. Yet Abyssal wounds rarely heal properly, and the forest now festers with chaos, destruction, and ancient magic left untamed.
+During [[The Shattering]]and the subsequent [[Abyssal Shear]], this area was the scene of a final confrontation between the Shent Shard God Kyra and an Abyssal Horror of Sha-Xotha. Their fierce battle decimated the region, rending a deep fissure into the [[Pathways]] below. For many years, Abyssal energy fluctuated across the region until the Casia [[Nimaelle]] attempted to mend the damage by planting a seed from [[Primordis]] in the wound. Over time, the Bloodwoods grew and covered the scar. Yet Abyssal wounds rarely heal properly, and the forest now festers with chaos, destruction, and ancient magic left untamed.

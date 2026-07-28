@@ -1,7 +1,7 @@
 ---
 title: "Ancestry"
 journal: "Getting Started / Character Creation"
-source_uuid: "JournalEntry.nQQXDSIRfmWKtBcZ"
+source_uuid: "JournalEntry.igKBi3RspoK5ZYhH"
 type: ember.lore
 tags: [ember, getting-started]
 ---

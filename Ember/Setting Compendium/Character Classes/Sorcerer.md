@@ -66,3 +66,10 @@ Some results of a Wild Magic Sorcerer's Wild Magic Surge require slight adjustme
 | 05–08 | Roll `[[/roll 1d4]]` to determine the creature: on a 1, a [[Sprite]] of Primordis appears; on a 2, a fiendish [[Flying Snake]] of Signara appears; on a 3, a fey [[Rask Juvenile]] appears; on a 4, a fey [[Unicorn]] appears. |
 | --- | --- |
 | 25–28 | Instead of the Astral Plane, the Wild Magic Sorcerer is transported to a realm of Orbis until the end of their next turn. |
+
+## Shadow
+
+Shadow Sorcerers are inherently linked to the Inner Realm of [[Primordis]] and the lineage of the Fae and the [[Casia]]. Shadow Sorcery is often seen as sinister and predatory, and those who are blessed (or cursed, depending on the viewpoint) with innate abilities to harness it can command illusions and the shadows themselves. Shadow Sorcerers are often drawn to hidden glades and darkened enclaves, and they often become embroiled in Fae schemes or plans. In fact, for many Shadow Sorcerers, thier lineage is so directly tied to Fae creatures that they are bound at birth to their families and serve them throughout their lives, either knowingly or unknowingly. To that end, many Shadow Sorcerers can be found among the [[Waerd]] of the Lowland Bastions or with the [[Strider]] deep within the Corebright Forest.
+
+> [!danger] Hazard
+> Shadow-summoned creatures are often catlike in physical form, copying the Casia and Fae.

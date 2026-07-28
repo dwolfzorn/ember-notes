@@ -27,7 +27,7 @@ Once the characters open the door to this area, combat between Corvana and the j
 >
 > Level 6 (Elite) · Signborn Mage
 >
-> ![Corvana Vortest](../../../assets/image091.webp)
+> ![Corvana Vortest](../../../assets/image093.webp)
 >
 > You regard a lithe woman with pale blue skin clad in the esoteric robes of a scholar. Her bald head is crowned with a pair of tall, curving horns that betray her Signborn heritage, as do the two ethereal limbs alongside her physical arms. Her corporeal right hand holds a wand made of crystal and silver; meanwhile, her spectral hands cradle the dog-eared pages of a leather-bound grimoire in search of some abstruse knowledge. There's a disarming, otherworldly elegance in the woman's gaze as she regards you with equal measures of suspicion and interest. Her crimson eyes are discerning, and her arms are inked in cryptic occult symbols. She is at once both alluring and intimidating, replete with mystery.
 
@@ -36,7 +36,7 @@ Once the characters open the door to this area, combat between Corvana and the j
 >
 > Level 5 · Jahud Assassin
 >
-> ![Jahud Assassin](../../../assets/image090.webp)
+> ![Jahud Assassin](../../../assets/image092.webp)
 >
 > A four-armed, blue-skinned cutthroat stands before you, armed with two viridian daggers and an array of bladed bracers crafted from dark gray bone. A black half-mask obscures most of the creature's face, exposing its pale blue eyes, a pair of wicked horns, and a mane of bright azure hair that roils like arcane fire. The rogue's strappy leather armor is wrapped tightly around its muscular flesh, and its shoulders boast overlapping plates of cerulean chitin like primeval pauldrons. A pointed tale lashes with ferocious cruelty behind this otherworldly menace, who looks ready to slay anything that moves.
 
@@ -61,7 +61,7 @@ Once the characters open the door to this area, combat between Corvana and the j
 >
 > #### Corvana's Tactics
 >
-> Corvana is a powerful spellcaster and does not hesitate to leverage a battery of composed spells from the Lightning and Fire runes in order to keep the assassins at bay.
+> Corvana is a powerful spellcaster and does not hesitate to leverage a battery of composed spells from the Storm and Fire runes in order to keep the assassins at bay.
 >
 > Over the course of combat, Corvana will prioritize the following actions and abilities:
 >

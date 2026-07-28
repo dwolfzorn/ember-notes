@@ -18,7 +18,7 @@ This room serves as the primary bedchamber for Cindarics assigned to work at Tra
 >
 > Level 3 · Human Cindaric Initiate
 >
-> ![Cindaric Adherent](../../../assets/image024.webp)
+> ![Cindaric Adherent](../../../assets/image025.webp)
 >
 > This scholarly healer is clad in garments of bright gold and lush crimson, the colors of the famed Cindaric Sages of the Arctus Plateau. Their shoulders and tunic are marked with the familiar four-leafed diamond that signifies the Cindaric order, and their hands are marked and calloused by the wholesome abrasions of honest labor. The sage regards you with a benevolent smile.
 

@@ -35,6 +35,6 @@ The Concourse Hideout is the current headquarters of the Toothbreaker Gang, a gr
 
 Esta Fromp is a shrewd and calculating Ashka woman in her late 40s, with an air of confidence that masks a deeper ambition. As the manager of the waterworks office in the Concourse, she presents herself as a diligent and responsible leader, dedicated to maintaining the River Destine. However, beneath this facade lies a more complex moral compass. She is well aware of the Toothbreaker Gang's activities, but she sees them as assets rather than adversaries. Underneath the surface, she allows their activities to flourish, often hiding their criminal acts from Veiled Chain investigators.
 
-### Lore
+**### Lore**
 
 Historically, the Concourse was once a bustling harbor on the edge of the Ordain city itself, where boats from throughout the city would dock and deliver goods. However, as the city expanded, more northern and more accessible areas became more desirable, and over time, the Concourse fell into neglect. Much of the city's population started to view the Concourse as little more than a transit point—a place to pass through rather than a community to inhabit. This perception led more and more people to leave the area for other parts of the city, resulting in an increase in abandoned buildings and overgrown docks, which eventually became breeding grounds for local crime.

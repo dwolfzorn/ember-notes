@@ -48,7 +48,7 @@ Once the party has finished surveying the destruction in general, they may wish 
 >
 > Level 4 · Afflicted Pallid Drake Adult Drake
 >
-> ![Afflicted Pallid Drake](../../../assets/image011.webp)
+> ![Afflicted Pallid Drake](../../../assets/image012.webp)
 >
 > This large, serpentine creature is covered in pale white-green scales with a prominent flared tail adorned with ragged, green frills. Its draconic head is set with long horns tipped in the same pale green hue, and halfway down its body are more wide, damaged frills. The Drake's eyes are a cloudy white, hinting at blindness, and its body is marred by unsettling yellow pustules emerging from ragged wounds. Despite its obvious afflictions, it maneuvers with undeterred grace, periodically revealing rows of razor-sharp teeth within a saliva-dripping maw.
 
@@ -74,7 +74,7 @@ The presence of a dead bandit may also draw their attention, complicating their 
 >
 > Level 2 (Elite) · Kivahr Brigand
 >
-> ![Bassa the Firebug](../../../assets/image101.webp)
+> ![Bassa the Firebug](../../../assets/image157.webp)
 >
 > A wild-eyed fellow wearing scorched leather armor covered in dark metal studs, and multiple armored bandoliers packed with vials of unknown liquids. He smells of chemicals and smoke, and looks ready for a fight.
 
@@ -128,7 +128,7 @@ The town magistrate, Sadri Zhalimorne, is fully occupied with organizing the res
 >
 > Level 1 · Altyra Trader
 >
-> ![Sadri Zhalimorne](../../../assets/image063.webp)
+> ![Sadri Zhalimorne](../../../assets/image067.webp)
 >
 > You regard a steel-skinned woman with luminous golden eyes and side-parted bob of short-cropped silver hair. Adorned in a brown sleeveless tunic with leather shorts and boots, her countenance is equal parts purposeful and amused, and you can’t help but notice the lambent lines of bright copper that decorate her legs. A beaded Arcturian plastron necklace hangs around her neck, proudly signifying some kind of social station.
 

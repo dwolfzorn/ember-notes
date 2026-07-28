@@ -41,7 +41,7 @@ Initiative is rolled immediately at the start of this combat event, after "Setti
 >
 > Level 1 · Skallith Commonfolk
 >
-> ![Skallith](../../../assets/image007.webp)
+> ![Skallith](../../../assets/image008.webp)
 >
 > You behold the terrifying appearance of a reanimated humanoid skeleton, whose decrepit bones remain dreadfully assembled, despite the lack of sinew and flesh. This loathsome skeletal creature wields a timeworn blade, and a rotted shortbow is slung across its bony back.
 
@@ -50,7 +50,7 @@ Initiative is rolled immediately at the start of this combat event, after "Setti
 >
 > Level 0.5 (Minion) · Skallith Commonfolk
 >
-> ![Crumbling Skallith](../../../assets/image118.webp)
+> ![Crumbling Skallith](../../../assets/image126.webp)
 >
 > You behold the terrifying appearance of a reanimated humanoid skeleton, whose decrepit bones remain dreadfully assembled, despite the lack of sinew and flesh. This loathsome skeletal creature wields a timeworn blade, and a rotted shortbow is slung across its bony back.
 
@@ -152,7 +152,7 @@ After the brief encounter on the Winding Stairs, the characters can proceed to t
 >
 > Level 3 · Skallith Fighter
 >
-> ![Skallith Warrior](../../../assets/image008.webp)
+> ![Skallith Warrior](../../../assets/image009.webp)
 >
 > You behold the terrifying appearance of a reanimated humanoid skeleton, whose decrepit bones remain dreadfully assembled, despite the lack of sinew and flesh. This skeletal warrior is clad in corroded armor, rusted from untold centuries in the grave. A rusty longsword at the creature's side belies its noteworthy strength, and a helmet crowns its cracked and decaying skull.
 
@@ -181,7 +181,7 @@ Once the group of skeletal undead here in the Refectory has been defeated in com
 >
 > Level 6 (Elite) · Ashka Necromancer
 >
-> ![Evesso](../../../assets/image171.webp)
+> ![Evesso](../../../assets/image184.webp)
 >
 > This tall Ashka scholar is draped in the burgundy robes of a Cindaric Sage. His viridian-scaled form is lean and austere, and his countenance betrays an erudite contrition. Surely, this scholar is an accomplished practitioner of the Cindaric arts, if the age of his blue-green squama and the patina of his weathered staff are any indication.
 

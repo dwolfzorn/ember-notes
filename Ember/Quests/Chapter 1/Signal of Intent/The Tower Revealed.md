@@ -73,7 +73,7 @@ The party will likely wish to investigate the area and its shrine more closely b
 > [!danger] Hazard
 > #### Traversing the Crevasse
 >
-> The crevasse is 30 feet from side to side, and deep enough that descending is not a viable method of crossing the chasm.
+> The crevasse is 30 feet from side to side and approximately 1,000 feet deep — descending is not a viable method of crossing the chasm.
 >
 > - If a character crosses while bearing one end of a rope, they could secure that end on the opposite side of the chasm.
 > - A character who wishes to heroically jump the distance would require a horizontal jump distance of 30 feet in order to succeed.

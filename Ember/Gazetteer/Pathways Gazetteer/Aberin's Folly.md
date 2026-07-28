@@ -8,6 +8,13 @@ tags: [ember, gazetteer]
 
 # Aberin's Folly
 
+> [!warning] Gamemaster
+> #### Gamemaster's Summary
+>
+> This location exists at ⬢ s.3227.2885 in the [[Sinkhole Depths]], east of [[Rock Bottom]].
+>
+> - This location is featured in the [[Glitter in the Dark]] Side Quest.
+
 Located several miles east of Rock Bottom, this ramshackle campground endures as a rundown relic of Arcturel's past, choked with abundant mushroom growth and the ink-black darkness of the Depths. Once known as Aberin's Hold, Aberin's Folly is what remains of an ill-fated mining camp that unfortunately fell prey to the area's natural (and supernatural) hazards. And thanks to the subterranean biome's lack of a meteorological weather system, the essence of the camp's "temporary" structures and abandoned inventory have remarkably stood the test of time.
 
 Aberin's Folly has fallen into total disregard by the people of Arcturel and will only be found on the oldest of local maps. Nevertheless, the camp's accoutrements and geographical vantage make it a suitable enough place for rest or surreptitiousness. Made of various treated leathers, the tents are still quite functional and duly represent the pride inherent in classic Arcturian craftsmanship. A splintered array of crates, barrels, and bins decorate the tent-side areas, alongside a handful of tool-littered tables and rickety wooden chairs. A bygone scattering of grime-covered mining equipment has also been left here, but a small fire pit smolders at the camp's center — suggesting recent occupancy and a sign of life.

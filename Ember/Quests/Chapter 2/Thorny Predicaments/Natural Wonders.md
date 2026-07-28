@@ -24,7 +24,7 @@ tags: [ember, quests]
 >
 > Level 1 · Unknown Unknown
 >
-> ![Triss Carpel](../../../assets/image154.webp)
+> ![Triss Carpel](../../../assets/image167.webp)
 
 > [!quote] Read Aloud
 > As you take in the scene, a willowy Thornling runs towards you, a garland of flowers in their outstretched hands.
@@ -36,7 +36,7 @@ Brevin Steward, Triss Carpel, is worried about the missing local, Edivel, and ho
 > [!info] Social
 > #### The Worried Steward
 >
-> An `[[/check insight 16]]` check confirms that they're worried about Edivel’s safety and sees them as a surrogate younger sibling to watch out for.
+> An **Diplomacy (DC 16)** check confirms that they're worried about Edivel’s safety and sees them as a surrogate younger sibling to watch out for.
 >
 > - Brevin is currently preparing for a Bridge Blessing ceremony, which will include a visit from the shard god [[Aythorn]].
 > - Edivel Sprout, who promised to unveil a new marvel at the event, is nowhere to be found. The Steward is worried that Edivel may have gotten into some trouble — they can be foolhardy as they search out what they know.

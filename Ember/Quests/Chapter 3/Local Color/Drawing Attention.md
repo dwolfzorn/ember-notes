@@ -28,14 +28,7 @@ tags: [ember, quests]
 >
 > Level 1 · Unknown Unknown
 >
-> ![Cherish Ellerie](../../../assets/image146.webp)
-
-> [!question] Q&A
-> **Q:** Who are you?
->
-> **A:**
->
-> > Ah! So sorry, I forgot my manners there for a moment. I'm Cherish Ellerie, nice to meet you. Who are you?
+> ![Cherish Ellerie](../../../assets/image153.webp)
 
 > [!question] Q&A
 > **Q:** What do you do in Ordain?
@@ -102,7 +95,7 @@ When the encounter begins, read the following aloud, then click the Outcome box 
 >
 > Level 1 · Unknown Unknown
 >
-> ![Paint Globlin](../../../assets/image028.webp)
+> ![Paint Globlin](../../../assets/image029.webp)
 
 > [!danger] Hazard
 > #### Challenging Art

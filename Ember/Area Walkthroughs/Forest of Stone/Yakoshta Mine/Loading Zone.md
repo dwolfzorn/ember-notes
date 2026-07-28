@@ -15,7 +15,7 @@ There are four exits from this cavern further into the mine, though not all are 
 - A passageway leads into further tunnels towards [[Jasper's Office]]
 - The upper (blue) mining track is destroyed and the gap cannot be traversed. For more, see [[Blue Track]].
 - The lower (red) mining track has a mining cart on it and can be used with or without the cart. For more, see [[Red Track]].
-- A bridge leads across to the Excavation Pit, but it has been severely damaged and leads to a rockfall on the other side. For more on player options, see [[Entrance Bridge]].
+- A bridge leads across to the Excavation Pit, but it has been severely damaged and leads to a rockfall on the other side. For more on player options, see [[Waterfall Bridge]].
 
 > [!quote] Read Aloud
 > A mining cart has been toppled, spilling its metal ingots on the floor. Three miners are using the cart as an impromptu barricade, as glowing gold and silver oozes advance on them, slowly but relentlessly. As you enter, one of the miners calls out in your direction.
@@ -29,7 +29,7 @@ Three [[Arcturian Miner]] — Shel, Trianda, and Gravin from [[Saving Jasper]] i
 >
 > Level 2 · Slime Metallic Ooze
 >
-> ![Luminous Silver Ooze](../../../assets/image066.webp)
+> ![Luminous Silver Ooze](../../../assets/image070.webp)
 >
 > Light reflects from what one moment looks like a heap of silver coins and the next moment like a slowly pulsing silver ooze of a creature, with sparkles of light emanating from the bits of metal dust and crystal trapped within its gelatinous center. It shifts shape as it edges forward, crackling with static electricity as it extends a long piece of itself like an arm poised to strike.
 
@@ -49,7 +49,7 @@ Three [[Arcturian Miner]] — Shel, Trianda, and Gravin from [[Saving Jasper]] i
 >
 > Level 3 · Slime Metallic Ooze
 >
-> ![Luminous Gold Ooze](../../../assets/image067.webp)
+> ![Luminous Gold Ooze](../../../assets/image071.webp)
 >
 > Like a puddle of congealing gold ore in motion, the creature elongates its gelatinous ooze of a body into a single slender viscous arm and pulling itself across the ground. Narrower and more willing to stretch than other luminous oozes, it moves more quickly than the average ooze as it moves in search of prey.
 
@@ -70,7 +70,7 @@ Three [[Arcturian Miner]] — Shel, Trianda, and Gravin from [[Saving Jasper]] i
 >
 > Level 0.5 (Minion) · Human Miner
 >
-> ![Arcturian Miner](../../../assets/image068.webp)
+> ![Arcturian Miner](../../../assets/image072.webp)
 >
 > This miner is covered in the dirt and dust of a hard shift pulling precious materials from the crust of Ember, and wear the protective gear and heavy tools necessary for the task.
 

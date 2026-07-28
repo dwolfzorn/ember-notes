@@ -1,7 +1,7 @@
 ---
 title: "Resources"
 journal: "Game Mechanics / Character Mechanics"
-source_uuid: "JournalEntry.32WRGVSqCAFveEzA"
+source_uuid: "JournalEntry.xg2008Bzlw2i2ghf"
 type: ember.lore
 tags: [ember, game-mechanics]
 ---
@@ -18,7 +18,7 @@ Maintaining the physical and mental health of your character is an ever-present 
 
 The physical health of a character is modeled using two resource pools. **Health** is a temporary resource which begins full and is decreased when a character sustains damage in combat. **Wounds** are a permanent resource which increase when a character suffers grievous injury.
 
-If the Health pool is reduced to zero, the character becomes **Incapacitated** and begins to suffer Wounds. If the Wounds meter reaches its maximum, the character becomes **Dead**.
+If the Health pool is reduced to zero, the character becomes **Weakened** and begins to suffer Wounds. If the Wounds meter reaches its maximum, the character becomes **Dead**.
 
 **Morale and Madness**
 
@@ -41,6 +41,12 @@ Two resource pools define a character's ability to take action during game situa
 **Heroism**
 
 **Heroism** is a special generated resource that allows you to perform spectacular feats of magic or heroic prowess. Heroism is earned over the course of — typically longer — combat encounters allowing you to narratively unleash your most powerful abilities once the tension of battle has peaked!
+
+## Substituting Heroism for Focus
+
+When a character cannot pay the **Focus** cost of an Action, either because their Focus pool is too low or because a condition such as **Broken** or **Enraged** prevents them from spending Focus at all, they may pay the unmet portion of that cost with **Heroism** instead. The character spends whatever Focus they are able to and covers the remainder point for point with Heroism.
+
+This substitution happens automatically, but only when the character has enough Heroism to cover the remaining cost in full; otherwise no Heroism is spent and the Action stays out of reach. A hero who has exhausted their Focus yet built up Heroism across a long, hard-fought battle can thereby still call upon their most demanding feats.
 
 ## Recovering Resources
 

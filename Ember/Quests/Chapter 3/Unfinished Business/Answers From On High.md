@@ -58,7 +58,7 @@ Before the characters have an opportunity to speak with Conaris, they'll have to
 >
 > The young cleric bows ever-so-slightly to oblige you with a formal introduction.
 >
-> > Stacker Highwell, at your service. I've been studying here beneath Master Haid for three cycles now, and each day is more surprising than the last. I grew up in Trader's Corner, but I prefer the quietude of Temple Ward.
+> > Eston Veld, at your service. I've been studying here beneath Master Haid for three cycles now, and each day is more surprising than the last. I grew up in Trader's Corner, but I prefer the quietude of Temple Ward.
 >
 > He takes a look around the massive sanctuary, whose visitors have grown sparse since the funeral's conclusion.
 >
@@ -103,14 +103,14 @@ The characters have arrived in time to witness the funeral rites of **Xaros Half
 >
 > Level 1 · Unknown Unknown
 >
-> ![Conaris Haid](../../../assets/image115.webp)
+> ![Conaris Haid](../../../assets/image123.webp)
 
 > [!abstract] Burnished Hand Protector
 > **[[Burnished Hand Protector]]**
 >
 > Level 5 · Human Protector
 >
-> ![Burnished Hand Protector](../../../assets/image025.webp)
+> ![Burnished Hand Protector](../../../assets/image026.webp)
 >
 > You regard a heavily-armored Ordani warrior, whose bronze splint mail gleams with a gorgeous russet luster. A symmetrical crimson hand with the roots of an oak tree decorates this soldier's chest piece, and the well-oiled longsword at their side looks poised and ready for action.
 
@@ -119,7 +119,7 @@ The characters have arrived in time to witness the funeral rites of **Xaros Half
 >
 > Level 8 (Elite) · Human Cindaric Sage
 >
-> ![Cindaric Sage](../../../assets/image024.webp)
+> ![Cindaric Sage](../../../assets/image025.webp)
 >
 > This scholarly healer is clad in garments of bright gold and lush crimson, the colors of the famed Cindaric Sages of the Arctus Plateau. Their shoulders and tunic are marked with the familiar four-leafed diamond that signifies the Cindaric order, and their hands are marked and calloused by the wholesome abrasions of honest labor. The sage regards you with a benevolent smile.
 
@@ -128,7 +128,7 @@ The characters have arrived in time to witness the funeral rites of **Xaros Half
 >
 > Level 1 · Human Commonfolk
 >
-> ![Ordani](../../../assets/image142.webp)
+> ![Ordani](../../../assets/image149.webp)
 >
 > This person is stylishly dressed in layers of bright cloth with intricate patterns and differing weights, creating a lavish ensemble of texture and color. Their garb is accented with silvers and golds, and minor gems which glitter in the light, making them appear all the more dazzling.
 

@@ -34,9 +34,9 @@ The circular openings on the ground throughout this scene indicate the location 
 >
 > The party cannot see the Canyon Crawler, but they can determine a few things about this adversary from their voice alone.
 >
-> A character that makes a successful `[[/check 17 perception]]` check can tell that the echo of the Canyon Crawler's voice is not natural and is being enhanced, likely via magic cantrip.
+> A character that makes a successful **Awareness (DC 17)** check can tell that the echo of the Canyon Crawler's voice is not natural and is being enhanced, likely via magic cantrip.
 >
-> A further successful `[[/check 17 arcana]]` check surmises that this would either be with a Thaumaturgy or Minor Illusion spell, putting the Crawler within 30 feet of the party.
+> A further successful **Arcana (DC 17)** check surmises that this would either be with a Thaumaturgy or Minor Illusion spell, putting the Crawler within 30 feet of the party.
 
 Edivel is determined to get their spellbook back and immediately refuses to hand anything over to the Canyon Crawler.
 
@@ -71,20 +71,20 @@ Each time that the Canyon Crawler strikes, the party has an opportunity to find 
 >
 > The party can locate the Canyon Crawler by actively searching for them. A single successful check provides the party enough info to locate them.
 >
-> - A character making a successful `[[/check survival 22]]` check while searching the area for tracks finds evidence of another person having moving through the area recently, and where they may have gone. Each attempt reduces the DC by 2 until successful.
-> - A character making a successful `[[/check perception 24]]` check picks up on the Canyon Crawler's real voice underneath the magical facade and can use it to pinpoint their location. Each time the Crawler speaks, the DC of this check goes down by 2.
-> - Each effect the Canyon Crawler creates has a specific range which can be pinpointed with a successful `[[/check arcana 24]]` check when it manifests. This gives the character a sense of how far the Crawler can be from the party's current position. With each new effect witnessed, the DC of this check goes down by 2.
+> - A character making a successful **Wilderness (DC 22)** check while searching the area for tracks finds evidence of another person having moving through the area recently, and where they may have gone. Each attempt reduces the DC by 2 until successful.
+> - A character making a successful **Awareness (DC 24)** check picks up on the Canyon Crawler's real voice underneath the magical facade and can use it to pinpoint their location. Each time the Crawler speaks, the DC of this check goes down by 2.
+> - Each effect the Canyon Crawler creates has a specific range which can be pinpointed with a successful **Arcana (DC 24)** check when it manifests. This gives the character a sense of how far the Crawler can be from the party's current position. With each new effect witnessed, the DC of this check goes down by 2.
 
 Alternately, the party may try to fool the Canyon Crawler into thinking that their demands are being met to draw them out.
 
 > [!info] Social
 > #### Fooling The Crawler
 >
-> If characters want to fool the crawler into emerging from their hideout, they will need to leave some items of value (or that appear to be items of value) as instructed. If a character leaves an item or collection of items that are collectively worth at least 100 gold pieces, the Crawler will be satisfied with the offering.
+> If characters want to fool the crawler into emerging from their hideout, they will need to leave some items of value (or that appear to be items of value) as instructed. If a character leaves an item or collection of items that are collectively worth at least 10 gold pieces, the Crawler will be satisfied with the offering.
 >
-> - If the items left are not truly valuable, the character leaving them must succeed on a `[[/check deception 18]]` or `[[/check sleightofhand 18]]` to trick the Crawler.
+> - If the items left are not truly valuable, the character leaving them must succeed on a **Deception (DC 18)** or **Stealth (DC 18)** to trick the Crawler.
 >
-> Once their items are placed, the party must "surrender" either verbally or via their body language. The Crawler commands the party to depart the area, leaving the offerings behind. The party may attempt to deceive the Crawler into thinking they have withdrawn using either a `[[/check 18 deception]]` or `[[/check 18 stealth]]` check.
+> Once their items are placed, the party must "surrender" either verbally or via their body language. The Crawler commands the party to depart the area, leaving the offerings behind. The party may attempt to deceive the Crawler into thinking they have withdrawn using either a **Deception (DC 18)** or **Stealth (DC 18)** check.
 >
 > - On a success, the Crawler comes out as soon as the party is out of sight to collect the goods left behind. If the party successfully lures out the Canyon Crawler, proceed to the final section of this event, [[The Canyon Crawler, Revealed]].
 
@@ -98,17 +98,17 @@ Alternately, the party may try to fool the Canyon Crawler into thinking that the
 > [!danger] Hazard
 > #### Geyser
 >
-> A geyser of water erupts from the center of the water-filled crevasse towards a member of the party within 30 feet. Whomever is targeted must succeed on a `[[/save 15 strength]]` saving throw or take `[[/damage 1d4 bludgeoning]]` and be pushed 15 feet away by the force of the blast. If their movement ends against solid rock, they take an additional `[[/damage 1d4 bludgeoning]]` damage and fall prone.
+> A geyser of water erupts from the center of the water-filled crevasse towards a member of the party within 30 feet. Whomever is targeted must succeed on a **Athletics (DC 15)** or suffer a **Watery Blast (Hazard 3, Fortitude, Health, Bludgeoning)** and be pushed 15 feet away by the force of the blast. If their movement ends against solid rock, they take an additional **Hard Impact (Hazard 2, Fortitude, Health, Bludgeoning)** and fall **Prone**.
 >
 > #### Ketral Attack
 >
-> The first time this attack is used, the geyser disturbs the nearby rocks, causing a single [[Ketral]] to emerge and join the combat encounter.
+> The first time this hazard is triggered, the geyser disturbs the nearby rocks, causing a single [[Ketral]] to emerge and join the combat encounter.
 >
 > #### Locating the Source
 >
-> The gushing water is caused by an [[Endless Fountain Stone]], which the Canyon Crawler has placed beneath the edge of the water in the Canyons. An acute party member can see a magical glint in the light as the stone is activated with a successful `[[/check perception 22]]` check.
+> The gushing water is caused by an [[Endless Fountain Stone]], which the Canyon Crawler has placed beneath the edge of the water in the Canyons. An acute party member can see a magical glint in the light as the stone is activated with a successful **Awareness (DC 22)** check.
 >
-> - If the Fountain Stone is noticed, its function is understood to any party member who succeeds on a `[[/check arcana 22]]` check or uses the [[Identify]] spell.
+> - If the Fountain Stone is noticed, its function is understood to any party member who succeeds on a **Arcana (DC 22)** check or uses the **Talent: Recognize Spellcraft** spell.
 
 ### Grasping Vines
 
@@ -120,9 +120,9 @@ Alternately, the party may try to fool the Canyon Crawler into thinking that the
 > [!danger] Hazard
 > #### Entangling Vines
 >
-> Weeds and roots form a 20-foot square at a location of the Crawler's choosing requiring each creature in the area to make a `[[/save strength 15]]` saving throw or become &Reference[restrained].
+> Weeds and roots form a 20-foot square at a location of the Crawler's choosing requiring each creature in the area to make a **Athletics (DC 15)** check or become **Restrained**.
 >
-> Any character that succeeds on a `[[/check arcana 16]]` check recognizes the effect as originating from the [[Entangle]] spell.
+> Any character that succeeds on a **Arcana (DC 16)** check recognizes the effect as originating from a spell associated with the **Talent: Rune: Life** .
 >
 > #### Sarracenias Attack
 >
@@ -138,11 +138,11 @@ Alternately, the party may try to fool the Canyon Crawler into thinking that the
 > [!danger] Hazard
 > #### Rocks Fall
 >
-> A cascade of large rocks crash down towards the party. Two of these rocks are close enough to pose a significant threat, each creating a 10-foot radius impact somewhere of the Crawler's choosing. Any creature within the area of effect must succeed on a `[[/save dexterity 16]]` saving throw or suffer `[[/damage 1d12 bludgeoning]]` damage.
+> A cascade of large rocks crash down towards the party. Two of these rocks are close enough to pose a significant threat, each creating a 10-foot radius impact somewhere of the Crawler's choosing. Any creature within the area of effect must succeed on a **Athletics (DC 16)** check or suffer **Scree Collapse (Hazard 6, Fortitude, Health, Bludgeoning)**.
 >
 > #### Gumtoad Attack
 >
-> Affixed to each of the falling rocks is a single [[Gumtoad]] which joins the combat encounter. Each toad is initially &Reference[stunned] for 1 round by the fall, but after recovering its senses will attack any character nearby.
+> Affixed to each of the falling rocks is a single [[Gumtoad]] which joins the combat encounter. Each toad is initially **Stunned** for 1 round by the fall, but after recovering its senses will attack any character nearby.
 
 ### The Crawler Revealed
 
@@ -153,7 +153,7 @@ If characters reach the Canyon Crawler in their lair, they find a young Thornlin
 >
 > Level 1 · Unknown Unknown
 >
-> ![Carmin Anther](../../../assets/image155.webp)
+> ![Carmin Anther](../../../assets/image168.webp)
 
 > [!quote] Read Aloud
 > > Do not enter this cavern!
@@ -191,11 +191,11 @@ The party can attempt to talk Carmin down, avoiding a fight if they want to.
 > [!info] Social
 > #### Convincing Carmin
 >
-> As Carmin prepares to attack again, the party can attempt to intervene and prevent a fight by convincing the Thornling that they won't win in a direct battle and should stand down with a successful `[[/check persuasion 20]]`. The DC of this check can be lowered by 1 with success on either of the following checks:
+> As Carmin prepares to attack again, the party can attempt to intervene and prevent a fight by convincing the Thornling that they won't win in a direct battle and should stand down with a successful **Diplomacy (DC 20)**. The DC of this check can be lowered by 1 with success on either of the following checks:
 >
-> - Carmin can be flattered with a successful `[[/check deception 16]]` check
-> - Carmin can be threatened with a succesful `[[/check intimidation 16]]` check
-> - Carmin can also be persuaded using spells to induce them to stand down, such as [[Suggestion]] or [[Charm Person]].
+> - Carmin can be flattered with a successful **Deception (DC 16)** check
+> - Carmin can be threatened with a succesful **Intimidation (DC 16)** check
+> - Carmin can also be persuaded using spells to induce them to stand down, via creative use of **Talent: Rune: Control**.
 
 If successfully persuaded, Carmin agrees to stand down, although they are sulky about the outcome:
 
@@ -224,11 +224,11 @@ If successfully persuaded, Carmin agrees to stand down, although they are sulky 
 > [!info] Social
 > #### Reconsidering Life Choices
 >
-> Once Carmin is either persuaded to stand down or forcibly subdued, Edivel — and possibly the party — will demand that they divert from their criminal path. Carmin intends to continue as the Canyon Crawler, but may be convinced to give up banditry altogether with a successful `[[/check 22 persuasion]]` check. The DC of the check lowers by 1 for each of the following successes:
+> Once Carmin is either persuaded to stand down or forcibly subdued, Edivel — and possibly the party — will demand that they divert from their criminal path. Carmin intends to continue as the Canyon Crawler, but may be convinced to give up banditry altogether with a successful **Diplomacy (DC 22)** check. The DC of the check lowers by 1 for each of the following successes:
 >
-> - A `[[/check intimidation 17]]` check to threaten to find Carmin and destroy them if they continue their robbing spree.
-> - A `[[/check insight 17]]` check to realize that Carmin simply wants to be famous and important and convince them accordingly
-> - A `[[/check performance 17]]` check to tell a stirring tale of why Brevin needs them more than they need to continue being the Canyon Crawler.
+> - A **Intimidation (DC 17)** check to threaten to find Carmin and destroy them if they continue their robbing spree.
+> - A **Diplomacy (DC 17)** check to realize that Carmin simply wants to be famous and important and convince them accordingly
+> - A **Performance (DC 17)** check to tell a stirring tale of why Brevin needs them more than they need to continue being the Canyon Crawler.
 
 If effectively persuaded, Carmin agrees to return to Brevin and to stop robbing travelers.
 
@@ -271,8 +271,8 @@ Edivel is thrilled to get their spellbook back but is most intrigued by the wand
 >
 > Edivel asks the party what they make of the wand. Characters can notice the following:
 >
-> - With a successful `[[/check history 16]]` check, characters can tell that this is a somewhat older version of the agrimage symbol, indicating that it might be from an older or more traditional agrimage.
-> - With a successful `[[/check perception 16]]` check, characters notice initials carved into the side of the wand — "KA".
+> - With a successful **Society (DC 16)** check, characters can tell that this is a somewhat older version of the agrimage symbol, indicating that it might be from an older or more traditional agrimage.
+> - With a successful **Awareness (DC 16)** check, characters notice initials carved into the side of the wand — "KA".
 > - If Carmin has been convinced to give up their ways, the party can ask where they got it. Carmin tells the party that the person they took the wand from was said to have been given it by a great agrimage in Steed's Point.
 >
 > Either through success on these checks, or through Edivel's independent realization, Edivel is convinced that the wand previously belonged to Kali Andrella — a renowned agrimage who used to live in the now-ruined town of Steed's Point.

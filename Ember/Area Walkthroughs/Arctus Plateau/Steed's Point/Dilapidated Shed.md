@@ -38,7 +38,7 @@ The party can inspect the shed's interior, where weather-worn farm tools might d
 >
 > Level 4 · Jurtak Berserker
 >
-> ![Jurtak Warrior](../../../assets/image081.webp)
+> ![Jurtak Warrior](../../../assets/image084.webp)
 >
 > You behold a lean, six-eyed saurian creature, its body clad in fragments of bone and its scales glinting in the dim light. The acrid scent of poison tinges the air, dripping from the bone blade held in its clawed hands. Its long, semi-prehensile tail moves with a predator's anticipation, and a forked tongue flicks across twisted lips as its eyes fix upon you with a predatory malice.
 

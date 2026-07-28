@@ -17,7 +17,7 @@ tags: [ember, guides]
 
 ## Zerranyss
 
-The [[Vile Dragons]] known as [[Zerranyss]] is the principal antagonist and central villain of our story. Zerranyss is motivated above all else by a cruel and selfish desire to accumulate vast power, which he would use to establish a malicious dominion over Ember and its denizens.
+The [[Vile Dragons]] known as **Zerranyss** is the principal antagonist and central villain of our story. Zerranyss is motivated above all else by a cruel and selfish desire to accumulate vast power, which he would use to establish a malicious dominion over Ember and its denizens.
 
 Zerranyss also seeks revenge against the [[Shard Gods]] [[Lumé]], who once nearly killed the Vile Dragon in a battle at the frontier of the [[Lumek]] Homelands. After being defeated and disgraced in this way, Zerranyss has grown more disdainful and cruel, using bitter resentment against Lumé and others to drive them down the path of conquest. Zerranyss is a cunning and conniving villain, forming and orchestrating a complex strategy to undermine and subvert power in [[Ordain]] — one of the great cities of the world and most importantly an access point to the underground Shard Caverns wherein Zerranyss believes a [[Ascendancy]] of Ember may be found. Such a crystal would allow Zerranyss to perform an ascension ritual which — if successful — would imbue the formidable dragon with the untold power of a Shard God.
 

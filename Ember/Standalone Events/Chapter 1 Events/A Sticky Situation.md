@@ -27,7 +27,17 @@ The unstable earth beneath the party's feet gives away causing the group to tumb
 > Each character must face a **Minor Rockslide (Hazard 4, Reflex, Bludgeoning)** from the sudden but sloped fall. Any character who fails this save by more than 10 also gains the **Prone** condition.
 >
 > While they've already spied one of the creatures, there are a total of two [[Sitherian]] here: the initial assailant in the cliffside cave to the southeast, and another hidden Sitherian among the foliage to the northwest.
+
+> [!abstract] Sitherian
+> **[[Sitherian]]**
 >
+> Level 1 · Arachnid Sitherian
+>
+> ![Sitherian](../../assets/image001.webp)
+>
+> This large eight-legged creature boasts two fanged chelicerae that appear to drip a viscous green venom. Its ten reflective eyes regard you with a keen animal maliciousness as it crawls forth from its web-shrouded hiding place.
+
+> [!danger] Hazard
 > #### Arachnid Attack!
 >
 > Characters with **Awareness (DC 16, Passive)** are able to spot the hidden Sitherian to the northwest, who will attempt to engage the party unseen. While the Sitherian remains hidden, it has advantage on attacks against enemy characters who fail to detect it.

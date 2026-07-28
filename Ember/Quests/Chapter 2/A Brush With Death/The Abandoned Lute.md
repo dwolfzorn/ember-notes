@@ -45,7 +45,7 @@ Upon investigating the grotto, the party is attacked by Dereth Erekos — who is
 >
 > Level 4 (Elite) · Ghoul Horrendor
 >
-> ![Dereth Erekos](../../../assets/image152.webp)
+> ![Dereth Erekos](../../../assets/image165.webp)
 >
 > A disheveled corpse of a young man lurks before you, freshly reanimated from the grave. A wicked grin dripping an evil crimson ichor twists its way across the cadaver's pale, deathless face, and the exaggerated brows that frame its milky white eyes betray some kind of cruel intelligent menace.
 >

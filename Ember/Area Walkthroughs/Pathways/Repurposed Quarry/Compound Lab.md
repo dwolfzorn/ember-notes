@@ -22,7 +22,7 @@ The required actors are listed in the encounter below.
 >
 > Level 4 (Elite) · Drakon Chirurgeon
 >
-> ![Kalasak the Cutter](../../../assets/image013.webp)
+> ![Kalasak the Cutter](../../../assets/image014.webp)
 >
 > Clad in stained apron and coat, they regard you coolly from behind goggles and mask which make it impossibly to discern anything about them. They turn a razor sharp scalpel in their hand, as their off-hand rests on a pouch containing several vials of undoubtedly dangerous compounds. The air around them is thick with the scent of medicine and blood.
 
@@ -31,7 +31,7 @@ The required actors are listed in the encounter below.
 >
 > Level 3 (Elite) · Human Chirurgeon
 >
-> ![Mutagist Vivisector](../../../assets/image010.webp)
+> ![Mutagist Vivisector](../../../assets/image011.webp)
 >
 > Clad in stained apron and coat, they regard you coolly from behind goggles and mask which make it impossibly to discern anything about them. They turn a razor sharp scalpel in their hand, as their off-hand rests on a pouch containing several vials of undoubtedly dangerous compounds. The air around them is thick with the scent of medicine and blood.
 

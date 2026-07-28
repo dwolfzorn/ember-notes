@@ -27,7 +27,7 @@ The sun-kissed agrimage [[Moriah Foxhaven]] lives amongst a group of beast-ridin
 >
 > Level 1 · Unknown Unknown
 >
-> ![Moriah Foxhaven](../../assets/image002.webp)
+> ![Moriah Foxhaven](../../assets/image003.webp)
 
 > [!info] Social
 > #### Meeting the Agrimage

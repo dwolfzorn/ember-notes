@@ -1,7 +1,7 @@
 ---
 title: "Actions"
 journal: "Game Mechanics / Combat"
-source_uuid: "JournalEntry.zlYGu6T8PqUvd7UQ"
+source_uuid: "JournalEntry.PETeWXMgCZCt14YN"
 type: ember.lore
 tags: [ember, game-mechanics]
 ---
@@ -118,11 +118,11 @@ The functionality of Actions relies on a set of tags organized into the followin
 
 | Tag | Rules Effect |
 | --- | --- |
-| Vocal | Requires the ability to speak. Cannot be used while Silenced. |
-| Auditory | Requires targets to hear. Deafened targets are excluded from the action. |
+| Vocal | Requires the ability to speak. Cannot be used while **Silenced**. |
+| Auditory | Requires targets to hear. **Deafened** targets are excluded from the action. |
 | Reaction | Can only be performed on another creature's turn as a reaction. |
 | Non-Combat | Can only be used outside of combat. |
-| Flanking | Requires the target to be Flanked. |
+| Flanking | Requires the target to be **Flanked**. |
 
 ### Attack Tags
 

@@ -39,7 +39,7 @@ tags: [ember, area-walkthroughs]
 >
 > Level 4 · Automaton Servitor
 >
-> ![Rattletrap, the Rickety Man](../../../assets/image079.webp)
+> ![Rattletrap, the Rickety Man](../../../assets/image082.webp)
 >
 > This humanoid figure is crafted from various scraps of wood, its ramshackle limbs held together with a skeleton made of timber and ligatures woven from vine. The masterful carving that comprises its wooden face is fixed in a perpetual look of mirthful stoicism as it labors away at the duteous task of reaping wild grain in a long-forgotten field.
 

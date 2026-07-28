@@ -8,8 +8,6 @@ tags: [ember, gazetteer]
 
 # Redrak Fields
 
-**Work In Progress!** This biome and its accompanying entry are not in the scope of Early Access gameplay. All text provided here is currently **in development** and **incomplete**. This entry will be revised and expanded on in future updates.
-
 > [!warning] Gamemaster
 > #### Gamemaster's Summary
 >
@@ -18,13 +16,15 @@ tags: [ember, gazetteer]
 > - Travel through this Biome is generally [[Region Exploration]].
 > - This Biome can be explored within the [[Redrak Fields]] Area Map.
 
-The region's land is naturally rich, and is further enhanced by the efforts of the local agrimages living in the city of [[Redrak]]. These casters combine the soil and silt drawn out of [[Lake Orial]] with the waste of livestock, and use magical processes to transform it into incredible topsoil capable of growing anything quickly.
+The region's land is naturally rich, and is further enhanced by the efforts of both [[House Lilifeld]] and the [[Agrimage Circle]] headquartered in the city of [[Rortwark]].
 
-The soil is sold back to the farmers of the region, who then use it to produce massive amounts of food that keeps the region — and Ordain — fed. This cycle has created a delicate balance of power between the Lake Orial Dredgers, the Redrak agrimages, and the farmers of Redrak Fields, who rely on and profit from their continued mutual cooperation.
+These rural and rustic mages combine the soil and silt drawn out of [[Lake Orial]] with the waste of livestock, and use magical processes to transform it into incredible topsoil capable of growing all manner of vibrant crops and foodstuffs.
+
+Farms in the Redrak Fields are typically owned and operated collectively by labor councils comprised of all those who work the land in a given locality. By longstanding mutual agreement, these labor councils supply the agrimages of Rortwark and the dredgers of Lake Orial's [[Ushna Dredging]] with food and other necessities, in exchange for the magically enriched topsoil. In a balance both symbiotic and delicate, it is this soil that enables the excess agricultural production through which the councils are able to supply the agrimages and dredgers, and trade with House Lilifeld in Ordain for goods not available locally in the Redrak Fields.
 
 ### Environment
 
-Stretching from the coast of the [[Reaver Ocean]] to the chaotic curves of the Tarca River and the shores of Lake Orial, Redrak Fields is a gently rolling landscape awash in broad seas of grain and grass that sway rhythmically with the wind. Travel across this land is easy, and what dangers exist are few and far between.
+Stretching from the coast of the [[Reaver Ocean]] to the chaotic curves of the Tarca River and the shores of Lake Orial, Redrak Fields is a gently rolling landscape awash in broad seas of grain, vineyards, and grass that sway rhythmically with the wind. Travel across this land is easy, and what dangers exist are few and far between.
 
 ### Ecology
 
@@ -34,4 +34,4 @@ Redrak Fields is home to various creatures found elsewhere in the Arctus Plateau
 
 ### Lore
 
-Redrak Fields is a region shot through with magic that flows from the massive Lake Orial up north. Unknown to any in the region, this lake is the site of an elemental prison holding a fallen sage of [[Cora]], and the magic of that prison seeps into the waters above. The folk of Redrak Fields unwittingly draw up the infused water and soil, and spread it across the land; this has made the region immensely productive in terms of agriculture, but leaves it vulnerable to a growing influence from the trapped earth sage under the lake — and its prison is not as sturdy as it once was.
+Redrak Fields is a region shot through with magic that flows from the massive Lake Orial up north and the endless earth magic that washes down from Cora thanks to age-old pacts made by the region's earliest settlers. Unknown to any in the region, this lake is the site of an elemental prison holding a fallen sage of [[Cora]], and the magic of that prison seeps into the waters above. The folk of [[Ushna Dredging]] unwittingly draw up the infused water and soil, and spread it across the land; this has made the region immensely productive in terms of agriculture, but leaves it vulnerable to a growing influence from the trapped earth sage under the lake — and its prison is not as sturdy as it once was.

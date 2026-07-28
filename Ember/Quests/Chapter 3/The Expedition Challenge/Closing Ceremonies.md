@@ -28,7 +28,7 @@ The party can now speak with Arcos to receive their accolades — including full
 >
 > Level 1 · Unknown Unknown
 >
-> ![Arcos Sarinland](../../../assets/image137.webp)
+> ![Arcos Sarinland](../../../assets/image143.webp)
 
 > [!quote] Read Aloud
 > The guildmaster beams with joy as he steps forward, clasping your hands.
@@ -95,7 +95,7 @@ Following the party's encounter with Arcos, Fernis Ossa will emerge from the sha
 >
 > Level 1 · Unknown Unknown
 >
-> ![Fernis Ossa](../../../assets/image135.webp)
+> ![Fernis Ossa](../../../assets/image101.webp)
 
 > [!quote] Read Aloud
 > As you begin to leave the hall, you notice a shape emerge from next to one of the wooden beams along the side of the main hall.

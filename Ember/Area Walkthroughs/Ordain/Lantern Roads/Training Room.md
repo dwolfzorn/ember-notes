@@ -9,80 +9,82 @@ tags: [ember, area-walkthroughs]
 # Training Room
 
 > [!quote] Read Aloud
-> Weapons and targets of all types line the walls of this long room. A Wandren guard shows off their knife throwing, aiming at a target that is wearing the clothing of a woman dressed for an Ordani ball. Nearby, a creature whose metallic arms extend from the ball of fire in the center of their torso sits still.
+> Five training dummies stand in a line along the east side of the room, their frames wrapped in padded cloth that has been shredded by repeated strikes. To the north, a worktable is covered with thin metal sheets scored by rows of pinholes.
 
-The party may choose to move through the area with stealth, or face an immediate combat. Any creatures that are not defeated while in this room come to assist Hephiss Wandren during the party's final battle with her.
-
-### Moving With Stealth
-
-The party's ability to sneak through the room depends in part on which creatures they are sneaking by and their general direction.
-
-> [!tip] Exploration
-> #### Creeping Up on the Aburyx
+> [!abstract] Wandren Watcher
+> **[[Wandren Watcher]]**
 >
-> If characters enter the Training Room through its connection to the [[Holding Cells Antechamber]], they can attempt to subdue the Aburyx before being spotted.
+> Level 1 · Unknown Unknown
 >
-> With a successful `[[/check stealth 20]]` check, the Aburyx is surprised in any combat, and is unaware of any other attempts made against to hold or subdue it until after they are attempted.
+> ![Wandren Watcher](../../../assets/image053.webp)
 
-> [!tip] Exploration
-> #### Sneaking Through The Training Room
+> [!abstract] Kynryth
+> **[[Kynryth]]**
 >
-> If characters enter the Training Room through its connection to [[Closet 1]], they must lure the Wandren Guard in the doorway away or they will immediately be drawn into combat.
+> Level 1 · Unknown Unknown
 >
-> - The guard can be lured away in a similar fashion as a member of the Beacon Brigade (see [[Area Overview]]}.
-> - If the party enters the room without fighting the Wandren Guard in the doorway, they can move through the room without the enemies noticing with a successful `[[/check stealth 22]]` stealth check.
+> ![Kynryth](../../../assets/image052.webp)
 
-### Fighting The Enemies
-
-> [!quote] Read Aloud
-> The creatures turn towards you. Beyond them, the radiant being sitting at a small desk chuckles, with a sound like flickering flames.
+> [!abstract] Aburyx
+> **[[Aburyx]]**
 >
-> > Perfect. Now you can face a real challenge.
+> Level 6 (Elite) · Tyraphem Aburyx
+>
+> ![Aburyx](../../../assets/image054.webp)
+>
+> With a head of radiant yellow flame and the golden plate armor of a warrior, the Aburyx floats up from the ground it stands on, swiveling to face with you with a flare of light. Within moments, it it is hovering in front of you, a sword of light suddenly emerging from its hands as it readies to attack.
 
 > [!danger] Hazard
-> #### Creature Tactics
+> #### Wandren Watcher Tactics
 >
-> The Aburyx, Kynryth, and Wandren Patroller each have their own individual tactics.
+> At the start of combat, the [[Wandren Watcher]] will use their [[Spotlight Shot]] to illuminate an enemy and alert any allies within 60 feet to come to their aid.
 >
-> **Aburyx Tactics:** The[[Aburyx]]prefers to keep its distance if possible, using [[Beckoning]] to summon Skithers and[[Reckoning]] to detonate them, using them as a ranged weapon. Once it has used up both of its uses of this action, it advances on the closest creature to it for melee combat with [[Cleaving Light]].
+> Over the course of combat, the Wandren Watcher will prioritize the following actions and abilities:
 >
-> **Kynryth Tactics:** [[Kynryth]] primarily uses its tentacles to strike out, using [[Tentacle Grab]] and [[Tentacle Swipe]]. It uses its special abilities, [[Throw Fire]] and [[Burst of Speed]], only if cornered.
+> - In melee, the Wandren Watcher will use their [[Multiattack]] Action to make two attacks with their [[Shortsword]].
+> - From range, the Wandren Watcher will use their [[Multiattack]] Action to make two attacks with their [[Longbow]].
+> - If a character is hidden or trying to remain unseen, the Wandren Watcher will use their [[Spotlight Shot]] to make hiding more difficult and potentially inflict the &Reference[blinded] condition on nearby enemies.
 >
-> **Wandren Patroller Tactics:** The Wandren Patroller immediately advances forward, attempting melee combat. If it takes any damage, it transforms into a [[Kynryth]] on its following turn, using all of its actions to do so.
+> #### Kynryth Tactics
+>
+> At the start of combat, the [[Kynryth]] will use its [[Multiattack]] Action and attempt to &reference[grappled]{Grapple} an enemy.
+>
+> Over the course of combat, the Kynryth will prioritize the following actions and abilities:
+>
+> - In melee, the Kynryth will use its [[Multiattack]] Action.
+> - Whenever the Kynryth has at least one creature &reference[grappled] with its [[Tentacle Grab]], it will use [[Heated Tentacles]].
+> - From range, the Kynryth will [[Throw Fire]].
+>
+> #### Aburyx Tactics
+>
+> At the start of combat, the [[Aburyx]] will use its [[Call Skither]] action and fortify itself with **Aspect of Illumination**.
+>
+> Over the course of combat, the Aburyx will prioritize the following actions and abilities:
+>
+> - In melee, the Aburyx will use its **Illuminated Strike**.
+> - From range, the Aburyx will use its **Illuminated Ray**.
+> - It relies on its [[Radiant Absorption]] feature to restore Health whenever a nearby Skither uses its [[Radiant Death Burst]] action.
 
-### The Central Chamber Controls
-
-The controls to the Central Chamber's Outer Dome can be found on a wheel on the wall of the Training Room, which can be found without a check.
+Once the area is clear of enemies, the characters can search the room.
 
 > [!tip] Exploration
-> #### The Wheel on the Wall
+> #### Searching the Training Room
 >
-> This wheel is identical to those found in the [[Blessing Chamber]] and [[Construction Room]] and and operates in the same fashion. If characters have already operated one of the other wheels, they recognize it immediately.
+> A simple search reveals the following:
 >
-> #### Identifying the Torch Holder
+> - Five battered training dummies. One of them wears a set of [[Fine Clothes]] fit for an Ordani noble.
+> - Thin metal sheets scored with pinholes.
 >
-> Characters can clearly see the wheel on the wall, and the torch holder above it, without a check.
+> Any character with **Knowledge: Machines** who examines the metal sheets can tell they are unfinished armor plates meant for a [[Kynryth Husk]]. The pinholes are attachment points where the plates would be fixed to the creature's frame.
 >
-> > The metal wheel juts out of the wall as if molded from the same piece of metal. Directly above it sits a small hoop, jutting out from the same wall.
+> #### Secret Exit
 >
-> Characters who examine the hoop and succeed on a `[[/check 15 perception]]` check note the smooth edges, as if something has been routinely used in that slot, wearing down the edges over time.
+> The southern wall is actually an exit built by Ylith — the celestial creature imprisoned in the [[Inner Chamber]] — in secret.
 >
-> - With a success of 3 or more, characters also note a small amount of damage around the torch holder slot from whatever was placed in it. It is similar to the damage that would be caused by a large amount of heat.
+> Any character who investigates the south wall and makes a successful **Awareness (DC 20)** check discovers two small silver buttons disguised as rivets.
 >
-> Characters who succeed on a `[[/check history 17]]` check or have **Knowledge: Celestials** recognize the hoop as a torch holder that is used to hold a source of radiant fire.
+> - **Ylith Present:** The character automatically succeeds on this check if Ylith is accompanying the party.
 >
-> #### Using the Torch Holder
+> Pressing a silver button causes a torch sconce to slide out from a hidden recess.
 >
-> Any torches that the characters have on them will fit into the torch holder slot, but nothing happens when they are placed.
->
-> > You can hear a slight click as the torch is placed in the torch holder, and it shifts downward slightly, but there is no other effect.
->
-> The wheel does not and will not move until characters put a [[Lit Kynryth Torch]] in the torch holder.If characters light their own torches (or any stick of a similar size) in the radiant fire in the bowl, it becomes a [[Lit Kynryth Torch]]. They may also acquire one from a defeated Kynryth in the immediate aftermath of its death.
->
-> Once a proper torch has been put in the torch holder, the wheel extends from the wall.
->
-> > With an audible echoing click, the wheel in the wall begins to glow, ever-so-slightly, and it extends further from the wall.
->
-> #### Turning the Wheel
->
-> If the torch holder has not been used, the wheel cannot be turned, but once it has extended from the wall, it is easily turned without a check. Each time the wheel is turned a quarter turn, the Outer Dome in the [[Central Chamber]] rotates, as noted in [[Not All Who Wandren]], making a deep grinding noise that can be heard throughout the facility without a check.
+> To open the wall, the characters must reveal both torch sconces and place [[Lit Kynryth Torch]] into each one. A [[Lit Kynryth Torch]] placed into a sconce in Wandren HQ remains burning for 8 hours.

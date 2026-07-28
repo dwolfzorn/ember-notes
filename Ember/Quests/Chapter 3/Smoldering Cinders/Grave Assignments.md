@@ -64,14 +64,14 @@ The necromancer Amelia Naxan appears during this encounter for a brief moment, b
 >
 > Level 1 · Unknown Unknown
 >
-> ![Corpuleth](../../../assets/image116.webp)
+> ![Corpuleth](../../../assets/image124.webp)
 
 > [!abstract] Amelia Naxan
 > **[[Amelia Naxan]]**
 >
 > Level 1 · Unknown Unknown
 >
-> ![Amelia Naxan](../../../assets/image117.webp)
+> ![Amelia Naxan](../../../assets/image125.webp)
 
 > [!danger] Hazard
 > #### Corpuleth Tactics
@@ -111,7 +111,7 @@ The necromancer Amelia Naxan appears during this encounter for a brief moment, b
 >
 > Level 1 · Skallith Commonfolk
 >
-> ![Skallith](../../../assets/image007.webp)
+> ![Skallith](../../../assets/image008.webp)
 >
 > You behold the terrifying appearance of a reanimated humanoid skeleton, whose decrepit bones remain dreadfully assembled, despite the lack of sinew and flesh. This loathsome skeletal creature wields a timeworn blade, and a rotted shortbow is slung across its bony back.
 
@@ -120,7 +120,7 @@ The necromancer Amelia Naxan appears during this encounter for a brief moment, b
 >
 > Level 0.5 (Minion) · Skallith Commonfolk
 >
-> ![Crumbling Skallith](../../../assets/image118.webp)
+> ![Crumbling Skallith](../../../assets/image126.webp)
 >
 > You behold the terrifying appearance of a reanimated humanoid skeleton, whose decrepit bones remain dreadfully assembled, despite the lack of sinew and flesh. This loathsome skeletal creature wields a timeworn blade, and a rotted shortbow is slung across its bony back.
 
@@ -153,7 +153,7 @@ When the time is right for Luna to appear, read the following aloud:
 >
 > Level 10 (Boss) · Fej Justiciar
 >
-> ![Luna Karrowrath](../../../assets/image112.webp)
+> ![Luna Karrowrath](../../../assets/image120.webp)
 >
 > Clad in battle scarred Lunaran steel armor covered in the symbols of the Flameguard and the goddess Lumé, this Fej warrior has been through countless battles, and her intense, haunted gaze only reinforces this. She carries herself with an uncharacteristic grace for someone so heavily armored. Even the immense mace strapped to her back doesn't seem to slow her down.
 
@@ -193,7 +193,7 @@ When the time is right for Luna to appear, read the following aloud:
 > - **Knowledge: Forensics**: The character gains **+2 Boons**.
 > - **Knowledge: Undeath**: The character gains **+2 Boons**.
 >
-> Whether or not the characters succeed with their own investigation of the remains, they must collect one or more **Undead Samples** to take back to Sionia in the Numinous Shrines district.
+> Whether or not the characters succeed with their own investigation of the remains, they must collect one or more **Undead Samples** to take back to [[Sionia]] in the [[Numinous Shrines]] district.
 >
 > - Appropriate Undead Samples include the intact limb or entire corpse of an undead creature raised by Amelia Naxan's necromancy: the Corpuleth, the Harrower, the Vampyre Spawn, or one or more Skallith.
 > - Although the Harrower wasn't encountered during the battle here, the profaned corpse of the derelict Burnished Hand Protector known as Ordan can be found among the remains — drained of its posthumous ichor by the bloodthirsty Hematophage.

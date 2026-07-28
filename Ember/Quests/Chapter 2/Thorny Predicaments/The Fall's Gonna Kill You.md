@@ -23,7 +23,7 @@ tags: [ember, quests]
 >
 > Level 1 · Unknown Unknown
 >
-> ![Edivel Sprout](../../../assets/image153.webp)
+> ![Edivel Sprout](../../../assets/image166.webp)
 
 If the party completed [[Planting a Seed]] and has met Edivel, they recognize him immediately, and he recognizes them, saying:
 
@@ -94,14 +94,14 @@ If characters wish to follow Edivel directly into the canyons, they must climb d
 > [!tip] Exploration
 > #### Finding Edivel
 >
-> A character with **Awareness (DC 16, Passive)** or making a successful **Awareness (DC 14)** notices that Edivel has landed on a rocky outcropping a hundred feet down. Luckily, there are ample grip points that would make climbing down possible, if risky.
+> A character with **Awareness (DC 16, Passive)** notices that Edivel has landed on a rocky outcropping a hundred feet down. Luckily, there are ample grip points that would make climbing down possible, if risky.
 >
 > #### Descending Into the Canyons
 >
 > To descend the cliffs, characters must make a **Athletics (DC 15)** check. On success they are able to descend up to half their movement speed toward Edivel before repeating the skill check. On a failure, they encounter a hazard from the Canyon Catastrophes table below.
 >
 > - Climb Speed: Characters with a climbing speed automatically succeed and can descend at their full climbing speed.
-> - **Equipment**: Characters with [[Climber's Kit]] automatically succeed.
+> - **Equipment**: Characters using a[[Unknown]]] automatically succeed.
 > - **Wilderness (DC 16)**: A competent survivalist notices roots jutting out from the freshly exposed canyon wall and gains **+2 Boons** on this check until their descent is complete.
 > - **Critical Success**: The character can descend at their full movement speed until the next time they make this check.
 >

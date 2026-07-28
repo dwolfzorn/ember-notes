@@ -8,6 +8,13 @@ tags: [ember, gazetteer]
 
 # Dragon Skin
 
+> [!warning] Gamemaster
+> #### Gamemaster's Summary
+>
+> This location exists at ⬢ s.3198.2899 in the [[Mycelian Expanse]], west of the [[Repurposed Quarry]].
+>
+> - This location is featured in the [[Ancient Paths]] Main Quest.
+
 Left in a somewhat remote part of the Pathways, the skin of an ancient dragon molders in the dark corner of the mycelian expanse, though its presence is all but impossibly to miss if one travels through the massive tunnel where it rests.
 
 ### Environment

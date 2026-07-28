@@ -81,7 +81,7 @@ When the mechanism locks into place, read or paraphrase the following:
 >
 > Level 1 · Skallith Commonfolk
 >
-> ![Skallith](../../assets/image007.webp)
+> ![Skallith](../../assets/image008.webp)
 >
 > You behold the terrifying appearance of a reanimated humanoid skeleton, whose decrepit bones remain dreadfully assembled, despite the lack of sinew and flesh. This loathsome skeletal creature wields a timeworn blade, and a rotted shortbow is slung across its bony back.
 
@@ -90,7 +90,7 @@ When the mechanism locks into place, read or paraphrase the following:
 >
 > Level 3 · Skallith Fighter
 >
-> ![Skallith Warrior](../../assets/image008.webp)
+> ![Skallith Warrior](../../assets/image009.webp)
 >
 > You behold the terrifying appearance of a reanimated humanoid skeleton, whose decrepit bones remain dreadfully assembled, despite the lack of sinew and flesh. This skeletal warrior is clad in corroded armor, rusted from untold centuries in the grave. A rusty longsword at the creature's side belies its noteworthy strength, and a helmet crowns its cracked and decaying skull.
 

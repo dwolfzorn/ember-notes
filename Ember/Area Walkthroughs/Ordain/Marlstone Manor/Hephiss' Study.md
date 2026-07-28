@@ -8,18 +8,10 @@ tags: [ember, area-walkthroughs]
 
 # Hephiss' Study
 
-> [!warning] Gamemaster
-> #### Access to Hephiss' Study
+> [!danger] Hazard
+> #### Access Level
 >
-> Access to Hephiss' Study is **forbidden** at all times.See [[Gameplay Details]] for more on access levels.
->
-> #### Locating Funar Cevher
->
-> See [[Casing the Joint]] for details.
->
-> - Funar Cevher is **in the vicinity.** Note: this is the baseline result when using the Locator Rod in and around Marlstone Manor.
-
-There is no significant difference between Hephiss' Study before the gala and during the gala.
+> This area is **Forbidden**.
 
 > [!quote] Read Aloud
 > A guard stands at the edge of the well-appointed study, leaning against the wall in a stance of feigned relaxation that looks much less like a casual member of the staff and more like they are determined to keep any nosy visitor out.
@@ -45,18 +37,18 @@ There is no significant difference between Hephiss' Study before the gala and du
 >
 > Level 1 · Unknown Unknown
 >
-> ![Wandren Patroller](../../../assets/image049.webp)
+> ![Wandren Patroller](../../../assets/image050.webp)
 
 > [!danger] Hazard
 > #### Confrontation with the Guard
 >
-> Guards in Marlstone Manor will avoid direct combat, fleeing to alert others and detain the party. At most, they will use their [[Choking Fog Dust]] to stop the party's movements while they leave in search of help.
+> Guards in Marlstone Manor will avoid direct combat, fleeing to alert others and detain the party.
 >
 > If the guard flees the room before being subdued, the party has been caught. If they are scouting the manor (in Casing the Joint), they are escorted from the manor and the event ends. If they are at the gala (in Marlstone Gala) they are brought to Guest Bedroom 2 and locked away.
 
 ### Searching the Study
 
-Characters who have avoided or subdued the guards can explore the study, using the rules for [[Gameplay Details]]. They notice the large wall safe without a check.
+Characters who have avoided or subdued the guards can explore the study. They notice the large wall safe without a check.
 
 > [!tip] Exploration
 > #### The Wall Safe

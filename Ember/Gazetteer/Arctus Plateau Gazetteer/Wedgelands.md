@@ -18,7 +18,7 @@ tags: [ember, gazetteer]
 
 The towering peaks referred to as the Wedgelands are known for their treacherous landslides, perilous alpine hazards, and brutally unpredictable wildlife. This biome defines the majority of the Arctus Plateau's mountainous terrain, which often plays host to preternatural creatures, awe-inspiring vistas, and timeless myths of the ancient Giants and their kin.
 
-Few settlements manage to endure within the harsh mountain environs of the Wedgelands, but the presence of outlying camps is not altogether unheard of, along with a few well-known key points of interest — like Cevher Estate (owned by the eponymous Trading House) and [[Corpin Sanctuary]] (famed citadel of the Cindaric Sages). Outside of such remote sanctuaries and precipitous estates, the scattered remains of ancient cities and outposts of the [[Shent]] Giants dominate these desolate lands.
+Few settlements manage to endure within the harsh mountain environs of the Wedgelands, but the presence of outlying camps is not altogether unheard of, along with a few well-known key points of interest — like [[Corpin Sanctuary]], famed citadel of the Cindaric Sages. Outside of such remote sanctuaries and precipitous estates, the scattered remains of ancient cities and outposts of the [[Shent]] Giants dominate these desolate lands.
 
 ### Environment
 

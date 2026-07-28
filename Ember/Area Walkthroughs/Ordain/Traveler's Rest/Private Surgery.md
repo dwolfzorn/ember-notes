@@ -16,7 +16,7 @@ This chamber serves as the primary facility for patients in need of surgery, and
 > [!danger] Hazard
 > #### Locked & Off Limits
 >
-> The doors to this chamber remain locked unless a surgical procedure is taking place. Each door can be unlocked with a [[Traveler's Rest Key]] or a successful `[[/skill sleightofhand 15 tool=thief]]`; alternatively, it can be bashed open with a **Athletics (DC 22)** check.
+> The doors to this chamber remain locked unless a surgical procedure is taking place. Each door can be unlocked with a [[Traveler's Rest Key]] or a successful `[[/skill sleightofhand 15 tool=thief]]`; alternatively, it can be bashed open with a successful **Athletics (DC 22)** check.
 >
 > Characters who are found in this area without permission (or a good reason) will be asked to leave Traveler's Rest, and may be barred from returning.
 

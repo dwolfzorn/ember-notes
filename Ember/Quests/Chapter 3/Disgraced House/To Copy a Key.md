@@ -37,7 +37,7 @@ If they did not complete [[Sickness in The Burns]]:
 >
 > Level 1 · Unknown Unknown
 >
-> ![Janix Mance](../../../assets/image130.webp)
+> ![Janix Mance](../../../assets/image137.webp)
 
 > [!info] Social
 > #### A Conversation with Janix
@@ -105,16 +105,19 @@ The party must cross the seemingly empty quarry in order to retrieve the quickme
 > [!abstract] Ketral
 > **[[Ketral]]**
 >
-> Level 1 · Unknown Unknown
+> Level 1 · Ketral Pack Member
 >
-> ![Ketral](../../../assets/image140.webp)
+> ![Ketral](../../../assets/image146.webp)
+>
+> > [!quote] Read Aloud
+> > The small creature has a dark rocky skin and mane, barely distinguishable from a pile of rocks or sodden earth beyond its glowing yellow eyes and sharpened claws. Its teeth, though small, seem to crowd its mouth, bared and ready to strike at anything that comes within their reach.
 
 > [!abstract] Suarrok Juvenile
 > **[[Suarrok Juvenile]]**
 >
 > Level 4 (Elite) · Winged Terror Suarrok
 >
-> ![Suarrok Juvenile](../../../assets/image061.webp)
+> ![Suarrok Juvenile](../../../assets/image066.webp)
 >
 > This creature is an unsettling thing, a strange mixture of bird and lizard, with massive, bat-like wings fringed with trailing feathers. A long, sinuous neck that coils and moves like a serpent holds a massive head with menacing, serrated beak that's perfectly designed for tearing through flesh. On this head rests a single, enormous eye that glows ominously, and as its gaze sweeps over you, a wash of stinging heat can be felt.
 
@@ -125,12 +128,12 @@ The party must cross the seemingly empty quarry in order to retrieve the quickme
 >
 > #### Ketral Tactics
 >
-> At the start of combat, the Ketral will break off into pairs and engage the characters that appear most vulnerable. If the characters were &Reference[surprise]{Surprised}, the Ketral will use their [[Surprise Attack]]. Otherwise, they use their [[Bite]] or [[Claws]] attack.
+> At the start of combat, the Ketral will break off into pairs and engage the characters that appear most vulnerable. If the characters were &Reference[surprise]{Surprised}, the Ketral will use their [[Surprise Attack]]. Otherwise, they use their [[Unknown]] or [[Unknown]] attack.
 >
 > Over the course of combat, the Ketral will prioritize the following actions and abilities:
 >
-> - In melee, the Ketral will take advantage of their [[Pack Tactics]] feature to maximize damage dealt by their [[Bite]] and [[Claws]] attacks.
-> - When reduced to under half its maximum Hit Points, the Ketral will use its [[Of The Earth]] feature to climb a rocky surface and hide. If the Ketral cannot escape, it will move into a position to maximize the effectiveness of its [[Dust to Dust]] feature.
+> - In melee, the Ketral will take advantage of their [[Pack Tactics]] feature to maximize damage dealt by their [[Unknown]] and [[Unknown]] attacks.
+> - When reduced to under half its maximum Hit Points, the Ketral will use its [[Unknown]] feature to climb a rocky surface and hide. If the Ketral cannot escape, it will move into a position to maximize the effectiveness of its [[Unknown]] feature.
 >
 > #### Suarrok Juvenile Tactics
 >

@@ -22,7 +22,7 @@ Refer to the [[Manufactured Trial]] Event text for additional details about the 
 >
 > Level 1 · Unknown Unknown
 >
-> ![Adelyne Goss](../../../assets/image073.webp)
+> ![Adelyne Goss](../../../assets/image077.webp)
 
 > [!tip] Exploration
 > #### Inspecting the Digsite

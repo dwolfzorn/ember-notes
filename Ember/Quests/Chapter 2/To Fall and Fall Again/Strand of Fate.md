@@ -115,7 +115,7 @@ Verdal believes the party has come with news about the missing Aberin Lowd. Verd
 >
 > Level 1 · Unknown Unknown
 >
-> ![Kendral Lowd](../../../assets/image173.webp)
+> ![Kendral Lowd](../../../assets/image186.webp)
 
 Kendral is generally kind, but prefers keep his answers short, and return to his fishing.
 

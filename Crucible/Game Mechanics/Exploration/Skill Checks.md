@@ -1,7 +1,7 @@
 ---
 title: "Skill Checks"
 journal: "Game Mechanics / Exploration"
-source_uuid: "JournalEntry.YiJVTs79H8jKJDtZ"
+source_uuid: "JournalEntry.JdGNYsYDG684fLH4"
 type: ember.lore
 tags: [ember, game-mechanics]
 ---

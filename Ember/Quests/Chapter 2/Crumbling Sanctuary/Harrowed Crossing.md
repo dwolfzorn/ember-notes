@@ -48,7 +48,7 @@ Once one or more of the characters have moved far enough to reach the halfway ma
 >
 > Level 2 · Zombie Grappler
 >
-> ![Sodden Corpse](../../../assets/image170.webp)
+> ![Sodden Corpse](../../../assets/image183.webp)
 >
 > The fetid smell of corpse rot assaults your senses as a vaguely misshapen humanoid silhouette shambles into view. What appears to be a putrid, ambulatory cadaver shuffles your way, its soft and bloated flesh reeking of the grave. The clothes it wore in life are tattered and torn, stained by the toxic putrescence of its undead form. As the creature’s milky, moldering eyes regard you with a malevolent inhuman hunger, its rotted jaws gnash in rapacious anticipation.
 

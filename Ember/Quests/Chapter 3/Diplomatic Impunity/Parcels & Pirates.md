@@ -54,7 +54,7 @@ Asking around should reveal that Gastern can be found in the corner of the [[The
 >
 > Level 1 · Unknown Unknown
 >
-> ![Gastern Faviyos](../../../assets/image123.webp)
+> ![Gastern Faviyos](../../../assets/image131.webp)
 
 Gastern and his crew of brigands are all cocky, mean spirited, and evil in alignment. They are self-serving, and have no regard for the party, or others, and only care about House Bastilla insofar as they can pay them for work. This is why Gastern remains an outsider privateer rather than being officially welcomed into the house.
 

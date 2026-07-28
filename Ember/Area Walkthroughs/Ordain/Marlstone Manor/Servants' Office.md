@@ -8,19 +8,12 @@ tags: [ember, area-walkthroughs]
 
 # Servants' Office
 
-> [!warning] Gamemaster
-> #### Access to the Servants' Office
->
-> Access to the Servants' Office varies. (See [[Gameplay Details]] for more on access levels.)
->
-> - **Pre-Gala: Open** to All
-> - **During Gala:** **Restricted** to Guests, **Open** to Staff
->
-> #### Locating Funar Cevher
->
-> See [[Casing the Joint]] for details. If the party uses the[[Locator Rod]] in this area, they find that Funar Cevher is **in the vicinity.** This is the baseline result when using the Locator Rod in and around Marlstone Manor.
+### [[Casing the Joint]]
 
-### Pre-Gala
+> [!danger] Hazard
+> #### Access Level
+>
+> This area is **Open**.
 
 > [!quote] Read Aloud
 > Staff come and go through the office, usually stopping only briefly to pick up a paper or drop off a note for another member of the staff. With as many exits and entrances as the room has, the door may shut occasionally, but it rarely stays that way for long.
@@ -33,7 +26,12 @@ tags: [ember, area-walkthroughs]
 > - If characters succeed on the perception check by 3 or more, they notice a small note stuck to the back of the paper, which reads as follows:
 >   > Not surprised the Workshop is on the forbidden list. I snuck in there to check it out and it's full of weird trinkets and diagrams I can't figure out. I don't think anyone saw me, but now there's a guard posted up in the study next door, so who knows?
 
-### At The Gala
+### [[The Marlstone Gala]]
+
+> [!danger] Hazard
+> #### Access Level
+>
+> This area is **Restricted**.
 
 > [!quote] Read Aloud
 > Two of the Manor's guards sit in quiet conversation. As you enter, they barely look up, barking out a few words before going back to their discussion.

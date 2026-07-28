@@ -8,6 +8,11 @@ tags: [ember, area-walkthroughs]
 
 # Gallery Storage Closet
 
+> [!danger] Hazard
+> #### Access Level
+>
+> This area is **Restricted**.
+
 > [!quote] Read Aloud
 > While there is nothing out of the area among the cleaning tools found in the closet, there is a thickness to the air here that seems out of place, as if something is humming on a frequency you can't quite hear.
 

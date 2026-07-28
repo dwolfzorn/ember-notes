@@ -60,14 +60,14 @@ The Hall of Preparation was historically a chamber for the arming and outfitting
 >
 > Level 1 · Unknown Unknown
 >
-> ![Undaunted Adept](../../../assets/image053.webp)
+> ![Undaunted Adept](../../../assets/image056.webp)
 
 > [!abstract] Undaunted Trainee
 > **[[Undaunted Trainee]]**
 >
 > Level 1 · Unknown Unknown
 >
-> ![Undaunted Trainee](../../../assets/image054.webp)
+> ![Undaunted Trainee](../../../assets/image057.webp)
 
 > [!danger] Hazard
 > #### Raise the Alarm

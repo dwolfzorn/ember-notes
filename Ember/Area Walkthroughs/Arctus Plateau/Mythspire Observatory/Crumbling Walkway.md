@@ -16,4 +16,4 @@ tags: [ember, area-walkthroughs]
 > [!tip] Exploration
 > #### Short Hop
 >
-> This walkway is 30 feet below the upper, broken walkway that exits the [[Orb Room]]. Characters can jump down to this area without a roll, but it is a one-way trip.
+> This walkway is 30 feet below the upper, broken walkway that exits the [[Service Room]]. Characters can jump down to this area without a roll, but it is a one-way trip.

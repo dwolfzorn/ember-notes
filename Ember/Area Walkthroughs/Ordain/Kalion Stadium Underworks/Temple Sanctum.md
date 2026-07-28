@@ -66,28 +66,28 @@ The characters may wish to examine the scene before they act (a prudent strategy
 >
 > Level 1 · Unknown Unknown
 >
-> ![Zira Hestidero](../../../assets/image056.webp)
+> ![Zira Hestidero](../../../assets/image060.webp)
 
 > [!abstract] Undaunted Adept
 > **[[Undaunted Adept]]**
 >
 > Level 1 · Unknown Unknown
 >
-> ![Undaunted Adept](../../../assets/image053.webp)
+> ![Undaunted Adept](../../../assets/image056.webp)
 
 > [!abstract] Undaunted Trainee
 > **[[Undaunted Trainee]]**
 >
 > Level 1 · Unknown Unknown
 >
-> ![Undaunted Trainee](../../../assets/image054.webp)
+> ![Undaunted Trainee](../../../assets/image057.webp)
 
 > [!abstract] Jorey Swift
 > **[[Jorey Swift]]**
 >
 > Level 1 · Unknown Unknown
 >
-> ![Jorey Swift](../../../assets/image057.webp)
+> ![Jorey Swift](../../../assets/image061.webp)
 
 > [!info] Social
 > #### Parley with Zira
@@ -189,7 +189,7 @@ When combat begins, read the following aloud:
 >
 > Level 1 · Unknown Unknown
 >
-> ![Grim Assembly](../../../assets/image058.webp)
+> ![Grim Assembly](../../../assets/image062.webp)
 
 The 4 Undaunted Adepts have also undergone a gruesome transformation, resulting in the creation of 4 Abyss-Warped Undaunted who join the fray beside the Grim Assembly.
 
@@ -198,7 +198,7 @@ The 4 Undaunted Adepts have also undergone a gruesome transformation, resulting 
 >
 > Level 1 · Unknown Unknown
 >
-> ![Abyss-Warped Undaunted](../../../assets/image059.webp)
+> ![Abyss-Warped Undaunted](../../../assets/image063.webp)
 
 > [!danger] Hazard
 > #### Zira Hestidero Tactics

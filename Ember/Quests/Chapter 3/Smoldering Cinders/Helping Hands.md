@@ -36,7 +36,7 @@ The Burnished Hand Protector stationed outside the entrance of Veneration Hall i
 >
 > Level 5 · Human Protector
 >
-> ![Burnished Hand Protector](../../../assets/image025.webp)
+> ![Burnished Hand Protector](../../../assets/image026.webp)
 >
 > You regard a heavily-armored Ordani warrior, whose bronze splint mail gleams with a gorgeous russet luster. A symmetrical crimson hand with the roots of an oak tree decorates this soldier's chest piece, and the well-oiled longsword at their side looks poised and ready for action.
 

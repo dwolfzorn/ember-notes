@@ -85,7 +85,7 @@ tags: [ember, quests]
 >
 > Level 1 · Unknown Unknown
 >
-> ![Mistress Caberi](../../../assets/image147.webp)
+> ![Mistress Caberi](../../../assets/image154.webp)
 
 > [!quote] Read Aloud
 > A hush falls as the lacquered door behind you opens, and Cherish inclines her head toward the arrival. A moment later she stiffens and sharply turns to address the new arrival. When she speaks, her surprise is immediately apparent.

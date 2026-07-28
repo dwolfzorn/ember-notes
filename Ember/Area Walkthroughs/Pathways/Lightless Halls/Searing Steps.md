@@ -40,14 +40,14 @@ Once a character crosses the first gap and steps onto the middle platform, four 
 >
 > Level 1 · Unknown Unknown
 >
-> ![Abyssal Eye](../../../assets/image016.webp)
+> ![Abyssal Eye](../../../assets/image017.webp)
 
 > [!abstract] Vhismara's Claw
 > **[[Vhismara's Claw]]**
 >
 > Level 1 · Unknown Unknown
 >
-> ![Vhismara's Claw](../../../assets/image015.webp)
+> ![Vhismara's Claw](../../../assets/image016.webp)
 
 > [!danger] Hazard
 > #### **Stuck in the Middle in View**

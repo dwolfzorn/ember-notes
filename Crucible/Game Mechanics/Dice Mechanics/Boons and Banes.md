@@ -1,7 +1,7 @@
 ---
 title: "Boons and Banes"
 journal: "Game Mechanics / Dice Mechanics"
-source_uuid: "JournalEntry.4Jvl7pY33WgTqOUD"
+source_uuid: "JournalEntry.3jequoGJkgIlkECQ"
 type: ember.lore
 tags: [ember, game-mechanics]
 ---
@@ -26,11 +26,11 @@ Because boons and banes start at opposite ends of the dice pool, they can both a
 
 #### Example: Added Boons
 
-Suppose Albert, a naval captain, has his ship boarded by pirates. By fortunate circumstance, the fierce rocking of the ship has toppled one of the invaders over on the deck of his ship. Advancing towards the sprawling pirate, Albert draws his blade and slashes down upon the unwelcome guest. Attacking a Prone creature confers **2 boons** to Albert's attack roll.
+Suppose Albert, a naval captain, has his ship boarded by pirates. By fortunate circumstance, the fierce rocking of the ship has toppled one of the invaders over on the deck of his ship. Advancing towards the sprawling pirate, Albert draws his blade and slashes down upon the unwelcome guest. Attacking a **Prone** creature confers **2 boons** to Albert's attack roll.
 
 These two boons upgrade the first die in the **3d8** dice pool twice, from a **d8** to a **d12**, resulting in a dice pool of **1d12 + 1d8 + 1d8**.
 
-Boons or banes resulting from [[Conditions]] like **Prone** will be handled automatically by layers of automation in the Crucible software, but additional boons may always be awarded by the Gamemaster prior to any roll as ways to reward players for creative problem solving or inspirational roleplay.
+Boons or banes resulting from [[Conditions]] like Prone will be handled automatically by layers of automation in the Crucible software, but additional boons may always be awarded by the Gamemaster prior to any roll as ways to reward players for creative problem solving or inspirational roleplay.
 
 #### Example: Both Boons and Banes
 

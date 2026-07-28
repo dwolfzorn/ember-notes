@@ -30,7 +30,7 @@ The two Hulg'run greet you and quickly broach the subject of your excursion.
 >
 > Level 1 · Hulg'run Scout
 >
-> ![Tauric](../../../assets/image102.webp)
+> ![Tauric](../../../assets/image158.webp)
 >
 > The young man's gray body appears to be carved from rock, with lines of blue agate running through the stone like veins. His color is matched by the gelatinous body of the small blueish-green ooze that sits on his shoulder, nestled into a hollow that seems to have been carved for the purpose.
 
@@ -39,7 +39,7 @@ The two Hulg'run greet you and quickly broach the subject of your excursion.
 >
 > Level 1 · Hulg'run Operator
 >
-> ![Jasper](../../../assets/image071.webp)
+> ![Jasper](../../../assets/image075.webp)
 >
 > The hulg'run man steps carefully, as if he is assessing everything around him with sharp eyes and careful determination. He wears a slight scowl on his face, as if he is above whatever is around him, but the severity of his expression is somewhat undercut by the brilliance of the gems embedded in his face, arms, and legs, which have been carefully polished to a sparkling shine.
 

@@ -200,7 +200,7 @@ Once the party has collected all available information, or if they have become U
 >
 > Level 6 (Boss) · Kiska Swashbuckler
 >
-> ![Sticks](../../../assets/image160.webp)
+> ![Sticks](../../../assets/image173.webp)
 >
 > You hear the retired pirate before you see him. As he talks, he throws his shoulders back, voice roaring and white fur gleaming underneath a uniform that is both casually rumpled and meticulously fitted. If he knows he is charming, which he almost certainly does, it doesn't detract from the charm, and there's a sense of warmth in his smile that makes it easy to see why so many people are ready to bask in it.
 

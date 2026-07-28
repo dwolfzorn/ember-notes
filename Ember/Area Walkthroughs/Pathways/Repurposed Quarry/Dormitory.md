@@ -18,7 +18,7 @@ tags: [ember, area-walkthroughs]
 >
 > Level 3 (Minion) · Human Scout
 >
-> ![Mutagist Scout](../../../assets/image009.webp)
+> ![Mutagist Scout](../../../assets/image010.webp)
 >
 > A rugged, sly-looking individual, clad in a patchwork cloak of leather and fabric, their attire a mismatched collection of adventure-worn gear. They have the bearing of a well traveled and road worn adventurer or mercenary. It is concerning how utterly nondescript they actually are.
 
@@ -27,7 +27,7 @@ tags: [ember, area-walkthroughs]
 >
 > Level 3 (Elite) · Human Chirurgeon
 >
-> ![Mutagist Vivisector](../../../assets/image010.webp)
+> ![Mutagist Vivisector](../../../assets/image011.webp)
 >
 > Clad in stained apron and coat, they regard you coolly from behind goggles and mask which make it impossibly to discern anything about them. They turn a razor sharp scalpel in their hand, as their off-hand rests on a pouch containing several vials of undoubtedly dangerous compounds. The air around them is thick with the scent of medicine and blood.
 

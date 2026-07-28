@@ -31,7 +31,7 @@ Following the readaloud of "Setting the Scene," the 4 Silver Beam Guards and sol
 >
 > Level 4 · Automaton Servitor
 >
-> ![Silver Beam Engineer](../../../assets/image182.webp)
+> ![Silver Beam Engineer](../../../assets/image194.webp)
 >
 > Wearing a dark apron over a grey and blue uniform of the Silver Beam mining consortium, this technician is one of many hired to tackle technical issues for the company. Not outwardly armed or armored, they do have packs of tools and resources they can use to make field repairs and assist in the operation of Silver Beam machinery.
 
@@ -40,16 +40,14 @@ Following the readaloud of "Setting the Scene," the 4 Silver Beam Guards and sol
 >
 > Level 3 · Automaton Lawkeeper
 >
-> ![Silver Beam Guard](../../../assets/image183.webp)
+> ![Silver Beam Guard](../../../assets/image195.webp)
 >
 > Clad in the grey and blue uniform of the Silver Beam mining consortium, this guard is one of many hired security personnel entrusted with the safety of the company's operation. They stand ready with steel maces and light crossbows, and don't wear any visually obvious armor.
-
-Failed to embed content from 'Scene.emberSinkholeDep.Token.NgLCEJHzUxlHDUL5.Actor.6NOp0fdZPcSnGzO7'.
 
 > [!info] Social
 > #### Conversation with Zirca Bronzebellow
 >
-> **Zirca Bronzebellow** (Neutral Good, Arcturian Hulg'run, she/her) is the obstinate foreman of the Inkaro Pools here, and was appointed when the Silver Beam Consortium first purchased the rights to the subterranean land holdings. Zirca is a somewhat neutral figure, torn between the goals of satisfying her superiors in Upper Arctural and maintaining productivity among the workers in the pools. She's neither heartless or cruel, but tows the company line with self-serving gusto.
+> **Zirca Bronzebellow** (Neutral Good, Arcturian Hulg'run, she/her) is the obstinate foreman of the Inkaro Pools here, and was appointed when the Silver Beam Consortium first purchased the rights to the subterranean land holdings. Zirca is a somewhat neutral figure, torn between the goals of satisfying her superiors in Arctural and maintaining productivity among the workers in the pools. She's neither heartless or cruel, but tows the company line with self-serving gusto.
 >
 > If the party points out they are here on behalf of Zodi Trask, Zirca expresses annoyance.
 >
@@ -126,7 +124,7 @@ The large, central pool where the accident occured is inhabited by 2 [[Mootap]],
 >
 > Level 2 · Automaton Servitor
 >
-> ![Silver Beam Servitor](../../../assets/image179.webp)
+> ![Silver Beam Servitor](../../../assets/image192.webp)
 >
 > This humanoid construct is made of brushed silver steel with blue accents and bears the distinctive logo of the Silver Beam Consortium. It moves with a smooth precision punctuated with all the whirs and swishes of machinery hidden under it's glossy metal shell.
 
@@ -135,7 +133,7 @@ The large, central pool where the accident occured is inhabited by 2 [[Mootap]],
 >
 > Level 6 · Mootap Herd Beast
 >
-> ![Mootap](../../../assets/image184.webp)
+> ![Mootap](../../../assets/image196.webp)
 >
 > An eyeless creature appears out of nowhere, resembling a stubby eel crowned with a head of two dozen luminous tendrils like those of a giant anemone. These photophore tentacles writhe with inhuman glee as it reaches blindly into the water ahead.
 
@@ -187,7 +185,7 @@ Once the body of the destroyed Chessman has been dredged out of the water and pl
 >
 > Level 5 (Elite) · Jurtak Geomancer
 >
-> ![Jurtak Geomancer](../../../assets/image083.webp)
+> ![Jurtak Geomancer](../../../assets/image086.webp)
 >
 > The tall, six-eyed saurian before you clutches a gnarled staff crowned in a jagged crystal of lambent crystal. This loathsome creature is coated in thick, jagged stone that appears to be growing out of its very hide, forming an unnatural armor.
 
@@ -196,7 +194,7 @@ Once the body of the destroyed Chessman has been dredged out of the water and pl
 >
 > Level 3 · Jurtak Brigand
 >
-> ![Jurtak Hunter](../../../assets/image082.webp)
+> ![Jurtak Hunter](../../../assets/image085.webp)
 >
 > Lurking at the boundary of shadow and light, this lithe saurian creature's six piercing eyes gleam with a dreadful intelligence. At the ready, it cradles a bow lashed together from wood and bone, strung with taut sinews. Adorned in skeletal remnants, it appears equal parts hunter and horror.
 
@@ -205,7 +203,7 @@ Once the body of the destroyed Chessman has been dredged out of the water and pl
 >
 > Level 4 · Jurtak Berserker
 >
-> ![Jurtak Warrior](../../../assets/image081.webp)
+> ![Jurtak Warrior](../../../assets/image084.webp)
 >
 > You behold a lean, six-eyed saurian creature, its body clad in fragments of bone and its scales glinting in the dim light. The acrid scent of poison tinges the air, dripping from the bone blade held in its clawed hands. Its long, semi-prehensile tail moves with a predator's anticipation, and a forked tongue flicks across twisted lips as its eyes fix upon you with a predatory malice.
 
@@ -296,4 +294,4 @@ Once the party has finished their investigations around the now deserted pools, 
 >
 > The party is free to explore the rest of the [[Sinkhole Depths]] for clues, gathering information during the events of [[A Peculiar Encampment]] and [[Junkyard Cogs]] if they have yet to do so.
 >
-> Once they've gathered enough clues, the party must return to Arcturel Lower to trigger the events of [[Presenting the Evidence]], during which time they can provide proof that either absolves or condemns the Downsiders for their so-called crimes.
+> Once they've gathered enough clues, the party must return to the Arcturel Dives to trigger the [[Presenting the Evidence]] Event, during which time they can provide proof that either absolves or condemns the Downsiders for their so-called crimes.

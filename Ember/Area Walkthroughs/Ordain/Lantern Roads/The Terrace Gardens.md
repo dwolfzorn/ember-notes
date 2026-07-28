@@ -8,27 +8,44 @@ tags: [ember, area-walkthroughs]
 
 # The Terrace Gardens
 
-Characters may first encounter the Terrace Gardens at Ground Level (while walking by the streets below) or at Rooftop Level (having ascended one of the other rooftops and walked over).
+Characters may first encounter the Terrace Gardens at ground level while walking through the streets below, or from rooftop level after crossing from another rooftop.
 
 ### Ground Level
 
-> [!tip] Exploration
-> #### Reaching the Terrace Gardens
->
-> Characters who succeed on a `[[/check perception 16]]` check or `[[/check 16 nature]]` check notice the overgrown vines that can be climbed up to the Terrace Gardens. The vines can be climbed by any character with a climbing speed, but are filled with thorns.
+> [!quote] Read Aloud
+> Above the street, a rooftop garden spills over the edge of a building in thick, thorny vines. Leaves and flowers hang down the wall, partly obscuring an oaken trellis stained green with moss.
 
 > [!danger] Hazard
-> #### Climbing the Vines
+> #### Climbing the Trellis
 >
-> Any character who attempts to climb the vines must succeed on a `[[/check 17 sleightofhand]]` check to put their hands carefully down in the right places without being stabbed by the thorns. Characters with **Knowledge: Plants** or who succeed on a `[[/check nature 17]]` check have **+2 Boons** on this check.
+> Any character who makes a successful **Athletics (DC 15)** check can climb the trellis. A character that fails this check falls 20 feet, taking `[[/damage 2d6 Bludgeoning]]` damage and landing &reference[prone].
 >
-> - Anyone who fails the check takes `[[/damage 1d6 piercing]]` damage from the vine's thorns.
+> Additionally, any character who attempts to climb the trellis must make a `[[/save dexterity 14]]` saving throw or take `[[/damage 1d6 Piercing]]` damage from sharp thorns.
 
 ### Rooftop Level
 
 > [!quote] Read Aloud
-> These well-landscaped gardens, while currently unattended, have signs scattered throughout identifying several local and foreign plant species known for their calming scents and colorful blooms. Signs at the edge of the two walkways that extend to nearby rooftop read:
+> The rooftop opens into a well-landscaped garden of raised beds filled with earthy-colored blooms. At the edge of each walkway extending toward a nearby rooftop, another sign reads:
 >
 > > Explore at your own risk.
 
-Characters interested in taking the rooftop route to the Northern section of Lantern Roads can proceed from this rooftop towards either [[Terrace Gardens: The Wild Side]] or [[Terracini's Too]]
+> [!tip] Exploration
+> #### Searching the Terrace Gardens
+>
+> A simple search reveals the following:
+>
+> - A bed of russet-colored creeping phlox that smells of lavender.
+> - A stand of pale orange bellflowers that hum softly when touched.
+> - Several large pumpkins.
+>
+> Any character who spends a few minutes gathering and crushing the creeping phlox gains **+2 Boons** on the next check or saving throw they make to avoid or recover from being &reference[frightened].
+>
+> Any character who examines the bellflowers and makes a successful **Wilderness (DC 13)** check recognizes them as dangerous plants that are ice cold to the touch.
+>
+> - **Knowledge: Plants**: The character gains **+2 Boons** on this check.
+> - **Critical Success**: The character also recognizes the bellflowers as a likely ingredient in the paralytic poison used by the Beacon Brigade.
+
+> [!danger] Hazard
+> #### Ice-Cold Bellflowers
+>
+> The bellflowers are dangerous to handle. Any character who touches a bellflower must make a `[[/save constitution 14]]` saving throw. On a failed save, the character takes `[[/damage 1d6 Cold]]` damage and becomes &reference[poisoned] for `[[/gmroll 1d4]]` hours. On a successful save, the character takes half as much damage and does not become &reference[poisoned].

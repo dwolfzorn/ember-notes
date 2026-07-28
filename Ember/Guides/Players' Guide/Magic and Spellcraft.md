@@ -55,9 +55,9 @@ Spells crafted using the Rune of Kinesis use gravitational manipulation to infus
 
 Spells crafted using the Rune of Life draw upon the ever-present resonance of the [[Wildsong]] to manipulate primal natural energy. Channelers of this rune are most notably found among the [[Strider]] culture or as devotees to the [[Wild Gods]] who act as custodians of the natural order.
 
-**[[Rune: Lightning]]**
+**[[Rune: Storm]]**
 
-Spells crafted using the Rune of Lightning conduct the voltaic energy of storms. These currents flow from the fundamental elemental energy of [[Aura]] and the Elemental Sovereign [[Nymbohr]], who is known as the Lord of Lightning. Many believe that the Rune of Lightning is a critical component in the construction of constructs and the [[Wyrms]] of [[Akon]] once mastered its mysteries.
+Spells crafted using the Rune of Storm conduct the voltaic energy of storms. These currents flow from the fundamental elemental energy of [[Aura]] and the Elemental Sovereign [[Nymbohr]], who is known as the Lord of Lightning. Many believe that the Rune of Lightning is a critical component in the construction of constructs and the [[Wyrms]] of [[Akon]] once mastered its mysteries.
 
 **[[Rune: Oblivion]]**
 

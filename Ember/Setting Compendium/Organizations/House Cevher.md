@@ -22,14 +22,14 @@ Outside of the leadership of the House, its members include those who oversee mi
 
 ## Key Members
 
-**[[Lyla Cevher]] (Lawful Neutral, Ordani Human she/her)**
+**[[Lyla Cevher]] (LN, Ordani Human she/her)**
 
 Lyla, who has spent the last few years learning new innovative business techniques in Casla-Brava, is returning to Ordain after the death of her father Ralton, the most recent House Cevher Advocate. She intends to support her brother Funar as he takes over some of Ralton's duties and responsibilities.
 
-**[[Funar Cevher]] (Neutral Good, Ordani Human, he/him)**
+**[[Funar Cevher]] (NG, Ordani Human, he/him)**
 
 Lyla's brother is much shyer and more withdrawn than his sister. He is passionate about House Cevher and is currently sitting in his father's seat in the Trading House Assembly. He is hoping to take his father's title of Advocate as well, but is worried that he doesn't have the charisma and might be passed over in favor of the returning Lyla.
 
-**Darius Cevher (Lawful Good, Ordani Human, he/him)**
+**Darius Cevher (LG, Ordani Human, he/him)**
 
 Lyla's uncle, and Ralton's brother, Darius has always more interested in books than trade and spent most of his time "learning the business" trying to find intriguing arcane objects buried in the mines that he could research. Ralton helped to set him up with a bookshop, in part to convince him to stay in Ordain instead of joining the Anachraenum, and he has successfully run it for several years. It is rumored that he offers a "family" discount to all House Cevher members.

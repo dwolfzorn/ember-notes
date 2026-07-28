@@ -30,7 +30,7 @@ tags: [ember, quests]
 >
 > Level 1 · Unknown Unknown
 >
-> ![Yeela Drevvin](../../../assets/image119.webp)
+> ![Yeela Drevvin](../../../assets/image127.webp)
 
 Yeela is a veteran agent of the Veiled Chain with decades of service to the city under her belt. She is keen-eyed, insightful, and dedicated to keeping the city safe. She specializes in profiling subjects with the aim of predicting their actions.
 

@@ -46,7 +46,7 @@ tags: [ember, standalone-events]
 >
 > Level 1 (Minion) · Thornling Grappler
 >
-> ![Sporix Host](../../assets/image006.webp)
+> ![Sporix Host](../../assets/image007.webp)
 >
 > This thornling's bark is pale and withered, their foliage equally dry and dying. They appear to be on the brink of death, glassy-eyed, and in something of a stupor. Their body is covered in brightly colored, glowing fungus that pulses and shimmers in strange patterns.
 

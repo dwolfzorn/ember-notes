@@ -52,7 +52,7 @@ The pair of Kithil are sunning, a Kithil tradition of going out to explore the w
 > [!info] Social
 > #### Reading the Kithil
 >
-> A character that makes a successful **Deception (DC 15)** check confirms that the two are simply lost. They bear no negative feelings, and pose no danger to the party. Speaking to the party, the pair can talk about the following:
+> A character that makes a successful **Diplomacy (DC 15)** check confirms that the two are simply lost. They bear no negative feelings, and pose no danger to the party. Speaking to the party, the pair can talk about the following:
 >
 > - They are heading to Brevin for the celebration of its new bridge. Leini will be helping a friend, Temi, with her shop, while Karao is hoping for a blessing from [[Aythorn]], who will be in attendance.
 > - Shortly after crossing the [[Ordani Skywalk]], they were waylaid by a mysterious robber calling themselves the "Canyon Crawler," who demanded they leave most of their supplies and map behind.
@@ -118,9 +118,9 @@ Without a map, Karao and Leini don't know where Brevin is exactly, but they know
 >
 > A character can use any of the following checks to help the strangers figure out the direction of Brevin:
 >
-> - A successful `[[/check nature 16]]` check while surveying the land nearby would reckon that a seed city could viably grow in the northern region of the Splinter Canyons.
-> - A successful `[[/check history 16]]` check would know a bit about the seed cities, including the presence of one in the northern section of the Splinter Canyons, built on the cliffside.
-> - A successful `[[/check survival 16]]` check while looking at the dirt map that the travelers have drawn allows a character to compare it to the landmarks nearby and make an educated guess about Brevin's location.
+> - A successful **Wilderness (DC 16)** check while surveying the land nearby would reckon that a seed city could viably grow in the northern region of the Splinter Canyons.
+> - A successful **Society (DC 16)** check would know a bit about the seed cities, including the presence of one in the northern section of the Splinter Canyons, built on the cliffside.
+> - A successful **Awareness (DC 16)** check while looking at the dirt map that the travelers have drawn allows a character to compare it to the landmarks nearby and make an educated guess about Brevin's location.
 >
 > - [[Planting a Seed]]: A character that previously visited Brevin automatically succeeds on this check.
 > - **Knowledge: Trade**: A character familiar with trade automatically succeeds on this check.
@@ -144,7 +144,7 @@ As characters are leaving, or at any point at the GM's discretion, a minor earth
 > [!danger] Hazard
 > #### A Minor Shake
 >
-> Characters must succeed on a `[[/save dexterity 15]]` saving throw to stay upright during the tremors. On failure, the character is thrown to the ground and takes `[[/damage 1d4 bludgeoning]]` damage.
+> Characters must succeed on a **Athletics (DC 15)** saving throw to stay upright during the tremors. On failure, the character is thrown to the ground and suffersa **Rocky Tumble (Hazard 2, Fortitude, Health, Bludgeoning)** .
 
 > [!quote] Read Aloud
 > In the aftermath of the shaking, Leini peers over at the map scrawled into the dirt and says:

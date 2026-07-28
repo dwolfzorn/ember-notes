@@ -28,7 +28,7 @@ tags: [ember, quests]
 >
 > Level 1 · Hulg'run Scout
 >
-> ![Tauric](../../../assets/image102.webp)
+> ![Tauric](../../../assets/image158.webp)
 >
 > The young man's gray body appears to be carved from rock, with lines of blue agate running through the stone like veins. His color is matched by the gelatinous body of the small blueish-green ooze that sits on his shoulder, nestled into a hollow that seems to have been carved for the purpose.
 
@@ -60,7 +60,7 @@ Tauric's yell of greeting brings attention from across Yakoshta, with miners sho
 >
 > Level 1 · Hulg'run Trader
 >
-> ![Sellen](../../../assets/image103.webp)
+> ![Sellen](../../../assets/image159.webp)
 >
 > Between the light from the candles perched on her shoulders, the large pickaxe in one hand, and the clipboard in another, the woman before you seems nothing if not prepared for whatever faces her. The weathering on the carved stone of her body gives the sense that she's got more than a few stories to tell about what has gotten her this far along her journey, but whatever her past has brought her, she hasn't lost either the smile on her face or the determination in her eyes.
 

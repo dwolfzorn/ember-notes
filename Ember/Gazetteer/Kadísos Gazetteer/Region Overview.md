@@ -8,7 +8,7 @@ tags: [ember, gazetteer]
 
 # Region Overview
 
-![](../../assets/image188.webp)A view of Kadisos from the slopes of the northern mountains.***Kadísos** [Kah-DEE-sos] is a volcanic island located to the south of Ordain along one of Ember's primal arteries which extend towards the Lowland Kingdoms.*
+![](../../assets/image198.webp)A view of Kadisos from the slopes of the northern mountains.***Kadísos** [Kah-DEE-sos] is a volcanic island located to the south of Ordain along one of Ember's primal arteries which extend towards the Lowland Kingdoms.*
 
 *The cloudy island of Kadisos is a landmass that not many know much about, even to those that frequent its shores and sole settlement. It is as shrouded in mystery as it is fog, with much of its past having been lost to the march of time and collapse of civilizations. For those that visit it, Kadisos is a modestly sized tropical island in the midst of temperamental seas and surrounded by jagged rocks and reefs the hunger for the hulls of passing ships. It has little to offer the average soul, and little more to the brave and daring that seek to explore its heart.*
 

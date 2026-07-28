@@ -31,10 +31,10 @@ Also known as the "Second Sage," the affable Signborn known as Lilla Arien serve
 
 Jon Vastil is the Holy Speaker of the Cindaric Sages, and has guided the order from a position of leadership for nearly 75 years. Ancient in age and infirm of health, the once commendable Vastil has faced growing criticism in recent years for a perceived lack of compassion towards the commonfolk and the city's mounting problems. An obsession with humanity's spiritual connection to the Heart of Ember is said to guide this aged leader, who battles a curious illness without cause or cure.
 
-**[[Vinarith]] (NE, Ordani Human, he/him)**
+**[[Vinarith]] (NG, Ordani Human, he/him)**
 
 Vinarith is the charismatic Steward of the Holy Speaker, and serves as the proverbial right hand to the highest office of the Cindaric Sages. Now that Jon Vastil has fallen ill, Vinarith has had to shoulder many of the Holy Speaker's responsibilities alongside Keeper Lilla Arien, which the enterprising Steward has accomplished with fervor and success.
 
-**[[Mira Wavehorn]]**
+**[[Mira Wavehorn]] (LG, Cascilian Kiska, she/her)**
 
 Mira Wavehorn is the duly designated leader of the enclave of Cindaric Sages as Corpin Sanctuary, situated in the crags of Mial Mountain west of Ordain. An experienced sea captain from the Cascilian Republic, Mira manages to find ways to exercise her key learnings from those years on the high seas throughout her daily life as Corpin Sanctuary's chief steward.

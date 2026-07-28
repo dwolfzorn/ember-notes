@@ -8,7 +8,16 @@ tags: [ember, gazetteer]
 
 # Fogbound Caverns
 
-The Fogbound caverns are a small biome deep within the pathways, lying below the [[Mycelian Expanse]] by several miles. It is an eerie, deeply unpleasant, and ultimately horrifying place that few dare to tread, even with the promise of extensive rewards. It is a place where soft, unsettling words or screams creep into the mind, and some believe the whispers are echoes of long-forgotten secrets, carried on tendrils of entangled darkness. Though few have dared to explore deeply, the caverns hold a prominent place in some circles as a realm best left undisturbed except for the truly brave, with rich rewards somewhere hidden within.
+> [!warning] Gamemaster
+> #### Gamemaster's Summary
+>
+> This Biome is located directly south of the [[Mycelian Expanse]].
+>
+> - Travel through this Biome is generally [[Region Exploration]].
+> - This Biome is visually depicted by the [[Vista: Fogbound Caverns]] Vista.
+> - This Biome can be explored within the [[Fogbound Caverns]] Area Map.
+
+The Fogbound caverns are a small biome deep within the pathways, lying several miles below the Mycelian Expanse. It is an eerie, deeply unpleasant, and ultimately horrifying place that few dare to tread, even with the promise of extensive rewards. It is a place where soft, unsettling words or screams creep into the mind, and some believe the whispers are echoes of long-forgotten secrets, carried on tendrils of entangled darkness. Though few have dared to explore deeply, the caverns hold a prominent place in some circles as a realm best left undisturbed except for the truly brave, with rich rewards somewhere hidden within.
 
 ### Environment
 

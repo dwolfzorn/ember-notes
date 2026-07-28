@@ -22,7 +22,7 @@ tags: [ember, quests]
 >
 > Level 15 · Baradom Chomper
 >
-> ![Baradom](../../../assets/image165.webp)
+> ![Baradom](../../../assets/image178.webp)
 >
 > With scales thick as shields, this great beast regards you and the world at large with sleepy and indifferent detachment. Its mouth, alarmingly large and wide, droops open slightly, as though it has no energy to hold it shut. Just beyond its heavy, armored may are rows of massive teeth that look more than capable of rending apart anything they sink into.
 
@@ -31,7 +31,7 @@ tags: [ember, quests]
 >
 > Level 3 · Jurtak Brigand
 >
-> ![Jurtak Hunter](../../../assets/image082.webp)
+> ![Jurtak Hunter](../../../assets/image085.webp)
 >
 > Lurking at the boundary of shadow and light, this lithe saurian creature's six piercing eyes gleam with a dreadful intelligence. At the ready, it cradles a bow lashed together from wood and bone, strung with taut sinews. Adorned in skeletal remnants, it appears equal parts hunter and horror.
 
@@ -40,7 +40,7 @@ tags: [ember, quests]
 >
 > Level 4 · Jurtak Berserker
 >
-> ![Jurtak Warrior](../../../assets/image081.webp)
+> ![Jurtak Warrior](../../../assets/image084.webp)
 >
 > You behold a lean, six-eyed saurian creature, its body clad in fragments of bone and its scales glinting in the dim light. The acrid scent of poison tinges the air, dripping from the bone blade held in its clawed hands. Its long, semi-prehensile tail moves with a predator's anticipation, and a forked tongue flicks across twisted lips as its eyes fix upon you with a predatory malice.
 
@@ -79,7 +79,7 @@ If the party wants to examine the massive Baradom and the Jurtak messing with it
 If the party attacks the Jurtak, or after a few minutes of watching the Jurtak harass the Baradom, it takes offense and begins to defend itself. Narrate the following:
 
 > [!quote] Read Aloud
-> Finally having had enough of the prodding and poking, the creature utters a deep, rumbling growl, and begins to shift. Great muscles muscle tense and ripple under its heavy plates as it looms to its full, imposing height. Some of the jurtak fall back, but a few brazen warriors stand their ground, menacing it with spears and lobbing javelins to no effect.
+> Finally having had enough of the prodding and poking, the creature utters a deep, rumbling growl, and begins to shift. Great muscles tense and flex beneath the creature's heavy armored plates as it looms to its full, imposing height. Some of the jurtak fall back, but a few brazen warriors stand their ground, menacing it with spears and lobbing javelins to no effect.
 >
 > In response the armored beast lunges forward, knocking over one of the jurtak, then spins, whipping the other with a massive tail. Before either jurtak can manage to rise the gargantuan beast crushes one with a slam of its armored head, then snaps up the other in its huge jaws.
 >
@@ -228,14 +228,12 @@ If the party [[Rocky Rescue]] to Kern, narrate the following:
 
 ### Getting Info from Kern
 
-If the party
-
 From here the party can learn some useful information about the local Mutagists, which Kern calls the "nasties," not to be confused with the "creepies" which are the Jurtak.
 
 > [!quote] Read Aloud
 > Kern sits on a rock with a sigh, and rests his walking stick over knobby knees.
 >
-> > There's a big bunch of nasties living in an hold in the ground. The hole used to belong to other people long ago, but they left, and the nasties just came in and took over.
+> > There's a big bunch of nasties living in an hole in the ground. The burrow used to belong to other people long ago, but they left, and the nasties just came in and took over.
 > >
 > > The nasties released those sick snake dragons, too. Or… maybe they escaped? I am not sure, but I am sure that they look like the big dragon that used to live down here. Smaller, of course, but just as mean.
 > >

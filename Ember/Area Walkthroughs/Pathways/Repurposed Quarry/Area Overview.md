@@ -20,6 +20,14 @@ tags: [ember, area-walkthroughs]
 
 Once a simple source of stone, this subterranean site has been transformed into a sprawling laboratory. Hidden deep in the Pathways, dubious experiments and alchemical ventures abound here, shrouded in secrecy and shadows.
 
+> [!warning] Gamemaster
+> #### Gamemaster's Summary
+>
+> This location exists at ⬢ s.3199.2901 in the [[Mycelian Expanse]], east of the [[Dragon Skin]].
+>
+> - This location can be explored within the [[Repurposed Quarry - Lower]], [[Repurposed Quarry - Middle]], and [[Repurposed Quarry - Upper]] Area Maps.
+> - This location is featured in the [[Ancient Paths]] Main Quest.
+
 Nestled in the pale stone of the north eastern corner of the mycelian expanse, this old quarry has become something more than a place to acquire slabs of rock.
 
 ### Environment

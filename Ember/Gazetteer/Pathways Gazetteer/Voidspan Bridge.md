@@ -8,6 +8,13 @@ tags: [ember, gazetteer]
 
 # Voidspan Bridge
 
+> [!warning] Gamemaster
+> #### Gamemaster's Summary
+>
+> This location exists at ⬢ s.3201.2891 in the [[Mycelian Expanse]], southwest of the [[Dragon Skin]].
+>
+> - This location is featured in the [[To Fall and Fall Again]] Side Quest.
+
 This massive bridge crosses an underground chasm that plunges into the dark depths of Ember. Without it, crossing the gap would take much longer.
 
 ### Environment

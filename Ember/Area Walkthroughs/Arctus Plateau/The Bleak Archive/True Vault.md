@@ -20,7 +20,7 @@ This area is the Bleak Archive's most hallowed repository. Before exploring it t
 >
 > Level 6 (Boss) · Wraith Necromancer
 >
-> ![Tethra Shùl](../../../assets/image089.webp)
+> ![Tethra Shùl](../../../assets/image091.webp)
 >
 > You see the umbral apparition of a long-dead giant clad in the ancient, esoteric robes of a soothsayer. Her rotten form is draped in ever-flowing shadow, and from the depths of her grim countenance shine two motes of eerie crimson light, unholy eyes which regard you with a cruel malice the likes of which you've never seen.
 

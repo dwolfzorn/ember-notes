@@ -8,26 +8,25 @@ tags: [ember, area-walkthroughs]
 
 # Lounge
 
-> [!warning] Gamemaster
-> #### Access to the Lounge
->
-> The Lounge is **open to all** at all times. See [[Gameplay Details]] for more on access levels.
->
-> #### Locating Funar Cevher
->
-> See [[Casing the Joint]] for details.
->
-> - Funar Cevher is **in the vicinity.** This is the baseline result within Marlstone Manor.
-
 > [!quote] Read Aloud
 > The carpet in this room is more well-worn than in other areas, as if it sees a more consistent amount of a foot traffic than other sections of the manor. The chairs and couches here are set up for conversation around a glowing hearth, with small spots around the outside of the room that are designed for entertainment — a piano, a game board, a bookcase with its books arranged by color rather than subject.
 
-### Pre-Gala
+### [[Casing the Joint]]
+
+> [!danger] Hazard
+> #### Access Level
+>
+> This area is **Open**.
 
 > [!quote] Read Aloud
 > With gala prep in full stride, the lounge is well-trafficked, with decorators working to set out games and accessories designed to give the room a sense of warmth.
 
-### At The Gala
+### [[The Marlstone Gala]]
+
+> [!danger] Hazard
+> #### Access Level
+>
+> This area is **Open**.
 
 > [!quote] Read Aloud
 > Quiet conversation and gameplay can be found throughout the space, with small groups discussing news of the day, their favorite outfits of the evening, and whether House Wandren will benefit from the recent change in the Ordinate. The fire nearby glows at low levels, leaving a layer of ash at the front of the fireplace, prevented from entering the room by a small grate.

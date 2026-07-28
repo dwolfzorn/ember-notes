@@ -8,54 +8,92 @@ tags: [ember, area-walkthroughs]
 
 # Shadow Players Theater
 
-> [!warning] Gamemaster
-> #### Getting to the North of Lantern Roads
->
-> - **Shadowbox Alleys:** Going through this building gives players access to the Shadowbox Alleys. The shopkeeper and guard within the shop want to stop the party from heading in that direction.
->
-> There is no information about the rooftop route or via bluffing.
-
 ### The Front Room
 
 > [!quote] Read Aloud
-> Large puppets and small pieces of furniture line the walls of the shop, tended to by a solitary shopkeeper. A single customer stands towards the back of the shop, near an entrance to the room beyond, staring forward, seemingly uninterested in the goods around them.
+> Large puppets and small pieces of stage furniture line the walls of the shop. A solitary shopkeeper tends the room, while a single customer stands near the entrance to the back room, staring forward without looking at the displays.
 >
-> As you enter, the shopkeeper seems vaguely surprised to see you.
+> As you enter, the shopkeeper looks faintly surprised.
 >
-> > Oh, hello. And welcome to the Shadow Players Theater. Really more of a museum, if I'm being honest. A monument to the Shadow Players in all their glory.
+> > Oh, hello. Welcome to the Shadow Players Theater — well, it's more of a museum, if I'm being honest. A monument to the Shadow Players in all their glory.
 >
-> The customer clears their throat, loudly, and the shopkeeper continues, releasing all of their words in a single rush of air.
+> The customer clears their throat — loudly. The shopkeeper casts a furtive glance in their direction before returning their attention to you.
 >
-> > But this part of town isn't what it used to be and you should probably go around and head back the other way.
+> > But this part of town isn't what it used to be, and you should probably go around and head back the other way.
 
 > [!info] Social
 > #### The Shopkeeper and the Guard
 >
-> The "customer," who is really a guard, wants the party to leave immediately. Characters who succeed on a `[[/check insight 17]]` check know that the customer is a guard and that the shopkeeper is supposed to keep people from going into the back.
+> **Sarinfield Jonwren** (Neutral Good, Ordani Human, he/him) is the caretaker of the Shadow Players Theater, and the "customer" near the back of the shop is a [[Wandren Patroller]] watching the entrance to the rooms beyond. Sarinfield is visibly nervous and tries to discourage the party from lingering or venturing deeper into the theater.
 >
-> Though the shopkeeper doesn't want to speak much under the guard's watchful eye, if characters distract or subdue the guard, or succeed on a `[[/check persuasion 18]]` check, can learn the following:
+> While the guard is present, Sarinfield avoids speaking openly. However, any character who makes a successful **Diplomacy (DC 18)** check can convince him to share the following:
 >
-> - The theater was once successful, but the growing influence of the Beacon Brigade has left it empty for some time. They are also the reason that there is a guard watching over the displays.
-> - Beyond the theater is Shadowbox Alley, where there are picturesque shadowbox windows that using magic and light to create moving images.
-> - The shopkeeper doesn't recommend hanging around the alleys, but there is a divination shop in the area, and the shadowboxes themselves are beautiful. If characters go in through the side entrance, they may be able to head up to take a peek without alerting the guard.
+> - **The Shadow Players Theater:** The theater was once successful, but the Beacon Brigade forcibly closed it down.
+> - **The Beacon Brigade:** The Beacon Brigade assumed control of the neighborhood recently. They are the reason a guard is watching the displays and back rooms — they don't want a lot of foot traffic in Shadowbox Alley.
+> - **Shadowbox Alley:** Beyond the theater is Shadowbox Alley, where old shadowbox windows still use magic and light to create moving images.
+> - **Way into north Lantern Roads:** The shopkeeper recommend that the party visit a divination shop in Shadowbox Alley.
+> - **Way past guard:** If the party enters through the side door, they may be able to reach the upper landing without drawing the guard's attention.
+
+A lone [[Wandren Patroller]] guards the back of the theater.
+
+> [!danger] Hazard
+> #### Theater Guard
+>
+> The party can deal with this Patroller using the general options described in [[Area Overview]].
+>
+> If the party attempts to push past the guard through the front room, the guard orders them to leave. If the party refuses, attacks, or tries to force their way into the back room, the guard calls for help and alerts the Beacon Brigade.
+
+> [!abstract] Wandren Patroller
+> **[[Wandren Patroller]]**
+>
+> Level 1 · Unknown Unknown
+>
+> ![Wandren Patroller](../../../assets/image050.webp)
+
+> [!danger] Hazard
+> #### Beacon Brigade Patroller Tactics
+>
+> At the start of combat, the [[Wandren Patroller]] will move to strike an enemy with its [[Hollowed Dagger]], applying either [[Paralyzing Poison]] or [[Slowing Serum]], per the Gamemaster's discretion.
+>
+> Over the course of combat, the Patroller will prioritize the following actions and abilities:
+>
+> - In melee, the Patroller will use their [[Multiattack]] feature to apply [[Paralyzing Poison]] or [[Slowing Serum]] to as many enemies as possible.
+> - Whenever able, the Patroller will position themselves amongst allies to take advantage of their [[Pack Tactics]] feature.
+>
+> Once reduced below half their Hit Point maximum, the Patroller will attempt to flee toward the nearest ally.
 
 ### The Storage Room
 
-The storage room has old props and boxes in it, but contains nothing of real value.
+> [!tip] Exploration
+> #### Searching the Storage Room
+>
+> A simple search reveals the following:
+>
+> - Old stage props.
+> - Stacked boxes.
+> - Discarded theater supplies.
+>
+> Nothing in the storage room has any particular value.
 
 ### The Empty Theater
 
-> [!tip] Exploration
-> #### Entering Via the Side Door
+> [!danger] Hazard
+> #### Locked Door
 >
-> The side door to the Shadow Players is locked, but can be opened with a successful `[[/check dexterity 16]]` check using Thieves' Tools. Characters must succeed on a `[[/check stealth 17]]` check to avoid being seen by the store owner and guard in the front room.
+> The side door to the Shadow Players Theater is locked, but can be unlocked with a successful `[[/skill sleightofhand 15 tool=thief]]`; alternatively, it can be bashed open with a successful **Athletics (DC 22)** check. Any character who attempts to bash the door open alerts the guard inside.
+>
+> #### Theater Guard
+>
+> Any character who enters the theater via the side door must avoid being detected by the Patroller by using the normal rules for [[Cover]], [[Hiding]], noise, and line of sight. As a default, compare the characters' Dexterity (Stealth) checks against the Patroller's passive Perception. If the party is moving together, the Gamemaster may call for a group check.
+>
+> On a success, the characters move past the Patroller without being detected. On a failure, the Patroller alerts the Beacon Brigade and calls for the nearest **Patroller**. Any **Patroller** within 60 feet of the Shadow Players Theater immediately begins moving toward it to intercept the intruders.
 
 > [!quote] Read Aloud
-> Though the stage and assortment of chairs give the sense that this may have, at one time, hosted small performances or events, the stage is covered in a thick layer of dust and most of the chairs have been toppled on their sides. Only the stairs leading up to a landing above look as if they have seen any use in years.
+> The theater beyond the shop is empty. A small stage stands at the far side of the room, facing rows of overturned chairs. Dust covers the floorboards and the stage, though the stairs leading to the upper landing show signs of recent use.
 
-Parties can exit through the stairs without a check. If they walk through the dusty section of the theater, they kick up a choking dust.
+The party can reach the upper landing to Shadowbox Alley by taking the stairs. No check is required unless the party creates noise or draws attention from the front room.
 
 > [!danger] Hazard
-> #### A Dusty Floor
+> #### Dusty Floor
 >
-> The remains of Dust of Sneezing and Choking are on the ground. If characters walk over it, they must attempt a `[[/save dexterity 17]]` check or they suffer the effects of the Fog.
+> The theater floor is covered with the remains of [[Choking Fog Dust]]. The stairs to the upper landing are clear, but any character who crosses the dusty section of the theater kicks the dust into the air and exposes themselves to the toxin.

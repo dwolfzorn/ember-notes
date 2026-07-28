@@ -30,7 +30,7 @@ Once the party reaches Cindarin Temple and spots their ally Sin Marmot, they hav
 >
 > Level 2 · Keth Cindaric Aspirant
 >
-> ![Sin Marmot](../../../assets/image099.webp)
+> ![Sin Marmot](../../../assets/image100.webp)
 >
 > A Keth with a friendly demeanor and wide blue eyes and a strange half-mask that covers her mouth. She seems to view everything around her with an air of wondrous innocence but her keen glances also suggest the ability to read any given situation quickly and she may be more capable than she appears at first glance.
 
@@ -104,14 +104,14 @@ Consult the skill checks in "Reading the Crowd" below to determine if the charac
 >
 > Level 1 · Unknown Unknown
 >
-> ![Jon Vastil](../../../assets/image105.webp)
+> ![Jon Vastil](../../../assets/image113.webp)
 
 > [!abstract] Vinarith
 > **[[Vinarith]]**
 >
 > Level 12 (Boss) · Human Cindaric Sage
 >
-> ![Vinarith](../../../assets/image106.webp)
+> ![Vinarith](../../../assets/image114.webp)
 
 After the ceremony and song, the party has a few brief moments before they're approached by Steros Kraver and Lilla Arien (separately, in succession). If and when the characters attempt to engage with Jon Vastil or Vinarith, they are quickly intercepted by Steros, who is eager to invite them to the Burnished Hand barracks in a clandestine attempt to assess their respective motives and skill levels.
 
@@ -129,7 +129,7 @@ Following the initiation ceremony, Steros Kraver descends the dais into the crow
 >
 > Level 8 (Boss) · Human Fighter
 >
-> ![Steros Kraver](../../../assets/image107.webp)
+> ![Steros Kraver](../../../assets/image115.webp)
 >
 > This remarkably spruce warrior is clad in an impressive suit of aged bronze armor. The etching of a symmetrical crimson hand with roots like an ancient oak is emblazoned on the breast piece, and a lavish fur cloak is draped upon the matching pauldrons. A shock of long white hair frames this bearded soldier's handsome face, which is decorated with utter discernment. He wields a mighty greataxe as tall as he is, and equally as deadly.
 
@@ -150,7 +150,7 @@ Following the initiation ceremony, Steros Kraver descends the dais into the crow
 >
 > #### Meeting Steros for the First Time
 >
-> If the party didn't meet Steros Kraver during the events of [[Crumbling Sanctuary]], they may be meeting him here for the first time. Refer to the "Enclosing Hand" exploration block in [[Corpin Condemned]] for potential conversation points about Steros and the Burnished Hand.
+> If the party didn't meet Steros Kraver during the events of [[Crumbling Sanctuary]], they may be meeting him here for the first time. Refer to the [[Corpin Condemned]] Event for potential conversation points about Steros and the Burnished Hand.
 
 ### Sin's Assignment
 
@@ -170,7 +170,7 @@ Once Steros Kraver has departed, Lilla Arien approaches Sin and the party to pro
 >
 > Level 8 (Boss) · Signborn Cindaric Sage
 >
-> ![Lilla Arien](../../../assets/image108.webp)
+> ![Lilla Arien](../../../assets/image116.webp)
 >
 > A signborn woman with a round, friendly face that belies the stress she carries. Her gray skin contrasts with her bright blue eyes, rosy cheese, and messy head of white hair. Short, pale blue horns curve softly from her forehead. She is clad in the ornate robes of the Cindaric order.
 

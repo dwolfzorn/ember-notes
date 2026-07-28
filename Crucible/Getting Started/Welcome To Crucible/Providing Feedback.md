@@ -1,7 +1,7 @@
 ---
 title: "Providing Feedback"
 journal: "Getting Started / Welcome To Crucible"
-source_uuid: "JournalEntry.9g4RNdLS4J7Zpnc4"
+source_uuid: "JournalEntry.suLuc6NJCXmFOIjJ"
 type: ember.lore
 tags: [ember, getting-started]
 ---

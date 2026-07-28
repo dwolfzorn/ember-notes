@@ -115,4 +115,4 @@ Check the Outcome to conclude the event, once the players have collected their e
 >
 > #### Next Steps
 >
-> The party can return to the Silver Beam Headquarters in Arcturel Upper to trigger the events of [[In League with Silver Beam]], during which they'll be rewarded by Larissa Toth for their efforts here at the Downsiders camp.
+> The party can return to the Silver Beam Headquarters to trigger the [[In League with Silver Beam]] Event, during which they'll be rewarded by Larissa Toth for their efforts here at the Downsiders camp.

@@ -18,7 +18,7 @@ Once the party reaches the middle of the bridge, they are attacked by the Abyssa
 >
 > Level 1 · Unknown Unknown
 >
-> ![Abyssal Eye](../../../assets/image016.webp)
+> ![Abyssal Eye](../../../assets/image017.webp)
 
 > [!danger] Hazard
 > #### **The Eyes See You**

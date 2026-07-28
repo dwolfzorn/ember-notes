@@ -72,7 +72,7 @@ This Event takes place on the Area Map. As party members make their way through 
 >
 > Access to manor rooms varies by the role the character has decided to take — rooms may be **Open**, **Restricted**, or **Forbidden.** Characters wearing the item associated with their role will not gain suspicion in a room that is open to their role unless they take a specific suspicious action that calls for a check (stealing an item, going through locked drawers, etc.).
 >
-> For more on accessing rooms, see [[Gameplay Details]].
+> For more on accessing rooms, see [[Area Overview]].
 
 ### Questioning the Staff
 
@@ -122,17 +122,7 @@ If characters wish, they may attempt to talk to any of the other workers, though
 
 ### Locating Funar Cevher
 
-> [!tip] Exploration
-> #### Using the Locator Rod in Marlstone Manor
->
-> Within Marlstone Manor, the [[Locator Rod]] functions in Proximity Mode. If activated, the Locator Rod sends a sound to the creature that activated it, indicating one of the following states:
->
-> - **Vicinity (steady tone):** Funar is in the general vicinity of this room or area. As Funar is located close to Marlstone Manor, any test of Locator Rod will at least indicate this level.
-> - **Nearby (one note):** Funar is within a few rooms of this room or area.
-> - **Adjacent (double note):** Funar is in a room either beside, above, or below this room or area.
-> - **Here (triple note):** Funar is in this room.
->
-> The description of each room in the Area Walkthrough notes what the [[Locator Rod]] indicates.
+See the [[Area Overview]] section of the [[Marlstone Manor]] Area Walkthrough for instructions on triangulating Funar's location inside Marlstone Manor.
 
 ### Escorted Out
 

@@ -8,23 +8,22 @@ tags: [ember, area-walkthroughs]
 
 # Sitting Room
 
-> [!warning] Gamemaster
-> #### Access to Sitting Room
->
-> Access to the Stting Room is **open to all** at all times (See [[Gameplay Details]] for more on access levels.)
->
-> #### Locating Funar Cevher
->
-> See [[Casing the Joint]] for details.
->
-> - Funar Cevher is **nearby.**
+### [[Casing the Joint]]
 
-### Pre-Gala
+> [!danger] Hazard
+> #### Access Level
+>
+> This area is **Open**.
 
 > [!quote] Read Aloud
 > Chairs are still being arranged and side tables cleared, with staff working hard to ensure that the room is ready for the party.
 
-### At the Gala
+### [[The Marlstone Gala]]
+
+> [!danger] Hazard
+> #### Access Level
+>
+> This area is **Open**.
 
 > [!quote] Read Aloud
 > The sounds of laughter and conversation fill the air as guests share drinks and catch up with old friends. A few friendly debates cut through the noise, primarily about the quality of the band, along with occasional mentions of Trading House Cevher in tones of voice that fall somewhere between self-satisfied and judgmental.

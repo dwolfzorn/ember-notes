@@ -1,12 +1,12 @@
 ---
-title: "In The Behemoth's Wake"
+title: "In the Behemoth's Wake"
 journal: "Standalone Events / Chapter 2 Events"
 source_uuid: "JournalEntry.emberEventsCh200"
 type: ember.lore
 tags: [ember, standalone-events]
 ---
 
-# In The Behemoth's Wake
+# In the Behemoth's Wake
 
 > [!warning] Gamemaster
 > #### Gamemaster's Summary
@@ -23,11 +23,9 @@ tags: [ember, standalone-events]
 >
 > To run this Standalone Event, follow these steps:
 >
-> 1. Determine what kind of site the characters discover in ruins by rolling on or choosing from the [[In The Behemoth's Wake]] table.
-> 2. Determine what kind of Pathways behemoth recently passed through the area by rolling on or choosing from the [[In The Behemoth's Wake]] table.
-> 3. Use these results to describe a specific scene of destruction shaped by both the place itself and the creature responsible; have the characters [[In The Behemoth's Wake]].
->
-> If desired, the tables used for this Event may be generalized for broader use elsewhere, whether to depict a behemoth's passage after the fact, or, at the Gamemaster's discretion, to foreshadow or accompany a direct encounter.
+> 1. Determine what kind of site the characters discover in ruins by rolling on or choosing from the [[In the Behemoth's Wake]] table.
+> 2. Determine what kind of Pathways behemoth recently passed through the area by rolling on or choosing from the [[In the Behemoth's Wake]] table.
+> 3. Use these results to describe a specific scene of destruction shaped by both the place itself and the creature responsible; have the characters [[In the Behemoth's Wake]].
 
 #### Under Development - Early Access
 
@@ -37,19 +35,19 @@ Determine what kind of site the characters discover in ruins by rolling on or ch
 
 |  | #### Golden Flats Ruins |
 | --- | --- |
-| 1 | #### Ruined Farmstead  The characters discover a [[In The Behemoth's Wake]]. |
-| 2 | #### Collapsed Granary  The characters discover a [[In The Behemoth's Wake]]. |
-| 3 | #### Broken Aedir Watchtower  The characters discover a [[In The Behemoth's Wake]]. |
-| 4 | #### Shattered Irrigation Terrace  The characters discover a [[In The Behemoth's Wake]]. |
+| 1 | #### Ruined Farmstead  The characters discover a [[In the Behemoth's Wake]]. |
+| 2 | #### Collapsed Granary  The characters discover a [[In the Behemoth's Wake]]. |
+| 3 | #### Broken Aedir Watchtower  The characters discover a [[In the Behemoth's Wake]]. |
+| 4 | #### Shattered Irrigation Terrace  The characters discover a [[In the Behemoth's Wake]]. |
 
 Determine what kind of Pathways behemoth recently passed through the area by rolling on or choosing from the table below:
 
 |  | #### Pathways Behemoth Encounters |
 | --- | --- |
-| 1 | #### Katherim  The characters encounter 1 [[In The Behemoth's Wake]], accompanied by `[[/gmroll 1d4+1]]` [[Gore Bird]], or discover the aftermath of its passing. |
-| 2 | #### Avir  The characters encounter `[[/gmroll 1d4+1]]` [[In The Behemoth's Wake]] or discover the aftermath of their passing. |
-| 3 | #### Garganthus  The characters encounter 1 [[In The Behemoth's Wake]] or discover the aftermath of its passing. |
-| 4 | #### Urkon  The characters encounter 1 [[In The Behemoth's Wake]] or discover the aftermath of its passing. |
+| 1 | #### Katherim  The characters encounter 1 [[In the Behemoth's Wake]], accompanied by `[[/gmroll 1d4+1]]` [[Gore Bird]], or discover the aftermath of its passing. |
+| 2 | #### Avir  The characters encounter `[[/gmroll 1d4+1]]` [[In the Behemoth's Wake]] or discover the aftermath of their passing. |
+| 3 | #### Garganthus  The characters encounter 1 [[In the Behemoth's Wake]] or discover the aftermath of its passing. |
+| 4 | #### Urkon  The characters encounter 1 [[In the Behemoth's Wake]] or discover the aftermath of its passing. |
 
 The characters should not be told the behemoth's identity outright. Instead, they may infer it by examining the physical aftermath of the destruction and interpreting the creature's likely behavior. Refer to the sections below for gameplay details on the combination of ruin and behemoth that were selected.
 

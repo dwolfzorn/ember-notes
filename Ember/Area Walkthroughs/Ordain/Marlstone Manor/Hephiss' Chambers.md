@@ -8,21 +8,15 @@ tags: [ember, area-walkthroughs]
 
 # Hephiss' Chambers
 
-> [!warning] Gamemaster
-> #### Access to Hephiss' Chambers
->
-> Access to Hephiss' Chambers is **forbidden** at all times. See [[Gameplay Details]] for more on access levels.
->
-> #### Locating Funar Cevher
->
-> See [[Casing the Joint]] for details.
->
-> - Funar Cevher is **in the vicinity.** This is the baseline result within Marlstone Manor.
-
 > [!quote] Read Aloud
 > Delicate gray silks arch over a the bed in the center of the room - it, like the rug in the middle of the floor, the large mirror at the side of the room, and the dressing desk by the rear curtained window, is decorated with the patterns and colors that Hephiss Wandren is known for, and carries the faintest hint of the smoky perfume she's long been known to wear.
 
-### Pre-Gala
+### [[Casing the Joint]]
+
+> [!danger] Hazard
+> #### Access Level
+>
+> This area is **Forbidden**.
 
 > [!tip] Exploration
 > #### The Lady of the House
@@ -36,7 +30,12 @@ tags: [ember, area-walkthroughs]
 > - If the party succeeds on the check, Hephiss is not happy, but allows characters to return to their duties. Their suspicion level is raised by 1.
 > - If the party fails the check, Hephiss has them escorted off the grounds immediately, ending this event.
 
-### At The Gala
+### [[The Marlstone Gala]]
+
+> [!danger] Hazard
+> #### Access Level
+>
+> This area is **Forbidden**.
 
 > [!tip] Exploration
 > #### A Magical Panel

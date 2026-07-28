@@ -9,23 +9,27 @@ tags: [ember, area-walkthroughs]
 # Terrace Gardens: The Wild Side
 
 > [!quote] Read Aloud
-> The flowers and plants in this section of the rooftop garden are a bit wilder and more colorful, as if they were taken straight from a distant land and placed here for your enjoyment. A sign along the walkway reads:
+> The plants in this section of the rooftop garden grow brighter and wilder than those nearby. Thick leaves spill over the beds, and tall, barbed flowers crowd the path. A sign along the walkway reads:
 >
 > > For those who prefer a bit of excitement with their relaxation, take a walk on the wild side. Carefully.
 
-Characters wishing to take the rooftop route to the Northern section of Lantern Roads may continue along the walkway to [[Lookout Point]].
-
 > [!tip] Exploration
-> #### Examining the Plant Life
+> #### Searching the Wild Side
 >
-> Characters can learn the following about the plants in this section of Terrace Gardens. Any character with **Knowledge: Plants** has an advantage on all checks.
+> A simple search reveals the following:
 >
-> - With a successful `[[/check nature 16]]` check, characters know that the particularly bright coloring of the plants indicates that they may be toxic. The colors warn animals away who might et them.
->   - If characters succeed by 3 or more, they know that these are Red Nettlers, plants which spray nettles at anyone who comes too close to them, but can be bypassed with stealth.
-> - With a successful `[[/check perception 16]]` check, or if characters have `[[/check perception passive 18]]`. they hear a rustling in the leaves.
-> - With a successful `[[/check stealth 16]]` check to move carefully through the Red Nettles, characters can pass without incident. If they fail the stealth check, see **Flying Nettles** below.
+> - Stands of tall, red flowers with tapering, barbed leaves.
+>
+> Any character who makes a successful **Wilderness (DC 14)** check recognizes the red plant's bright coloring as a warning sign that they may be toxic or otherwise dangerous.
+>
+> - **Knowledge: Plants**: The character gains **+2 Boons** on this check.
+> - **Critical Success**: The character also knows that these plants are not native to the Arctus Plateau; they must have been imported from a different region.
+>
+> Any character with a `[[/skill perception 18 passive format=long]]` or who makes a successful **Awareness (DC 16)** check notices that the red plants subtly rustle and turn toward nearby movement.
 
 > [!danger] Hazard
 > #### Flying Nettles
 >
-> The first time that a character comes within 5 feet of a Red Nettle plant without stealth, all characters within 30 feet of the plants must make a `[[/save dexterity 17]]` saving throw as it sprays nettles in their direction. Any character that fails the saving throw takes `[[/damage 1d4 piercing]]` from the sharp nettles.
+> The red plants react to sudden movement. Any character can move within 5 feet of the plants safely by moving at half Speed or slower.
+>
+> A character who moves within 5 feet of the plants at more than half Speed causes them to spray sharp nettles. The character must make a `[[/save dexterity 17]]` saving throw or take `[[/damage 1d4 Piercing]]` damage and become &reference[poisoned].

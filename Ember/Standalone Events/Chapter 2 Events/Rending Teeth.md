@@ -23,7 +23,7 @@ The event begins with the party in the center of the Area Map in a small depress
 >
 > Level 1 · Unknown Unknown
 >
-> ![Abyssal Eel](../../assets/image003.webp)
+> ![Abyssal Eel](../../assets/image004.webp)
 
 > [!tip] Exploration
 > #### Assessing the Situation

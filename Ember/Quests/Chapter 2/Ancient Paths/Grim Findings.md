@@ -45,14 +45,14 @@ tags: [ember, quests]
 >
 > Level 1 · Unknown Unknown
 >
-> ![Desham "Shaar" Phos](../../../assets/image126.webp)
+> ![Desham "Shaar" Phos](../../../assets/image134.webp)
 
 > [!abstract] Serethus
 > **[[Serethus]]**
 >
 > Level 12 (Boss) · Cor'ak Sorcerer
 >
-> ![Serethus](../../../assets/image127.webp)
+> ![Serethus](../../../assets/image135.webp)
 >
 > Tall and imposing, with a strong, bulky frame typical of the Cor'ak, this man's brown and tan are accented by splashes of vibrant purple. Long, purple horns that frame his head in a regal yet intimidating manner. His teal eyes are striking and seem to pierce through those he engages with. His robes are bright and vibrant, in Ordani fashion, and draped with glittering gems of all shapes and sizes.
 

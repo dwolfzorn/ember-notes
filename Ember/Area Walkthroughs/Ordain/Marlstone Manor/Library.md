@@ -8,18 +8,10 @@ tags: [ember, area-walkthroughs]
 
 # Library
 
-> [!warning] Gamemaster
-> #### Access to the Library
+> [!danger] Hazard
+> #### Access Level
 >
-> Access to the library is **restricted** at all times, but the doors to it are closed, not locked. They can be easily opened without a check.See [[Gameplay Details]] for more on access levels.
->
-> #### Locating Funar Cevher
->
-> See [[Casing the Joint]] for details.
->
-> - Funar Cevher is **in the vicinity.** Note: this is the baseline result when using the Locator Rod in and around Marlstone Manor.
-
-There is no significant difference between the library before the gala and during the gala.
+> This area is **Restricted**.
 
 > [!quote] Read Aloud
 > Books line the shelves that wrap around the room. Each section is orderly, with everything neatly labeled and organized — making it easy to notice if anything is out of place. The only exception is the large desk at the back of the room, whose surface holds a stack of paper and books left open, as if the person reading them might wander back in at any moment.

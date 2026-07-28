@@ -32,7 +32,7 @@ When the Event begins, Agraband and the party have arrived at the home of Helice
 >
 > Level 1 · Unknown Unknown
 >
-> ![Helice Korsos](../../../assets/image145.webp)
+> ![Helice Korsos](../../../assets/image152.webp)
 
 > [!info] Social
 > #### A Conversation with Helice

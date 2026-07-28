@@ -59,7 +59,7 @@ The party has arrived at Gedron Tath's isolated home studio just in time to witn
 >
 > The party has arrived in the very moment that Gedron Tath has taken his life, and is effectively powerless to stop him from burning alive. If they rush in to save the immolated artist, his unconscious form slumps to the ground in a dismal blaze.
 >
-> Since Tath's body has already succumbed to the baleful transformation of the Bewilderment, no means of healing mundane nor magical will return him to consciousness. The characters were too late to save him, and all that remains is Tath's smoldering corpse, an ancient [[Varún]] artifact worn like a bracelet on his left arm, and a studio full of curious and macabre artworks.
+> Since Tath's body has already succumbed to the baleful transformation of [[The Bewilderment]], no means of mundane or magical healing will return him to consciousness. The characters were too late to save him, and all that remains is Tath's smoldering corpse, an ancient [[Varún]] artifact worn like a bracelet on his left arm, and a studio full of curious and macabre artworks.
 >
 > #### The Troublesome Trinket
 >

@@ -17,7 +17,7 @@ tags: [ember, quests]
 > - Either defeat the Coursers on their own, or rely on the timely arrival of the Shard Goddess [[Sionia]] to help win the conflict.
 > - Choose whether to befriend the Thayloc Coursers or deceive them.
 >
-> This Event is depicted using the [[Ordain Spires]] Area Map.
+> This Event is depicted using the "Library" Level of the [[Ordain Spires]] Area Map.
 >
 > #### Prerequisites
 >
@@ -25,21 +25,21 @@ tags: [ember, quests]
 
 ### Ambushed!
 
-As the Event begins, the characters are immediately beset by six Thayloc Coursers in the back alleys of the Ordain Flats district they happen to be traversing at the time. Even if the party avoids being surprised by the Coursers, [[Agraband Swift]] will start the encounter with the Incapacitated condition but is still able to speak.
+As the Event begins, the characters are immediately beset by 4 [[Thayloc Courser]]. Even if the party avoids being surprised by the Coursers, [[Agraband Swift]] will start the encounter with the &reference[Incapacitated] condition but is still able to speak.
 
 > [!abstract] Thayloc Courser
 > **[[Thayloc Courser]]**
 >
 > Level 1 · Unknown Unknown
 >
-> ![Thayloc Courser](../../../assets/image143.webp)
+> ![Thayloc Courser](../../../assets/image150.webp)
 
 > [!danger] Hazard
 > #### Thayloc Courser Tactics
 >
-> The 6 [[Thayloc Courser]] have been following the party for some time now (after their ally's mortal encounter with Zira during [[Status Effects]]), and are here now to abduct Agraband using nonlethal force.
+> The 4 [[Thayloc Courser]] have been following the party for some time now (after their ally's mortal encounter with Zira during [[Status Effects]]), and are here now to abduct Agraband using nonlethal force.
 >
-> Each Thayloc Courser has **+2 Boons** on their initiative roll.
+> Before combat begins, each character must make a **`[[/skill Perception 16]]`** check. Characters who succeed notice the Thayloc Coursers and can ready themselves for combat. Characters who fail are &reference[Surprise]{Surprised}.
 >
 > At the start of combat, all Thayloc Coursers will use their Bonus Action to cast [[Shield of Faith]] on themselves. Then, the 2 Thayloc Coursers closest to Agraband will move toward him, grapple him, and attempt to drag him away.
 >
@@ -57,7 +57,7 @@ As the Event begins, the characters are immediately beset by six Thayloc Courser
 >
 > Ultimately, the party cannot fail this combat scenario, even if they seem to be losing the fight — and Agraband Swift won't actually be getting kidnapped any time soon.
 >
-> If the Thayloc Coursers manage to **Incapacitate** 2 or more party members during the conflict (or render them **Unconscious**), the Shard Goddess [[Sionia]] will arrive with immaculate timing on the subsequent turn in an effort to help the characters win the fight. Please refer to the first readaloud beneath "Sionia's Arrival" for additional details about this dramatic moment and its impact on the combat sequence.
+> If the Thayloc Coursers manage to &reference[Incapacitated]{Incapacitate} 2 or more party members during the conflict (or render them &reference[Unconscious]), the Shard Goddess [[Sionia]] will arrive with immaculate timing on the subsequent turn in an effort to help the characters win the fight. Please refer to the first readaloud beneath "Sionia's Arrival" for additional details about this dramatic moment and its impact on the combat sequence.
 
 ### Sionia's Arrival
 
@@ -66,7 +66,7 @@ The party's altercation with the Thayloc Coursers is succeeded by the timely arr
 If the party requires Sionia's intervention to win the battle (i.e. as soon as 2 or more party members have been incapacitated by the Thayloc Coursers), read the following aloud:
 
 > [!quote] Read Aloud
-> Just when all feels lost, the battlefield erupts in a blinding flash of blue and silver light, along with the stirring of a cold breeze. You instinctively shield your senses from this lambent flare, and as they come to, you become aware of someone new here in the alley with you.
+> Just when all feels lost, the battlefield erupts in a blinding flash of blue and silver light, along with the stirring of a cold breeze. You instinctively shield your senses from this lambent flare, and as they come to, you become aware of someone new here with you.
 >
 > A radiant woman with long silver hair stands above Agraband and his would-be kidnappers, a beautiful and otherworldly figure clad in shining silver armor and exquisite argentine garments. She holds your attackers in thrall, and they seem to look upon her alluring countenance with equal measures of hatred and fear; slowly, they drop their weapons and stand back from the captive Agraband. The radiant woman speaks to you all.
 >
@@ -81,7 +81,7 @@ If the party requires Sionia's intervention to win the battle (i.e. as soon as 2
 If the party manages to rout or defeat the Thayloc Coursers on their own, Sionia arrives to speak with them as soon as the damage from a killing blow strikes one of the Coursers.
 
 > [!quote] Read Aloud
-> Just as you deal a fatal blow to the bowman, the battlefield erupts in a blinding flash of blue and silver light, along with the stirring of a cold breeze. You instinctively shield your senses from this lambent flare, and as they come to, you become aware of someone new here in the alley with you.
+> Just as you deal a fatal blow to the bowman, the battlefield erupts in a blinding flash of blue and silver light, along with the stirring of a cold breeze. You instinctively shield your senses from this lambent flare, and as they come to, you become aware of someone new here with you.
 >
 > A radiant woman with long silver hair stands between Agraband and his would-be kidnappers, a beautiful and otherworldly figure clad in shining silver armor and exquisite argentine garments. She holds your humbled attackers in thrall, and they seem to look upon her alluring countenance with equal measures of adoration and fear; slowly, they drop their weapons and stand down. The radiant woman speaks to you all.
 >
@@ -96,7 +96,7 @@ If the party manages to rout or defeat the Thayloc Coursers on their own, Sionia
 If the party manages to befriend the Thayloc Coursers before Sionia's arrival:
 
 > [!quote] Read Aloud
-> Just then, a cold and peculiar breeze sweeps through the alley — briefly obscuring your senses as it stirs up dust devils of detritus and billows your garments and hair. As you regain your composure, you notice that the bowmen look southward at something (or someone) behind you, which holds their attention with rapt abandon.
+> Just then, a cold and peculiar breeze sweeps through the area — briefly obscuring your senses as it stirs up dust devils of detritus and billows your garments and hair. As you regain your composure, you notice that the bowmen look southward at something (or someone) behind you, which holds their attention with rapt abandon.
 >
 > A radiant woman with long silver hair approaches, a beautiful and otherworldly figure clad in shining silver armor and exquisite argentine garments. She holds your humbled attackers in thrall, and they seem to look upon her alluring countenance with equal measures of adoration and fear. The radiant woman speaks to you all.
 >
@@ -113,7 +113,7 @@ If the party manages to befriend the Thayloc Coursers before Sionia's arrival:
 >
 > Level 1 · Unknown Unknown
 >
-> ![Sionia](../../../assets/image114.webp)
+> ![Sionia](../../../assets/image122.webp)
 
 > [!info] Social
 > #### Advice from the Lonely Goddess
@@ -183,11 +183,11 @@ If the party manages to befriend the Thayloc Coursers before Sionia's arrival:
 Once Sionia and the party have adequately exchanged words and wisdom, the Shard Goddess takes her leave:
 
 > [!quote] Read Aloud
-> The wind in the alley begins to stir again with the same cold breeze you felt when Sionia arrived. Her hair and cloak rustle in the current, as do your own.
+> The wind begins to stir again with the same cold breeze you felt when Sionia arrived. Her hair and cloak rustle in the current, as do your own.
 >
 > > I fear the time has come for me to take my leave. Other matters require my immediate attention. But I trust you will keep our exchange close to heart, and remember this accord when fate calls upon us all.
 >
-> The Lonely Goddess nods and waves to you before walking away, deeper into the alley. As you watch her leave, Sionia's physical form shimmers as she walks unseen within the city, like some storybook phantom or ghost. And just like that, she's gone.
+> The Lonely Goddess nods and waves to you before walking away. As you watch her leave, Sionia's physical form shimmers as she walks unseen within the city, like some storybook phantom or ghost. And just like that, she's gone.
 
 ### A Covenant
 
@@ -263,7 +263,7 @@ Once Sionia and the party have adequately exchanged words and wisdom, the Shard 
 >
 > If the party agrees to take up arms with Thayloc's Coursers and join the Silver Bowman's church as fellow worshipers or allies, one of the characters will be gifted a [[Silver Bowman's Symbol]] [[Potion of Healing]] from one of the acolytes.
 >
-> Check the [[Cost of Living]] outcome below, and read the following aloud:
+> Check the [[Cost of Living]] Outcome below, and read the following aloud:
 
 > [!quote] Read Aloud
 > One of the Coursers, an older-looking fellow, removes the cloak pin from his cowl and holds it out towards you as a token of this covenant. It appears to be made of silver, fashioned into the likeness of a bow with a broken arrow.
@@ -282,7 +282,7 @@ Once Sionia and the party have adequately exchanged words and wisdom, the Shard 
 > Check the [[Cost of Living]] outcome below, and read the following aloud:
 
 > [!quote] Read Aloud
-> Once Sionia has departed, the would-be kidnappers hastily retreat into the back alleys of Ordain, clutching their wounds and nursing their pride. And just like that, the silver-bow clerics are gone as quickly as they arrived.
+> Once Sionia has departed, the would-be kidnappers hastily retreat into the sprawl of Ordain, clutching their wounds and nursing their pride. And just like that, the silver-bow clerics are gone as quickly as they arrived.
 
 #### Heart Attunement: Allies to Thayloc
 

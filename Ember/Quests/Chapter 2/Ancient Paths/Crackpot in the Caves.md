@@ -26,7 +26,7 @@ tags: [ember, quests]
 >
 > Level 16 · Thornling Shapeshifter
 >
-> ![Kern](../../../assets/image164.webp)
+> ![Kern](../../../assets/image177.webp)
 >
 > > [!quote] Read Aloud
 > > This ancient, wizened Thornling leans upon a small, stout branch of fossiled wood, with a crooked grin barely visible beneath a bushy, exuberant beard of leaves. Thorny gnarled limbs and spindly legs are barely visible underneath a veritable mound of greenery and foliage. A great, scraggly bush grows from his back, creating a canopy of verdant growth over him and across leafy back and shoulders, sport clusters of blue, luminescent mushrooms.

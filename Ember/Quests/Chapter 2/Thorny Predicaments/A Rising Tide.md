@@ -27,13 +27,13 @@ Characters can't see Edivel from their position in the Canyons, but they can nar
 > [!tip] Exploration
 > #### Edivel's Location
 >
-> Characters can locate Edivel's location by searching the canyons with a successful `[[/check investigation 20]]` check and 30 minutes of work. Failure means the party has not narrowed down Edivel's location, but still spent the time. The party will automatically find Edivel after three failed searches, but suffers an effect on the Canyon Catastrophes table below.
+> Characters can locate Edivel's location by searching the canyons with a successful **Awareness (DC 20)** check and 30 minutes of work. Failure means the party has not narrowed down Edivel's location, but still spent the time. The party will automatically find Edivel after three failed searches, but suffers an effect on the Canyon Catastrophes table below.
 >
 > Doing any of the following checks beforehand reduces the DC of the above investigation check by 2. Each check be done only once, for a maximum DC reduction of 6. The actions take 10 minutes each and are:
 >
-> - A `[[/check perception 18]]` check made to narrow down the origin of Edivel's echoing voice. If characters speak to Edivel again and/or get the thornling to call out to locate the echo, they have advantage on this check.
-> - A `[[/check nature 17]]` check to look for signs of Edivel's fall and use it to figure out their likely trajectory after falling. If the party saw Edivel fall in [[The Fall's Gonna Kill You]], they have advantage on this check.
-> - A `[[/check survival 16]]` check to narrow down what is around Edivel, working with the thornling to identify any landmarks they can see compared to what the party sees.
+> - A **Awareness (DC 18)** check made to narrow down the origin of Edivel's echoing voice. If characters speak to Edivel again and/or get the thornling to call out to locate the echo, they have advantage on this check.
+> - A **Science (DC 17)** check to look for signs of Edivel's fall and use it to figure out their likely trajectory after falling. If the party saw Edivel fall in [[The Fall's Gonna Kill You]], they have advantage on this check.
+> - A **Wilderness (DC 16)** check to narrow down what is around Edivel, working with the thornling to identify any landmarks they can see compared to what the party sees.
 
 |  | #### Climbing Hazards |
 | --- | --- |
@@ -59,10 +59,10 @@ Once the party reaches the aspiring [[Agrimage Circle]], they find that Edivel i
 > [!tip] Exploration
 > #### Freeing Edivel
 >
-> Characters can remove Edivel's foot with a successful `[[/ability str 14]]` check, freeing them to move. Failure still free Edivel but deals `[[/damage 1d6 bludgeoning]]` to them and reduces their movement speed to half for the next 24 hours. While Edivel's leg is injured they also suffer disadvantage on actions that would require their leg.
+> Characters can remove Edivel's foot with a successful [[/skillCheck athletics 14] check, freeing them to move. Failure still frees Edivel but they suffer **Wrenched Ankle (Hazard 4, Fortitude, Health, Bludgeoning)** and are **Slowed** for 24 hours. While Edivel's leg is injured they also suffer **-2 Banes** on actions that would require their leg.
 >
-> - **Medicine**: Assessing Edivel's leg with a successful `[[/check medicine 17]]` check allows the party to avoid injuring them, granting **+2 Boons**.
-> - **Investigation**: Examining the way that Edivel is trapped with a successful `[[/check investigation 17]]` check grants **+2 Boons**.
+> - **Medicine**: Assessing Edivel's leg with a successful **Medicine (DC 17)** check allows the party to avoid injuring them, granting **+2 Boons**.
+> - **Investigation**: Examining the way that Edivel is trapped with a successful **Awareness (DC 17)** check grants **+2 Boons** to the athletics roll to free them.
 
 ### Getting to Safety
 
@@ -80,9 +80,8 @@ Edivel may be free, but the waters have continued to rise, blocking the path tha
 >
 > To ascend the cliffs, characters must make a **Athletics (DC 15)** check. On success they are able to climb up to half their movement speed toward safety before repeating the skill check. On a failure, they lose their grip and fall back to their starting point.
 >
-> - **Climb Speed**: Characters with a climbing speed automatically succeed and can ascend at their full climbing speed toward safety.
-> - **Equipment**: Characters with a [[Climber's Kit]] automatically succeed.
-> - **Flight & Teleportation**: Characters with a fly speed, or using Spells such to fly, levitate, or teleport automatically succeed and can ascend as appropriate to the solution they used.
+> - **Equipment**: Characters with a [[Grapnel]] automatically succeed.
+> - **Flight & Teleportation**: Characters with ability to fly, or using spells to fly, levitate, or teleport automatically succeed and can ascend as appropriate to the solution they used.
 > - **Wilderness (DC 16)**: A competent survivalist notices roots jutting out from the freshly exposed canyon wall and gains **+2 Boons** on this check until their ascent is complete.
 > - **Critical Success**: The character can ascend at their full movement speed until the next time they make this check.
 

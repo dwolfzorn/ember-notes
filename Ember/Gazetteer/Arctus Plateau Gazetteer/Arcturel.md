@@ -11,18 +11,20 @@ tags: [ember, gazetteer]
 > [!warning] Gamemaster
 > #### Gamemaster's Summary
 >
-> This settlement exists at ⬢ s.3221.2886 in the [[Golden Flats]], east of [[Vortest Tower]].
+> This settlement exists at ⬢ s.3227.2881 in the [[Golden Flats]].
 >
 > - This settlement is visually depicted by the [[Vista: Arcturel]] Vista.
-> - This settlement can be explored within the [[Arcturel Upper - Tradeway]], [[Arcturel Upper - Underbelly]], and [[Arcturel Lower]] Area Maps.
-> - This settlement is featured in [[Unhappy Accidents]], [[Unwelcome Diversions]], [[Overview]], and [[The Crystal Quarryman]].
+> - This settlement can be explored within the [[Arcturel Tradeway]] Area Map.
+> - This settlement is featured in:
+>   1. [[An Old Friend]], [[Unhappy Accidents]]
+>   2. [[Overview]], [[A Troubled Tradeway]].
 
-Light in Arcturel is often scarce, and natural light is almost nonexistent but for one hour each day: beginning at noon, a narrow beam of Lantyr's light pierces the settlement’s depths from directly above, lighting it like a beacon. The rest of the time, the Sinkhole City is dim, lit mostly by the glow of the hundreds of luminous mushrooms that line the sinkhole walls. Where the light of the mushrooms cannot reach, Arcturel is illuminated by its best known export: lambent [[Inkaro Pearl, White]], harvested from [[Mootap]] that live at the lowest levels of the settlement. These strange creatures are cared for by the Inkaro Lamplighters, who steward their subterranean environment with great care.
+Suspended directly over the yawning depths of the sinkhole, the main district of Arcturel is a breathtaking engineering marvel of gravity-defying architecture. It serves as the prosperous, beating heart of the entire settlement, where mining operations, businesses, and ordinary workers live together in a city that reaps vast riches from the depths below. At night, Arcturel is illuminated by its best-known export: lambent [[Inkaro Pearl, White]], harvested from [[Mootap]] that live within the Sinkhole Depths.
 
 > [!info] Social
 > #### At a Glance
 >
-> - **Settlement Type:** Industrial mining settlement nestled in the walls of a sinkhole
+> - **Settlement Type:** Industrial heart of Arcturel suspended and partially built into the sides of the sinkhole.
 > - **Size:** Large (1200 - 1500)
 > - **Primary Cultures:** **Culture: Arcturian**
 > - **Predominant Ancestries:** **Ancestry: Human**, **Ancestry: Hulg'run**, **Ancestry: Keth**, **Ancestry: Fej**, and **Ancestry: Kiska**
@@ -33,21 +35,9 @@ Light in Arcturel is often scarce, and natural light is almost nonexistent but f
 > - **Economy:** Trade of [[Inkaro Pearl, White]], ores, and minerals
 > - **Organizations**: [[House Cevher]]; Inkaro Lamplighters; Silver Beam Consortium
 
-## Landmarks - Brimtown
+## Landmarks
 
-Located on the surface of Ember at the northwestern edge of the sinkhole, Brimtown considers itself the gateway to Arcturel, but it's little more than a scattering of shops and homes, often seen by visitors as a place to pass through on their way into Arcturel proper. Most of its value to outsiders lies in the local stables and storage houses, where visitors and traveling merchants can keep certain assets and commodities in lieu of taking them into the sinkhole. Brimtown is also intended as the first line of defense against anyone who might think to attack Arcturel; its watchtowers are poised to warn the city in the advent of an attack, although this particular security measure has yet to be put to the test.
-
-**The Bird's NestSecurity Post**
-
-This security post is built into the remains of a desiccated tree at the sinkhole's edge. Its vigilant guards, known as the Brimtown Watchers, keep a keen eye on Arcturel's surface at all times of the day, although they are rarely called to action.
-
-**The Edge of CivilizationWaystation**
-
-A ramshackle waystation near the sinkhole’s edge that hosts a tavern alongside an assortment of stables. In recent years, The Edge has positioned itself to become a major tourist destination in the Arctus Plateau, but has yet to achieve lasting success. It is owned and operated by a congenial woman named Onsi Urganzi.
-
-## Landmarks - Upper Arcturel
-
-Light is brighter in Upper Arcturel than anywhere else in the Sinkhole City, thanks to its relative proximity to the surface and the oversized ceilings of many of its buildings. While there are concerns about changing the natural layout of the caverns further down the sinkhole (and any instability that might occur as a result), those who live or work in here in "The Balconies" have been given permission to add flourishes to their homes and businesses. These modifications often include the installation of larger entrances or the lavish use of [[Inkaro Pearl, White]] as light sources (even when it isn't necessary). In addition to these more spacious homes, The Balconies are marked by the ornamentation of its bridges, which are often embedded with small bits of crystal or glass to create a light show during the midday hour when [[Lantyr]] shines down on the city.
+The main city of Arcturel features several thriving metal plazas that shine brightly in Lantyr’s midday sun. Around these plazas are major business centers, trading establishments for visiting caravan owners and repair shops, some of which are owned by prominent regional players, including leaders of various mining companies. Notably, House Cevher and the Silver Beam mining consortium have built a large, gleaming white-stone headquarters in the city. Beneath the surface-level plazas, rows of ordinary homes extend downward; some are entirely suspended, while others are embedded into the sinkhole walls. As one moves to lower levels, natural light diminishes, and reliance on Inkaro Peral lamps, traditional oil lamps, and other lighting methods becomes more common.
 
 **[[Rallyhome]]Tavern & Inn**
 
@@ -73,49 +63,7 @@ A store run by shopkeeper Darvin Nolde, where characters may purchase various od
 
 A fine dining establishment that caters to Arcturel's most sophisticated palates and special occasions.
 
-## Landmarks - Lower Arcturel
-
-Located a mile below Upper Arcturel, Lower Arcturel is both the heart of the city's mining community and the core of its operations. A collection of mines, businesses, and homes comprise this lightless area, many of which are cut into the rock of the sinkhole itself. Thanks to its traditionally unsavory qualities, "The Dives" isn't exactly renowned as a place for tourists or visiting dignitaries; this industrial area of Arcturel consists of true locals, those who actually live and work within the city.
-
-**[[Hob Korell's Unconventional Steeds]]Stables**
-
-Modest stables owned and operated by the stilt-wearing frog herder named Hob Korell. Featuring a range of rare mounts, including frogs, lizards, and dragonflies of the giant variety.
-
-**[[Zodi Trask's Apartment]]Home**
-
-The private residence of Zodi Trask, the current foreman of the Arcturel Mining Concern and chief contact in the area for House Cevher.
-
-**[[Arvoda's Elixirs]]Alchemical Shop**
-
-The residence, workshop, and storefront of Emelyn Arvoda, a matronly water mage who crafts scrolls, potions, and other magic items for travelers of the lightless depths.
-
-**[[Wrestful Repairs]]Blacksmith**
-
-A repair shop owned by Rennerie Wrest, former miner and current metal artist; the mining operations often rely on him for big jobs, but he always tries to make time for individuals and odds jobs. The shop changes its slogan frequently, but none have managed to catch on. The current iteration, "Not At Its Best? Come Get Some Wrest!" does not appear likely to change this track record.
-
-**[[Waterborne Distillery]]Brewery**
-
-The Waterborne Distillery, which is run by a family of trained distillers, primarily makes brews from water found in the Inkaro Pools, which improves the taste and is thought to put people in a good mood. The family is currently under the guidance of elder member Sevali Waterborne.
-
-## Landmarks - Rock Bottom
-
-This ramshackle suburb of Arcturel sits on the floor of the sinkhole, a mile beneath Lower Arcturel, and is seen by locals as an ironic bookend to Brimtown above: whereas Brimtown is a bright gateway, Rock Bottom is a gloomy sprawl, a makeshift village of tent rows and canvas pavilions, piles of crates and industrial waste, and the detritus of the finer society overhead. [[Inkaro Pearl, White]] are scarce here, and most residents rely instead on oil and lambent mushrooms for lantern light. Rock Bottom shelters those who can't afford to live elsewhere — or choose not to, for one oft-illicit reason or another.
-
-**Big Cap's Mushroom StandDelicious Fungi Stand**
-
-Owned and operated by Buddy "Big Cap" Moss, this grimy mushroom vendor is one of the few places of noble repute in Rock Bottom, and is known for the remarkable quality of its savory fungi and candied insects.
-
-**The Inkaro PoolsPearl Extraction**
-
-The Inkaro Pools lie at the bottommost levels of Arcturel, deep within a cavern overgrown with phosphorescent fungi. These wide, shallow pools glow with the light of [[Mootap]]: large, lamprey-like creatures that scuttle along their beds and feed on the fungi's luminosity. [[Inkaro Pearls]] are the hardened waste product of this process, their color reflecting the dominant band of phosphorescence consumed. A Mootap cannot shed this growth on its own; though it takes years for a pearl to form, it will eventually kill the creature if not removed. The Inkaro Lamplighters tend the pools, herding the Mootaps toward different bands of light and gently harvesting the pearls at the proper time. Their work often puts them at odds with Larissa Toth and the Silver Beam Consortium, as ecological stewardship clashes with the pursuit of profit.
-
-## Characters of Interest - Brimtown
-
-****Onsi Urganzi**Neutral Good, Arcturian Human, she/her**
-
-A former adventurer turned business owner, Onsi Urganzi possesses a friendliness that many locals describe as "aggressive." Still, The Edge is the only place in Brimtown with stables equipped to properly care for exotic mounts, and one can leave even the most ornery creature under Onsi's protection with confidence.
-
-## Characters of Interest - Upper Arcturel
+**## Characters of Interest**
 
 ****Felisa Waterborne**Neutral Good, Arcturian Human, she/her**
 
@@ -141,58 +89,26 @@ A flamboyant crystal merchant and owner of the Glimmer Lounge, dutifully served 
 
 An absentminded shopkeeper who runs Briez Flywell's General Goods.
 
-## Characters of Interest - Lower Arcturel
+**## Life In Arcturel**
 
-****Hob Korell**Chaotic Good, Waerd Keth, he/him**
-
-This stilt-legged mount trader's rambunctious nature is as unpredictable as his inventory of unconventional steeds — which can range from wall-climbing giant lizards to the occasional oversized dragonfly.
-
-**[[Zodi Trask]]Neutral Good, Arcturian Kiska, he/him**
-
-This gregarious Kiska quarryman is a trusted head foreman for House Cevher, and serves as a de facto local leader for the people of Arcturel, who regard him as one of the Sinkhole City's few voices of reason.
-
-****Emelyn Arvoda**Neutral Good, Arcturian Ashka, she/her**
-
-This matronly water mage crafts scrolls, potions, and other magic items for travelers of the lightless depths, but always keeps her eye on the bottom line.
-
-****Renneri Wrest**Neutral Good, Arcturian Human, she/her**
-
-A blacksmith as keen with a hammer as she is hopeless with a slogan, Renneri Wrest has nevertheless cornered the market on repair work for the local mines.
-
-****Sevali Waterborne**Neutral Good, Arcturian Human, she/her**
-
-Sevali is the matron of the Waterborne family and the current operator of its distillery. Well connected within Arcturel and beyond, she is the person to seek out when something — or someone — must be handled discreetly.
-
-## Characters of Interest - Rock Bottom
-
-****Buddy "Big Cap" Moss**Chaotic Neutral, Arcturian Thornling, they/them**
-
-A chummy merchant/spelunker clad in an oversized mushroom cap; owner and operator of Big Cap's Mushroom Stand in Rock Bottom.
-
-****Calandra**Neutral Good, Arcturian Nir'ae, she/her**
-
-A convivial Inkaro Lamplighter whose love for subterranean nature shines through in her work.
-
-****Zirca Bronzebellow**Neutral Good, Arcturian Hulg'run, she/her**
-
-The obdurate foreman of the Silver Beam Inkaro Pools.
-
-## Life In Arcturel
-
-Where others would see only a hole in the ground, Arcturel sees opportunity: its culture is one of making do with what is at hand. In the mines, equipment is used, reused, and repurposed. This attitude is reflected also in its residents' small side trades, from art fashioned from ore scraps to food harvested from mushrooms that have lost their glow, alongside countless other practical crafts.
+Life in the main district of Arcturel is a vibrant, ostentatious, and yet at the same time, extremely practical, where wealth and ambition stand in stark, contrast to the gloomy depths and hardships in the districts below. The streets are paved with clean, polished stone banded with gleaming bronze casings and are bustling with visiting merchants, scholars, and artisans in addition to many high-ranking members of various mining operations and businesses. Citizens in the main city on the surface enjoy the full warmth and light of Lantyr each day and breathe fresh air, making it a highly desirable place to live for many.
 
 ### Culture
 
-Self-reliance is prized in Arcturel. Those who look to a higher power for rescue or complain about their lot in life without acting are seen as unworthy of good fortune. As a result, cultural practices vary widely, shaped by individual and familial sensibilities. Yet there is one exception: when Lantyr shines down on Arcturel at midday, work halts, and the hour is given to rest, shared meals, and community before the light fades again.
+The culture of the Arcturel is deeply elitist, obsessed with money and architectural prestige built on the backs of the vast mining industry that has existed in the sinkhole for centuries. Status is visually defined by how far from the edge, and how high a home or business can be built, creating a literal social hierarchy where the closer you are to top means the richer you must be. Festivals here are lavish, with the wealthy tossing elaborate silk ribbons into the sinkhole to symbolize their dominance over the dark. Ultimately, this excess creates opportunities for those below, as the city is defined not only by the wealthy but also by its workers who mine the raw ore and the rarer Inkaro Pearls, and many flock to the city for a chance to climb the social ladder.
 
 ### Defense
 
-Arcturel relies on its natural features to repel would-be raiders, preferring to invest in escape routes than fortification. Back tunnels to the surface, hidden by enchantments, wind throughout Arcturel, linking major caverns together in case the bridges become compromised. The bridges themselves are shielded with wards; when fully activated, these protections form a magical shell around the city that can deflect and disintegrate large projectiles.
+Arcturel has no meaningful defense force and instead relies on its natural features to repel would-be raiders, preferring to invest in escape routes rather than fortification. Small hidden bridges that connect to the edges, hidden by enchantments, wind throughout Arcturel, and nearly every wealthy home on the surface is said to have one or two squirrled away somewhere. Should an enemy ever attack Brimtown and attempt to cross the main bridge into the city, it's rumored that the bridge itself can be magically dissolved, as can many lifts and connecting platforms, turning each suspended neighborhood into an isolated, impregnable island that would be impossible to navigate.
 
 ### Economy
 
-Many who live in Arcturel make a living by working in the mines, which are laden with rich veins of ore and minerals. Below Rock Bottom, the Inkaro Pools are maintained by skilled Inkaro Lamplighters and Silver Beam laborers. The work is hard, but the city appeals to those who prefer to be left to their own devices. Outsiders care little for how Arcturel conducts its business, so long as trade remains steady — a climate that rewards both the entrepreneurial and the unscrupulous.
+The economy of Arcturel is a juggernaut of wealth, fueled by centuries of nonstop, highly lucrative mining operations that extract rare minerals and Inkaro Pearls from the Pathways below. As the central trading hub of the region and sitting along the main road to Ordain from the city of Toraga in the south, the main district acts as a golden funnel, absorbing raw resources from The Dives, refining them or storing them above, and then selling them at high prices to passing by Caravans, who in turn sell these resources in Ordain and beyond. Money flows as freely as water here, enriching a powerful class of merchants, banks, and mining businesses who control the regional trade routes. House Cevher from Ordain has a major stake in the city, and it is often said that Arcurel is their bread and butter, constituting a significant if not major part of their yearly income.
 
 ### Politics
 
-Because it is difficult to grow much food in the caverns, Arcturel depends on trade to survive; much of its politics focuses on satisfying the needs of its trading partners. Meeting the quota of goods demanded by House Cevher and other large trading partners is often paramount, and leadership generally falls to those who can extract a good yield from the mines and ensure a smooth operation. Each mine nominates one person to represent it in matters that concern all of Arcturel, alongside representatives from House Cevher, the Silver Beam Consortium, the local merchants' association, Brimtown, and the Inkaro Lamplighters.
+Politically, Arcturian is ruled by an extremely loose alliance of local leaders, a body composed exclusively of the city’s wealthiest business owners, Arcturian families, and the heads of the major mining operations, including House Cevher and the Silver Beam Mining Consortium. They seldom act as a true governing body; instead, much of their agreement and disagreement rests on the consensus that everything in Arcturel operates with a single-minded focus on maintaining production quotas. Political maneuvers here are straightforward, resolved without grand ceremony or endless discussion, and often mediated in carpeted offices with efficiency and pragmatism.
+
+### Lore
+
+Arcturel was founded nearly five hundred years ago, initially centered around Brimtown. It was quickly discovered that the surface edges were extremely unstable, and building a large city there would be extremely expensive and difficult to maintain. The miners who began flocking to the settlement followed the richest mineral veins downward, built suspended platforms instead, and eventually reached the bottom of the sinkhole, where they began building upward, back into the light. Over time, a magnificent city began to emerge. Over the generations, as the mines dug deeper into the Pathways, the floating city expanded downward again, and its workers began living closer to the mines where they worked.

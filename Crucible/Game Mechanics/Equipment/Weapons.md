@@ -1,7 +1,7 @@
 ---
 title: "Weapons"
 journal: "Game Mechanics / Equipment"
-source_uuid: "JournalEntry.J9uGSwf6JIRsnDx3"
+source_uuid: "JournalEntry.OeNgdZVx5jHojMTQ"
 type: ember.lore
 tags: [ember, game-mechanics]
 ---
@@ -41,7 +41,7 @@ The following table lists the categories of weapons supported in the Crucible ga
 | Two-Handed Melee | Scaling | Range | Action | Damage | Special |
 | Simple (2h) | STR | 2 | 3 | 6 |  |
 | Balanced (2h) | STR,DEX | 3 | 3 | 6 |  |
-| Heavy (2h) | STR | 3 | 4 | 8 |  |
+| Heavy (2h) | STR | 3 | 3 | 8 |  |
 | Ranged | Scaling | Range | Action | Damage | Special |
 | Projectile (1h) | STR,DEX | 60 | 2 | 4 |  |
 | Talisman (1h) | PRE | 30 | 2 | 2 | Refocus |

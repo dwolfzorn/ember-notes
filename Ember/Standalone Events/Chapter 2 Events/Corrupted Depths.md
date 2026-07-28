@@ -25,14 +25,14 @@ The event begins with the party floating across the Lake of Whispers upon the wa
 >
 > Level 1 · Unknown Unknown
 >
-> ![Corrupted Kezus Jelly](../../assets/image004.webp)
+> ![Corrupted Kezus Jelly](../../assets/image005.webp)
 
 > [!abstract] Giant Corrupted Kezus Jelly
 > **[[Giant Corrupted Kezus Jelly]]**
 >
 > Level 1 · Unknown Unknown
 >
-> ![Giant Corrupted Kezus Jelly](../../assets/image005.webp)
+> ![Giant Corrupted Kezus Jelly](../../assets/image006.webp)
 
 The jellies are not immediately hostile, so the party can choose whether to take the first move or simply investigate.
 

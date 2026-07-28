@@ -11,7 +11,7 @@ tags: [ember, quests]
 > [!warning] Gamemaster
 > #### Gamemaster's Summary
 >
-> This Social Event occurs in [[Helkas]] once at least 2 days (48 hours) have passed since the completion of [[The Smoke Clears]]. The party meets **Lorettia Ben-Wren**, the eccentric proprietor of the occultist shop known as [[The Last Satchel]], who has a bold claim about a mysterious landmark in the region. In this Event, the characters can:
+> This Social Event occurs in [[Helkas]] once at least 1 day (24 hours) has passed since the completion of [[The Smoke Clears]]. The party meets **Lorettia Ben-Wren**, the eccentric proprietor of the occultist shop known as [[The Last Satchel]], who has a bold claim about a mysterious landmark in the region. In this Event, the characters can:
 >
 > - Speak with Lorettia to learn more about her warning and ask questions about what she knows (namely, the general location of the [[Aedir Signalpost]] southwest of Helkas).
 > - Ask around town to learn if anyone else has additional information to offer.

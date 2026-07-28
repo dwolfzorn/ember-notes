@@ -37,14 +37,14 @@ As combat begins, read or paraphrase the following:
 >
 > Level 1 · Unknown Unknown
 >
-> ![Pale Whisperer](../../../assets/image175.webp)
+> ![Pale Whisperer](../../../assets/image188.webp)
 
 > [!abstract] Pale Whisperer Tendril
 > **[[Pale Whisperer Tendril]]**
 >
 > Level 1 · Unknown Unknown
 >
-> ![Pale Whisperer Tendril](../../../assets/image176.webp)
+> ![Pale Whisperer Tendril](../../../assets/image189.webp)
 
 Unlike the [[Writhing Whisperer]] in [[An Ancient Battle]] during [[Over The Moon]], this monster is not interested in communication or dialogue with the party. It attacks immediately, surging from the water and surprising the party.
 

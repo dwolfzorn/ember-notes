@@ -31,7 +31,7 @@ The creature pinned beneath the ancient blade is a Writhing Whisperer, a terribl
 >
 > Level 6 (Elite) · Abyssal Harbinger Whisperer
 >
-> ![Writhing Whisperer](../../../assets/image065.webp)
+> ![Writhing Whisperer](../../../assets/image069.webp)
 >
 > Ever shifting and reshaping itself, producing new limbs as quickly as it retracts existing ones, occasionally you glimpse flickers of stars and lights swirling around under the surface, but they are always consumed by blackness a moment later.
 >

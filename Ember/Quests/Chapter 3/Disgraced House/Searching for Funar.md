@@ -24,7 +24,9 @@ The Locator Rod has two modes — distance tracking and proximity tracking — a
 > [!warning] Gamemaster
 > #### Funar Cevher's Location
 >
-> Funar is located in [[Marlstone]] (coordinates 3208.2905). Each time the party uses the Locator Rod, give them the name of the hex that brings them closest to Marlstone from their current location. After 10 tries, they must return to Lyla Cevher to recharge the item.
+> Funar is located in the [[Holding Cells]] beneath Marlstone Manor, in the [[Marlstone]] (⬢ s.3212.2898) district. However, his earring is located in the [[West Closet]].
+>
+> Each time the party uses the Locator Rod in distance tracking mode, give them the name of the hex that brings them closest to Marlstone from their current location. After 10 tries, they must return to Lyla Cevher to recharge the item.
 
 - When the Locator Rod is activated, it indicates the general direction where Funar can be found.
 - Let the characters know which hex adjacent to their own is the closest to Funar ("the locator rod pulls you toward this adjoining Ordani district hex.") If the party is a fair bit away and multiple hexes seem equally adjacent, you may pick one using your best judgment or substitute a general direction ("the locator rod indicates that Funar is somewhere to the south").
@@ -33,4 +35,4 @@ When the party reaches Marlstone (the hex where Funar is located), the [[Family 
 
 ### Further Use of the Locator Rod
 
-When the party returns to Marlstone, either to scout the manor ([[Casing the Joint]]) or to attend the Gala ([[The Marlstone Gala]]), they move within 200 feet of Funar, activating the Locator Rod's proximity mode. The inset jewel turns to blue and the Locator Rod uses sounds to indicate how close the party is to Funar, as detailed in the item entry and those Events.
+When the party returns to Marlstone, either to scout the manor ([[Casing the Joint]]) or to attend the Gala ([[The Marlstone Gala]]), they move within 200 feet of Funar's earring, activating the Locator Rod's proximity mode. The inset jewel turns to blue and the Locator Rod uses sounds to indicate how close the party is to Funar's earring, as detailed in the item entry and those Events.

@@ -70,7 +70,7 @@ Events that take place in an Area Map allow you move your individual Character T
 
 Events that take place in a Vista show you a portrait of your character and any others nearby — all moving around on an illustrated backdrop of the local environment. Within a Vista, dialogue from an important character can even appear on screen alongside their portrait.
 
-The[[Quests and Events]] page of this guide has further details on the information above, but as a player, you don’t need to worry about whether you’re in a Quest Event, Standalone Event, Main Quest, or Side Quest. In fact, Ember never directly tells you whether you’ve finished every Event for a particular Quest — the choices you make can have far-reaching consequences, and whether you’ve ever *truly* finished addressing a particular story is up to you to figure out.
+The [[Quests and Events]] page of this guide has further details on the information above, but as a player, you don’t need to worry about whether you’re in a Quest Event, Standalone Event, Main Quest, or Side Quest. In fact, Ember never directly tells you whether you’ve finished every Event for a particular Quest — the choices you make can have far-reaching consequences, and whether you’ve ever *truly* finished addressing a particular story is up to you to figure out.
 
 ## The Codex
 

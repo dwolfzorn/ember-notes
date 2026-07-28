@@ -13,6 +13,13 @@ tags: [ember, area-walkthroughs]
 
 The Primordial Bastion is likely not its true name, as it is a structure of truly ancient origin dating back to the first Giants. Its age and lasting impact on this part of the world cannot be overstated, and its purpose remains ultimately unclear. Although it appears to be some kind of light source for the area at first glance, it may also serve as a form of protection or warding against forces of evil. The glowing light at the apex of the central obelisk-like tower resembles a miniature sun and seems connected to Lantyr in some inscrutable way. Clerics or followers of Lantyr will find the light warming when they gaze into its radiance.
 
+> [!warning] Gamemaster
+> #### Gamemaster's Summary
+>
+> This location exists at ⬢ s.3210.2886 in the [[Fogbound Caverns]], west of the [[Lake of Whispers]].
+>
+> - This location is featured in the [[To Fall and Fall Again]] Side Quest.
+
 The bastion is undoubtedly a masterful construction from a people that have long since vanished from Ember. One of the most interesting aspects of this structure is that it seems to have been carefully and meticulously preserved, left in a deliberate state to repel intruders. Traps are carefully laid out; puzzles and the interpretation of runic script require access to inner areas. However, there are hints that the structure was once used for a different purpose, such as small empty holes in some of the walls and areas where the design of the floor’s patterns has clearly been cut away to accommodate defensive features.
 
 ### The Lightless Halls

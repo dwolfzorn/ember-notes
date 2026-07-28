@@ -1,15 +1,15 @@
 ---
-title: Ember Vault Index
+title: Ember Index
 ---
 
-# Ember Vault
+# Ember
 
 ## Area Walkthroughs
 
 ### Arctus Plateau
 
-- [[Arcturel Lower]]
-- [[Arcturel Upper]]
+- [[Arcturel Dives]]
+- [[Arcturel Tradeway]]
 - [[Corpin Sanctuary]]
 - [[Jekeroka Villa]]
 - [[Lake Jinro Lunar Shrine]]
@@ -17,6 +17,7 @@ title: Ember Vault Index
 - [[Oldcraft Lodge]]
 - [[Steed's Point]]
 - [[The Bleak Archive]]
+- [[Ushna Dredging Docks]]
 - [[Vortest Tower]]
 
 ### Forest of Stone
@@ -92,6 +93,10 @@ title: Ember Vault Index
 - [[Spreading Sickness]]
 - [[The Expedition Challenge]]
 - [[Unfinished Business]]
+
+### Chapter 4
+
+- [[Disturbed Earth]]
 
 ## Setting Compendium
 

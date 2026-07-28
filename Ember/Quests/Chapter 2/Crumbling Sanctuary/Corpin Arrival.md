@@ -34,7 +34,7 @@ The party arrives at Corpin Sanctuary, an enclave of the Cindaric Sages nestled 
 >
 > Level 6 (Elite) · Kiska Cindaric Sage
 >
-> ![Mira Wavehorn](../../../assets/image166.webp)
+> ![Mira Wavehorn](../../../assets/image179.webp)
 >
 > The aloof countenance of this Kiska femme is belied by her jocular smile, a disarming grin on the edge of inquisitiveness. Clad in the red robes of a Cindaric Sage and a light Cascilian breastplate, she appears ready for action despite her calm nature. Your instincts tell you that somewhere inside this gentile sage beats the fierce heart of a fellow adventurer.
 
@@ -86,7 +86,7 @@ After meeting with Mira, the party is ushered into the [[Refectory]] where they 
 >
 > Level 12 (Boss) · Human Mystic
 >
-> ![Avwynn Taol](../../../assets/image113.webp)
+> ![Avwynn Taol](../../../assets/image121.webp)
 >
 > Tall, regal, and confident, this human woman carries herself with certainty and exudes a powerful confidence back with a steely, unwavering calm. Her icy blue eyes glimmer sharply against black sclera, betraying some hint of non-human ancestry, or perhaps magical twisting in her blood.
 
@@ -138,7 +138,7 @@ Evesso is, in fact, a malevolent necromancer in disguise, whose insidious plans 
 >
 > Level 6 (Elite) · Ashka Necromancer
 >
-> ![Evesso](../../../assets/image171.webp)
+> ![Evesso](../../../assets/image184.webp)
 >
 > This tall Ashka scholar is draped in the burgundy robes of a Cindaric Sage. His viridian-scaled form is lean and austere, and his countenance betrays an erudite contrition. Surely, this scholar is an accomplished practitioner of the Cindaric arts, if the age of his blue-green squama and the patina of his weathered staff are any indication.
 

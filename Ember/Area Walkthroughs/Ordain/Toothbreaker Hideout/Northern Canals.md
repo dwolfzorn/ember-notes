@@ -18,7 +18,7 @@ tags: [ember, area-walkthroughs]
 >
 > Some sections of the canals here contain rapidly-flowing water, and the characters cannot remain stationary within them. This is one such section. As the characters begin moving southward, they are carried onwards by the flowing current.
 >
-> Outside of combat, this is simply a narrative flourish. Refer to the [[Gameplay Details]] rules for additional details about movement during combat.
+> Outside of combat, this is simply a narrative flourish. Refer to the [[Terrain]] rules for additional details about movement during combat here.
 
 ## Canal Walkway
 

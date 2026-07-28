@@ -16,7 +16,7 @@ tags: [ember, area-walkthroughs]
 >
 > Level 0.25 (Minion) · Light Elemental Elemental Mote
 >
-> ![Light Mote](../../../assets/image094.webp)
+> ![Light Mote](../../../assets/image096.webp)
 >
 > This tiny elemental is a tiny coalesced amount of light that floats slowly through the air. They shine with an inner luminescence that gives them an almost ethereal appearance, and they are constantly in motion.
 

@@ -75,14 +75,14 @@ Just as Lyla opens the folding screen and ushers the party behind it, two people
 >
 > Level 1 · Unknown Unknown
 >
-> ![Hephiss Wandren](../../../assets/image138.webp)
+> ![Hephiss Wandren](../../../assets/image144.webp)
 
 > [!abstract] Juro Wandren
 > **[[Juro Wandren]]**
 >
 > Level 4 · Wirrun Operator
 >
-> ![Juro Wandren](../../../assets/image139.webp)
+> ![Juro Wandren](../../../assets/image145.webp)
 >
 > Though he maintains a pleasant smile, with an expression that appears calculated to seem warm, the tall lanky wirrun is unmistakeably sizing up everyone and everything nearby, letting his gaze brush past any potential items of value before focusing on whatever is directly in front of him. As he finishes his appraisal, he smiles more brightly, though whether that's because it's met his expectations or not is hard to tell.
 

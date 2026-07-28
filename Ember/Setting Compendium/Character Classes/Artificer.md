@@ -34,3 +34,15 @@ Arcane healers and protectors, Battle Smiths are valued members of society throu
 ## Cartographer
 
 In the Ember Cosmos, the Cartographer is more than a simple mapmaker; they are dedicated archivists and chroniclers of the world's changing, expanding reality. Within the Tayan Empire, Cartographers are highly regimented and organized under the direct authority of the Tayan Cartographers' Guild. They focus their efforts on validating and extending the Empire's territorial claims, and their magical practices center on the precise manipulation of arcana and Aethyra, enabling them to survey vast distances with unerring accuracy, create magically anchored boundary markers, and uncover hidden natural resources valuable to the Empire. They are less concerned with lore and more with concrete political power, with many also working within the ranks of the feared Vyrn.
+
+## Reanimator
+
+> [!warning] Gamemaster
+> The term "Reanimator" does not exist in Ember. However, the concept of a reanimator persists via the alternative listed below.
+
+In distant lands of the continent of Kessia, close to the edge of the world, is a realm shrouded in myths and whispered tales of dread: the Jaedith Dominion. It's said that it is a realm ruled by exceptionally cruel Kiska who shun all other ancestries and practice the foulest of magic. Among their ranks are the horrifying Chimerists who reanimate the corpses of dead animals and beasts, stitching them together to create deadly servants, and have twisted undeath itself to suit their dark needs. Chimerists are seldom found elsewhere in the world, especially among cultures who abhor undeath in all its forms (which are the majority); however, some have learned the secrets of the Chimerists and fled the Jaedith Dominion or have been sent to spy upon distant lands in the name of the Shadow-Exarch. Many Chimerists carry a [[Chimerists Collar]] when traveling to help hide their true nature as practitioners of unholy magic and keep any servants they create concealed from curious eyes.
+
+> [!danger] Hazard
+> #### Reviled Magic
+>
+> Caution: Undeath in its many forms is considered highly problematic among the people of Ember generally and goes far beyond merely being frowned upon. It is considered [[Magic and Spellcraft]] and therefore kept hidden if at all possible.

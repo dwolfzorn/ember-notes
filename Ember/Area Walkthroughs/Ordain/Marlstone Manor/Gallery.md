@@ -8,19 +8,12 @@ tags: [ember, area-walkthroughs]
 
 # Gallery
 
-> [!warning] Gamemaster
-> #### Access
->
-> See [[Gameplay Details]] for more on access levels.
->
-> - Before the Gala: **Open** to Decorators, Kitchen Staff; **Restricted** to Gardeners
-> - During the Gala: **Open** to Guests
->
-> See [[Casing the Joint]] for details.
->
-> - Funar Cevher is **in the vicinity.** Note: this is the baseline result when using the Locator Rod in and around Marlstone Manor.
+### [[Casing the Joint]]
 
-### Pre-Gala
+> [!danger] Hazard
+> #### Access Level
+>
+> This area is **Open** to **Decorators** and **Kitchen Staff**. This area is **Restricted** to **Gardeners**.
 
 > [!quote] Read Aloud
 > The benches in the center of the room have been set less for conversation than observation, centering around the large sculpture in the center of the room and a set of smaller paintings that line the walls.
@@ -41,7 +34,12 @@ tags: [ember, area-walkthroughs]
 > - **On Plateaus:** A pair of paintings, one of a river in the Arctus Plateau and the other of a ship sailing the Destine River. The note reads "In the words of the brilliant artist Indigo Ray, pllateaus have their beauty, but they are always best left behind."
 > - **Wanderings:** Portraits of various Ordani individuals, all in the middle of an action, from juggling balls to building Marlstone Manor. The note reads "Always in motion, always towards the top." Any character who succeeds on a `[[/check history 16]]` check, or who has **Knowledge: Trade** knows that these are past members of House Wandren.
 
-### During The Gala
+### [[The Marlstone Gala]]
+
+> [!danger] Hazard
+> #### Access Level
+>
+> This area is **Open**.
 
 > [!quote] Read Aloud
 > Lights on the wall spotlight the paintings on easels beneath them, drawing the eye towards them and away from the large sculpture in the center of the room. Under each painting, a small sign reads "Art by Hephiss Wandren." In the back corner of the room, a rope has been set up, calling attention and blocking access to the door that sits behind it.

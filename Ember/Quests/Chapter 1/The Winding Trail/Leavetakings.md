@@ -79,7 +79,7 @@ Resolved to their separate paths, each of the Strayhearth companions makes a fin
 >
 > Level 2 · Drakon Veiled Chain Investigator
 >
-> ![Ankarist](../../../assets/image096.webp)
+> ![Ankarist](../../../assets/image099.webp)
 >
 > You observe a stern Drakon warrior with a determined expression and piercing golden eyes. Clad in leather armor reinforced with steel, his martial prowess is immediately apparent in the way he handles the hefty greatsword at his side — a hulking blade with a wide, flared tip. This two-handed brand is obviously venerated by the Drakon, who regards the blade with marked discipline. A cloak pin on his breast bears the symbol of the Veiled Chain, the city of Ordain's noble protectorate.
 
@@ -182,7 +182,7 @@ Ankarist urges the party to accompany him on this quest:
 >
 > Level 2 · Human Cevher Heiress
 >
-> ![Lyla Cevher](../../../assets/image097.webp)
+> ![Lyla Cevher](../../../assets/image098.webp)
 >
 > A Human who is sharply dressed in a beautiful and richly decorated coat that proudly displays her wealthy background. It's clear from an initial glance at her overall bearing and clothing style that she is from the city of Ordain itself and while she holds herself with a confident air, she is also friendly and welcoming with a slight smile and small laughter lines appearing around her eyes.
 
@@ -313,7 +313,7 @@ Lyla continues to share several clues that she gleaned while investigating the b
 >
 > Level 2 · Keth Cindaric Aspirant
 >
-> ![Sin Marmot](../../../assets/image099.webp)
+> ![Sin Marmot](../../../assets/image100.webp)
 >
 > A Keth with a friendly demeanor and wide blue eyes and a strange half-mask that covers her mouth. She seems to view everything around her with an air of wondrous innocence but her keen glances also suggest the ability to read any given situation quickly and she may be more capable than she appears at first glance.
 

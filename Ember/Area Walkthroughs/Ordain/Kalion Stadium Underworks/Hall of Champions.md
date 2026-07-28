@@ -42,7 +42,7 @@ This area is currently occupied by a single [[Undaunted Trainee]], along with th
 >
 > Level 1 · Unknown Unknown
 >
-> ![Undaunted Trainee](../../../assets/image054.webp)
+> ![Undaunted Trainee](../../../assets/image057.webp)
 
 > [!danger] Hazard
 > #### Raise the Alarm
@@ -160,6 +160,8 @@ If the party ends up angering Regus Halamattrix, they'll have to fight the phant
 > **[[Regus Halamattrix]]**
 >
 > Level 1 · Unknown Unknown
+>
+> ![Regus Halamattrix](../../../assets/image059.webp)
 
 > [!danger] Hazard
 > #### Regus Halamattrix Tactics

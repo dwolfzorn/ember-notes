@@ -15,7 +15,7 @@ tags: [ember, quests]
 >
 > - Learn more about the ancient [[Shent]].
 > - Open a sealed gateway into a previously unexplored section of the [[Forest of Stone]].
-> - Make use of an important clue learned during [[Giant Moonstone]].
+> - Utilize the ancient Pathward inscription learned during [[Giant Moonstone]]: "the fate of the moons."
 >
 > This Event is depicted using the "Ancient Shent Door" and "Ancient Shent Door (Open)" Levels of the [[Vista: Verdant Paths]] Vista.
 
@@ -32,7 +32,7 @@ Besides the door and some signs of recent activity, there isn’t much to find. 
 >
 > - **Culture: Arcturian**: The character automatically succeeds on this check.
 > - **Culture: Ordani**: The character automatically succeeds on this check.
-> - **Saw banner in** [[Curious Party]]: The character automatically succeeds on this check.
+> - **Saw Banner In** [[Curious Party]]: The character automatically succeeds on this check.
 > - **Met Fulgurite Blades in** [[Lightning in a Bottle]]: The character automatically succeeds on this check.
 >
 > #### The Anachraenum in Brief
@@ -63,7 +63,9 @@ Several old markers, remnants of decorative structures, and sections of collapse
 >
 > #### Passphrase
 >
-> The correct passphrase to open the great door is **"fate of the moons,"** spoken aloud. The language does not matter, as the door itself has Divination magic meant to parse words and intent.
+> The correct passphrase to open the great door is **"fate of the moons,"** which must be spoken aloud in any language. The precise language is irrelevant thanks to powerful Divination magic that has been cast upon the door.
+>
+> The ancient **Language: Pathward** inscription that provides this passphrase can be encountered during the [[Giant Moonstone]] Event of [[The Winding Trail]].
 
 ### Failing Forward
 
@@ -77,7 +79,7 @@ Several old markers, remnants of decorative structures, and sections of collapse
 > The party can also seek outside help to get past the door:
 >
 > - The [[Messenger Coin]] can be used to contact the caravan, allowing the party to speak to either Lyla or Clipper to get help, since both looked at the ancient moonstone and likely remember the inscription.
-> - The Fulgurite Blades who camp nearby (see the [[Over The Moon]] quest) have a shared interest in opening the passage. Their leader, Sajor, has already figured out the passphrase, but she is waiting for her team to finish their studies around camp before moving forward.
+> - The [[Fulgurite Blades]] who camp nearby have a shared interest in opening the passage. Their leader [[Sajor Velex]] has already figured out the passphrase, but she is waiting for her team to finish their studies around camp before moving forward. (See the [[Over The Moon]] Side Quest for more details).
 
 > [!info] Social
 > #### Caravan Assistance
@@ -88,7 +90,7 @@ Several old markers, remnants of decorative structures, and sections of collapse
 >
 > Further discussion of the door and what's been found may lead them to point out:
 >
-> > It seems like the passphrase is focused on the moon and its fate… and "fate of the moons" is in the old passage. Maybe try that?
+> > It seems like the passphrase is focused on the moon and its fate … and "fate of the moons" is in the old passage. Maybe try that?
 >
 > #### Fulgurite Blade Assistance
 >

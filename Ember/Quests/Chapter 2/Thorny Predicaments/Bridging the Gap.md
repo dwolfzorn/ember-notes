@@ -31,7 +31,7 @@ Edivel immediately pinpoints the shouting as coming from The Root, Brevin's cent
 >
 > Level 1 · Unknown Unknown
 >
-> ![Triss Carpel](../../../assets/image154.webp)
+> ![Triss Carpel](../../../assets/image167.webp)
 
 If the party has already met Triss in [[Natural Wonders]] her response is familiar, and grateful.
 
@@ -56,11 +56,11 @@ Otherwise, she introduces herself first.
 >
 > Characters may have some knowledge of the situation as well.
 >
-> A character that succeeds on a `[[/check history 16]]` check know that the seed cities are completely interlinked. If the vines cannot be fixed, the only way to stop them from dragging the city into the canyons is to cut them loose.
+> A character that succeeds on a **Society (DC 16)** check know that the seed cities are completely interlinked. If the vines cannot be fixed, the only way to stop them from dragging the city into the canyons is to cut them loose.
 >
-> A character that succeeds on a `[[/check nature 16]]` check know that if the druids can get the vines to reach across the canyons, it will fix the problem.
+> A character that succeeds on a **Wilderness (DC 16)** check know that if the druids can get the vines to reach across the canyons, it will fix the problem.
 >
-> A character that succeeds on a `[[/check insight 16]]` check can confirm that Triss is telling the truth, but is somewhat understating the problem — the city is in definite danger of being destroyed if the vines are not fixed soon.
+> A character that succeeds on a **Deception (DC 16)** check can confirm that Triss is telling the truth, but is somewhat understating the problem — the city is in definite danger of being destroyed if the vines are not fixed soon.
 >
 > Full answers below.
 
@@ -136,13 +136,12 @@ As Edivel heads off to try to help with the vine weaving, Triss asks the party t
 >
 > Saving the locals can be done with any of the following checks:
 >
-> - A successful `[[/check athletics 14]]` check allows a character to climb the uneven and broken terrain to carry someone to safety.
-> - A successful `[[/check acrobatics 14]]` check allows a character to deftly navigate the unsteady terrain and bring someone to safety.
-> - A successful `[[/check intimidation 14]]` check lets a character can spur the other townsfolk into actually helping someone.
+> - A successful **Athletics (DC 14)** check allows a character to climb the uneven and broken terrain to carry someone to safety.
+> - A successful **Athletics (DC 14)** check allows a character to deftly navigate the unsteady terrain and bring someone to safety.
+> - A successful **Intimidation (DC 14)** check lets a character can spur the other townsfolk into actually helping someone.
 >
-> - **Useful Gear**: A character with [[Unknown]] or a [[Climber's Kit]] automatically succeeds.
-> - **Climb Speed**: A character with a climb speed can easily save people and automatically succeeds. Applying a climbing speed to the trapped townsfolk would also suffice here.
-> - Fly Speed: A character with a fly speed can easily retrieve someone, and automatically succeeds.
+> - **Useful Gear**: A character with a [[Grapnel]] automatically succeeds.
+> - Fly Speed: A character with ability to fly can easily retrieve someone, and automatically succeeds.
 >
 > There are many possible solutions a party may employ to save the trapped townsfolk here, and the above list is not exhaustive.
 >
@@ -158,7 +157,7 @@ As Edivel heads off to try to help with the vine weaving, Triss asks the party t
 > [!tip] Exploration
 > #### Saving the Druid
 >
-> The party can pull the dangling druid up with a successful `[[/check athletics 14]]` check, or by using a spell capable of supporting their weight. If the check fails, the druid begins to slip. After three failures they lose their grip and tumble into the canyon below.
+> The party can pull the dangling druid up with a successful **Athletics (DC 14)** check, or by using a spell capable of supporting their weight. If the check fails, the druid begins to slip. After three failures they lose their grip and tumble into the canyon below.
 
 ### Toxic Tonics
 
@@ -168,14 +167,14 @@ As Edivel heads off to try to help with the vine weaving, Triss asks the party t
 > [!danger] Hazard
 > #### Saving the Townsfolk
 >
-> There are 4 townsfolk within the cloud of fumes have begun to suffer from &reference[suffocation] and will expire once a few minutes have passed without being rescued. Characters can brave the noxious fog and drag a townsperson out with a successful `[[/save con 16]]` saving throw, but a failed save deals `[[/damage 1d6 poison]]` damage to the character and they are forced to fall back to safety without saving anyone.
+> There are 4 townsfolk within the cloud of fumes have begun to suffer from @Condition[Suffocation] and will expire once a few minutes have passed without being rescued. Characters can brave the noxious fog and drag a townsperson out with a successful **Medicine (DC 16)** check, but a failed check causes the character to suffer **Choking Gas (Hazard 3, Fortitude, Health, Poison)** damage to the character and they are forced to fall back to safety without saving anyone.
 >
 > - **Safety Gear**: A character with a [[Protective Mask]] automatically succeeds.
 > - **Immunity**: A character with immunity to poison damage automatically succeeds.
 > - **Resistance**: A character with resistance to poison gains **+2 Boons**.
 > - **Critical Success**: Two townsfolk are rescued with a single success.
 >
-> Characters can also disperse the toxic fumes immediately with the [[Gust of Wind]] Spell (or similar), which allows for all of the townsfolk to be rescued automatically.
+> Characters can also disperse the toxic fumes immediately if they use Spell (or similar), which allows for all of the townsfolk to be rescued automatically.
 
 ### Staking the Ground
 
@@ -187,14 +186,14 @@ As Edivel heads off to try to help with the vine weaving, Triss asks the party t
 > [!tip] Exploration
 > #### Securing the Roots
 >
-> Characters can find the best place to drive the stakes into the ground with a successful `[[/ability str 16]]` check. A total of three spikes need to be successfully set to stabilize the tree. If the party's attempt fails, the stakes break and cannot be used. Triss runs to bring them to the druids, who are able to mend the stakes and give clearer directions about where they should go.
+> Characters can find the best place to drive the stakes into the ground with a successful **Athletics (DC 16)** check. A total of three spikes need to be successfully set to stabilize the tree. If the party's attempt fails, the stakes break and cannot be used. Triss runs to bring them to the druids, who are able to mend the stakes and give clearer directions about where they should go.
 >
-> - **Triss' Example**: A character that watches Triss set a stake and makes a successful `[[/check 18 perception]]` check gains **+2 Boons**.
-> - **Study the Tree**: A character that studies the tree and makes a successful `[[/check 18 nature]]` check gains **+2 Boons**.
+> - **Triss' Example**: A character that watches Triss set a stake and makes a successful **Awareness (DC 18)** check gains **+2 Boons**.
+> - **Study the Tree**: A character that studies the tree and makes a successful **Wilderness (DC 18)** check gains **+2 Boons**.
 >
-> `[[/check 18 nature]]` check to tell where the trunk needs to be stabilized or `[[/check perception]]` to observe what Triss is doing on the other side and follow her lead.
+> **Wilderness (DC 18)** check to tell where the trunk needs to be stabilized or **Awareness (DC undefined)** to observe what Triss is doing on the other side and follow her lead.
 >
-> If characters know where the stakes should be placed, they successfully drive them into the ground with a `[[/check 18 athletics]]` check for each stake, with advantage. If they do not know where to place the stakes, each stake requires a `[[/check 19 athletics]]` check.
+> If characters know where the stakes should be placed, they successfully drive them into the ground with a **Athletics (DC 18)** check for each stake, with advantage. If they do not know where to place the stakes, each stake requires a **Athletics (DC 19)** check.
 
 If the party succeeds, the tree stabilizes and Triss shouts their thanks:
 
@@ -226,12 +225,12 @@ If the party's attempt fails, Triss sends the party to do something else.
 >
 > The herd can be wrangled by the party, and three are successes are required to calm down the herd leaders and move the animals to somewhere they can be contained. The party can achieve this through several different methods:
 >
-> - A successful `[[/check animalhandling 17]]` to read, direct, and wrangle the animals peacefully.
-> - A successful `[[/check intimdation 16]]` check to scare or coerce the animals into cooperating.
-> - A successful `[[/check athletics 18]]` check to physically grapple and push the animals around.
+> - A successful **Wilderness (DC 17)** to read, direct, and wrangle the animals peacefully.
+> - A successful **Intimidation (DC 16)** check to scare or coerce the animals into cooperating.
+> - A successful **Athletics (DC 18)** check to physically grapple and push the animals around.
 >
 > - **Useful Equipment**: A character with [[Unknown]] gains **+2 Boons**
-> - **Appropriate Magic**: A character that casts [[Animal Friendship]] or [[Speak with Animals]] gains **+2 Boons**.
+> - **Appropriate Magic**: A character that uses **Talent: Wildspeaker** gains **+2 Boons**.
 > - **Critical Success**: The check counts as two successes against this challenge.
 
 ### Panic Attack
@@ -250,14 +249,14 @@ If the party's attempt fails, Triss sends the party to do something else.
 > [!danger] Hazard
 > #### Disarming the Thornling
 >
-> Any character with a `[[/skill insight 17 format=long]]` or making a successful `[[/check insight 14]]` check recognizes that the older Thornling is in a state of irrational panic and can not be easily reasoned with at the moment.
+> Any character with a **Awareness (DC 17, Passive)** check recognizes that the older Thornling is in a state of irrational panic and can not be easily reasoned with at the moment.
 >
-> - A character that approaches the older Thornling with intent to disarm them must succeed on a `[[/check athletics 18]]` check. Failing by 5 or more inflicts `[[/damage 1d6 slicing]]` damage as the old Thornling lashes out with their weapon.
-> - Any character can attempt to reason with the old Thornling and get them to relinquish their weapon with a successful `[[/check persuasion 18]]` check.
-> - Any character can attempt to scare the old Thornling into dropping their weapon with a successful `[[/check intimidation 18]]` check.
+> - A character that approaches the older Thornling with intent to disarm them falls awry of a **Sudden Slash (Hazard 3, Fortitude, Health, Slashing)** as the old Thornling lashes out with their weapon.
+> - Any character can attempt to reason with the old Thornling and get them to relinquish their weapon with a successful **Diplomacy (DC 18)** check.
+> - Any character can attempt to scare the old Thornling into dropping their weapon with a successful **Intimidation (DC 18)** check.
 >
-> - **Appropriate Spells**: A character that casts a spell to charm or calm the Old Thornling, such as using [[Charm Person]], [[Command]], [[Hideous Laughter]], or [[Sleep]], automatically succeeds.
-> - Distraction: Any character that distracts the old Thornling with a successful `[[/check peformance 18]]` or `[[/check deception 18]]` check provides **+2 Boons** to another character.
+> - **Appropriate Spells**: A character that casts a spell to charm or calm the Old Thornling, such as using **Controlling Influence**, automatically succeeds.
+> - Distraction: Any character that distracts the old Thornling with a successful **Athletics (DC 18)** or **Deception (DC 18)** check provides **+2 Boons** to another character.
 >
 > Once the Thornling has been disarmed and talked down they are no longer an issue, and the party can move on.
 

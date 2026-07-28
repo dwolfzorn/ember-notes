@@ -1,7 +1,7 @@
 ---
 title: "Dice Mechanics"
 journal: "Game Mechanics / Dice Mechanics"
-source_uuid: "JournalEntry.4Jvl7pY33WgTqOUD"
+source_uuid: "JournalEntry.3jequoGJkgIlkECQ"
 type: ember.lore
 tags: [ember, game-mechanics]
 ---

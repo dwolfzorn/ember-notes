@@ -8,7 +8,7 @@ tags: [ember, quests]
 
 # The Bewilderment
 
-Characters who take ownership of one of the Rune-Marked Varùn artifacts from [[The Bleak Archive]] become cursed by **The Bewilderment**.
+Characters who take ownership of one of the Rune-Marked Varùn artifacts from [[The Bleak Archive]] become cursed by [[The Bewilderment]].
 
 The cursed nature of these items is revealed only when scrutinized with **Talent: Recognize Spellcraft**. Exerting a distinct feeling of ownership towards a Rune-Marked item immediately curses you until the curse is removed with a **Counterspell (Control, Aspect, Negate, DC 16)**. Removing the Rune-Marked item from your possession fails to end the curse.
 
@@ -19,6 +19,13 @@ While you are cursed by the Rune-Marked item, you suffer from the confusing effe
 The triggering condition for this curse is unusual. Touch, inspection, or other cursory exchanges with an afflicted artifact will not trigger it, but the curse immediately comes into effect as soon as a character views such an item as *belonging to them*.
 
 For example, [[Liestra Grann]] is surprisingly unaffected because the antiquarian has no wish to possess the artifacts, only to sell them to a collector. It is Liestra's unfortunate customers who become inevitably afflicted by The Bewilderment.
+
+> [!warning] Gamemaster
+> #### How To: Awarding Blessings and Curses
+>
+> If a character becomes afflicted with [[The Bewilderment]], drag the corresponding Feature onto the PC's character sheet from the [[Ember]] Compendium in the sidebar.
+>
+> Please note: you will need to track the duration of this Effect on your own. Be sure to remove The Bewilderment from a PC's character sheet when and if necessary.
 
 > [!danger] Hazard
 > #### The Bewilderment

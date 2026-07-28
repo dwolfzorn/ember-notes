@@ -8,6 +8,13 @@ tags: [ember, gazetteer]
 
 # Mythspire Overlook
 
+> [!warning] Gamemaster
+> #### Gamemaster's Summary
+>
+> This location exists at ⬢ s.3195.2889 in the [[Mycelian Expanse]], northwest of [[Voidspan Bridge]].
+>
+> - This location is featured in the [[Ancient Paths]] Main Quest.
+
 This wide plateau covers a mile of level, elevated land, and has been marked by the footsteps of countless travelers now all long forgotten by time. Signs of these travelers can still be found here, but they are scattered and insignificant, with any items of value having long been removed.
 
 ### Environment

@@ -8,16 +8,10 @@ tags: [ember, area-walkthroughs]
 
 # Workshop
 
-> [!warning] Gamemaster
-> #### Access to Hephiss' Workshop
+> [!danger] Hazard
+> #### Access Level
 >
-> Access to Hephiss' Workshop is **forbidden** at all times. See [[Gameplay Details]] for more on access levels.
->
-> #### Locating Funar Cevher
->
-> See [[Casing the Joint]] for details.
->
-> - Funar Cevher is **in the vicinity.** This is the baseline result within Marlstone Manor.
+> This area is **Forbidden**.
 
 > [!quote] Read Aloud
 > Artifacts of all shapes and sizes lie scattered across wooden tables and under magnifying glasses — many half-dismantled or gouged by the tools that sit nearby. Along the edge of the room, wrapped packages sit waiting, some fully enclosed and some partially ripped open, thelr contents spread out beside them as if someone has been searching them for one thing in particular.

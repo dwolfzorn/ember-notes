@@ -29,7 +29,7 @@ Make sure the Mutated Ultra Drake begins with the status "Invisible" or starts h
 >
 > Level 6 (Boss) · Afflicted Pallid Drake Ultra Drake
 >
-> ![Mutated Ultra Drake](../../../assets/image014.webp)
+> ![Mutated Ultra Drake](../../../assets/image015.webp)
 >
 > Warped and misshapen, this monster is covered in thick scales, and scuttles forward on half a dozen limbs protruding haphazardly from its grotesque form. Its head is crowned with a flaring array of teal horns which extend into long, uneven spikes that run halfway down its spine. The creature's elongated mouth is framed by six finger-like appendages ready to guide pray into its jagged teeth. Scabbed over brown pustules blemish its body, hinting at an illness in remission.
 

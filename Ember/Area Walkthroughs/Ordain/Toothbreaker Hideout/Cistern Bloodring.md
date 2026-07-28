@@ -20,7 +20,7 @@ Unless the party has been invited into this area as guests or they are escorted 
 >
 > Level 1 · Unknown Unknown
 >
-> ![Toothbreaker Scaletamer](../../../assets/image030.webp)
+> ![Toothbreaker Scaletamer](../../../assets/image032.webp)
 
 > [!tip] Exploration
 > #### Ukkfal's Key
@@ -52,7 +52,7 @@ Parties that are invited guests of the Toothbreakers are free to mingle here, sp
 > [!danger] Hazard
 > #### Toothbreakers
 >
-> If provoked into combat, the Toothbreakers here will follow the tactics described in [[Gameplay Details]].
+> If provoked into combat, the Toothbreakers here will follow the tactics described in [[Gazetteer Reference]].
 >
 > #### Raising the Alarm
 >
@@ -118,7 +118,7 @@ If the party is victorious in all four of these challenges, Raster Thorn himself
 >
 > Level 1 · Unknown Unknown
 >
-> ![Raster Thorn](../../../assets/image034.webp)
+> ![Raster Thorn](../../../assets/image035.webp)
 
 > [!danger] Hazard
 > #### Raster Thorn

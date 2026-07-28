@@ -51,7 +51,7 @@ Brynna begins her speech to the gathered people:
 >
 > Level 1 · Unknown Unknown
 >
-> ![Brynna Verocorrt](../../../assets/image132.webp)
+> ![Brynna Verocorrt](../../../assets/image139.webp)
 
 > [!quote] Read Aloud
 > Brynna stands before the crowd.
@@ -121,7 +121,7 @@ The party should be given their third and last chance to spot danger here. They 
 >
 > Level 1 · Unknown Unknown
 >
-> ![Wandren Tracer](../../../assets/image133.webp)
+> ![Wandren Tracer](../../../assets/image140.webp)
 
 #### Orbis Attunement: Cover Blown
 
@@ -156,14 +156,14 @@ If the party manages to maintain their cover, each participating advances their 
 >
 > Level 1 · Unknown Unknown
 >
-> ![Mutagist Grenadier](../../../assets/image134.webp)
+> ![Mutagist Grenadier](../../../assets/image141.webp)
 
 > [!abstract] Wandren Patroller
 > **[[Wandren Patroller]]**
 >
 > Level 1 · Unknown Unknown
 >
-> ![Wandren Patroller](../../../assets/image049.webp)
+> ![Wandren Patroller](../../../assets/image050.webp)
 
 Once the fight begins, refer to [[Main Floor]] in the [[The Bronze Rask Theater]] area walkthrough.
 

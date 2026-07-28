@@ -69,7 +69,7 @@ If the party speaks to Rattletrap in Steed's Point Fields, he will engage in gen
 >
 > Level 1 · Unknown Unknown
 >
-> ![Kali Andrella](../../../assets/image084.webp)
+> ![Kali Andrella](../../../assets/image087.webp)
 
 Once the party has reached Kali, they may speak to her generally about Steed's Point as noted in the [[Kali's Cottage]] area walkthrough. When there is a pause in the conversation or party questions, Edivel interrupts:
 
@@ -85,7 +85,7 @@ Once the party has reached Kali, they may speak to her generally about Steed's P
 > [!info] Social
 > #### The Situation At Hand
 >
-> Kali is focused on deciding what to do next about her situation in Steed's Point — until she does, she can't be of any help to Edivel. She can share the following, but always comes back to her big decision. With a `[[/check insight 15]]` check, characters know that Kali legitimately wants to help them, but can't focus until she figures her own situation out.
+> Kali is focused on deciding what to do next about her situation in Steed's Point — until she does, she can't be of any help to Edivel. She can share the following, but always comes back to her big decision. With a **Diplomacy (DC 15)** check, characters know that Kali legitimately wants to help them, but can't focus until she figures her own situation out.
 >
 > - The vineweaving technique is a tricky one, hard to master on your own. Edivel will need training from her or another agrimage to learn it. They will also need a colorful flower found in Bramble Gully, Everbloom.
 > - The [[Handcarved Vine Wand]] is indeed something she made. She used to make several magical items and trade them to those who visited Steed's Point.
@@ -124,7 +124,7 @@ With the party waiting for her to decide, Kali asks for help deciding what to do
 > [!info] Social
 > #### Reading Kali
 >
-> A character that makes a successful `[[/check insight 17]]` check recognizing the following about Kali:
+> A character that makes a successful **Diplomacy (DC 17)** check recognizing the following about Kali:
 >
 > - She can be pushed toward staying by emphasizing the legacy of Steed's Point and the value of maintaining and or even rebuilding the settlement.
 > - She can be pushed toward leaving by giving her somewhere else to focus her energy, such as settling down somewhere else, seeking out her daughter, or by convincing her that Steed's Point is fine without her.
@@ -133,11 +133,11 @@ With the party waiting for her to decide, Kali asks for help deciding what to do
 >
 > The party can convince Kali to take a specific course with three successful checks to convince Kali. The party can use any of the following skill checks to achieve this:
 >
-> - A successful `[[/check performance 18]]` check to talk up the wonders of the Arctus Plateau outside of Steed’s Point.
-> - A successful `[[/check arcana 18]]` check to convince Kali that Steed’s Point will survive without her if she sets up the right agrimagical items before she leaves.
-> - A successful `[[/check persuasion 16]]` check to suggest a place to resettle, or to push a character's specific agenda for Kali's future.
-> - A successful `[[/check intimidation 16]]` check to emphasize the danger of the Jurtak and wildlife in the area, either to push Kali to secure the settlement better, or to abandon it.
-> - A successful `[[/check history 18]]` check to emphasize the importance of Steed's Point as an Arcturian settlement and hub for local Agrimages can push Kali toward rebuilding the town.
+> - A successful **Performance (DC 18)** check to talk up the wonders of the Arctus Plateau outside of Steed’s Point.
+> - A successful **Arcana (DC 18)** check to convince Kali that Steed’s Point will survive without her if she sets up the right agrimagical items before she leaves.
+> - A successful **Diplomacy (DC 16)** check to suggest a place to resettle, or to push a character's specific agenda for Kali's future.
+> - A successful **Intimidation (DC 16)** check to emphasize the danger of the Jurtak and wildlife in the area, either to push Kali to secure the settlement better, or to abandon it.
+> - A successful **Society (DC 18)** check to emphasize the importance of Steed's Point as an Arcturian settlement and hub for local Agrimages can push Kali toward rebuilding the town.
 >
 > - **Moriah's Note**: Giving Kali the [[A Farewell Note]] grants an automatic success, and pushes Kali toward abandoning Steed's Point to seek out her daughter.
 > - **Knowledge: Trade** : Knowledge of local trade hubs and activity can be used to push Kali toward rebuilding or abandoning Steed's Point.

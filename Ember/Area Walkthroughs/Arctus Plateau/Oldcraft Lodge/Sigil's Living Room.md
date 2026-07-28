@@ -22,7 +22,7 @@ The man standing in the room is the Shard God Sigil. He is a friendly yet confus
 >
 > Level 18 (Boss) · Human Shard God
 >
-> ![Sigil](../../../assets/image092.webp)
+> ![Sigil](../../../assets/image094.webp)
 >
 > The old man is small, dwarfed by his large cloak, a long winding beard that gains a deep gleam of magic where it curls around his waist, and the sheer number of papers around him. And yet he is focused, moving his eyes and hands seamlessly from one to the next, as if each open scroll and loose sheet of vellum is in precisely the place he expected and needed it to be. He looks at you much the same way, glancing up as he flips through a book in his hands and makes a precise note in the margins, as if assessing you to determine where you belong.
 

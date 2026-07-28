@@ -39,3 +39,10 @@ The swarm of nature spirits that empower these esoteric Rangers stem from a deep
 ## Winter Walker
 
 Winter Walkers are Rangers who excel in the frigid, unforgiving temperatures of Ember's coldest biomes — such as the hoary expanse of the [[Vaznor]], the glittering domains of the [[Rhivan]] southwest of Kessia, the jagged peaks of the Spine of Ember, or even the haunted unknown wilderness of far-off [[Jekaros]]. Notably, the [[Fikost]] people of [[Rimedrift]] and the [[Wardcall]] people of the Wintec, Katic, and Pertta kingdoms are known to venerate Winter Walkers among their ranks. Winter Walkers of Ember are also known to be familiar with the strange arcana related to these glacial areas as well, like the powerful Wardscale armor of the Wardcall and the portal technology of the Rhivan [[Star Mages]].
+
+## Hollow Warden
+
+> [!warning] Gamemaster
+> The term "Hollow Warden" does not exist in Ember. However, the concept of a Hollow Warden persists via the alternative listed below.
+
+Deep within the deathly depths of Oakengarde reside the Avachrusk, [[Vrjnhar]] who have become one with the terrifying ecosystem around them by becoming beasts themselves. Even among the [[Oaken]], the Avachrusk are often the subject of wild tales and long sagas, ancient and bloodthirsty beings that hunt terrors lurking deep within the Oakengarde Forests. In truth, the Avachrusk are individuals who have learned many ancient and terrible secrets, surviving terrifying encounters and transforming themselves as a last-ditch effort to survive. Their minds are often warped by their actions, and they see danger everywhere, making them merciless and paranoid in equal measure. Avachrusk are rare outside Oakengarde, but they sometimes travel to far-off lands in pursuit of ancient secrets of the wilds or merely to destroy deadly beasts they see as a challenge or threat.

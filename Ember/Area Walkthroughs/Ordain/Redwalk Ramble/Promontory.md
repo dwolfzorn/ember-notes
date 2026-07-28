@@ -33,7 +33,7 @@ This hallucinatory terrain feature may lack a combination of walls, lighting, so
 >
 > Level 1 · Unknown Unknown
 >
-> ![Chiaroscuran Beast](../../../assets/image035.webp)
+> ![Chiaroscuran Beast](../../../assets/image036.webp)
 
 > [!danger] Hazard
 > #### Magical Anchor
@@ -55,7 +55,7 @@ This hallucinatory terrain feature may lack a combination of walls, lighting, so
 >
 > Level 1 · Unknown Unknown
 >
-> ![Falar](../../../assets/image027.webp)
+> ![Falar](../../../assets/image028.webp)
 
 > [!danger] Hazard
 > #### Veteran Mage

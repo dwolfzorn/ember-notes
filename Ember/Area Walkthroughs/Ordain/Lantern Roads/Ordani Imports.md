@@ -8,59 +8,65 @@ tags: [ember, area-walkthroughs]
 
 # Ordani Imports
 
-> [!warning] Gamemaster
-> #### Getting to the North of Lantern Roads
->
-> - **Shadowbox Alleys:** Characters can pursue the Shadowbox Alleys path to Beacon Brigade territory by searching the vicinity of the shop. An entrance to the Beacon Brigade side of town can be found by going past or through Hettie's Divinations.
->
-> There is no information about the rooftop route or bluffing in this area.
-
 ### Outside Of The Shop
 
 > [!quote] Read Aloud
-> The shadowbox underneath the sign Ordani Imports displays a silhouette of a ship moving across the waves from one side of the window to the other. When it moves out of sight on the far side of the window, it appears again on the near side, creating a sense that the ship is always in motion.
+> Beneath a sign that reads "Ordani Imports," the shop's shadowbox window shows a ship crossing a dark sea. When the ship passes out of sight on one side of the window, it appears again on the other, moving in a steady loop across the waves.
 
-No one is currently inside Ordani imports.
+No one is currently inside Ordani Imports. The door is closed, but unlocked.
 
 > [!tip] Exploration
-> #### Outside Observations
+> #### Observing the Exterior
 >
-> Before going inside the shop, the party can observe the following:
+> The shop is quiet from the outside, with no visible movement behind the shadowbox window.
 >
-> - With a successful `[[/check perception 17]]` check, characters note the absolute lack of sound from inside the store.
-> - With a successful `[[/check investigation 17]]` check of the door, characters can see that the hinges of the door have been greased and there is no dust around them. It's likely the door has been
-> - The door to the shop has been left unlocked.
-> - There is a narrow passageway between Ordani Imports and Hettie's Divinations (the Trapped Alleyway, noted below).
+> Any character with a `[[/skill perception 17 passive format=long]]` or who makes a successful **Awareness (DC 15)** check notices the complete lack of sound from inside the shop.
+>
+> Any character who makes a successful **Awareness (DC 15)** check while investigating the door notices that its hinges have been greased, and that no dust has gathered around the doorframe.
+
+Characters can reveal the shop interior by shining light on the shadowbox window.
+
+> [!tip] Exploration
+> #### Seeing Behind the Shadowbox
+>
+> If a light source is brought within 10 feet of the shadowbox window, the display becomes transparent enough to see through.
+>
+> If the party looks through the lit shadowbox, read the following:
+>
+> > The ship and waves fade from the glass. Behind them, you can see a quiet office lined with empty desks. Small trinkets sit across the desktops, including several large lanterns. The shop appears unoccupied.
+
+A narrow alley runs between Ordani Imports and Hettie's Divinations.
 
 > [!danger] Hazard
 > #### Trapped Alleyway
 >
-> The narrow alleyway between Hettie's Divinations and Ordani Imports contains a spike trap coated with Paralyzing Poison and rigged to alarm the Beacon Brigade.
+> The alleyway between Ordani Imports and Hettie's Divinations contains a spike trap hidden beneath the wooden floorboards. The trap is coated with a paralytic poison and rigged to an alarm bell used by the Beacon Brigade.
 >
-> - Characters who succeed on a `[[/check perception 17]]` check can detect the trap beneath the wooden floorboards.
-> - The trap can be disarmed by succeeding on a `[[/check 18 sleightofhand]]` check.
-> - If the trap cannot be disarmed, or a party member steps on it without disarming it, spikes shoot up from the ground.
->   - Anyone who has stepped on the trap must make a `[[/save dexterity 17]]` saving throw.
->   - On a failure, they take `[[/damage 1d10 piercing]]` damage and are inflicted with Paralyzing Poison.
->   - On a success, they take half damage. In addition, the trap triggers an alarm bell that alerts any members of the Beacon Brigade within 60 feet.
-
-> [!tip] Exploration
-> #### Seeing Behind The Shadowbox
+> Any character with a `[[/skill perception 19 passive format=long]]` or who makes a successful **Awareness (DC 17)** check notices the trap beneath the floorboards before stepping on it.
 >
-> If characters wish to see what is behind the shadowbox window, they must cast light on the shadowbox from outside. This can be done using any spell that casts light, including [[Light]], [[Dancing Lights]], or similar, or by lighting a conventional torch or candle.
+> Any character who makes a successful `[[/skill sleightofhand 18 tool=thief]]` can disarm the trap.
 >
-> Once the source of light is within 10 feet of the window, the party can clearly see what is happening inside, but are visible to any members of the Beacon Brigade who are inside the shop or within 30 feet of the light source.
-
-If characters see behind the shadowbox, they see an office filled with empty desks:
-
-> [!quote] Read Aloud
-> No one is inside the office, and all that you can see clearly are a set of empty desks that line the walls of the room. A number of small trinkets and artifacts are scattered across them, including several large lanterns.
+> Any character who triggers the trap causes spikes to shoot up from the floor. The character must make a `[[/save dexterity 17]]` saving throw or take `[[/damage 1d10 Piercing]]` damage and become &reference[poisoned] for `[[/gmroll 1d4]]` hours. While &reference[poisoned] in this way, the character is also &reference[paralyzed].
+>
+> When the trap is triggered, an alarm bell rings, alerting any members of the Beacon Brigade within 60 feet.
 
 ### Inside The Shop
 
-The shop's desks hold a number of small trinkets of no particular value, including 3 different large unlit lanterns - one in the ornate style of Ordain, one in the well-crafted but practical style of the Arctus Plateau, and one that is all sharp angles, of unknown origin. None have any particular value and all can be taken without a check. There are also a number of papers near the items, which appear to be some kind of accounting system.
+> [!quote] Read Aloud
+> The shop is arranged more like an office than a showroom. Desks line the walls, each covered with small trinkets and papers. Three large lanterns sit among the clutter, all unlit.
 
 > [!tip] Exploration
-> #### Deciphering the Notes
+> #### Searching Ordani Imports
 >
-> The notes are written in what appears to be a short-hand or accounting language of some kind.
+> A simple search reveals the following:
+>
+> - Trinkets scattered across the desks.
+> - Three distinctive lanterns.
+> - Papers written in a shorthand accounting language.
+>
+> The three lanterns are not especially valuable, but each has a distinct style: one is made in the ornate style of Ordain, one is built in the practical style of the Arctus Plateau, and one has sharp angles and no obvious cultural origin.
+>
+> Any character who examines the notes and makes a successful **Awareness (DC 15)** check can determine that they track payments, pickups, and deliveries made through Ordani Imports. The entries do not use full names, but the repeated marks, totals, and dates suggest the shop has been used as a bookkeeping front for the Beacon Brigade.
+>
+> - **Knowledge: Crime**: The character gains **+2 Boons** on this check.
+> - **Critical Success**: The character can also identify several entries as protection payments from nearby shops in Lantern Roads.

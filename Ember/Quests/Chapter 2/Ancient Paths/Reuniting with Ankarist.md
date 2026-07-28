@@ -79,7 +79,7 @@ If the party follows Mattock's simple directions, they'll find their way soon en
 >
 > Level 4 · Kivahr Thief
 >
-> ![Liestra Grann](../../../assets/image150.webp)
+> ![Liestra Grann](../../../assets/image163.webp)
 >
 > > [!quote] Read Aloud
 > > A muscular Kivahr femme clad in in loose layers of cloth and leather leans upon the wall with casual composure. A side-parted bob of tawny hair hangs just below her chin as she scrutinizes some curious trinket using a small eyepiece. A wry, expressive grin rises to meet you moments before she sizes you up with amber-colored eyes, and you can't help but spot a stony ersatz mace strapped to her side. It's quite evident she means business.
@@ -141,7 +141,7 @@ Once Liestra departs, Ankarist has a few updates for the party.
 >
 > Level 2 · Drakon Veiled Chain Investigator
 >
-> ![Ankarist](../../../assets/image096.webp)
+> ![Ankarist](../../../assets/image099.webp)
 >
 > You observe a stern Drakon warrior with a determined expression and piercing golden eyes. Clad in leather armor reinforced with steel, his martial prowess is immediately apparent in the way he handles the hefty greatsword at his side — a hulking blade with a wide, flared tip. This two-handed brand is obviously venerated by the Drakon, who regards the blade with marked discipline. A cloak pin on his breast bears the symbol of the Veiled Chain, the city of Ordain's noble protectorate.
 

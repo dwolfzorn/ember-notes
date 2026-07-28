@@ -52,7 +52,7 @@ Roll on the table below to determine which nightmare the character experiences.
 >
 > The dreaming character can use any number of the methods below to interpret the nightmare.
 >
-> If the character makes a successful **Arcana (DC 13)** check, they recognize that the surreal expanse of the subterranean landscape was adorned with telltale signs and symbology of illusion and divination magic — in a nightmare more vivid than any they have experienced before.
+> If the character makes a successful **Arcana (DC 13)** check, they recognize that the surreal expanse of the subterranean landscape was adorned with telltale signs and symbols of illusion and divination magic — in a nightmare more vivid than any they have experienced before.
 >
 > - **Critical Success**: The character also recalls the vile signs of otherworldly eldritch magic lurking among those tenebrous dead-end halls, in both the menacing taunts of the skeletons and the baubles they clutched in their bony hands.
 >

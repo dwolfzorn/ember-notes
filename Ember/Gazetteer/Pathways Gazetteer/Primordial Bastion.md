@@ -8,6 +8,13 @@ tags: [ember, gazetteer]
 
 # Primordial Bastion
 
+> [!warning] Gamemaster
+> #### Gamemaster's Summary
+>
+> This location exists at ⬢ s.3210.2886 in the [[Fogbound Caverns]], west of the [[Lake of Whispers]].
+>
+> - This location is featured in the [[To Fall and Fall Again]] Side Quest.
+
 The bastion is undoubtedly a masterful construction from a people that have long since vanished from Ember. One of the most interesting aspects of this structure is that it seems to have been carefully and meticulously preserved, left in a deliberate state to repel intruders. Traps are carefully laid out; puzzles and the interpretation of runic script require access to inner areas. However, there are hints that the structure was once used for a different purpose, such as small empty holes in some of the walls and areas where the design of the floor’s patterns has clearly been cut away to accommodate defensive features.
 
 ### The Lightless Halls

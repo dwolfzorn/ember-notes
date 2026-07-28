@@ -59,7 +59,7 @@ Once the party has had sufficient time to conduct an initial survey of the Shrin
 >
 > Level 10 (Elite) · Garganthus Deep Behemoth
 >
-> ![Juvenile Garganthus](../../../assets/image072.webp)
+> ![Juvenile Garganthus](../../../assets/image076.webp)
 >
 > You behold the hulking form of a quadrupedal reptilian creature with a long prehensile tail and tenebrous skin. Its agile saurian head is marked by multiple sets of bulbous pearlescent eyes, two fan-shaped ears of prodigious length, and a mouth lined with spear-like fangs. The creature's massive arms end in three-fingered hands with formidable claws, and its muscular legs look as though they could mount the toughest terrain with ease.
 

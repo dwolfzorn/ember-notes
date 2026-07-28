@@ -18,7 +18,7 @@ The gore bird swarms can be directly engaged in combat or avoided via stealth.
 >
 > Level 4 · Gore Bird Swarm
 >
-> ![Gore Bird Ravage](../../../assets/image080.webp)
+> ![Gore Bird Ravage](../../../assets/image083.webp)
 >
 > A large swarm of tiny, keen-eyed birds circles above, their charcoal-colored feathers a stark contrast to their sharp red beaks. It is nearly impossible to see how many of them there are, but as they grow closer, making an unsettling cawing noise and rustling their crimson tailfeathers, you can smell the rot of the putrid flesh they so often feast on.
 
@@ -41,7 +41,7 @@ If parties enter the Mill, they encounter a single Jurtak warrior, which cowers 
 >
 > Level 4 · Jurtak Berserker
 >
-> ![Jurtak Warrior](../../../assets/image081.webp)
+> ![Jurtak Warrior](../../../assets/image084.webp)
 >
 > You behold a lean, six-eyed saurian creature, its body clad in fragments of bone and its scales glinting in the dim light. The acrid scent of poison tinges the air, dripping from the bone blade held in its clawed hands. Its long, semi-prehensile tail moves with a predator's anticipation, and a forked tongue flicks across twisted lips as its eyes fix upon you with a predatory malice.
 

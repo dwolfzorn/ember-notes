@@ -33,7 +33,7 @@ Two Silver Beam Engineers work here at the forge, and appear to be scrapping and
 >
 > Level 4 · Automaton Servitor
 >
-> ![Silver Beam Engineer](../../../assets/image182.webp)
+> ![Silver Beam Engineer](../../../assets/image194.webp)
 >
 > Wearing a dark apron over a grey and blue uniform of the Silver Beam mining consortium, this technician is one of many hired to tackle technical issues for the company. Not outwardly armed or armored, they do have packs of tools and resources they can use to make field repairs and assist in the operation of Silver Beam machinery.
 
@@ -44,7 +44,7 @@ Two Silver Beam Engineers work here at the forge, and appear to be scrapping and
 >
 > Appropriate disguises can be achieved via the following:
 >
-> - [[Silver Beam Uniform]], which can be acquired at the Silver Beam HQ in Upper Arcturel and at the Inkaro Pools.
+> - [[Silver Beam Uniform]], which can be acquired at the Silver Beam HQ in Arcturel and at the Inkaro Pools.
 > - Use of illusionary magic or items to mask a character's appearance and clothing.
 > - Alternately, a Disguise Kit can be used , but the character has **-2 Banes**on the Deception check.
 
@@ -162,7 +162,7 @@ If the party manages to stay unseen but gets within 20 feet of the engineers, th
 >
 > Level 2 · Automaton Servitor
 >
-> ![Silver Beam Servitor](../../../assets/image179.webp)
+> ![Silver Beam Servitor](../../../assets/image192.webp)
 >
 > This humanoid construct is made of brushed silver steel with blue accents and bears the distinctive logo of the Silver Beam Consortium. It moves with a smooth precision punctuated with all the whirs and swishes of machinery hidden under it's glossy metal shell.
 
@@ -171,7 +171,7 @@ If the party manages to stay unseen but gets within 20 feet of the engineers, th
 >
 > Level 4 · Automaton Servitor
 >
-> ![Silver Beam Engineer](../../../assets/image182.webp)
+> ![Silver Beam Engineer](../../../assets/image194.webp)
 >
 > Wearing a dark apron over a grey and blue uniform of the Silver Beam mining consortium, this technician is one of many hired to tackle technical issues for the company. Not outwardly armed or armored, they do have packs of tools and resources they can use to make field repairs and assist in the operation of Silver Beam machinery.
 
@@ -189,7 +189,7 @@ If the party manages to stay unseen but gets within 20 feet of the engineers, th
 >
 > Level 4 · Vorg Burrower
 >
-> ![Vorg](../../../assets/image075.webp)
+> ![Vorg](../../../assets/image079.webp)
 >
 > Seemingly endless segments of metal speed across the ground, dragged by the clicking and clacking of countless legs on each side and multiple pairs of surprisingly dexterous pincers. Within this metallic body, a orange-yellow glow is visible from the creature's pointed spine and through what passes for eyes, burning with a heat that emanates from its body into the nearby air.
 
@@ -232,7 +232,7 @@ Once the Vorg appears in combat, read the following aloud:
 >
 > Level 4 · Vorg Burrower
 >
-> ![Vorg](../../../assets/image075.webp)
+> ![Vorg](../../../assets/image079.webp)
 >
 > Seemingly endless segments of metal speed across the ground, dragged by the clicking and clacking of countless legs on each side and multiple pairs of surprisingly dexterous pincers. Within this metallic body, a orange-yellow glow is visible from the creature's pointed spine and through what passes for eyes, burning with a heat that emanates from its body into the nearby air.
 

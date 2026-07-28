@@ -20,7 +20,7 @@ Once the party enters the room by only a few steps, they are ambushed by the six
 >
 > Level 1 · Unknown Unknown
 >
-> ![Animated Rune Tome](../../../assets/image038.webp)
+> ![Animated Rune Tome](../../../assets/image039.webp)
 
 > [!danger] Hazard
 > #### Animated Rune Tome **Tactics**

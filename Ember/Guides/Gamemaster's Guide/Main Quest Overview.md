@@ -17,11 +17,11 @@ tags: [ember, guides]
 
 ## A Shard of Fear
 
-The title of Ember's main story is *A* *Shard of Fear*, a deliberate moniker that acts as a bit of a spoiler once certain narrative information becomes available to the players. What the player characters of this grand adventure will eventually learn is one of the world's best kept secrets: many of the events that have swept them into the chaos and fatefulness of an emergent conflict in the [[Arctus Plateau]] revolve around the [[Vile Dragons]] known as [[Zerranyss]] — a powerful spellcaster who has their insidious sights set upon godhood.
+The title of Ember's main story is *A* *Shard of Fear*, a deliberate moniker that acts as a bit of a spoiler once certain narrative information becomes available to the players. What the player characters of this grand adventure will eventually learn is one of the world's best kept secrets: many of the events that have swept them into the chaos and fatefulness of an emergent conflict in the [[Arctus Plateau]] revolve around the [[Vile Dragons]] known as **Zerranyss** — a powerful spellcaster who has their insidious sights set upon godhood.
 
 The machinations of Zerranyss are not readily apparent at first, and early events will serve to establish the lore of the Ember world (its [[Ancestries]], [[Cultures]], places, and paradigms), gently exposing players to this dazzling new setting and its associated gameplay. The first few chapters of the game focus on a slow reveal of early plot elements while foreshadowing the greater story. However, by the end of Chapter 2, it becomes clear that there is something very sinister behind the calamitous and destructive events that have ravaged the Arctus Plateau in recent years.
 
-Zerranyss is first encountered during Chapter 3, although indirectly via the humanoid guise of [[Vinarith]]. Zerranyss' actions and ambitions directly cause the central plotline of the Ember campaign. The vile dragon is a cunning and strategic villain, and has orchestrated a complex plan to undermine and usurp the seats of power in [[Ordain]] — one of the great cities of the world and (most importantly) an access point to the [[Shard Caverns]], where Zerranyss believes a powerful [[Ascendancy]] may be found. Such an artifact would allow Zerranyss to undertake an ascension ritual which, if successful, would imbue the dragon with the power of a [[Shard Gods]].
+Zerranyss is first encountered during Chapter 3, although indirectly via the humanoid guise of [[Vinarith]]. Zerranyss' actions and ambitions directly cause the central plotline of the Ember campaign. The vile dragon is a cunning and strategic villain, and has orchestrated a complex plan to undermine and usurp the seats of power in [[Ordain]] — one of the great cities of the world and (most importantly) an access point to the so-called "Shard Caverns," where Zerranyss believes a powerful [[Ascendancy]] may be found. Such an artifact would allow Zerranyss to undertake an ascension ritual which, if successful, would imbue the dragon with the power of a [[Shard Gods]].
 
 ## Chapter 1
 
@@ -32,7 +32,7 @@ The Chapter 1 Main Quest in Ember is called [[The Winding Trail]] and covers the
 >
 > Level 2 · Human Cevher Heiress
 >
-> ![Lyla Cevher](../../assets/image097.webp)
+> ![Lyla Cevher](../../assets/image098.webp)
 >
 > A Human who is sharply dressed in a beautiful and richly decorated coat that proudly displays her wealthy background. It's clear from an initial glance at her overall bearing and clothing style that she is from the city of Ordain itself and while she holds herself with a confident air, she is also friendly and welcoming with a slight smile and small laughter lines appearing around her eyes.
 
@@ -41,7 +41,7 @@ The Chapter 1 Main Quest in Ember is called [[The Winding Trail]] and covers the
 >
 > Level 2 · Drakon Veiled Chain Investigator
 >
-> ![Ankarist](../../assets/image096.webp)
+> ![Ankarist](../../assets/image099.webp)
 >
 > You observe a stern Drakon warrior with a determined expression and piercing golden eyes. Clad in leather armor reinforced with steel, his martial prowess is immediately apparent in the way he handles the hefty greatsword at his side — a hulking blade with a wide, flared tip. This two-handed brand is obviously venerated by the Drakon, who regards the blade with marked discipline. A cloak pin on his breast bears the symbol of the Veiled Chain, the city of Ordain's noble protectorate.
 
@@ -50,7 +50,7 @@ The Chapter 1 Main Quest in Ember is called [[The Winding Trail]] and covers the
 >
 > Level 2 · Keth Cindaric Aspirant
 >
-> ![Sin Marmot](../../assets/image099.webp)
+> ![Sin Marmot](../../assets/image100.webp)
 >
 > A Keth with a friendly demeanor and wide blue eyes and a strange half-mask that covers her mouth. She seems to view everything around her with an air of wondrous innocence but her keen glances also suggest the ability to read any given situation quickly and she may be more capable than she appears at first glance.
 
@@ -89,7 +89,7 @@ Chapter 3 also introduces the player characters to a new key NPC, Fernis Ossa, w
 >
 > Level 1 · Unknown Unknown
 >
-> ![Fernis Ossa](../../assets/image135.webp)
+> ![Fernis Ossa](../../assets/image101.webp)
 
 **Fernis and the Anachraenum**
 

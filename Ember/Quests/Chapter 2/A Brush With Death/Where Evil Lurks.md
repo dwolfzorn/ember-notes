@@ -15,7 +15,7 @@ tags: [ember, quests]
 >
 > - Identify the source of [[Unknown]] curse that afflicts Skybrush.
 > - Overcome the area's hazards, including various mechanical and magical traps, along with the evil minions of the wraithlike warlock [[Tethra Shùl]].
-> - Combat Tethra Shùl herself in an attempt to put an end to the Bewilderment and the Abyssal scourge that has come to Skybrush.
+> - Combat Tethra Shùl herself in an attempt to put an end to [[The Bewilderment]] and the Abyssal scourge that has come to Skybrush.
 > - Recover a forbidden Abyssal artifact from Tethra Shùl known as a [[Finger of Nethehepticas]].
 > - Entreat with a spectral memory of the Shent Sage known as [[Mioroth]].
 >

@@ -41,7 +41,7 @@ To avoid cluttering the Scene during combat, Mioroth's Actor is not present in t
 >
 > Level 18 (Boss) · Memory Shent Seer
 >
-> ![Mioroth](../../../assets/image085.webp)
+> ![Mioroth](../../../assets/image088.webp)
 >
 > Appearing as if from legends, a ghostly, semi-transparent, colossal figure looms over you even as he sits with his legs crossed. He is serene, calm, and intangible, as if made of pure energy and flickering strands of light. Shadows and motes of magic constantly evaporate from his body, and his only constant is his wise and gentle smiling expression. He looks faintly like a Kivahr, but as if carved from stone, with heavy brows, long limbs, and a muscular frame. The clothing he wears matches no recognizable style.
 
@@ -51,6 +51,13 @@ To avoid cluttering the Scene during combat, Mioroth's Actor is not present in t
 > Finally, its words make sense:
 >
 > > Please, I implore you, do what we failed to. To the south of here, there is a site where an abyssal creature, the **Whisperer,** lies weak and vulnerable. Before you leave this region, please, travel there and defeat it. Much of Ember's future safety hangs in the balance! Do so, and I will see you rewarded properly.
+
+> [!warning] Gamemaster
+> #### Mioroth's Reward
+>
+> The reward that Mioroth has promised the party is a simple but valuable one: he'll provide the characters with precise directions to locate a long-forgotten [[Shent Scroll Case]] during [[The Glint of Gossamer]].
+>
+> Recovery of the Shent Scroll Case will require the party to survive an ambush from a hungry group of [[Young Cheliceraeth]].
 
 ### Speaking to Mioroth
 
@@ -94,6 +101,10 @@ Mioroth is steadfast in his convictions, and cannot be persuaded to change his m
 > The crystal caves were sources of stone naturally infused with magic drawn from Ember. This was a distant mining community once, and they produced gems used all across the Shent realms. While they were deleterious in their natural form, if properly carved with runes they had myriad uses.
 >
 > The machine in the caverns was known as a "nullifier," a clever device built to suppress the maddening effects of the crystal caverns so that the Shent could work in them safely. It was a marvel of its time, unique, one of a kind, and destroyed by the Whisperer.
+>
+> #### About the Reward
+>
+> If the party presses Mioroth to explain the so-called reward he's promised, he'll mention that he knows the precise location of a wondrous item from antiquity: a scroll case designed using ancient Shent ingenuity. Other details will have to wait until the party has completed their mission during [[An Ancient Battle]].
 
 Once the party has finished speaking with Mioroth, they are free to leave the temple and carry on with their expedition.
 
@@ -126,5 +137,5 @@ Any character who convinces the Fulgurite Blades to help clear the rubble advanc
 >
 > Once the party has finished speaking with Mioroth, they may continue their journey.
 >
-> - If the party heads southeast to the [[Writhing Grave]] per Mioroth's guidance, proceed to [[Multifaceted]].
+> - If the party heads southeast to the [[Writhing Grave]] per Mioroth's guidance, proceed to [[An Ancient Battle]].
 > - If the party heads southwest into the [[Kaleidoscope Caverns]], proceed to [[The Glint of Gossamer]].

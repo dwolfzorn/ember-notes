@@ -15,40 +15,102 @@ tags: [ember, area-walkthroughs]
 >
 > In the below gazetteer entry for The Concourse district, this location is described as the "Concourse Hideout".
 
-## Gazetteer Entry
+## Gameplay Details
 
-> [!quote] Read Aloud
-> A strange sense of stillness hangs in the air, despite walking through the middle of such a massive city. The distant sound of water lapping against the marinas fills your ears, accompanied by the faint creaking of old boathouses swaying gently in the breeze. As you move further into the district, you notice the large expanses of open water shimmering under the sun, but it feels oddly deserted, almost forgotten, with few people among the buildings.
+The following gameplay features apply to the Toothbreaker Hideout area unless specifically stated otherwise in a specific room description.
 
-The Concourse is one of the least populated districts in Ordain, despite being a central location in the city with most of the area taken up by open water, marinas, boathouses, and storage yards. This once bustling waterfront is now mostly comprised of derelict warehouses and a large singular local water management office used by the Hallows to maintain the River Destine. Most people pass through the area without giving it a second thought, and over the last several years, this lack of attention has allowed a local gang called the Toothbreakers to establish a base in the largely overlooked district.
+## Sound
 
-- **District Type:** Commercial, City Management
-- **Services:** Storage, Boathouses, Water Management
-- **Population:** 400
-- **Lifestyle:** Impoverished (dockworkers, migrants, ruffians, and drifters)
+The Waterworks feature a constant low roar of flowing water, cascading waterfalls, and echoing sounds that resonate through the tunnels. As a consequence, hearing in this environment is more challenging. The Toothbreakers talk loudly and boisterously to each other, and the hubbub of their conversations further drowns out other sounds.
 
-The Concourse district is characterized by its unique blend of water and urban decay. The marinas are dotted with a mix of well-kept yachts, trading vessels, and weather-beaten fishing boats, and many store their vessels here but have little interest in the rest of the district itself. The gentle lapping of the water against the docks creates a serene backdrop, starkly contrasting with the crumbling infrastructure surrounding it. Some of the warehouses remain functioning while many are now derelict, some simply shells of their former selves. Their broken windows and graffiti-covered walls tell stories of minor criminal activity. The district also houses a few scattered families and residential buildings, but these residents are isolated, with more leaving the area every year. As daylight fades, the district becomes eerily quiet, isolating the few souls who venture here. They often ignore the hidden dangers lurking in the shadows, but a sense of palpable tension lingers in the air.
+- Sounds of combat can only be heard within 30 feet of their origin, and they are muffled completely beyond the stone walls of a room if its doors are closed.
+- Characters in this area have **+2 Boons** to any `[[/check stealth]]` skill check made to avoid being heard.
+- The verbal components of Spells can be enunciated quietly enough such that they do not attract attention.
 
-### Landmarks
+> [!danger] Hazard
+> #### Alarm Bells
+>
+> The Toothbreakers use a rudimentary system of alarm bells to alert each other to any trouble throughout the hideout. Scattered throughout the complex are wall-mounted bells that, if rung, emit an audible alarm that is heard by other Toothbreakers within a 60 foot radius who have a direct line of hearing towards the source of the alarm, and by Toothbreakers within a 30 foot radius otherwise.
+>
+> - Ringing one of these alarm bells during Combat requires spending 3 Action.
+> - An alarm bell can be silently disabled outside of Combat to render it unusable.
 
-**The Waterworks**
+> [!warning] Gamemaster
+> #### Interactive Element
+>
+> The alarm bells are interactive objects which are usable by the Gamemaster. They can be rung or disabled according to the party's actions!
 
-Beneath the district is a meandering labyrinth of canals and tunnels called "The Waterworks". Portions of the subterranean architecture here predate the founding of Ordain and are attributed to prior Seydiri culture. The remaining canals and tunnels were excavated relatively early in the development of the city to provide crucial infrastructure and transportation between the eastern spires and Ordain's central waterfront districts.
+## Illumination
 
-**The Waterworks Office**
+The exterior areas of the map are exposed to direct sun and moonlight and follow typical expectations for outdoor areas.
 
-The city's Waterworks Office stands barely upright among old jetties, a crumbling stone wharf, and a number of ancient-looking bronze joists interlocking together to form a kind of outer structure around wooden beams and boards. Its weathered facade tells a story of years spent battling the elements with very little active maintenance or repair. The building has patches of peeling paint, moss creeping along the edges, and its rotting boards give off a damp, unpleasant smell in the sun. Tall, narrow windows, clouded with dust and grime, offer a glimpse into the dimly lit interior but obscure the activities happening inside. A large sign hangs above the entrance, its lettering faded and barely legible: "City Waterworks Office."
+Most interior areas of the waterworks are illuminated by torches or lanterns which create bright or dim light. In some larger chambers, apertures in the ceiling high above permit external illumination to shine through, creating additional areas of dim light. Otherwise the waterworks are un-illuminated and entirely dark.
 
-**The Concourse Hideout**
+## Terrain
 
-The Concourse Hideout is the current headquarters of the Toothbreaker Gang, a group of disenfranchised locals, Ordani criminals, and thugs, led by [[Raster Thorn]]. The hideout is positioned at the eastern end of The Waterworks that span the district. It is built into the side of a large plateau that rises above the Concourse at the border of the Grand Meadows district behind it. It was once a cistern used to direct water flow throughout the city and was also the original base of operations for the Skywarders, a party of adventurers from the Anachraenum led by [[Fernis Ossa]]. After the Skywarders disbanded and Fernis began trading abroad, however, the Toothbreakers took over, and the base has become increasingly grim, filled with criminal elements and desperation.
+Areas of solid floor within the waterworks are treated as normal terrain. The water of the canals moves slowly and the canals are 10 feet deep, within the canals standard rules for swimming apply.
 
-### Locals
+> [!danger] Hazard
+> #### Flowing Currents
+>
+> During combat, any creature that does not have a Swim speed and begins its turn in the water of the canals (either at the surface or submerged) is immediately moved 10 feet in the direction of the flowing current. This movement may cause unsafe disengagement.
 
-**Esta Fromp (true neutral, Ordani Ashka, she/her)**
+### Keys and Locked Doors
 
-Esta Fromp is a shrewd and calculating Ashka woman in her late 40s, with an air of confidence that masks a deeper ambition. As the manager of the waterworks office in the Concourse, she presents herself as a diligent and responsible leader, dedicated to maintaining the River Destine. However, beneath this facade lies a more complex moral compass. She is well aware of the Toothbreaker Gang's activities, but she sees them as assets rather than adversaries. Underneath the surface, she allows their activities to flourish, often hiding their criminal acts from Veiled Chain investigators.
+Several different denominations of keys that restrict access within the hideout:
 
-### Lore
+- [[Toothbreaker Security Key]]
+- [[Toothbreaker Prison Key]]
+- [[Toothbreaker Planning Key]]
+- [[Toothbreaker Throne Room Key]]
+- [[Raster's Keyring]]
 
-Historically, the Concourse was once a bustling harbor on the edge of the Ordain city itself, where boats from throughout the city would dock and deliver goods. However, as the city expanded, more northern and more accessible areas became more desirable, and over time, the Concourse fell into neglect. Much of the city's population started to view the Concourse as little more than a transit point—a place to pass through rather than a community to inhabit. This perception led more and more people to leave the area for other parts of the city, resulting in an increase in abandoned buildings and overgrown docks, which eventually became breeding grounds for local crime.
+## Elevation
+
+The interior of the waterworks is mostly flat ground (elevation 0), the staircases depicted are cosmetic and do not cause mechanically impactful changes in elevation. The surface of the canals is mechanically level with the stone floors and they are 10 feet deep.
+
+Several canals flow towards an outlet into a deep central cistern. The water within that central cistern is 100 feet below.
+
+> [!danger] Hazard
+> #### The Central Cistern
+>
+> A creature that is pushed or conveyed by the water towards the edge of the cistern may make a **Athletics (DC 14)** check to grasp a secure handhold and avoid being swept over the brink. Creatures falling from the waterworks into the cistern take only half the normal falling damage that would occur from a fall of 100 feet.
+>
+> There is no direct method for a character who has fallen into the cistern to return to the Waterworks aside from following a labyrinthine network of lower tunnels out of the complex and returning to an accessible entrance. This process consumes 1 hour of time.
+
+Two of the canals outlet into great waterfalls that cascade down to the exterior city 200 feet below.
+
+> [!danger] Hazard
+> #### Exterior Waterfalls
+>
+> A character that is pushed or conveyed by the water towards the precipice of an exterior waterfall may make a **Athletics (DC 14)** check to grasp a secure handhold and avoid being swept over the brink.
+>
+> Creatures who fall from this height suffer the full effects of falling damage from a height of 200 feet.
+
+## Enemies
+
+This area is the base of operations for the Toothbreaker gang and is full of their members. At most times, the following enemies are encountered here in the provided approximate number:
+
+- 30 [[Toothbreaker Thug]]
+- 4 [[Toothbreaker Scaletamer]]
+- 8 [[Scalemaw]]
+- [[Raster Thorn]]
+
+> [!danger] Hazard
+> #### Significantly Outnumbered
+>
+> Because of the large number of adversaries in this area, an uncontrolled assault is likely to be deadly. The party would be well advised to use stealth or guile to avoid direct confrontation where possible.
+>
+> #### Resting
+>
+> It is not possible to take a Long Rest within this area without being detected. A Short Rest is only possible in a few specific rooms which mention this as part of their location details.
+>
+> #### Fleeing
+>
+> Should the party need to flee the area, they may do so by retreating to the main [[Unknown]], the [[Unknown]], or via the[[Canals]] to the north or southeast of the map, or in truly desperate fashion by jumping out of one of the waterfall outlets to the south of the area.
+>
+> #### Captured
+>
+> If the party is subdued in combat, they may awaken from an unconscious state as captives held within the cages of the [[Unknown]]. Raster and his gang will use captives for sport as fighters in the [[Cistern Bloodring]]. A party that finds themselves in such a dire circumstance may attempt a desperate escape or hope for allies to come to their rescue.
+
+See the [[Toothbreaker Tactics]] section of the Appendix for additional details about enemy behavior in combat.

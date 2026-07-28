@@ -61,7 +61,7 @@ This potentially serves as a first point of contact with Liestra Grann, the town
 >
 > Level 4 · Kivahr Thief
 >
-> ![Liestra Grann](../../../assets/image150.webp)
+> ![Liestra Grann](../../../assets/image163.webp)
 >
 > > [!quote] Read Aloud
 > > A muscular Kivahr femme clad in in loose layers of cloth and leather leans upon the wall with casual composure. A side-parted bob of tawny hair hangs just below her chin as she scrutinizes some curious trinket using a small eyepiece. A wry, expressive grin rises to meet you moments before she sizes you up with amber-colored eyes, and you can't help but spot a stony ersatz mace strapped to her side. It's quite evident she means business.
@@ -120,7 +120,7 @@ Nearby the gaol where Qory is held, the party may encounter the local constable.
 >
 > Level 3 · Hulg'run Lawkeeper
 >
-> ![Mica Valaston](../../../assets/image151.webp)
+> ![Mica Valaston](../../../assets/image164.webp)
 >
 > You behold the skeptical countenance of a thirty-something Hulg'run warrior clad in studded leather armor, a ring of keys around their belt. Their hand hovers just above the hilt of a sheathed longsword, and they regard you with a healthy look of suspicion.
 

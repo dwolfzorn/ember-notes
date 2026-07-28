@@ -15,7 +15,7 @@ tags: [ember, quests]
 >
 > - Gather rumors from locals about the scene of the impact, where Kellan Lorde and the Renegade Construct are said to have hit the ground after their perilous fall.
 > - Investigate the scene of the impact itself for forensic evidence and signs of the Renegade Construct's survival.
-> - Encounter a mushroom farmer named [[Ifton Shepp]], a retired artificer who aided the constructs before sending them on their way.
+> - Encounter an [[Arcturian]] mushroom farmer named Ifton Shepp, a retired artificer's apprentice who aided the constructs before sending them on their way.
 
 ### The Itinerant Spelunkers
 
@@ -73,13 +73,13 @@ If the characters don't speak with the spelunkers but choose to look around Rock
 > - **Critical Success**: The loose scattering of components that trail off to the northeast towards Ifton Shepp's mushroom farm appear to match the materials used in the manufacture of Chessmen.
 > - Characters with **Knowledge: Forensics** have advantage on this check.
 >
-> **Society (DC 15)** The character is familiar enough with Arcturel and Rock Bottom to know that this impact site is recent enough to match the timeline of events surrounding the accident in Lower Arcturel.
+> **Society (DC 15)** The character is familiar enough with Arcturel and Rock Bottom to know that this impact site is recent enough to match the timeline of events surrounding the accident in the Dives.
 
 Once the party has had enough time to search the scene of the impact, they can continue their investigation by following leads to the mushroom farmer Ifton Shepp, who cultivates a farm nearby.
 
 ### The Mushroom Farmer
 
-If the party decides to approach the mushroom farm, they'll meet some of Rock Bottom's most interesting characters — the disgraced artificer [[Ifton Shepp]] and his [[Woven Construct]] companion named **Totter**. Not only does Ifton Shepp have a past that's intertwined with Vartholomew Chess and the Silver Beam Consortium, his recent run-in with the Renegade Construct makes him a person of significant interest.
+If the party decides to approach the mushroom farm, they'll meet some of Rock Bottom's most interesting characters — the disgraced artificer's apprentice Ifton Shepp and his [[Woven Construct]] companion named **Totter**. Not only does Ifton Shepp have a past that's intertwined with Vartholomew Chess and the Silver Beam Consortium, his recent run-in with the Renegade Construct makes him a person of significant interest.
 
 > [!quote] Read Aloud
 > You survey the earthen sprawl of a modest mushroom farm that occupies a lonely corner of this derelict tent town. A field of edible greencaps and sprite-stools grow here in lush abundance, tended by a squat construct made of rustic timber, who brandishes a spade with stoic proficiency.
@@ -97,7 +97,7 @@ The characters have a moment to visually inspect the area before meeting the mus
 > - One crate among the mushroom crates is stocked full with what appears to be lumber.
 > - **Critical Success**: The person inside the tent was a cloaked human with a masculine silhouette. The lumber in the crate resembles loose or replacement parts for the wooden construct that works the field.
 >
-> Any character who makes a successful **Society (DC 17)** check knows the tale of an ex-assistant of Vartholomew Chess named Ifton Shepp, who took residence in Rock Bottom after the two artificers had a falling out. Rumor has it that Shepp runs a mushroom farm nearby. Perhaps this is that very farm.
+> Any character who makes a successful **Society (DC 17)** check knows the tale of an ex-assistant of Vartholomew Chess named Ifton Shepp, who took residence in Rock Bottom after the two had a falling out. Rumor has it that Shepp runs a mushroom farm nearby. Perhaps this is that very farm.
 >
 > - Characters who succeed on this check gain advantage on skill checks made to observe and influence Ifton Shepp (see "A Conversation with Ifton Shepp" below).
 >
@@ -107,25 +107,20 @@ The characters have a moment to visually inspect the area before meeting the mus
 > - The tracks appear to head eastward into the Sinkhole Depths, and there are more outgoing tracks than incoming ones.
 > - **Critical Success**: There are four distinct sets of tracks that look remarkably similar, recognizable from each other by their age and the most minor of physical inconsistencies. The oldest tracks are several months old, while the newest seem to have been left here a week ago or less.
 
-If the party approaches the wooden construct or the tents, or after they've surveyed the area for a few minutes, they'll be promptly greeted by the mushroom farm's owner — the semi-retired artificer known as Ifton Shepp.
+If the party approaches the wooden construct or the tents, or after they've surveyed the area for a few minutes, they'll be promptly greeted by the mushroom farm's [[Arcturian]] owner — the semi-retired artificer's apprentice known as Ifton Shepp.
 
 > [!quote] Read Aloud
 > The wooden construct looks up toward the sound of booted footsteps on the boardwalk. You follow its gaze to see someone emerging from the darkened tent, a cloaked humanoid whose cautious yet comfortable body language suggests an utmost familiarity with this place. He approaches you, and speaks:
 >
 > > Hello, travelers. I see you've met Totter.
 >
-> He glances toward the construct, who looks up with a shrug of benevolent indifference, before sizing you up once more.
+> He glances toward the construct, who looks up with a shrug of benevolent indifference. The stranger casts off the hood of his cloak, revealing a grizzled Arcturian laborer with a permanently signed beard. He sizes you up and speaks once more:
 >
-> > You seem to be a bit lost. Or do you simply seek the finest mushrooms the Depths have to offer? I'm afraid there's little else for you here. And while I usually sell my wares in bulk, it seems like a fine day for exceptions.
-
-> [!abstract] Ifton Shepp
-> **[[Ifton Shepp]]**
+> > You seem to be a little bit lost. Or …
 >
-> Level 2 · Human Commonfolk
+> He broadly gestures about his farm and inventory.
 >
-> ![Ifton Shepp](../../../assets/image181.webp)
->
-> Wearing a dark apron over grease stained tunic and pants, this technician looks ready to tackle any technical issues put in front of him. Not outwardly armed or armored, he has a pack of tools on-hand to make field repairs if necessary.
+> > … do you simply seek the finest mushrooms the Depths have to offer? I'm afraid there's little else for you here. Mind you, I usually sell my wares in bulk, it seems like a fine day for exceptions.
 
 > [!info] Social
 > #### A Conversation with Ifton Shepp

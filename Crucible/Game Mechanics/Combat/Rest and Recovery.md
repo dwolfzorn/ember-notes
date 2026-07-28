@@ -1,7 +1,7 @@
 ---
 title: "Rest and Recovery"
 journal: "Game Mechanics / Combat"
-source_uuid: "JournalEntry.zlYGu6T8PqUvd7UQ"
+source_uuid: "JournalEntry.PETeWXMgCZCt14YN"
 type: ember.lore
 tags: [ember, game-mechanics]
 ---

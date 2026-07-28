@@ -29,7 +29,7 @@ In the future, the region map will change to show flowing water that matches the
 > [!tip] Exploration
 > #### Surveying the Options
 >
-> Characters with **Wilderness (DC 16, Passive)** or making a successful **Wilderness (DC 14)** check note that there are dangers to both routes: if they make their way across the cliffs they will be at the mercy of falling rocks, unstable ground, and possibly territorial creatures riled up by recent events. If they decide to brave the rapids the threats are fewer, but no less dire, as debris in the water and a general drowning risk will be constant threats.
+> Characters with **Wilderness (DC 16, Passive)** check note that there are dangers to both routes: if they make their way across the cliffs they will be at the mercy of falling rocks, unstable ground, and possibly territorial creatures riled up by recent events. If they decide to brave the rapids the threats are fewer, but no less dire, as debris in the water and a general drowning risk will be constant threats.
 
 ### Climbing the Cliffs
 
@@ -38,8 +38,8 @@ In the future, the region map will change to show flowing water that matches the
 >
 > Before setting off, members of the party can use their knowledge to make the group's progress easier:
 >
-> - With a successful `[[/check perception 18]]`, any character can note places where the ground is uneven or slippery and avoid them. The entire party has advantage on the survival check to traverse the cliffs.
-> - With a successful `[[/check nature 17]]`, any character can note the location of vines and grasses on the cliffs that provide sturdy handholds. The entire party has advantages on dexterity checks and saves.
+> - With a successful **Awareness (DC 18)**, any character can note places where the ground is uneven or slippery and avoid them. The entire party has advantage on the survival check to traverse the cliffs.
+> - With a successful **Wilderness (DC 17)**, any character can note the location of vines and grasses on the cliffs that provide sturdy handholds. The entire party has advantages on dexterity checks and saves.
 
 If the party chooses this path, they find the following:
 
@@ -85,20 +85,20 @@ If the party chooses this path, or ends up in the rapids as the result of a fall
 > [!danger] Hazard
 > #### Swimming Against the Current (North)
 >
-> If the party is heading north, against the current, they must succeed on two `[[/check athletics 16]]` movement checks to summon the strength to move forward against the powerful rapids.
+> If the party is heading north, against the current, they must succeed on two **Athletics (DC 16)** movement checks to summon the strength to move forward against the powerful rapids.
 >
 > - If they succeed on a check, they stay afloat, but must deal with one of the dangers from the Canyons Rapids Peril table below.
-> - If they fail on a check, they must succeed on a `[[/save strength 15]]` saving throw or they are pulled fully into the water, taking `[[/damage 1d8 bludgeoning]]` from its pressure against their bodies. On a successful save, they take half damage. Whether or not the save was successful, they must reattempt the movement check.
+> - If they fail on a check, they must succeed on a **Athletics (DC 15)** check or they are pulled fully into the water, suffering from the **Crushing Current (Hazard 4, Fortitude, Health, Bludgeoning)**. Whether or not the check was successful, they must reattempt the movement check.
 >
 > If the party fails a movement check twice in a row, or at the GM's discretion, they are unable to make their way through the currents and must try going above instead, via [[Fighting the Current]].
 
 > [!danger] Hazard
 > #### Swimming With The Current (South)
 >
-> If the party is heading south, against the current, they must succeed on two successive `[[/check acrobatics 16]]` checks to summon the strength to move forward against the powerful rapids.
+> If the party is heading south, against the current, they must succeed on two successive **Athletics (DC 16)** checks to summon the strength to move forward against the powerful rapids.
 >
 > - If they succeed on a check, they stay afloat, but must deal with one of the dangers from the Canyons Rapids Peril table below.
-> - If they fail on a check, they must succeed on a `[[/save dexterity 15]]` saving throw or they are tossed by the rapids into the side of the canyons, taking `[[/damage 1d8 bludgeoning]]` from the impact. On a successful save, they take half damage. Whether or not the save was successful, they must reattempt the movement check.
+> - If they fail on a check, they must succeed on a **Athletics (DC 15)** check or they are pulled fully into the water, suffering from the **Crushing Current (Hazard 4, Fortitude, Health, Bludgeoning)**. Whether or not the check was successful, they must reattempt the movement check.
 >
 > If the party fails a movement check twice in a row, or at the GM's discretion, they are unable to make their way through the currents and must try going above instead, via [[Fighting the Current]].
 

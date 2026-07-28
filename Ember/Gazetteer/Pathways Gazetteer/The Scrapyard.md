@@ -8,6 +8,13 @@ tags: [ember, gazetteer]
 
 # The Scrapyard
 
+> [!warning] Gamemaster
+> #### Gamemaster's Summary
+>
+> This location exists at ⬢ s.3228.2878 in the [[Sinkhole Depths]], west of [[Rock Bottom]].
+>
+> - This location is featured in the [[Glitter in the Dark]] Side Quest.
+
 The Scrapyard is a cruel and uninviting place where constructs go to die, and Silver Beam can conduct their most unsavory operations in secrecy. As with any Silver Beam operation, visitors are unwelcome, and workers will use force if necessary to drive off interlopers.
 
 ## Environment

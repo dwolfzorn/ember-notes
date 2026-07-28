@@ -9,24 +9,51 @@ tags: [ember, area-walkthroughs]
 # The Barracks
 
 > [!quote] Read Aloud
-> This large building isn't just the physical center of the Brigade's section of Lantern Roads - if the sounds of whoops, hollers and snores from the vicinity, or the occasional swinging open of the door to revel a new tell you anything, it's also a place for the Brigade members to rest, relax, and restore themselves.
+> Narrow beds and bedrolls line the walls around a single central table strewn with empty cups, food scraps, and small personal effects. An open coat room and a cramped washroom occupy one side of the building, and the air smells of stale sweat.
 
 > [!danger] Hazard
 > #### The Beacon Brigade
 >
-> A total of 4 [[Wandren Patroller]] are stationed in and around the barracks. The Patrollers outside of the Barracks can be dealt with similarly to any other member of the [[Area Overview]], but those inside the Barracks have the additional conditions below:
+> 3 [[Wandren Patroller]] are currently stationed inside the barracks. Two sit at the central table, playing a card game, while the third snores heavily.
 >
-> - Characters cannot persuade the Patrollers that they are in the Barracks accidentally.
-> - If characters attempt to persuade the Patrollers that they are either couriers or new members of the Brigade, they are asked to share who either recruited or hired them. With a successful `[[/check deception 17]]` check, they fool the Patrollers in the Barracks. With a failed check, the Patrollers attack.
+> The party can deal with these Patrollers using the general options described in [[Area Overview]], with the following changes:
+>
+> - The party cannot convince the Patrollers that they entered the barracks by accident.
+> - If a character carries a [[Courier Bag]], the Patrollers do not attack immediately. Instead, they demand that the character turn over their letter and leave.
+> - Any character who makes a successful **Deception (DC 15)** check can convince the Patrollers that they are new recruits who were ordered to report to the barracks.
+
+The characters can search the area, but if the Patrollers are present, certain actions (like pulling out the locked footlocker) will rouse their suspicions.
 
 > [!tip] Exploration
 > #### Searching the Barracks
 >
-> There are 3 areas of the barracks that can be searched - the Main Room, the Bathroom, and the Coat Room. The party can also locate a chest beneath the bed of one of the Brigade members without a check.
+> A simple search reveals the following:
 >
-> Each area is successfully searched with a successful `[[/check investigation 17]]` check, but each search risks discovery by a new Patroller.
+> - A simple coat room filled with spare cloaks, boots, and other outerwear.
+> - A cramped washroom.
+> - A locked footlocker beneath one of the beds.
 >
-> - Each time the party takes a Search action on a new section of the Barracks, or if they attempt to unlock the chest, roll a `[[/gmroll 1d4]]` - on a 1, a [[Wandren Watcher]] enters the area and immediately attacks.
-> - With a successful search of the coat closet, characters locate the key to the chest found in the main room.
-> - The chest can be opened with a successful `[[/check dexterity 16]]` check with Thieves' Tools or the chest key. It contains a sketch of Darius Cevher with a red line through it and a pouch that contains  **10**.
-> - Nothing is found in a search of the bathroom.
+> Any character who searches the coat room finds a [[Brigade Key]] tucked into the pocket of an old cloak.
+>
+> The locked footlocker can be opened with a successful `[[/skill sleightofhand 15 tool=thief]]`. Alternatively, the lock can be bashed open with a successful **Athletics (DC 15)** check.
+>
+> Inside the footlocker, the party finds a sketch of Darius Cevher with a red line drawn through it and a pouch containing  **100**.
+
+> [!abstract] Wandren Patroller
+> **[[Wandren Patroller]]**
+>
+> Level 1 · Unknown Unknown
+>
+> ![Wandren Patroller](../../../assets/image050.webp)
+
+> [!danger] Hazard
+> #### Beacon Brigade Patroller Tactics
+>
+> At the start of combat, the [[Wandren Patroller]] will move to strike an enemy with its [[Hollowed Dagger]], applying either [[Paralyzing Poison]] or [[Slowing Serum]], per the Gamemaster's discretion.
+>
+> Over the course of combat, the Patroller will prioritize the following actions and abilities:
+>
+> - In melee, the Patroller will use their [[Multiattack]] feature to apply [[Paralyzing Poison]] or [[Slowing Serum]] to as many enemies as possible.
+> - Whenever able, the Patroller will position themselves amongst allies to take advantage of their [[Pack Tactics]] feature.
+>
+> Once reduced below half their Hit Point maximum, the Patroller will attempt to flee toward the nearest ally.

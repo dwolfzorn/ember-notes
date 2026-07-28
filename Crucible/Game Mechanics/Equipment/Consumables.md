@@ -1,7 +1,7 @@
 ---
 title: "Consumables"
 journal: "Game Mechanics / Equipment"
-source_uuid: "JournalEntry.J9uGSwf6JIRsnDx3"
+source_uuid: "JournalEntry.OeNgdZVx5jHojMTQ"
 type: ember.lore
 tags: [ember, game-mechanics]
 ---

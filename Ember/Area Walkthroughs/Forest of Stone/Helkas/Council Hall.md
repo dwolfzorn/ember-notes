@@ -22,7 +22,7 @@ The town magistrate **Sadri Zhalimorne** uses the southernmost chamber here as h
 >
 > Level 1 · Altyra Trader
 >
-> ![Sadri Zhalimorne](../../../assets/image063.webp)
+> ![Sadri Zhalimorne](../../../assets/image067.webp)
 >
 > You regard a steel-skinned woman with luminous golden eyes and side-parted bob of short-cropped silver hair. Adorned in a brown sleeveless tunic with leather shorts and boots, her countenance is equal parts purposeful and amused, and you can’t help but notice the lambent lines of bright copper that decorate her legs. A beaded Arcturian plastron necklace hangs around her neck, proudly signifying some kind of social station.
 

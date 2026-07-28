@@ -16,7 +16,7 @@ tags: [ember, area-walkthroughs]
 > [!danger] Hazard
 > #### A Sleeping Sentry
 >
-> A solitary [[Toothbreaker Thug]] is asleep at his post here. Any loud noises or physical disturbance within the area will awaken him, but he otherwise sleeps soundly due to the sedative effects of a Mutagenic Serum that he recently consumed.
+> A solitary [[Toothbreaker Thug]] is asleep at his post here. Any loud noises or physical disturbance within the area will awaken him, but he otherwise sleeps soundly due to the sedative effects of a [[Gleaming Distillation]] that he recently consumed.
 >
 > #### Raising the Alarm
 >

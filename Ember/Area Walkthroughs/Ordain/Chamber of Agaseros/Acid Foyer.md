@@ -36,7 +36,7 @@ The small single Aetherial in this room is set with a stay command. It does not 
 >
 > Level 1 · Unknown Unknown
 >
-> ![Anachraenum Aetherial](../../../assets/image040.webp)
+> ![Anachraenum Aetherial](../../../assets/image041.webp)
 
 > [!tip] Exploration
 > #### An Empty Room

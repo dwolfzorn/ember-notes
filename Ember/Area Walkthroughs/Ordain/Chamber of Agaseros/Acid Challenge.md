@@ -40,7 +40,7 @@ The Shades of Agageros in the room do not technically exist until the party atte
 >
 > Level 1 · Unknown Unknown
 >
-> ![Shade of Agaseros](../../../assets/image041.webp)
+> ![Shade of Agaseros](../../../assets/image042.webp)
 
 > [!warning] Gamemaster
 > #### Interactivity

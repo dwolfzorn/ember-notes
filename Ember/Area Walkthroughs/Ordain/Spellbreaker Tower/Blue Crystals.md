@@ -18,6 +18,8 @@ tags: [ember, area-walkthroughs]
 > [!tip] Exploration
 > #### Magical Intake
 >
-> A successful **Arcana (DC 16)** check suspects that the crystals are feeding energy into the central crystal cluster, possibly pulling it up from the rest of the tower.
+> Any character who makes a successful **Arcana (DC 16)** check can adequately deduce that these azure crystals are feeding energy into the central [[Crystal Cluster]], and might be powered from elsewhere in the tower.
 >
-> Result of 21+ Given the extensive antimagical properties of the tower, it is quit possible that these gems are part of the mechanism siphoning magic into the central cluster.
+> - **Knowledge: Artifacts**: The character automatically succeeds on this check.
+> - **Knowledge: Machines**: The character gains **+2 Boons** on this check.
+> - **Critical Success**: Given the extensive anti-magic properties of the tower, the character can reasonably assume that these gems are part of the mechanism siphoning magic into the central cluster.

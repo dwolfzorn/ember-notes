@@ -121,7 +121,7 @@ Finding Toron is simple; the party know he is in Yellow Block, and is routinely 
 >
 > Level 1 · Unknown Unknown
 >
-> ![Toron](../../../assets/image125.webp)
+> ![Toron](../../../assets/image133.webp)
 
 > [!info] Social
 > #### Convincing Toron

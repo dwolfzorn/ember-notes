@@ -40,7 +40,7 @@ Clear all current Weather Formations from the region.
 
 Create a new Weather Formation of a specified type, strength, and size in a desired location.
 
-## Weather Hazards
+**## Weather Hazards**
 
 **Pollen Storm**
 
@@ -53,11 +53,8 @@ Any area confronted with a pollen storm is subject to the following mechanical c
 > [!danger] Hazard
 > #### Pollen Contamination
 >
-> Characters who inhale or make orificial contact with storm pollen must succeed on a **`[[/skill constitution 16]]`** check to withstand its effect, which includes the following based on the result:
+> Characters who inhale or make significant contact with storm pollen suffer an immediate and significant allergic reaction.
 >
-> - The character has **-2 Banes** on Intelligence Skill Checks and Saving Throws.
-> - **Result of 6-**: The character is &Reference[Poisoned].
->
-> The negative effects of the pollen last for a duration of `[[/roll 2d4 hours]]` and can be cured by taking a &Reference[Long Rest] or by targeting the afflicted character with either the [[Lesser Restoration]] or [[Protection from Poison]] spells.
+> Each affected character must face **Allergic Irritation (Hazard 8, Fortitude, Poison, Morale)** which, if not resisted, also causes the **Disoriented** condition for `[[/gmroll 2d4 hours]]` or until the party completes a successful **Rest**.
 >
 > A character can only be affected by this pollen contamination once per day.

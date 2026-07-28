@@ -9,7 +9,7 @@ tags: [ember, area-walkthroughs]
 # Librarium
 
 > [!quote] Read Aloud
-> Inside the small room, stone shelves line every wall, holding hundreds of crumbling scrolls, many in various stages of decay. The ceiling like the other rooms curves inwards and comes together to a central apex above. The air is thick with dust, and the strong smell of old parchment fills the space. Magical lights flicker in alcoves, casting an uneven glow over a central table, which is covered with cracked charts and what appear to be heavily aged maps.
+> This small librarium is lined with shelves that appear to contain countless scrolls, covered in the dust of ages. The earthy scent of decaying parchment lingers here, fostering contemplation of precisely how many paper mites might have had their fill throughout the years. A table at the center of the room is layered with stacks of parchment and a noteworthy collection of scrolls like those that adorn the shelves here. Meanwhile, a tiny arcane lantern on the eastern wall casts a faint and lonely glow upon the room, allowing the nooks and crannies to revel in their shade.
 
 The Librarium contains five collections of ancient scrolls, all of which have been equipped with hidden Blinding Needle Traps to thwart would-be plunderers. This forbidden knowledge is altogether a distraction from the room's actual purpose…
 

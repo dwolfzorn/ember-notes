@@ -26,7 +26,7 @@ The overseer of this lab can be found here, sitting at his desk, working.
 >
 > Level 1 · Unknown Unknown
 >
-> ![Kaftor Brenk](../../../assets/image047.webp)
+> ![Kaftor Brenk](../../../assets/image048.webp)
 
 > [!danger] Hazard
 > #### Deadly Overseer

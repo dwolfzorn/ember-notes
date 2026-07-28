@@ -97,7 +97,7 @@ As the party is conducting their investigation, the proceedings are interrupted 
 >
 > Level 1 · Unknown Unknown
 >
-> ![Vampyre Spawn](../../../assets/image109.webp)
+> ![Vampyre Spawn](../../../assets/image117.webp)
 
 > [!danger] Hazard
 > #### Vampyre Spawn Tactics

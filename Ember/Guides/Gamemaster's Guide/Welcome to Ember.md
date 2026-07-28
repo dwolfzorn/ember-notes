@@ -8,7 +8,7 @@ tags: [ember, guides]
 
 # Welcome to Ember
 
-![](../../assets/image186.webp)Ember is a vast world of rich history, vibrant cultures, imaginative places, and dramatic conflicts. The Ember game itself is both an original fantasy setting and a long-form campaign of epic scale.
+![](../../assets/image097.webp)Ember is a vast world of rich history, vibrant cultures, imaginative places, and dramatic conflicts. The Ember game itself is both an original fantasy setting and a long-form campaign of epic scale.
 
 Whether you're playing through Ember's canonical story or simply using the setting as a backdrop for your own narrative adventures, we hope you find it sets new and higher standards for immersive gameplay, mechanical innovation, player engagement, and memorable storytelling!
 

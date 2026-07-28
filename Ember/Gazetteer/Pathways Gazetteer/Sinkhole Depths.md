@@ -8,6 +8,15 @@ tags: [ember, gazetteer]
 
 # Sinkhole Depths
 
+> [!warning] Gamemaster
+> #### Gamemaster's Summary
+>
+> This Biome is located directly below [[Arcturel]].
+>
+> - Travel through this Biome is generally [[Region Exploration]].
+> - This Biome is visually depicted by the [[Vista: Sinkhole Depths]] Vista.
+> - This Biome can be explored within the [[Sinkhole Depths]] Area Map.
+
 Home to the sprawling multilevel settlement of Arcturel, the Sinkhole Depths is the most easily accessed part of the Pathways in the Arctus Plateau, and as a result is the most well known and well studied of the vast underground regions in the world. It is a landscape rife with natural and unnatural resources, not to mention untold dangers lurking in the shadows.
 
 ### Environment

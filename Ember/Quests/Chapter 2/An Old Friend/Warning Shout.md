@@ -77,7 +77,7 @@ Before the party can make it to the docks, they run across none other than Salar
 >
 > Level 4 · Ashka Trader
 >
-> ![Salara, Queen of Scales](../../../assets/image161.webp)
+> ![Salara, Queen of Scales](../../../assets/image174.webp)
 >
 > A tall, imperious Ashka woman, Salara is of middle age with gray-blue scales and icy eyes that can cut like daggers if properly directed. She dresses in fine clothing, with little accents of gold and silver to contrast her naturally darker garb and scale. She wears a low slung belt, and from that hangs a pouch packed with notes and ledgers, plus all manner of rulers, weights, tools used to keep her market in check
 

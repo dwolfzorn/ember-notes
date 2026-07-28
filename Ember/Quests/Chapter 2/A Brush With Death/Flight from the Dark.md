@@ -33,7 +33,7 @@ If the characters maintain their pace and bearing, they'll soon converge with th
 >
 > Level 1 · Human Commonfolk
 >
-> ![Arcturian](../../../assets/image148.webp)
+> ![Arcturian](../../../assets/image161.webp)
 >
 > Arcturians are warm, friendly, and weathered by their time spent in the golden fields and outlying regions of the Arctus Plateau. You notice their hands are always not far from crafting tools, wearing simple leathers, brown cloth with hints and accents of the famous soft green colored fabrics draped around them, many of their clothes are also carefully woven with beautiful, subtle patterns.
 
@@ -42,7 +42,7 @@ If the characters maintain their pace and bearing, they'll soon converge with th
 >
 > Level 1 (Minion) · Rask Pack Member
 >
-> ![Rask](../../../assets/image149.webp)
+> ![Rask](../../../assets/image162.webp)
 >
 > The eyes of this majestic quadruped appear to glow with subtle phosphorescence. A lean mammal with features both canine and feline in nature, the large creature is marked by feathery tufts of fur, and appears as strong as it is dexterous. A striped pelt crowns the beast's regal head, and a short fluffy tail sways behind it with graceful intention.
 

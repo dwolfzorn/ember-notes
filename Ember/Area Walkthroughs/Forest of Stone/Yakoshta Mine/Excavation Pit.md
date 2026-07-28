@@ -37,7 +37,7 @@ Otherwise, as soon as the party enters the Excavation Pit from any direction, th
 >
 > Level 3 (Boss) · Slime Metallic Ooze
 >
-> ![Giant Luminous Ooze](../../../assets/image070.webp)
+> ![Giant Luminous Ooze](../../../assets/image074.webp)
 >
 > This amorphous blob of glowing gold seems to have endless numbers of tentacles that shift in shape, size, and number, each studded with bits of metal and pieces of kaleidoscope crystal, their sharp edges catching and reflecting the light.
 
@@ -71,7 +71,7 @@ Otherwise, as soon as the party enters the Excavation Pit from any direction, th
 >
 > Level 1 · Hulg'run Operator
 >
-> ![Jasper](../../../assets/image071.webp)
+> ![Jasper](../../../assets/image075.webp)
 >
 > The hulg'run man steps carefully, as if he is assessing everything around him with sharp eyes and careful determination. He wears a slight scowl on his face, as if he is above whatever is around him, but the severity of his expression is somewhat undercut by the brilliance of the gems embedded in his face, arms, and legs, which have been carefully polished to a sparkling shine.
 

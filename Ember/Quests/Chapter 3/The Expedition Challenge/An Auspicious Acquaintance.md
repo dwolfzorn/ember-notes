@@ -32,7 +32,7 @@ Fernis Ossa has approached the party to beseech their aid in a concerning matter
 >
 > Level 1 · Unknown Unknown
 >
-> ![Fernis Ossa](../../../assets/image135.webp)
+> ![Fernis Ossa](../../../assets/image101.webp)
 
 Fernis introduces herself to the party, saying:
 

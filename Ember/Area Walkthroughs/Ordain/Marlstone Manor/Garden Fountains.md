@@ -8,17 +8,21 @@ tags: [ember, area-walkthroughs]
 
 # Garden Fountains
 
-> [!warning] Gamemaster
-> #### Access to the Garden Fountains
+### [[Casing the Joint]]
+
+> [!danger] Hazard
+> #### Access Level
 >
-> Access to the Garden Fountains varies. (See [[Gameplay Details]] for more on access levels.)
+> This area is **Open** to **Gardeners** and **Decorators**. This area is **Restricted** to **Kitchen Staff**.
+
+The fountains are currently not in operation.
+
+### [[The Marlstone Gala]]
+
+> [!danger] Hazard
+> #### Access Level
 >
-> - **Pre-Gala: Open** to Gardeners and Decorators, **Restricted** for Kitchen Staff
-> - **During Gala:** **Open** to Guests
->
-> #### Locating Funar Cevher
->
-> See [[Casing the Joint]] for details. If the party uses the[[Locator Rod]] in this area, they find that Funar Cevher is **in the vicinity.** This is the baseline result when using the Locator Rod in and around Marlstone Manor.
+> This area is **Open**.
 
 > [!quote] Read Aloud
 > Like the fountains at the front of the manor, these fountains make a gentle burbling sound that fades into the background while creating a sense of calm. You suddenly feel as if you couldn't get angry or sad while in the presence of the water even if you wanted to, as if an invisible hand was trying to lift your spirits.

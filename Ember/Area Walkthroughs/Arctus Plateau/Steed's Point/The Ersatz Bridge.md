@@ -34,7 +34,7 @@ The small ravine beneath the bridge is roughly 15 feet deep, and is lined with t
 >
 > Level 5 (Elite) · Jurtak Geomancer
 >
-> ![Jurtak Geomancer](../../../assets/image083.webp)
+> ![Jurtak Geomancer](../../../assets/image086.webp)
 >
 > The tall, six-eyed saurian before you clutches a gnarled staff crowned in a jagged crystal of lambent crystal. This loathsome creature is coated in thick, jagged stone that appears to be growing out of its very hide, forming an unnatural armor.
 

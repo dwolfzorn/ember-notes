@@ -18,7 +18,7 @@ For a long time, the Burnished Hand was the only organized military group in the
 
 ## Operations
 
-The Burnished Hand is helmed by the organization's Commander, the honorable warrior Steros Kraver, who presides over the order with a stern sense of rule and a keen realization of the organization's potential and limitations. A retinue of six Lieutenant Commanders serve beneath Steros, along with a battalion of 500 soldiers (including at least 100 initiates). These adherents are all learned in the ways of the Cindaric Sages, who they have solemnly sworn to protect.
+**The Burnished Hand is helmed by the organization's Commander, the honorable warrior Steros Kraver, who presides over the order with a stern sense of rule and a keen realization of the organization's potential and limitations. A retinue of six Lieutenant Commanders serve beneath Steros, along with a battalion of 500 soldiers (including at least 100 initiates). These adherents are all learned in the ways of the Cindaric Sages, who they have solemnly sworn to protect.
 
 While the Arctus Plateau has seen brief periods of unrest (such as the Mourning War), for the past several hundred years the organization diminished in prevalence, with most of the Rusted Fortress on Bura Island lying empty and abandoned. With the recent increase in threats, many are drawn to the fortress for a chance to fight back, drive away emerging monsters, and help return the region to its once peaceful state. As such they have become a more common sight in Ordain.
 
@@ -28,14 +28,14 @@ While the Arctus Plateau has seen brief periods of unrest (such as the Mourning 
 | Carver | Keepers of the Rusted Fortress’s armories and traditions. They oversee the crafting of sacred weapons and train the younger ranks in both combat and the meditations of Ember. |
 | Rust Warden | Senior officers responsible for maintaining the armories, relics, and martial traditions of the Burnished Hand. They are scholars of warfare and teachers of the next generation. |
 | Lieutenant | One of six appointed leaders beneath the Commander, each responsible for overseeing a wing of the order’s operations, from recruitment to defense. |
-| Commander | The leader the Burnished Hand. Currently held by Steros Kraver, a steadfast and disciplined warrior devoted to preserving the order’s legacy and ensuring its resurgence. |
+| Commander | The leader the Burnished Hand. Currently held by Steros Kraver, a steadfast and disciplined warrior devoted to preserving the order’s legacy and ensuring its resurgence. |**
 
 ## Key Members
 
-**[[Steros Kraver]]**
+**[[Steros Kraver]] (N, Ordai Human, he/him)**
 
 Steros is the stalwart Commander of the Burnished Hand. He is also a loyal adherent to the edicts of the [[Cindarin Temple]] in Ordain, where the Holy Speaker presides over the Cindaric Sages and their closest allies. Steros is a skilled warrior and a charismatic leader, and is regarded by many to be one of the most competent military leaders in Arcturian history.
 
-**[[Aldath]]**
+**[[Aldath]] (LN, Oaken Vrjnhar, he/him)**
 
 This ancient Vrjnhar warrior was a member of the Burnished Hand long ago, and has only recently returned to Ordain to investigate the once-proud organization. He resides in [[Nurk's Hollow]] near Bura Island, alongside a group of other exiled members he's gathered together for his cause. Aldath is a legendary warrior who is losing his edge to old age.

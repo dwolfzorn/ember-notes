@@ -20,7 +20,7 @@ The two chambers collectively known as the Hall of Recovery include a barracks t
 >
 > Level 1 · Unknown Unknown
 >
-> ![Undaunted Adept](../../../assets/image053.webp)
+> ![Undaunted Adept](../../../assets/image056.webp)
 
 > [!danger] Hazard
 > #### Raise the Alarm
@@ -60,7 +60,7 @@ When the Undaunted Adept smashes the jar to release the elemental, read the foll
 >
 > Level 1 · Frost Elemental Elemental Sprite
 >
-> ![Water Sprite](../../../assets/image055.webp)
+> ![Water Sprite](../../../assets/image058.webp)
 >
 > This small, energetic elemental is a cohesive globule form with small orbiting teardrops of water that it seems to control. It is surprisingly agile, moving in quick bursts and leaps that are graceful yet unpredictable. They shimmer with an inner luminescence that gives them an almost ethereal appearance, and they are constantly in motion.
 

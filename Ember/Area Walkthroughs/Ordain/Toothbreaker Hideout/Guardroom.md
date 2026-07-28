@@ -18,16 +18,27 @@ tags: [ember, area-walkthroughs]
 >
 > #### Raising the Alarm
 >
-> If there is any sign of trouble, the guards will immediately ring the alarm bell, alerting their allies in the [[Barracks]] nearby.
+> If there is any sign of trouble, the Toothbreaker Thugs will immediately ring the **Alarm Bell** here, alerting their allies in the [[Barracks]] nearby. See the "Alarm Bells" section of the [[Gameplay Details]] for additional details).
 
 > [!tip] Exploration
 > #### Guardroom Clutter
 >
 > If the characters search the room, they'll find meager food and drink on the table here, along with a few miscellaneous items scattered about:
 >
-> - One [[Dagger]]
-> - One [[Heavy Crossbow]] and 12 [[Bolts]]
-> - **6 7 4**
-> - An envelope stamped with a wax seal, already opened and empty of contents. The seal bears the iconic symbol of the [[Hallows]] which can be recognized by any character with **Culture: Ordani** or with a successful **Society (DC 15)** check.
+> - A a [[Toothbreaker Security Key]].
+> - One [[Dagger]].
+> - One [[Heavy Crossbow]] and 12 [[Bolts]].
+> - **6 7 4**.
+> - An envelope stamped with a wax seal, already opened and empty of contents.
+>
+> #### The Empty Envelope
+>
+> The empty envelope's seal bears the iconic symbol of the [[Hallows]].
+>
+> Any character who makes a successful **Society (DC 15)** check can readily identify the mark.
+>
+> - **Culture: Ordani**: The character automatically succeeds on this check.
+> - **Knowledge: Crime**: The character gains **+2 Boons** on this check.
+> - **Knowledge: Intrigue**: The character gains **+2 Boons** on this check.
 
-The letter was brought here by Eltien Fen, a representative of the Hallows. Eltien was captured after his arrival, and is currently being brutally interrogated in the [[Interrogation Room]]. The missing contents of the letter can be found in the [[Tea Room]].
+The missing contents of the letter can be found in the [[Tea Room]]. The letter itself was brought here by a representative of the Hallows known as Eltien Fen, who was captured after his arrival, and is currently detained in the [[Interrogation Room]].

@@ -39,7 +39,7 @@ tags: [ember, quests]
 > Parties can discover that there is a rooftop path by:
 >
 > - Talking to shopkeepers about the Beacon Brigade (at [[Just In Time]] or [[Shadowbox Souvenirs]]).
-> - Noticing places where they could potentially climb up to a higher level (located near [[The Terrace Gardens]], [[Terracini's Restaurant]], and [[Shadowbox Souvenirs]]).
+> - Noticing places where they could potentially climb up to a higher level (located near [[The Terrace Gardens]], [[Terracini's Tavern]], and [[Shadowbox Souvenirs]]).
 > - Seeing the rooftop path through the neighborhood while on another rooftop (like [[Lookout Point]] or [[The Terrace Gardens]]).
 > - Tracing the path of a courier who disappears into [[Shadowbox Souvenirs]]) only to reappear later in the [[Second Light]] pawn shop.
 
@@ -87,7 +87,7 @@ Any character who takes the rooftops to reach the alternate entrance to Marlston
 >
 > Parties can discover that there is a route through Shadowbox Alley into Brigade territory by:
 >
-> - Talking to shoppers who are aware of the area (at[[Just In Time]], [[Terracini's Restaurant]], and[[Shadowbox Souvenirs]]) or talking to shopkeeper Hettie at [[Hettie's Divinations]].
+> - Talking to shoppers who are aware of the area (at[[Just In Time]], [[Terracini's Tavern]], and[[Shadowbox Souvenirs]]) or talking to shopkeeper Hettie at [[Hettie's Divinations]].
 > - Exploring the Shadowbox Alley area by passing into it through [[Shadow Players Theater]].
 
 > [!danger] Hazard
@@ -106,7 +106,7 @@ Any character who sneaks through Shadowbox Alley to reach the alternate entrance
 >
 > Parties can attempt to bluff their way into Brigade territory by:
 >
-> - Eavesdropping on conversations between Brigade members to learn how recruits get through at [[Terracini's Too]] or getting information about the process from [[Just In Time]].
+> - Eavesdropping on conversations between Brigade members to learn how recruits get through on the [[Terracini Balcony]] or getting information about the process from [[Just In Time]].
 > - Attempting to replace the current courier by stealing supplies from [[The Courier Stand]].
 > - Learning and executing the proper procedure at the pawn shop Second Light for those in the know by observing at the [[Second Light]].
 
@@ -146,9 +146,9 @@ While moving through Lantern Roads, the party may encounter evidence heavily imp
 > Any of the following items can be used as evidence:
 >
 > - A Withering Dagger, which can be found in the [[The Barracks]] or the [[Weapons Cache]].
-> - Plans for the killing, which can be found in [[Vitt's Office]] or [[Vitt's Back Room]].
+> - Plans for the killing, which can be found in [[Vitt's Office]] or [[Vitt's Bedroom]].
 
-Once evidence has been found by the party, mark the outcome below as completed.
+Once evidence has been found by the party, mark the Outcome below as completed.
 
 `[[/outcome dariusEvidence]]`
 

@@ -8,19 +8,15 @@ tags: [ember, area-walkthroughs]
 
 # Foyer
 
-> [!warning] Gamemaster
-> #### Access to Foyer
->
-> The Foyer is **open to all** at all times. (See [[Gameplay Details]] for more on access levels.)
->
-> #### Locating Funar Cevher
->
-> See [[Casing the Joint]] for details. If the party uses the[[Locator Rod]] in this area, they find that Funar Cevher is **in the vicinity.** This is the baseline result when using the Locator Rod in and around Marlstone Manor.
-
 > [!quote] Read Aloud
 > Two large stone pillars frame an open doorway into the gala beyond, carved with a design of curved symbols with inlaid gold that glint ever so slightly as you move your eye, creating a sense of both luxury and movement, as if the road to Wandren were paved in gold.
 
-### Pre-Gala
+### [[Casing the Joint]]
+
+> [!danger] Hazard
+> #### Access Level
+>
+> This area is **Open**.
 
 After characters receive their instructions from Jalla Difae in the Casing the Joint event ([[Casing the Joint]]), she will shoo them along if they remain in the area. Once they are done with all scouting, though, they can be paid for their efforts before they leave.
 
@@ -40,7 +36,12 @@ After characters receive their instructions from Jalla Difae in the Casing the J
 >
 > Jalla can be convinced to pay  **3** to Gardeners and Kitchen Staff with a successful `[[/check persuasion 18]]` check. If the check succeeds by 4 or more, she will pay  **5** to all present.
 
-### At the Gala
+### [[The Marlstone Gala]]
+
+> [!danger] Hazard
+> #### Access Level
+>
+> This area is **Open**.
 
 > [!quote] Read Aloud
 > A greeter in House Wandren attire, welcomes each new face that comes into the foyer, directing them to the arched doorways to each side of the main foyer. Behind them, strains of music and dancing lights seem to draw you into the large room behind them.

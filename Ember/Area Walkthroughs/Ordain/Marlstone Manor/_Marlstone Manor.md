@@ -10,7 +10,6 @@ tags: [ember, area-walkthroughs, index]
 ## Pages
 
 - [[Area Overview]]
-- [[Gameplay Details]]
 - [[Entrance Plaza]]
 - [[Gardens]]
 - [[Guardhouse]]
@@ -54,3 +53,4 @@ tags: [ember, area-walkthroughs, index]
 - [[Elevated Terrace]]
 - [[Front Fountains]]
 - [[Garden Fountains]]
+- [[Gazetteer Reference]]

@@ -1,7 +1,7 @@
 ---
 title: "Engagement and Flanking"
 journal: "Game Mechanics / Combat"
-source_uuid: "JournalEntry.zlYGu6T8PqUvd7UQ"
+source_uuid: "JournalEntry.PETeWXMgCZCt14YN"
 type: ember.lore
 tags: [ember, game-mechanics]
 ---
@@ -36,6 +36,6 @@ A status effect condition when a creature is **Flanked** is automatically comput
 
 ## Disengagement
 
-When an opponent attempts to disengage from you in melee combat it becomes temporarily vulnerable, allowing you to perform a **Reactive Strike**, a weapon attack as a Reaction. You may not make a Reactive Strike if you are @Condition[Unaware] or @Condition[Flanked] by other remaining opponents.
+When an opponent attempts to disengage from you in melee combat it becomes temporarily vulnerable, allowing you to perform a **Reactive Strike**, a weapon attack as a Reaction. You may not make a Reactive Strike if you are **Unaware** or **Flanked** by other remaining opponents.
 
 The Goblins in our previous example have decided that Krag is too tough and it is advisable to disengage in search of more vulnerable prey. Two of the four goblins may move away from Krag without reciprocity, because Krag is otherwise **Fully Engaged** and therefore cannot retaliate. When the third goblin moves away, however, Krag performs a **Reactive Strike**, burying his battle axe in the back of the retreating evildoer!

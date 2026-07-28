@@ -29,18 +29,18 @@ tags: [ember, quests]
 
 - Toth recognizes the unpredictable qualities of Entropic Pearls (and their negative effects on Chessmen) as a powerful tool in her effort to destabilize House Cevher.
 - Entropic Pearls are seeded throughout Arcturel by Toth and her minions in an attempt to bring them into proximity with Chessmen. Toth is eager to inspire a duplicitous narrative: that Chessmen are unreliable and dangerous to the people of Arcturel.
-- Entropic Pearls are secretly installed in a variety of Chessmen throughout town by Toth’s minions, including constructs located at: the Glimmer crystal shop in Upper Arcturel, the Mine in Lower Arcturel, and Hob Korrel’s stables (among others). The “onset time” of the chaotic transmutation magic stored in the Entropic Pearls is unknown.
+- Entropic Pearls are secretly installed in a variety of Chessmen throughout town by Toth’s minions, including constructs located at: the Glimmer crystal shop in Arcturel, the Mine in the Dives, and Hob Korrel’s stables (among others). The “onset time” of the chaotic transmutation magic stored in the Entropic Pearls is unknown.
 
 ## 1 Month Ago
 
 - Various anomalies are slowly reported throughout town in regards to Chessmen and their behavior. The constructs seem to be malfunctioning, while in reality they’re being affected by the chaotic magic of the Diagram Transcendent via Entropic Pearls.
-- The Chessman known as “Lucent” is awakened by the Diagram Transcendent. Originally in the employ of the Glimmer crystal shop of Upper Arcturel, Lucent is stirred to action and promptly escapes without major incident. Lucent is categorized as “missing” during the early stages of the investigation.
+- The Chessman known as “Lucent” is awakened by the Diagram Transcendent. Originally in the employ of the Glimmer crystal shop of Arcturel, Lucent is stirred to action and promptly escapes without major incident. Lucent is categorized as “missing” during the early stages of the investigation.
 - The Chessman known as “Rider” is awakened. Originally in the employ of Hob Korell, Rider hijacks a riding lizard/frog during an incident and slinks off into the sinkhole depths.
 - Both of these constructs find their way to Rock Bottom, where they Ifton Shepp. Shepp recognizes the unique qualities of these Chessmen and directs Lucent and Rider to find Chamberlain at his camp in the East.
 
 ## 2 Weeks Ago
 
-- The Chessman known as “Hew” is awakened by the Diagram Transcendent, at a most inconvenient time. While working one day in the House Cevher mine, Hew malfunctions. Several witnesses see Hew fight with a House Cevher miner at the edge of the Lower Arcturel catwalk, and they both go over the edge during the struggle — falling to their supposed doom at the bottom of the sinkhole.
+- The Chessman known as “Hew” is awakened by the Diagram Transcendent, at a most inconvenient time. While working one day in the House Cevher mine, Hew malfunctions. Several witnesses see Hew fight with a House Cevher miner at the edge of the Dives catwalk, and they both go over the edge during the struggle — falling to their supposed doom at the bottom of the sinkhole.
 - While authorities were able to find scant evidence of the miner’s liquified corpse, there were no apparent signs of Hew the Construct — who is presumed to have survived the fall. With this so-called automaton killer on the loose, the people of Arcturel grow increasingly nervous.
 
 ## 2 Days Ago

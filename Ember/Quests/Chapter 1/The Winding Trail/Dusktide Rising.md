@@ -11,9 +11,9 @@ tags: [ember, quests]
 > [!warning] Gamemaster
 > #### Gamemaster's Summary
 >
-> This Combat Event occurs when the town of Helkas is suddenly attacked by mutated drakes and a band of raiders during the Dusktide Festival. In this Event, the party must:
+> This Combat Event occurs when the town of Helkas is suddenly attacked by afflicted drakes and a band of raiders during the Dusktide Festival. In this Event, the party must:
 >
-> - Survive an attack by a [[Afflicted Pallid Drake]] and several [[Afflicted Pallid Drakeling]].
+> - Survive an attack by an [[Afflicted Pallid Drake]] and several [[Afflicted Pallid Drakeling]].
 > - Repel a seemingly unrelated onslaught from [[Otherhood Raider]] led by [[Bassa the Firebug]].
 > - Protect or save as many townsfolk of Helkas as they can, including [[Arcturian]] and local NPCs alike.
 > - Possibly learn a mysterious clue about the coordination of the attack.
@@ -45,7 +45,7 @@ The town is under attack! The townsfolk of Helkas scramble to reach safety while
 >
 > Level 4 · Afflicted Pallid Drake Adult Drake
 >
-> ![Afflicted Pallid Drake](../../../assets/image011.webp)
+> ![Afflicted Pallid Drake](../../../assets/image012.webp)
 >
 > This large, serpentine creature is covered in pale white-green scales with a prominent flared tail adorned with ragged, green frills. Its draconic head is set with long horns tipped in the same pale green hue, and halfway down its body are more wide, damaged frills. The Drake's eyes are a cloudy white, hinting at blindness, and its body is marred by unsettling yellow pustules emerging from ragged wounds. Despite its obvious afflictions, it maneuvers with undeterred grace, periodically revealing rows of razor-sharp teeth within a saliva-dripping maw.
 
@@ -54,7 +54,7 @@ The town is under attack! The townsfolk of Helkas scramble to reach safety while
 >
 > Level 2 · Afflicted Pallid Drake Drakeling
 >
-> ![Afflicted Pallid Drakeling](../../../assets/image012.webp)
+> ![Afflicted Pallid Drakeling](../../../assets/image013.webp)
 >
 > This serpentine creature has a long thin body accentuated by thin, ragged spotted frills midway along its body. Its features are dragon-like, boasting a crown of wavy horns, a maw filled with small, razor-sharp teeth, and a constant drool of acidic saliva. Its cloudy eyes suggest blindness, while the presence of unsettling yellow pustules in unhealed wounds point to a strange affliction. Despite its sickly appearance, the creature appears agile and dangerous.
 
@@ -185,7 +185,7 @@ The party, joined by Lyla Cevher, faces a sortie of nine raiders, one of whom is
 >
 > Level 1 · Human Brigand
 >
-> ![Otherhood Raider](../../../assets/image100.webp)
+> ![Otherhood Raider](../../../assets/image156.webp)
 >
 > A lightly-armored, heavily armed fighter wearing golden robes and brown leather armor. They look determined, disciplined and spoiling for a fight.
 
@@ -194,7 +194,7 @@ The party, joined by Lyla Cevher, faces a sortie of nine raiders, one of whom is
 >
 > Level 2 (Elite) · Kivahr Brigand
 >
-> ![Bassa the Firebug](../../../assets/image101.webp)
+> ![Bassa the Firebug](../../../assets/image157.webp)
 >
 > A wild-eyed fellow wearing scorched leather armor covered in dark metal studs, and multiple armored bandoliers packed with vials of unknown liquids. He smells of chemicals and smoke, and looks ready for a fight.
 
@@ -270,7 +270,7 @@ After the final raider falls, the gleam of Orbis provides a momentary chance to 
 >
 > The onlooker mentioned above is [[Serethus]], leader of the [[Mutagists]] and one of the innermost circle of [[Zerranyss']] malevolent cabal. He orchestrated the attack against Helkas as a field test of the mutagen being developed in the [[Repurposed Quarry]] laboratory.
 >
-> The mutated drakes were specimens from this laboratory that Serethus transported to the region. The subsequent attack by the [[Otherhood of Fortune]] was planned by [[Sticks]] to pillage and sow discord in the aftermath of Serethus' experiment.
+> The afflicted drakes were specimens from this laboratory that Serethus transported to the region. The subsequent attack by the [[Otherhood of Fortune]] was planned by [[Sticks]] to pillage and sow discord in the aftermath of Serethus' experiment.
 >
 > It is impossible for the party to learn any of these connections at this time.
 
@@ -344,7 +344,7 @@ The bandits have some identifying markers on them that might be interesting.
 >
 > #### Bassa's Remains
 >
-> Investigation of Bassa's corpse identifies that several pieces of their gear are badly scorched, including the crossbow bolt sticking out of their chest. Despite the scorch marks, the leather is relatively untouched. A strange marking — a tower wrapped in coils of rope — has been deeply imprinted in the material. The armor is [[Firebug's Leather]] which can be retrieved from the corpse.
+> Investigation of Bassa's corpse identifies that several pieces of their gear are badly scorched. Despite the scorch marks, the leather is relatively untouched. A strange marking — a tower wrapped in coils of rope — has been deeply imprinted in the material. The armor is [[Firebug's Leather]] which can be retrieved from the corpse.
 >
 > Any character who searches Bassa's corpse and makes a successful **Awareness (DC 14, Passive)** check spots small pouches hidden in the gear which hold several short notes and letters written in an indecipherable code (a mysterious Otherhood cypher that will be revealed later in the campaign).
 >

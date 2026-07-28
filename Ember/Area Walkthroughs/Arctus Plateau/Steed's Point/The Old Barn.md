@@ -60,7 +60,7 @@ As soon as the party is trapped inside by the hedges, a pair of opportunistic go
 >
 > Level 4 · Gore Bird Swarm
 >
-> ![Gore Bird Ravage](../../../assets/image080.webp)
+> ![Gore Bird Ravage](../../../assets/image083.webp)
 >
 > A large swarm of tiny, keen-eyed birds circles above, their charcoal-colored feathers a stark contrast to their sharp red beaks. It is nearly impossible to see how many of them there are, but as they grow closer, making an unsettling cawing noise and rustling their crimson tailfeathers, you can smell the rot of the putrid flesh they so often feast on.
 
