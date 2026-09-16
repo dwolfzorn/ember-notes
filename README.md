@@ -75,6 +75,18 @@ alphabetical order after the listed ones. Like the semantic search index,
 this is computed once when the config loads, so a running `--serve` session
 won't pick up journal index edits until restarted.
 
+## Session prep (Claude Code)
+
+To prep for an upcoming session or ask questions about the campaign, open
+this repo in Claude Code and run `/prep-session` (or just ask "help me prep
+for our next session"). It reads `Ember/Campaign Status.md` — a small file
+you update after each session with the current chapter/quest, party
+location, and open threads — then pulls together a summary of the
+upcoming quest, key NPCs, locations, and dangers from the vault. It also
+answers ad hoc questions ("what happened in Ooze Control?", "what does
+Rala Ushna want?") by reading the notes directly. See
+`.claude/skills/prep-session/SKILL.md` for details.
+
 ## Prerequisites
 
 - Foundry VTT with the **Journal Resolver Exporter** module installed and
