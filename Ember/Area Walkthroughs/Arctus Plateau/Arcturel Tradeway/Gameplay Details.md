@@ -17,7 +17,7 @@ The distance between the Tradeway and Underbelly levels of Arcturel is 20 feet i
 >
 > Characters that jump or fall off of Arcturel and don't land on a lower level will find themselves falling hundreds upon hundreds of feet to the Sinkhole Depths below.
 >
-> Without some magical means to float or fly, most characters will not survive this fall.
+> Without some magical means to float or fly, such as a [[Potion of Gliding]] most characters will not survive this fall.
 >
 > We recommend giving characters one or more **Athletics (DC 14)** checks to catch ledges, suspension cables, walkways, outstretched hands, or hastily thrown ropes to potentially save themselves from an early demise.
 

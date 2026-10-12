@@ -37,7 +37,7 @@ As the party approaches, you can read them the following:
 >
 > Level 1 · Unknown Unknown
 >
-> ![Eveis Brightstone](../../../assets/image142.webp)
+> ![Eveis Brightstone](../../../assets/image172.webp)
 
 > [!info] Social
 > #### Conversation with Eveis Brightstone
@@ -103,7 +103,7 @@ Once the exchange with Eveis Brightstone is complete, she leaves the party to th
 >
 > The trap is triggered when any character attempts to open the Chamber doors without first holding the [[Maze Challenge Key]], [[Well Challenge Key]], and [[Trial Challenge Key]] aloft.
 >
-> If triggered by the party, each character risks taking damage from **Runic Explosion (Hazard 4, Reflex, Health)**.
+> If triggered by the party, each character risks taking damage from **Runic Explosion (Hazard 4)**.
 
 ### Entering the Chamber
 

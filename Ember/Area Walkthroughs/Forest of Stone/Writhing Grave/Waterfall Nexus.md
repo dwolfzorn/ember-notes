@@ -131,6 +131,15 @@ The party can speak with the Whisperer to learn more about it, though such knowl
 >
 > > Is it dead? Or will it yet be?
 
+> [!question] Q&A
+> **Q:** If someone has an Attunement rank with the Abyss.
+>
+> **A:**
+>
+> You feel a strange sense of communion, as if the entity sees past you into your soul.
+>
+> > Free me… you are lesser.. The call of the dark.. the whisper in your mind… it is unavoidable.. I can grant you more… MORE!
+
 ## Fighting the Whisperer
 
 Should the party confront the Whisperer in combat, it will no longer negotiate and will not hesitate in its attempts to destroy the party.
@@ -210,11 +219,11 @@ While the party is momentarily unconscious, they receive an infusion of Abyssal 
 > [!danger] Hazard
 > #### Psychic Backlash
 >
-> Assisting the Writhing Whisperer causes a backlash of psychic energy to affect the entire party. Each character must face **Abyssal Madness (Hazard 6, Psychic, Willpower, Morale, Harmless)**. If affected, Abyssal energies suffuse the character's body and they become permanently afflicted by one random effect from the [[Minor Abyssal Madness]] table.
+> Assisting the Writhing Whisperer causes a backlash of psychic energy to affect the entire party. Each character must face **Abyssal Madness (Hazard 6)**. If affected, Abyssal energies suffuse the character's body and they become permanently afflicted by one random effect from the [[Minor Abyssal Madness]] table.
 >
 > #### Abyssal Infusion
 >
-> A party that chooses to release the Writhing Whisperer gains the [[Abyssal Insights]] feature. They can use this feature once per day, and as their attunement with the Abyss grows, so does the feature. Characters who successfully saved against the psychic backlash above may elect to refuse the feature if they so choose.
+> A party that chooses to release the Writhing Whisperer gains both the [[Abyssal Insights]] feature & the[[Abyssal Infusion (Whisperer)]] feature. They can use the Abyssal Insights feature once per day, while Abyssal Infusion is a passive feature; both increase in power as their attunement with the Abyss grows and as they continue to make deals with Abyssal entities. Characters who successfully saved against the psychic backlash above may elect to refuse the feature if they so choose.
 
 After receiving or rejecting this granted boon, the characters regain their senses.
 

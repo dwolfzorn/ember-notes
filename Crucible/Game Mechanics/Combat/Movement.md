@@ -1,9 +1,9 @@
 ---
 title: "Movement"
 journal: "Game Mechanics / Combat"
-source_uuid: "JournalEntry.PETeWXMgCZCt14YN"
-type: ember.lore
-tags: [ember, game-mechanics]
+source_uuid: "JournalEntry.zlYGu6T8PqUvd7UQ"
+type: crucible.lore
+tags: [crucible, game-mechanics]
 ---
 
 # Movement
@@ -43,15 +43,15 @@ ceil(Effective Distance / Stride)
 
 The following **Status Conditions** affect the measurement and cost of movement.
 
-#### **Slowed**
+#### Slowed
 
 The **Effective Distance** traveled by any movement is doubled.
 
-#### **Hastened**
+#### Hastened
 
 The **Effective Distance** traveled by any movement is halved.
 
-#### **Restrained**
+#### Restrained
 
 Movement is impossible.
 

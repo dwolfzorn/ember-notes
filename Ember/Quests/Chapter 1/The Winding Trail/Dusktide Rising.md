@@ -45,7 +45,7 @@ The town is under attack! The townsfolk of Helkas scramble to reach safety while
 >
 > Level 4 · Afflicted Pallid Drake Adult Drake
 >
-> ![Afflicted Pallid Drake](../../../assets/image012.webp)
+> ![Afflicted Pallid Drake](../../../assets/image013.webp)
 >
 > This large, serpentine creature is covered in pale white-green scales with a prominent flared tail adorned with ragged, green frills. Its draconic head is set with long horns tipped in the same pale green hue, and halfway down its body are more wide, damaged frills. The Drake's eyes are a cloudy white, hinting at blindness, and its body is marred by unsettling yellow pustules emerging from ragged wounds. Despite its obvious afflictions, it maneuvers with undeterred grace, periodically revealing rows of razor-sharp teeth within a saliva-dripping maw.
 
@@ -54,7 +54,7 @@ The town is under attack! The townsfolk of Helkas scramble to reach safety while
 >
 > Level 2 · Afflicted Pallid Drake Drakeling
 >
-> ![Afflicted Pallid Drakeling](../../../assets/image013.webp)
+> ![Afflicted Pallid Drakeling](../../../assets/image014.webp)
 >
 > This serpentine creature has a long thin body accentuated by thin, ragged spotted frills midway along its body. Its features are dragon-like, boasting a crown of wavy horns, a maw filled with small, razor-sharp teeth, and a constant drool of acidic saliva. Its cloudy eyes suggest blindness, while the presence of unsettling yellow pustules in unhealed wounds point to a strange affliction. Despite its sickly appearance, the creature appears agile and dangerous.
 
@@ -89,7 +89,7 @@ The town is under attack! The townsfolk of Helkas scramble to reach safety while
 > Ankarist is a [[Spellblade]] empowered by a patron goddess of defense and creation. He is a fearless warrior who interweaves spellcraft with strikes from his greatsword, [[Greatsword]].
 >
 > - In melee, Ankarist uses his signature strike gesture to unleash devastating blows like **Flaming Strike**. If engaged with multiple targets, Ankarist will use [[Swipe]] to strike at multiple foes.
-> - At a distance, Ankarist will hurl spellcraft like **Attractive Arrow of Control**, utilizing the Pull inflection to draw enemies closer to him.
+> - At a distance, Ankarist will hurl spellcraft like **Attractive Kinetic Arrow**, utilizing the Pull inflection to draw enemies closer to him.
 > - Ankarist will fight until he becomes **Weakened** or **Broken**, at which point he will suggest a tactical retreat and withdraw.
 >
 > Once the drakes are defeated, Ankarist will depart to escort a group of embattled civilians out of the area and to safety, leaving the party to hold the square and protect whomever remains.
@@ -100,11 +100,11 @@ The town is under attack! The townsfolk of Helkas scramble to reach safety while
 
 |  | #### Helkas Drake Moments |
 | --- | --- |
-| 1 | #### Flyby Spitting  A drake swoops overhead, its silhouette temporarily obscuring Mayis. A random party member who has recently made noise while performing an action is the target of **Spit Bile (Hazard 8, Acid, Reflex, Health)** which arcs down from above. |
-| 2 | #### Lyla's Flying Dagger  A doorway swings open, and Lyla Cehver practically materializes from its shadows. She flings a **Thrown Dagger (Hazard 4, Piercing)**, striking the nearest drake or drakeling. |
+| 1 | #### Flyby Spitting  A drake swoops overhead, its silhouette temporarily obscuring Mayis. A random party member who has recently made noise while performing an action is the target of **Spit Bile (Hazard 8)** which arcs down from above. |
+| 2 | #### Lyla's Flying Dagger  A doorway swings open, and Lyla Cehver practically materializes from its shadows. She flings a **Thrown Dagger (Hazard 4)**, striking the nearest drake or drakeling. |
 | 3 | #### Panicked Commoners  A group of commoners come rushing out of a nearby building and begin trying to flee the area. They spend their available actions running towards the Boneway to ascend and escape into the hills above Helkas. |
 | 4 | #### Barked Sin  Sin appears on a nearby roof wreathed in green energy and invoking the powers of Ember in druidic tongue. She casts a spell that wraps a nearby ally in a fortified mesh of sturdy bark, granting them the **Guarded** condition which lasts for six turns. |
-| 5 | #### Clipper's Cool Shot  Clipper hops into view, a wide grin and maniacal glint in their eye. A glowing aura of frost forms around their hands, and with a clap of four palms, an arcing blade of kinetic force arrows across the battlefield striking a Drake or Drakeling with a **Kinetic Arrow (Hazard 6, Slashing)**. As the target turns in Clipper's direction, they quickly duck out of view saying "That one's free, the next one will cost ya!". |
+| 5 | #### Clipper's Cool Shot  Clipper hops into view, a wide grin and maniacal glint in their eye. A glowing aura of frost forms around their hands, and with a clap of four palms, an arcing blade of kinetic force arrows across the battlefield striking a Drake or Drakeling with a **Kinetic Arrow (Hazard 6)**. As the target turns in Clipper's direction, they quickly duck out of view saying "That one's free, the next one will cost ya!". |
 | 6 | #### Color Commentary  Agraband's music and voice ring true over the din of battle. *Our heroes rallied in the ruin of the Dusktide, undaunted by the horrible visage of a drake's ragged bite. It would not be on their watch at all, that fair Helkas would fall!*.  One party member gains the **Inspired** condition which lasts for the following six rounds of combat. |
 
 ### Momentary Reprieve
@@ -124,7 +124,7 @@ The town is under attack! The townsfolk of Helkas scramble to reach safety while
 >
 > > Hold the square in case more of those beasts show up. I’ll rally the town and send help as soon as I can!
 >
-> With that, Sadri and Ankarist make a hasty escape, driving the group of civilians along and leaving you to keep watch over square. As an uneasy quiet settles over the area, you can hear the roars and screams of chaos elsewhere in the town, but in the dark you can barely see what is happening.
+> With that, Sadri and Ankarist make a hasty escape, driving the group of civilians along and leaving you to keep watch over the square. As an uneasy quiet settles over the area, you can hear the roars and screams of chaos elsewhere in the town, but in the dark you can barely see what is happening.
 >
 > Nearby, Sin and Agraband appear and begin heading toward you, both look concerned in their own ways and are surveying the damage, but it is Sin who urges Agraband along, leading him toward you.
 >
@@ -185,7 +185,7 @@ The party, joined by Lyla Cevher, faces a sortie of nine raiders, one of whom is
 >
 > Level 1 · Human Brigand
 >
-> ![Otherhood Raider](../../../assets/image156.webp)
+> ![Otherhood Raider](../../../assets/image186.webp)
 >
 > A lightly-armored, heavily armed fighter wearing golden robes and brown leather armor. They look determined, disciplined and spoiling for a fight.
 
@@ -194,7 +194,7 @@ The party, joined by Lyla Cevher, faces a sortie of nine raiders, one of whom is
 >
 > Level 2 (Elite) · Kivahr Brigand
 >
-> ![Bassa the Firebug](../../../assets/image157.webp)
+> ![Bassa the Firebug](../../../assets/image187.webp)
 >
 > A wild-eyed fellow wearing scorched leather armor covered in dark metal studs, and multiple armored bandoliers packed with vials of unknown liquids. He smells of chemicals and smoke, and looks ready for a fight.
 
@@ -211,7 +211,7 @@ The party, joined by Lyla Cevher, faces a sortie of nine raiders, one of whom is
 >
 > - In melee, the Otherhood Raiders will use their [[Dual Wield]] talent to strike with both their [[Shortsword]] and [[Dagger]].
 > - Whenever able, the Otherhood Raiders will [[Backstab]] **Flanked** enemies.
-> - From range, the Otherhood Raiders will use their [[Pinning Shot]] attack to prevent creatures from fleeing, and their [[Flaming Arrow]]attack to damage enemies and set buildings ablaze.
+> - From range, the Otherhood Raiders will use their [[Unknown]] attack to prevent creatures from fleeing, and their [[Flaming Arrow]]attack to damage enemies and set buildings ablaze.
 > - Otherhood Raiders whose morale is **Broken** will attempt to flee, but they will not surrender if cornered. They will also attempt to flee if Bassa is slain.
 >
 > #### Bassa the Firebug Tactics
@@ -241,12 +241,12 @@ The party, joined by Lyla Cevher, faces a sortie of nine raiders, one of whom is
 
 |  | #### Helkas Raider Moments |
 | --- | --- |
-| 1 | #### Fire Support  The raiders receive supporting fire from allies nearby. A barrage of flaming arrows fall from the sky, fired by archers somewhere else in town. Any party member or ally not underneath overhead cover may be struck by **Flaming Arrows (Hazard 4, Fire, Reflex, Health)**. |
-| 2 | #### Fire in the Pole  The festival pole at the center of the town becomes engulfed in alchemical flame, its attached streamers and tents catching fire and falling all around. Characters within 20 feet of the center of the Helkas Green risk being tangled up in **Burning Streamers (Hazard 4, Fire, Reflex)**. |
+| 1 | #### Fire Support  The raiders receive supporting fire from allies nearby. A barrage of flaming arrows fall from the sky, fired by archers somewhere else in town. Any party member or ally not underneath overhead cover may be struck by **Flaming Arrows (Hazard 4)**. |
+| 2 | #### Fire in the Pole  The festival pole at the center of the town becomes engulfed in alchemical flame, its attached streamers and tents catching fire and falling all around. Characters within 20 feet of the center of the Helkas Green risk being tangled up in **Burning Streamers (Hazard 4)**. |
 | 3 | #### Swift and Aggravating  Agraband steps into view and calls to a raider, "*I've seen more intimidating dummies in a tailor's window! It is fun how you all coordinated your outfits though…*". The magic laced in his words causes one of the raiders to flinch as though physically struck. Agraband uses [[Bard]] on a nearby raider. |
 | 4 | #### Clipper's Free Sample  Clipper appears nearby, rummaging through their bag, pushing their arms in to their elbows. After a moment, a grin hits Clipper's face as they find what they're looking for. "*Looks like you could use a pick-me-up, take this!*" they yell, throwing a [[Healing Elixir]] to an ally nearby. |
 | 5 | #### Ankarist's Eldritch Spear  Out of nowhere, a beam of magical energy streaks through the night, striking a foe. In the distance, you catch a glimpse of Ankarist wreathed in a nimbus of fading light. He nods to you before turning his attention to some danger only he can see. Ankarist casts **Arrow of Flame** on a nearby raider. |
-| 6 | #### Swooping Season  Sin leaps off a roof, her form warping into a tiny red-beaked bird which dives down weaves through the battlefield, pecking and clawing at raiders one after another. Every remaining Raider who isn't inside a building suffers **Raking Pecks (Hazard 4, Piercing, Reflex)**. Sin then flies off before she can be retaliated against. |
+| 6 | #### Swooping Season  Sin leaps off a roof, her form warping into a tiny red-beaked bird which dives down weaves through the battlefield, pecking and clawing at raiders one after another. Every remaining Raider who isn't inside a building suffers **Raking Pecks (Hazard 4)**. Sin then flies off before she can be retaliated against. |
 
 ### An Onlooker
 

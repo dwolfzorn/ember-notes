@@ -37,17 +37,17 @@ A pressure plate inside the tower entryway is connected to an orb of magical [[E
 >
 > The Entrance Alcove is trapped by a magical darkness trap, which is triggered when a character steps on the 60-foot-wide, 10-foot-long pressure plate at the eastern end of the chamber. This pressure plate cannot be disabled.
 >
-> Any character with **Awareness (DC 14, Passive)** is able to spot the pressure plate.
+> Any character with **Awareness (DC 14, Passive)**is able to spot the pressure plate.
 >
-> Any character who makes a successful **Arcana (DC 16)** check knows that magical darkness spells were used as a defensive measure by the Aedir and that there would typically be a physical disarming mechanism somewhere nearby.
+> Any character who makes a successful **Arcana (DC 16, Passive)** check knows that magical darkness spells were used as a defensive measure by the Aedir and that there would typically be a physical disarming mechanism somewhere nearby.
 >
 > - **Knowledge: Aedir**: The character gains **+2 Boons** on this check.
 >
 > #### Tripping Hazard
 >
-> As characters make their way through the dark, they may trip over the ground, which is rough from years of disuse. While in darkness, the entryway area is considered Difficult Terrain.
+> As characters make their way through the dark, they may trip over the ground, which is rough from years of disuse.
 >
-> Each time a character moves through the room, roll a `[[/gmroll 1d4]]`. On a result of **1**, they stumble over something on the floor and suffer damage from the **Tripping Hazard (Hazard 4, Fortitude, Health, Bludgeoning)**.
+> Each time a character moves through the room, roll a `[[/gmroll 1d4]]`. On a result of **1**, they stumble over something on the floor and suffer damage from the **Tripping Hazard (Hazard 4)**.
 >
 > #### Disabling the Darkness
 >

@@ -2,8 +2,8 @@
 title: "Tailoring"
 journal: "Game Mechanics / Crafting"
 source_uuid: "JournalEntry.VACLxWDh6klAX1p0"
-type: ember.lore
-tags: [ember, game-mechanics]
+type: crucible.lore
+tags: [crucible, game-mechanics]
 ---
 
 # Tailoring

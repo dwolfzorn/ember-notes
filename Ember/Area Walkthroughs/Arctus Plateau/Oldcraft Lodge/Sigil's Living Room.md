@@ -22,7 +22,7 @@ The man standing in the room is the Shard God Sigil. He is a friendly yet confus
 >
 > Level 18 (Boss) · Human Shard God
 >
-> ![Sigil](../../../assets/image094.webp)
+> ![Sigil](../../../assets/image104.webp)
 >
 > The old man is small, dwarfed by his large cloak, a long winding beard that gains a deep gleam of magic where it curls around his waist, and the sheer number of papers around him. And yet he is focused, moving his eyes and hands seamlessly from one to the next, as if each open scroll and loose sheet of vellum is in precisely the place he expected and needed it to be. He looks at you much the same way, glancing up as he flips through a book in his hands and makes a precise note in the margins, as if assessing you to determine where you belong.
 
@@ -81,7 +81,7 @@ The man standing in the room is the Shard God Sigil. He is a friendly yet confus
 >
 > There is a long pause as he continues reading his book before twitching slightly, as if realizing he was being too blunt.
 >
-> > Ah! I mean, yes, but it is currently closed because I have some delicate instruments inside that I don't want disturbed. The gate there would lead you in. Please come back again later; the door will be open, I'm sure.
+> > Ah! I mean, yes, but it is currently closed because I have some delicate instruments inside that I don't want disturbed. The gate there would lead you in. Please come back again later; the door will be open, I'm sure. For now, feel free to peruse the books I have here in the living room.
 
 > [!question] Q&A
 > **Q:** Why are you helping these refugees?
@@ -89,3 +89,8 @@ The man standing in the room is the Shard God Sigil. He is a friendly yet confus
 > **A:**
 >
 > > Because the alternative is distressing … I may not be able to help with battles, fighting, and the like. I find that kind of thing quite frightening, but allowing anyone to be extinguished by bandits or hunger is ... wrong. If I have the capacity to help the people of the Plateau during this crisis, I will do so. Besides, the children brought me a flower yesterday. It had exactly five petals. Perfect symmetry.
+
+> [!tip] Exploration
+> #### Sigil's Books
+>
+> If the players wish to sample Sigil's book collection, refer to [[A Friendly Reunion]].

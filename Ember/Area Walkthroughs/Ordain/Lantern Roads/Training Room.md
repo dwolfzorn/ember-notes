@@ -16,21 +16,21 @@ tags: [ember, area-walkthroughs]
 >
 > Level 1 · Unknown Unknown
 >
-> ![Wandren Watcher](../../../assets/image053.webp)
+> ![Wandren Watcher](../../../assets/image054.webp)
 
 > [!abstract] Kynryth
 > **[[Kynryth]]**
 >
 > Level 1 · Unknown Unknown
 >
-> ![Kynryth](../../../assets/image052.webp)
+> ![Kynryth](../../../assets/image053.webp)
 
 > [!abstract] Aburyx
 > **[[Aburyx]]**
 >
 > Level 6 (Elite) · Tyraphem Aburyx
 >
-> ![Aburyx](../../../assets/image054.webp)
+> ![Aburyx](../../../assets/image055.webp)
 >
 > With a head of radiant yellow flame and the golden plate armor of a warrior, the Aburyx floats up from the ground it stands on, swiveling to face with you with a flare of light. Within moments, it it is hovering in front of you, a sword of light suddenly emerging from its hands as it readies to attack.
 

@@ -39,7 +39,7 @@ If [[Vitt Wandren]] is here when the party arrives, read the following:
 >
 > Level 1 · Unknown Unknown
 >
-> ![Vitt Wandren](../../../assets/image055.webp)
+> ![Vitt Wandren](../../../assets/image056.webp)
 
 > [!danger] Hazard
 > #### Vitt Wandren Tactics

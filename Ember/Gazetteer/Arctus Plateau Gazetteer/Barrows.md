@@ -8,8 +8,6 @@ tags: [ember, gazetteer]
 
 # Barrows
 
-**Work In Progress!** This biome and its accompanying entry are not in the scope of current Gameplay. All text provided here is currently **in development** and **incomplete**. This entry will be revised and expanded on in future updates.
-
 > [!warning] Gamemaster
 > #### Gamemaster's Summary
 >
@@ -20,18 +18,18 @@ tags: [ember, gazetteer]
 
 ### Environment
 
-The Barrows are a labyrinthine expanse of ancient burial mounds and forgotten ruins, perpetually shrouded in eerie fog. This realm of desolation stands as a testament to the haunting presence of the past, where the imprints of the [[Varún]] and [[Shent]] Giants linger in stone and shadow.
+The Barrows are a meandering expanse of ancient burial mounds and timeworn ruins, perpetually shrouded in an eerie, almost otherworldly fog. This realm of desolation, where the imprints of the [[Varún]] and [[Shent]] Giants linger in stone and shadow, stands as a testament to the haunting presence of the Arctus Plateau's storied past.
 
-The mist-cloaked landscape offers little visibility, masking the sinister secrets that lie beneath its surface. The remnants of the once-great civilization of the Shent play host to cryptic riddles and arcane mysteries that challenge even the most intrepid explorers. On top of these ancient ruins are more recent but still old and abandoned structures built by the Varún. A foreboding atmosphere envelops the area, drawing in those who seek to unravel its dark legacy or restore sanctity to its hallowed grounds.
+The mist-cloaked landscape here offers little visibility, and masks the curious (and oft sinister) secrets that lurk beneath its surface — such as the scattered remnants of the once-great civilization of the Shent, which play host to cryptic riddles and arcane mysteries that challenge even the most intrepid of explorers. Abandoned structures and burial mounds of the Varún stand atop these older ruins; and these forsaken tumuli not only lend the shadow-haunted biome its name, they are responsible for some of the area's invisible energy fields of necromantic magic. A foreboding atmosphere envelops the land here, calling out to those daring enough to unravel its dark legacy or restore sanctity to its once-hallowed landscape.
 
 ### Ecology
 
-Other than a blanket of withered grasses and shrubbery, plant life in the Barrows is incredibly sparse, and is identified by its ashen color. Areas closest to the biome’s invisible necromantic fields occasionally host leafless, nearly petrified trees and decayed foliage, which have grown putrid with supernatural taint.
+Other than a blanket of withered grasses and scattered pockets of graying shrubbery, plant life in the Barrows is incredibly sparse, and is easily identified by its lifeless ashen color. Lands closest to the biome’s invisible necromantic fields have grown putrid with supernatural taint, and are rife with decaying foliage and leafless, petrified trees.
 
-The living are few and far between. Undead creatures, fueled by the necromantic magics coursing unseen beneath the surface, roam the shadowy landscape with unsettling resolve. They are spurned ever onward by strange and sinister forces that lurk beneath the ruins.
+Living creatures are few and far between. A meager array of rodents, reptiles, and carrion beasts prowl the Barrows in search of food (whether living or dead). But the ecosystem's most notable inhabitants are undead; fueled by the necromantic magics coursing unseen beneath the biome's surface, these undying creatures roam the tenebrous landscape with unsettling resolve, spurned ever-onward by strange and sinister forces that lurk below the decrepit ruins.
 
 ### Lore
 
-The Barrows are steeped in history, with many scattered ruins and tombs of the ancient Shent dotting the landscape. After [[The Shattering]], the Varún visited the area and continued to bury their dead in mounds and cairns until the dead began to rise and the Mourning War erupted across the Arctus Plateau. Although this was never discovered during the war, its ultimate architect was a terrifying [[Abyssal Horrors]] known as [[Nethehepticas]], a harbinger of darkness and death that still sleeps in a hidden cavern in the northern Barrows.
+The Barrows are steeped in forgotten history, and countless ruins and tombs of the ancient Shent Giants dot the mist-shrouded landscape. After [[The Shattering]], the Varún journeyed to the area, where they continued their traditional burial practices — entombing their dead in tumuli and cairns — until the advent of the [[Mourning War]], when a blundered Varún ritual gave rise to an army of undead Giants. The clandestine architect of this conflict is the loathsome [[Abyssal Horrors]] known as [[Nethehepticas]], who slumbers to this day within a hidden complex in the northern Barrows known as The Sleeping Vault.
 
-Though many have tried to revive the legacy locked within the tombs, only cautionary tales and echoes of the past have emerged from the sepulchral shadows. The Barrows persist as a somber battlefield between those who fear its secrets and those who seek to understand them, with their unyielding presence standing as both a warning and an enticement to daring souls.
+Although many people have tried to revive the legacies of the Shent and Varún locked away inside the biome's countless tombs, cautionary tales and echoes of the past are the only things to have emerged. The Barrows persist as a veritable "no man's land" between those who fear the area's sepulchral secrets, and those who seek to understand them. And the ancient, unyielding ruins here stand as both warning and enticement to Aterica's most daring souls.

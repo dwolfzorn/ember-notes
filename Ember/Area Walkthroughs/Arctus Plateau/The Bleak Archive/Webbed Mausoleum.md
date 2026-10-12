@@ -22,7 +22,7 @@ A devious [[Sitherian]] has taken residence in this irregularly-shaped chamber a
 >
 > Any character who moves throughout the webbed sections of the chamber will unavoidably make the Sitherian aware of their presence.
 >
-> Moreover, characters who move through the webbed area must face a **Entangling Webs (Hazard 6, Reflex, Morale, Harmless)** or become **Restrained** by the webbing.
+> Moreover, characters who move through the webbed area must face a **Entangling Webs (Hazard 6)** or become **Restrained** by the webbing.
 >
 > The restrained target can escape by making a successful **Athletics (DC 12)** check.
 >

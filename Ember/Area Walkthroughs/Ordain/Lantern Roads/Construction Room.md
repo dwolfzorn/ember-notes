@@ -23,7 +23,7 @@ The larger assemblies are actually dormant [[Skither]], who spring to life and a
 >
 > Level 2 · Skither Servitor
 >
-> ![Skither](../../../assets/image051.webp)
+> ![Skither](../../../assets/image052.webp)
 >
 > Small and fast-moving, this creature seems at first like something to ignore, little more than a piece of trash with jagged wings crudely shaped to look like a insect. The creature's solitary eye and claw-like appendages seem to surge with fiery radiance as it strikes, leaving streaks of amber light in its wake.
 

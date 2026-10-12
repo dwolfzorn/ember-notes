@@ -37,7 +37,7 @@ tags: [ember, quests]
 >
 > Level 1 · Unknown Unknown
 >
-> ![Katerin Bastilla](../../../assets/image130.webp)
+> ![Katerin Bastilla](../../../assets/image160.webp)
 
 ### Katerin's Tasks
 
@@ -129,6 +129,10 @@ tags: [ember, quests]
 >
 > > So long as the Tayans play nice and pay their contracts on time the wars of the Empire don't concern me or my house. The money and trade interests of the Empires is what I care about, and right now both are very positive.
 
+Check the "Ember's Bounty Discovered" Outcome below for the [[Ember's Bounty]] POI to appear on the Region Map.
+
+`[[/outcome embersBounty]]`
+
 ### The Second Task
 
 > [!quote] Read Aloud
@@ -192,6 +196,10 @@ tags: [ember, quests]
 >
 > Characters with **Culture: Cascilian** or **Path: Anchorite Marine** know that the warehouse and most of trident point for that matter our controlled by the Republic, which means they will have Marines protecting most of the structures, and may even have warbots which are these powerful automatons loaded with weaponry and covered in armor that's all but immune to Magic.
 
+Check the "Trident's Point Discovered" Outcome below for the [[Trident's Point]] POI to appear on the Region Map.
+
+`[[/outcome tridentsPoint]]`
+
 ### Wrapping Up With Katerin
 
 Once the party has finished speaking with Katerin, she takes her leave.
@@ -207,6 +215,10 @@ Once the party has finished speaking with Katerin, she takes her leave.
 >
 > > Ready to get started, then?
 
+Check the "Spellbreaker Tower Discovered" Outcome below for the [[Spellbreaker Tower]] POI to appear on the Region Map.
+
+`[[/outcome spellbreakerTower]]`
+
 ### Helping the Clerk
 
 > [!quote] Read Aloud
@@ -220,7 +232,7 @@ Once the party has finished speaking with Katerin, she takes her leave.
 > For each person the clerk poses the following prompts:
 >
 > - This criminal, what name do they go by? What is their most famed alias?
-> - List this person's known and suspected crimes.
+> - List this person's known and suspected crimes (the crimes should be simple and petty, to justify placing the characters on the appropriate level of the tower).
 > - Declare this person's level of magical ability: minor, major, or master. In addition, are they member to any guild, religion, cult, or are they a know servant to any god?
 > - Does this persona belong to any gangs, outlaw forces, and if so, what position do they hold within?
 
@@ -235,7 +247,7 @@ Once the party has finished speaking with Katerin, she takes her leave.
 > **A:** I honestly don't know. They are forged warrants for arrest and criminal records for people that don't exist. I'm not sure what she wants these for, or why she wants them filed with the Hallows, but she doesn't pay me to ask those sorts of questions.
 
 > [!question] Q&A
-> **Q:** Why do you work for Katerine?
+> **Q:** Why do you work for Katerin?
 >
 > **A:** Because I need money to survive, and the Hallows doesn't pay as well as one would like. At least not well enough if you intend to live comfortably, and I do.
 

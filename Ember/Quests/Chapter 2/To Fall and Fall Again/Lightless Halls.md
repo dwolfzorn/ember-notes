@@ -37,7 +37,7 @@ The structure of the Primordial Bastion is truly ancient, a towering stone edifi
 >
 > #### Taking a Closer Look
 >
-> Any character who investigates the stone blocks of the bastion and makes a successful **Awareness (DC 14)** check knows that there is something very different about the nature of the stonework here: a seamless style of interconnecting blocks suggests a mastery of construction techniques, with most of the stone blocks likely weighing one hundred tons, and some of the larger crossbeams twice or three times that weight. This was not created by the [[Shent]], nor the [[Aedir]], nor any known culture recorded by scholars.
+> Any character who investigates the stone blocks of the bastion and makes a successful **Science (DC 14)** check knows that there is something very different about the nature of the stonework here: a seamless style of interconnecting blocks suggests a mastery of construction techniques, with most of the stone blocks likely weighing one hundred tons, and some of the larger crossbeams twice or three times that weight. This was not created by the [[Shent]], nor the [[Aedir]], nor any known culture recorded by scholars.
 >
 > - **Knowledge: Artifacts**: The character gains **+2 Boons** on this check.
 > - **Knowledge: Crafts**: The character gains **+2 Boons** on this check.
@@ -73,7 +73,7 @@ After Gohema — the massive monster that waits in the [[Sealed Chamber]] — ha
 > - The [[Unknown]] and [[Unknown]] Spells have no effect on the remains.
 > - A Cleric may reduce the degree of Abyssal taint by using the Divine Spark effect of [[Unknown]] within 30 feet of the remains. If they do, read the following:
 >   > For a moment, nothing happens as the Abyssal stain in the room seems to resist the energy. Suddenly, with a terrible echoing snarl of anger that reverberates loudly around you, the darkness retreats and fades further into the cracks of the stone. As the flesh remains melt further into thinness, receding from the godly power of lifeforce, you now see a glinting armband protruding from the remaining scraps of otherwordly darkness.
-> - The party may reduce the degree of Abyssal taint by pouring some of the essence of the [[Sun Star]] onto the remains. However, this partial cleansing also causes the remains to recoil for a moment, then burst apart, scattering stonework and flinging Abyssal matter and shards across the room. All creatures within 30 feet must make a successful `[[/save dex 14]]` or else take `[[/damage 2d8 necrotic]]` damage.
+> - The party may reduce the degree of Abyssal taint by pouring some of the essence of the [[Sun Star]] onto the remains. However, this partial cleansing also causes the remains to recoil for a moment, then burst apart, scattering stonework and flinging Abyssal matter and shards across the room. All creatures within 30 feet must make a successful **Athletics (DC 14)** or else face **Abyssal Affliction (Hazard 9)**.
 
 #### Heart Attunement: Cleanse the Abyssal Remains
 
@@ -82,11 +82,11 @@ If the party manages to reduce the level of Abyssal corruption left by Gohema's 
 > [!tip] Exploration
 > #### Band of Primordial Life
 >
-> Any character with a `[[/check perception 16 passive format=long]]` or who makes a successful on a `[[/check perception 14]]` check spots the [[Band of Primordial Life]] among the dark remains on the floor of the chamber.
+> Any character with a **Awareness (DC 16, Passive)** check spots the [[Band of Primordial Life]] among the dark remains on the floor of the chamber.
 >
 > - **The party reduced the level of Abyssal taint:** All characters automatically succeed on this check.
 >
-> Once spotted, any character who succeeds on a further **Arcana (DC 15)** check correctly determines the magical nature of the Band of Primordial Life without needing to cast [[Detect Magic]] or [[Identify]], is are aware that it is a wondrous item, but can determine little else.
+> Once spotted, any character who succeeds on a further **Arcana (DC 15)** check correctly determines the magical nature of the Band of Primordial Life without needing to cast **Vital Sense** or **Talent: Recognize Spellcraft**, is are aware that it is a wondrous item, but can determine little else.
 >
 > - **Knowledge: Artifacts**: The character gains **+2 Boons** on this check.
 > - **Critical Success**: The character determines that the band's style and runic lettering match the style of the Primordial Bastion, and while this item was evidently consumed by the strange beast, the band must have originally been forged by the First Giants. It is deeply connected to the life energies of the World of Ember and many would consider it a treasure beyond reckoning.

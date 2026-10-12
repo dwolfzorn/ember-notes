@@ -7,7 +7,7 @@ description: Interview the GM after a session and update Ember/Campaign Status.m
 
 Run a short debrief with the user (the GM) after an Ember session, then
 write the answers into `Ember/Campaign Status.md`, replacing its content
-(this file only ever reflects the *current* state, not a history log).
+(this file only ever reflects the _current_ state, not a history log).
 
 ## Step 1: Read current state
 
@@ -36,7 +36,7 @@ follow-up questions in chat for open-ended narrative detail. Cover:
    the existing "Recently completed" list, keeping it to a handful of the
    most recent entries — trim the oldest if it grows past ~5.
 5. **Open threads** — new unresolved NPC promises, foreshadowing,
-   decisions pending, items/clues picked up. Ask whether any *previous*
+   decisions pending, items/clues picked up. Ask whether any _previous_
    open threads got resolved this session and should be removed.
 6. **Notes for next session** — anything the GM wants to remember to bring
    up next time (NPC voices to prep, plot hooks to reintroduce, etc).

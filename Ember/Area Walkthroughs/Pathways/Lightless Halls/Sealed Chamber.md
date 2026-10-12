@@ -36,28 +36,28 @@ Once the party reaches the center platform, the following Actors appear encircli
 >
 > Level 1 · Unknown Unknown
 >
-> ![Gohema's Head](../../../assets/image019.webp)
+> ![Gohema's Head](../../../assets/image020.webp)
 
 > [!abstract] Gohema's Tail
 > **[[Gohema's Tail]]**
 >
 > Level 1 · Unknown Unknown
 >
-> ![Gohema's Tail](../../../assets/image020.webp)
+> ![Gohema's Tail](../../../assets/image021.webp)
 
 > [!abstract] Gohema's Tendril
 > **[[Gohema's Tendril]]**
 >
 > Level 1 · Unknown Unknown
 >
-> ![Gohema's Tendril](../../../assets/image021.webp)
+> ![Gohema's Tendril](../../../assets/image022.webp)
 
 > [!abstract] Gohema's Eye
 > **[[Gohema's Eye]]**
 >
 > Level 1 · Unknown Unknown
 >
-> ![Gohema's Eye](../../../assets/image022.webp)
+> ![Gohema's Eye](../../../assets/image023.webp)
 
 > [!danger] Hazard
 > #### A Beast in Many Parts

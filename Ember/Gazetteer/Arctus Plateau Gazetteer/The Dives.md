@@ -13,6 +13,7 @@ tags: [ember, gazetteer]
 >
 > This location exists at ⬢ p.3220.2887 in the [[Sinkhole Depths]].
 >
+> - This settlement is visually depicted by [[The Dives]] Level of the [[Vista: Arcturel]] Vista.
 > - This settlement can be explored within the [[Arcturel Dives]] Area Map.
 > - This settlement is featured in:
 >   1. [[An Old Friend]], [[Unwelcome Diversions]].
@@ -24,18 +25,18 @@ Located nearly a mile below Arcturel, The Dives is both the heart of the city's 
 > [!info] Social
 > #### At a Glance
 >
-> - **Settlement Type**: Arcturel District
-> - **Size**: Medium (500– 600)
-> - **Primary Cultures**: **Culture: Arcturian**
-> - **Predominant Ancestries**: **Ancestry: Human**, **Ancestry: Hulg'run**, **Ancestry: Keth**, **Ancestry: Fej**, and **Ancestry: Kiska**
+> - **Settlement Type:** Arcturel District
+> - **Size:** Medium (500– 600)
+> - **Primary Cultures:** **Culture: Arcturian**
+> - **Predominant Ancestries:** **Ancestry: Human**, **Ancestry: Hulg'run**, **Ancestry: Keth**, **Ancestry: Fej**, and **Ancestry: Kiska**
 > - **Languages:** **Language: Common**, **Language: Arcden**
 > - **Religion:** No central religion; household worship; common reverence for Lantyr
 > - **Governance:** A loose trade alliance of local businesses
 > - **Architecture:** Practical; homes, businesses, and mines are built within whatever space is available to them, using whatever materials are immediately available
 > - **Economy:** Trade of [[Inkaro Pearl, White]], ores, and minerals
-> - **Organizations**: [[House Cevher]]; Inkaro Lamplighters; Silver Beam Consortium
+> - **Organizations:** [[House Cevher]]; Inkaro Lamplighters; Silver Beam Consortium
 
-**## Landmarks**
+## Landmarks
 
 Many of the buildings within The Dives are hardy, squat, industrial, and practical, with few luxuries or places of relaxation. Many miners and workers live here in the Dives, making their way downwards to Rock Bottom below and further into the Sinkhole depths to gather and mine ore, before hauling it back either by hand or more often with the help of various machines and construction helpers.
 
@@ -59,7 +60,7 @@ A repair shop owned by Rennerie Wrest, former miner and current metal artist; th
 
 The Waterborne Distillery, which is run by a family of trained distillers, primarily makes brews from water found in the Inkaro Pools, which improves the taste and is thought to put people in a good mood. The family is currently under the guidance of elder member Sevali Waterborne.
 
-**## Characters of Interest**
+## Characters of Interest
 
 ****Hob Korell**Chaotic Good, Waerd Keth, he/him**
 
@@ -81,7 +82,7 @@ A blacksmith as keen with a hammer as she is hopeless with a slogan, Renneri Wre
 
 Sevali is the matron of the Waterborne family and the current operator of its distillery. Well connected within Arcturel and beyond, she is the person to seek out when something — or someone — must be handled discreetly.
 
-**## Life In The Dives**
+## Life In The Dives
 
 Life in The Dives is a ceaseless, echoing symphony of clanging pickaxes, grinding gears, and the heavy thud of creaking lifts transporting raw ore from the depths of the Pathways. Residents navigate their days in near-total darkness, illuminated only by the artificial, amber glow of torches, lamps, or bioluminescent fungi. Time is often measured by shift whistles rather than the rising of the sun. It is a harsh existence where every citizen and worker has a layer of rock dust on their skin, yet there is an undeniable, survivalist pride among these true locals who look down on the soft, pampered lives of those living on the surface.
 

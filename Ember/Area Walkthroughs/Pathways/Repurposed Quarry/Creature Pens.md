@@ -9,7 +9,7 @@ tags: [ember, area-walkthroughs]
 # Creature Pens
 
 > [!quote] Read Aloud
-> Four sturdy pens line the back wall, floor to ceiling, each enclosed by heavy steel gates. They look as through they could easily contain large, powerful creatures without issue.
+> Four sturdy pens line the back wall, floor to ceiling, each enclosed by heavy steel gates. They look as though they could easily contain large, powerful creatures without issue.
 >
 > Examination tables stand ready with an array of tools and vials of mutagen. Overhead, stark lighting illuminates the space, casting long shadows that dance across the steel bars and surgically precise equipment.
 
@@ -18,7 +18,7 @@ tags: [ember, area-walkthroughs]
 >
 > Level 4 · Afflicted Pallid Drake Adult Drake
 >
-> ![Afflicted Pallid Drake](../../../assets/image012.webp)
+> ![Afflicted Pallid Drake](../../../assets/image013.webp)
 >
 > This large, serpentine creature is covered in pale white-green scales with a prominent flared tail adorned with ragged, green frills. Its draconic head is set with long horns tipped in the same pale green hue, and halfway down its body are more wide, damaged frills. The Drake's eyes are a cloudy white, hinting at blindness, and its body is marred by unsettling yellow pustules emerging from ragged wounds. Despite its obvious afflictions, it maneuvers with undeterred grace, periodically revealing rows of razor-sharp teeth within a saliva-dripping maw.
 
@@ -27,7 +27,7 @@ tags: [ember, area-walkthroughs]
 >
 > Level 2 · Afflicted Pallid Drake Drakeling
 >
-> ![Afflicted Pallid Drakeling](../../../assets/image013.webp)
+> ![Afflicted Pallid Drakeling](../../../assets/image014.webp)
 >
 > This serpentine creature has a long thin body accentuated by thin, ragged spotted frills midway along its body. Its features are dragon-like, boasting a crown of wavy horns, a maw filled with small, razor-sharp teeth, and a constant drool of acidic saliva. Its cloudy eyes suggest blindness, while the presence of unsettling yellow pustules in unhealed wounds point to a strange affliction. Despite its sickly appearance, the creature appears agile and dangerous.
 
@@ -36,18 +36,26 @@ tags: [ember, area-walkthroughs]
 >
 > Level 3 (Elite) · Human Chirurgeon
 >
-> ![Mutagist Vivisector](../../../assets/image011.webp)
+> ![Mutagist Vivisector](../../../assets/image012.webp)
 >
 > Clad in stained apron and coat, they regard you coolly from behind goggles and mask which make it impossibly to discern anything about them. They turn a razor sharp scalpel in their hand, as their off-hand rests on a pouch containing several vials of undoubtedly dangerous compounds. The air around them is thick with the scent of medicine and blood.
 
 > [!danger] Hazard
-> #### Dungeons & Drakelings
+> #### Loose in the Pens
 >
-> As the party enters the pens they encounter one Mutated Pallid Drake and two Mutated Pallid Drakelings that were either released or escape from their cages.
+> As the party enters the pens they encounter one Afflicted Pallid Drake and two Afflicted Pallid Drakelings that were either released or escaped from their cages.
 >
-> They are locked in a struggle with three Mutagist Vivisectors, who are clearly losing.
+> They are locked in a struggle with three Mutagist Vivisectors, who are clearly losing. Each Vivisector begins the encounter at half its **Health**.
 >
-> All creatures in this fight start out hostile, and if the party attempts to save the Vivisectors, siding with them to fight the dragons, they will either immediately turn on the party in an attempt to kill them, or flee, attempting to regroup with and alert others in the lab area.
+> All creatures in this fight start out hostile, and if the party attempts to save the Vivisectors, siding with them to fight the drakes, they will immediately turn on the party in an attempt to kill them.
+>
+> #### Drake Tactics
+>
+> The drakes are **Blinded**, but some of the Mutagists have already been wounded and so the drakes can accurately detect them using [[Blood Sense]]. The drake uses **Noxious Spray** to affect as many targets as it can. The drakelings will charge in aggressively and use **Pouncing Strike** to rapidly engage wounded targets. These drakes are terribly afflicted by mutagen and desperately fight to the death even if **Broken**.
+>
+> #### Mutagist Tactics
+>
+> Each Vivisector coats its dagger using @Action[Actor.kxOh8R1rpCls67e8 paralyticApply] before attacking with **Lunge**. The Vivisectors work together and focus on one enemy at a time. They will support each other with use of **Combat Medicine** or **Alchemical Resolve** to stay in the fight. Realizing there is no escape, they will fight to the death and activate their **Fatal Contingency** if necessary to avoid being captured (see [[Evidence]]).
 
 ### Examining The Space
 
@@ -59,17 +67,17 @@ tags: [ember, area-walkthroughs]
 > [!tip] Exploration
 > #### Unpleasant Accommodations
 >
-> Each of the pens feature heavy bolt locks for securing the occupants inside, and chains for keeping the them held in place. The pens stink of animal waste, molding hay, and rotting meat but otherwise contain nothing of interest or value.
+> Each of the pens feature heavy bolt locks for securing the occupants inside, and chains for keeping them held in place. The pens stink of animal waste, molding hay, and rotting meat but otherwise contain nothing of interest or value.
 >
 > #### Workspace Items
 >
 > The workspace features a handful of useful items which can be claimed including a [[Chain Mail]] and leather aprons used to protect the workers from animal bites. A black leather whip can also be found on the floor here.
 >
-> On the table is a dose of [[Drakonbane Poison]] and a complete [[Alchemist's Toolkit]].
+> On the table is a dose of [[Drakonbane Poison]] and a complete [[Poisoner's Toolkit]].
 >
 > #### Rare Stock
 >
-> Character with **Knowledge: Alchemy** or making a successful **Medicine (DC 14)** using [[Alchemist's Toolkit]]check notes that the far wall features numerous rare alchemical compounds. It would take considerable connections and wealth to acquire some of these items.
+> Characters with **Knowledge: Alchemy** or who succeed on an **Alchemy (DC 14, Passive)** check note that the far wall features numerous rare alchemical compounds. It would take considerable connections and wealth to acquire some of these items.
 >
 > Upon hearing this, Ankarist makes a [[List of Chemicals]] to be turned in as evidence. The party can also claim some of the [[Rare Chemicals]] stored here for use or evidence later.
 

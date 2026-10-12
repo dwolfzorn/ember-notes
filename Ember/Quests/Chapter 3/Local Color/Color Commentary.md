@@ -33,7 +33,7 @@ This mural should only be discoverable once the party has completed [[Mixed Medi
 >
 > Level 1 · Unknown Unknown
 >
-> ![Falar](../../../assets/image028.webp)
+> ![Falar](../../../assets/image029.webp)
 
 > [!warning] Gamemaster
 > #### Illusory Chase

@@ -18,7 +18,7 @@ This Hidden Breach provides an alternate entrance to the Bleak Archive via the [
 >
 > Characters who linger for 5 minutes or more at the ravine's edge must succeed on a **Athletics (DC 12)** to avoid being shoved off the precipice by an intermittent gust of strong mountain wind.
 >
-> Any character who falls while standing here or attempting to cross the ravine suffers a **Minor Fall (Hazard 6, Fortitude, Health, Bludgeoning)** as they land on another stony ledge in the mist below.
+> Any character who falls while standing here or attempting to cross the ravine suffers a **Minor Fall (Hazard 6)** as they land on another stony ledge in the mist below.
 >
 > A character who falls here must make a successful **Athletics (DC 13)** check to climb back up to the highest ledge without assistance. A grappling hook attached to a length of rope at least 20 feet long provides **+2 Boons** on this check.
 
@@ -39,4 +39,4 @@ The Hidden Breach is concealed by a bramble of ash-colored vine atop a narrow le
 > [!danger] Hazard
 > #### A Tight Squeeze
 >
-> Characters who attempt to traverse the Hidden Breach must succeed on either a **Athletics (DC 14)** check or suffer **Scrapes and Abrasions (Hazard 2, Fortitude, Health, Slashing)** caused by protruding roots and rocks.
+> Characters who attempt to traverse the Hidden Breach must succeed on either a **Athletics (DC 14)** check or suffer **Scrapes and Abrasions (Hazard 2)** caused by protruding roots and rocks.

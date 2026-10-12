@@ -19,7 +19,7 @@ tags: [ember, quests]
 >
 > #### Prerequisites
 >
-> [[Lyla Cevher]] must be a member of the [[Party]] for this Event to occur.
+> [[Lyla Cevher]] must be a member of the [[DreamTeam]] for this Event to occur.
 
 ### Thoughts on Events
 
@@ -108,7 +108,7 @@ Though Lyla is not a gossip, she's happy to share her assessment of significant 
 > **A:** I don't know where that villain came from, but he seems to hate the Trading Houses and Ordain. He was accusing House Cevher of causing earthquakes and hurting people! Nonsense. And all while he seems to be the one riling up people in the Arctus Plateau and sowing chaos. His silver tongue is dangerous, though. A lot of innocent people are caught up with the bad, and he could easily cause a crisis in the future.
 
 > [!question] Q&A
-> **Q:** Salara`[[/eventState otherhood1Ship]]`
+> **Q:** Salara[[Warning Shout]]
 >
 > **A:** Truthfully, despite her otherwise obvious flaws … talking to Salara felt a little like home. That insistence on rules being rules is classic House Cevher, but so is applying the rules with a bit of heart. If you're clever, you can leave just enough of a loophole in a regulation for those with good intentions to squeeze through, and those with bad ones to trip on. And something tells me the Queen of Scales is plenty clever. I just hope she's clever enough to stay clear of this Otherhood nonsense.
 

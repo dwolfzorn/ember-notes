@@ -50,12 +50,12 @@ It's clear from the entries in Jasper's notebook that he has been trying to deci
 The notebook also contains notes on the aftermath of the earthquake. Two entries in particular catch your eye. The first reads:
 
 > [!quote] Read Aloud
-> *Must clear the rubble in the Excavation Pit before we can start repairs. Will order some more Blast Flasks. This will cut into profits. Must tell Sellen.*
+> *Must clear the rubble in the Excavation Pit before we can start repairs. Will order some more blast flasks. This will cut into profits. Must tell Sellen.*
 
 A second entry, scribbled in an excited hand, reads:
 
 > [!quote] Read Aloud
-> *Blast Flasks arriving shortly. Just in time. Ooze attacks are bad enough without exits being blocked. Will lock it up and tell folks to be careful … last thing we need is some kind of chain reaction.*
+> *Blast flasks arriving shortly. Just in time. Ooze attacks are bad enough without exits being blocked. Will lock it up and tell folks to be careful … last thing we need is some kind of chain reaction.*
 
 The characters may attempt to decipher the strange symbol.
 
@@ -78,7 +78,7 @@ The characters may investigate the locked box.
 >
 > - **Language: Pathward**: The character automatically succeeds on this check.
 >
-> The lock is simple and can be opened by anyone capable of using lockpicks who makes a successful **Stealth (DC 15)** check. Alternatively, the lock can be forced open with a successful `[[/skillcheck athletics 15]]`check.
+> The lock is simple and can be opened by anyone capable of using lockpicks who makes a successful **Stealth (DC 15)** check. Alternatively, the lock can be forced open with a successful **Athletics (DC 15)**check.
 >
 > - If opened with the smallest key on [[Jasper's Key Ring]], the trap (see below) is not triggered.
 >
@@ -103,4 +103,4 @@ The lock on the [[Locked Box]] is trapped.
 >
 > The trap activates if the lock is picked or forced open. It can be disarmed with a successful **Arcana (DC 15)** check or by scratching out the runic mark with a chisel or comparable tool.
 >
-> If the trap is activated, the rune on the box begins to glow hot and hiss as a powerful burst of magical force radiates from its center: all creatures within 10 feet of the box must make a successful **Athletics (DC 14)** check or suffer the **exploding box (Hazard 4, Fortitude, Health, Bludgeoning)**.
+> If the trap is activated, the rune on the box begins to glow hot and hiss as a powerful burst of magical force radiates from its center: all creatures within 10 feet of the box must make a successful **Athletics (DC 14)** check or suffer the **exploding box (Hazard 4)**.

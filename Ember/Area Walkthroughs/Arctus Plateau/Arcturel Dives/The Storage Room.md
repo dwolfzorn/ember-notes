@@ -34,12 +34,12 @@ tags: [ember, area-walkthroughs]
 >
 > Any character who examines the grayish dust and makes a successful **Wilderness (DC 14)** check identifies it as [[Concentrated Ore Dust]].
 >
-> - **Talent: Alchemy Novice**: The character automatically succeeds on this check.
+> - `[[/talent Compendium.crucible.talent.Item.alchemyNovice000]]`: The character automatically succeeds on this check.
 > - **Investigated Waterborne Distillery:** The character automatically succeeds on this check if they investigated the distillery and discovered the [[Suspicious Karal]].
 >
 > Any character who examines the thick, viscous substance and makes a successful **Science (DC 14)** check can identify it as [[Metal Crumbler]].
 >
-> - **Talent: Alchemy Novice**: The character automatically succeeds on this check.
+> - `[[/talent Compendium.crucible.talent.Item.alchemyNovice000]]`: The character automatically succeeds on this check.
 > - **Investigated Wrestful Repairs:** The character automatically succeeds on this check if they already recovered a sample of the [[Metal Crumbler]] from Wrestful Repairs.
 >
 > The substances can also be identified by [[Arvoda's Elixirs]].

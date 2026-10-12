@@ -13,6 +13,7 @@ search — read the source files directly with Read/Grep/Glob.
 ## Step 1: Find out where the campaign is
 
 Read `Ember/Campaign Status.md` first. It has:
+
 - Current chapter and active quest
 - Party location
 - Recently completed quests
@@ -27,6 +28,7 @@ Quest folders live at `Ember/Quests/Chapter <N>/<Quest Name>/`. Use
 `Ember/_Index.md` to resolve a quest name to its chapter if unsure.
 
 Each quest folder contains:
+
 - `_<Quest Name>.md` — index of pages in the quest (read this to see the
   full page list / rough flow)
 - `Overview.md` — the summary: hook, requirements, difficulty, involved

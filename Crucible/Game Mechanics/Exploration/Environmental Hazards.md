@@ -1,9 +1,9 @@
 ---
 title: "Environmental Hazards"
 journal: "Game Mechanics / Exploration"
-source_uuid: "JournalEntry.JdGNYsYDG684fLH4"
-type: ember.lore
-tags: [ember, game-mechanics]
+source_uuid: "JournalEntry.YiJVTs79H8jKJDtZ"
+type: crucible.lore
+tags: [crucible, game-mechanics]
 ---
 
 # Environmental Hazards
@@ -20,27 +20,27 @@ Though it is presumed that every hero consumes an amount of food and water (or o
 
 Typically a creature can sustain themselves without water for 24 hours. After that period, they face an escalating **Severe** hazard with a danger equal to 10 times the number of days without water, including the first 24 hours which caused the hazard. This hazard must be faced once each day at a time of the Gamemaster's discretion until adequate fluids are recovered. The first dehydration hazard would be expressed as:
 
-- **Dehydration (Hazard 10, Fortitude, Health, Severe)**
+- **Dehydration (Hazard 10, Severe)**
 
 Whenever the creature fails to resist the Dehydration hazard it also suffers from a secondary hazard, also with a danger of 10 times the number of days without water.
 
-- **Maddening Thirst (Hazard 10, Fortitude, Morale, Severe)**
+- **Maddening Thirst (Hazard 10, Severe)**
 
 ### Starvation
 
 The effects of starvation begin after three days without any source of nutrition. After that period, creatures face an escalating **Severe** hazard with danger equal to the number of days without food, including the first 72 hour period. This hazard must be faced once each day at a time of the Gamemaster's discretion until adequate nutrition is consumed. The first starvation hazard would be expressed as:
 
-- **Starvation (Hazard 3, Fortitude, Health, Severe)**
+- **Starvation (Hazard 3, Severe)**
 
 Whenever the creature fails to resist the Starvation hazard it also suffers from a secondary hazard, also with a danger equal to the number of days without food.
 
-- **Maddening Hunger (Hazard 3, Fortitude, Morale, Severe)**
+- **Maddening Hunger (Hazard 3, Severe)**
 
 ### Sleep Deprivation
 
 Typically, a creature can operate at maximum effectiveness for 24 hours without sleep. At that time, and for each subsequent day when they fail to achieve adequate Rest, they face an escalating hazard with danger equal to 2 times the number of days without sleep. The first sleep deprivation hazard would be expressed as:
 
-- **Sleep Deprivation (Hazard 4, Willpower, Morale)**
+- **Sleep Deprivation (Hazard 4)**
 
 If this hazard is not resisted, they become **Exhausted** until they are able to successfully Rest. If the creature is forcibly prevented from sleeping by some physical, psychological, or magical effect, the Sleep Deprivation hazard is instead **Severe**, causing accumulation of **Madness**.
 
@@ -66,7 +66,7 @@ No formal Hazard is faced, any damage or inconvenience from falls of this height
 
 Creatures face a hazard that challenges their **Reflex** defense and deals **Bludgeoning** damage to **Health**. The hazard has a danger equal to the distance fallen in feet. For example, for a 25 foot fall:
 
-**Minor Fall (Hazard 25, Reflex, Health, Bludgeoning)**
+**Minor Fall (Hazard 25)**
 
 Unless the hazard is resisted, the creature also becomes **Prone**.
 
@@ -74,13 +74,13 @@ Unless the hazard is resisted, the creature also becomes **Prone**.
 
 Creatures face a **Severe** hazard against their **Fortitude** defense that deals **Bludgeoning** damage to **Wounds**. The danger of the hazard is equal to the distance fallen in feet. For example, for a 60 foot fall:
 
-**Serious Fall (Hazard 60, Fortitude, Severe)**
+**Serious Fall (Hazard 60, Severe)**
 
 Unless the hazard is resisted, the creature also becomes **Prone**.
 
 #### Automation
 
-Falling is automated during token movement. A creature whose movement ends in mid-air with no supporting surface beneath it gains the **Falling** condition, and a **Fall** action is automatically prompted. This prompt is presented to the Gamemaster as the user who confirms the original action which caused the fall. The Fall action measures the distance to the surface below, applies the appropriate severity of falling damage, drops the creature down to that surface, and applies the **Prone** condition. Falls of 10 feet or less are harmless and deal no damage.
+Falling is automated during token movement. A creature whose movement ends in mid-air with no supporting surface beneath it gains the falling condition, and a **Fall** action is automatically prompted. This prompt is presented to the Gamemaster as the user who confirms the original action which caused the fall. The Fall action measures the distance to the surface below, applies the appropriate severity of falling damage, drops the creature down to that surface, and applies the **Prone** condition. Falls of 10 feet or less are harmless and deal no damage.
 
 This automation applies both to a creature's own movement and to Forced Movement which carries it over an edge. Creatures which are **Flying** or **Burrowing** do not fall.
 
@@ -100,14 +100,14 @@ No formal Hazard is faced, any discomfort is minor and surmountable.
 
 If the environment Temperature is 3 tiers different from the creature's preferred body Temperature, they face one of the following hazards based on the nature of the environment:
 
-- **Extreme Cold (Hazard 6, Fortitude, Cold, Morale)**
-- **Extreme Heat (Hazard 6, Fortitude, Fire, Morale)**
+- **Extreme Cold (Hazard 6)**
+- **Extreme Heat (Hazard 6)**
 
 **4 tiers difference**
 
 If the environment Temperature is 4 tiers different from the creature's preferred body Temperature, they face one of the following hazards based on the nature of the environment:
 
-- **Deadly Cold (Hazard 12, Fortitude, Cold, Health, Severe)**
-- **Deadly Heat (Hazard 12, Fortitude, Fire, Health, Severe)**
+- **Deadly Cold (Hazard 12, Severe)**
+- **Deadly Heat (Hazard 12, Severe)**
 
 These hazards must be faced once per 24 hour period at a time of the Gamemaster's choosing.

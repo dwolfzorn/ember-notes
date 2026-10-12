@@ -67,9 +67,11 @@ If the party speaks to Rattletrap in Steed's Point Fields, he will engage in gen
 > [!abstract] Kali Andrella
 > **[[Kali Andrella]]**
 >
-> Level 1 · Unknown Unknown
+> Level 6 · Human Agrimage
 >
-> ![Kali Andrella](../../../assets/image087.webp)
+> ![Kali Andrella](../../../assets/image096.webp)
+>
+> While she is no longer a young woman, the Arcturian in front of you is a study in motion, moving gracefully from one task to the next as if dancing from one side of the room to the other. As she moves, the vines that wrap around her scarred arm also move and sway, almost seeming to reach out next to her fingertips, as if part brace and part magic. The woman's dance is not a light or carefree one, but her movements have determination and purpose. If she eyes the world appraisingly from time to time, she seems more than capable of tackling what it has to offer.
 
 Once the party has reached Kali, they may speak to her generally about Steed's Point as noted in the [[Kali's Cottage]] area walkthrough. When there is a pause in the conversation or party questions, Edivel interrupts:
 
@@ -150,7 +152,7 @@ With the party waiting for her to decide, Kali asks for help deciding what to do
 > Once the party has finished attempting to influence Kali, she will take some time to consider their words, and what she wants to do. If the party didn't gather enough successful checks to push her toward a specific outcome, she will remain uncertain, and remain in Steed's Point until she decides.
 >
 > - **Kali is Convinced to Stay and Rebuild:** Kali decides to rebuild Steed's Point, with the party bidding goodbye in [[A Dying Art]].
-> - **Kali is Convinced to Leave:** Kali decides to go to Nain, where she has a good friend, and settle there, leaving Steed's Point to fall but giving her a chance to live her life and possibly gather resources to rebuild it. The party can head out as she gathers her things in [[Helping Kali Pack]].
+> - **Kali is Convinced to Leave:** Kali decides to go to [[Nain]], where she has a good friend, and settle there, leaving Steed's Point to fall but giving her a chance to live her life and possibly gather resources to rebuild it. The party can head out as she gathers her things in [[Helping Kali Pack]].
 > - **Kali Can't Decide:** Kali decides to focus on the here and now and dig into her life in her cottage, staying in the safety of its walls while she decides what's best. The party can leave her to it in [[A Dying Art]].
 
 > [!question] Q&A
@@ -236,7 +238,7 @@ In addition to giving Edivel the [[Handcarved Vine Wand]], Kali also offers the 
 >
 > If asked, Kali shares the following on her plans going forward:
 >
-> - She plans to reconnect with an old friend in Nain and possibly get others in Nain to come back with her to Steed's Point to revitalize it in the future.
+> - She plans to reconnect with an old friend in Nain and possibly get others in Nain to come back with her to Steed's Point to revitalize it in the future. Check the "Nain Discovered" Outcome below for the Nain POI to appear on the Region Map.
 > - She worries what will happen to Steed's Point without her there, but is cheered by the idea that at least Rattletrap will be around to let her know if she is needed.
 > - She wants to get the word out to Moriah that she can be found in Nain and asks the party to share the info with those they see during their travels.
 >
@@ -268,6 +270,8 @@ Kali relocates to Nain.
 #### Cora Attunement: Kali Resettles
 
 If Kali is convinced to relocate to Nain, each character advances their **Attunement: Cora (+1)** at the conclusion of the event.
+
+`[[/outcome nain]]`
 
 ### Kali Undecided
 
@@ -315,15 +319,15 @@ If Kali remains undecided about her fate, each character advances their **Attune
 > [!warning] Gamemaster
 > #### Next Steps
 >
-> Whatever Kali decides, the party can head back to their next steps in the quest:
+> Whatever Kali decides, the party must determine their next course of action:
 >
-> - They can help Edivel Sprout retrieve the flower they need in [[Growing Pains]]
-> - They can head back to Brevin for the celebration in [[Bridging the Gap]].
+> - Help [[Edivel Sprout]] retrieve the flower they need in [[Growing Pains]]
+> - Head back to Brevin for the celebration in [[Bridging the Gap]].
 >
 > #### Related Events
 >
 > The impacts of Kali's decision will be felt in downstream events later in the campaign:
 >
-> - If Kali goes to Nain, parties may encounter her in [[Next Year In Nain]].
+> - If Kali goes to [[Nain]], parties may encounter her in [[Next Year In Nain]].
 > - If Kali rebuilds, parties can see the effects in [[The New Steed's Point]].
 > - If Kali hasn't made a decision, parties can check in on her in [[Kali On The Fence]]

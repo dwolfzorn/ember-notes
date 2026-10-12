@@ -19,7 +19,7 @@ tags: [ember, quests]
 >
 > #### Prerequisites
 >
-> [[Agraband Swift]] must be a member of the [[Party]] for this Event to occur.
+> [[Agraband Swift]] must be a member of the [[DreamTeam]] for this Event to occur.
 >
 > #### Area Walkthrough
 >
@@ -36,7 +36,7 @@ When they reach Traveler's Rest, the party enters via the [[Main Office]], where
 >
 > Level 3 · Human Cindaric Initiate
 >
-> ![Cindaric Adherent](../../../assets/image025.webp)
+> ![Cindaric Adherent](../../../assets/image026.webp)
 >
 > This scholarly healer is clad in garments of bright gold and lush crimson, the colors of the famed Cindaric Sages of the Arctus Plateau. Their shoulders and tunic are marked with the familiar four-leafed diamond that signifies the Cindaric order, and their hands are marked and calloused by the wholesome abrasions of honest labor. The sage regards you with a benevolent smile.
 
@@ -83,7 +83,7 @@ After roughly 3-5 minutes have passed, the party will be joined by an experience
 >
 > Level 8 (Elite) · Human Cindaric Sage
 >
-> ![Cindaric Sage](../../../assets/image025.webp)
+> ![Cindaric Sage](../../../assets/image026.webp)
 >
 > This scholarly healer is clad in garments of bright gold and lush crimson, the colors of the famed Cindaric Sages of the Arctus Plateau. Their shoulders and tunic are marked with the familiar four-leafed diamond that signifies the Cindaric order, and their hands are marked and calloused by the wholesome abrasions of honest labor. The sage regards you with a benevolent smile.
 

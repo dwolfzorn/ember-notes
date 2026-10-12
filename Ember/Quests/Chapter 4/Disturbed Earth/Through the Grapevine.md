@@ -28,7 +28,7 @@ The party is greeted by Krafton Lilifeld, the boisterous leader of House Lilifel
 >
 > Level 4 · Human Trader
 >
-> ![Krafton Lilifeld](../../../assets/image103.webp)
+> ![Krafton Lilifeld](../../../assets/image130.webp)
 >
 > The finely-dressed Human gestures you in towards him, his jewelry clinking with each sweeping motion of his arm. You get the sense that everything he does, he does grandly. Even so, the warmth in his smile is genuinely inviting, and the jovial tenor of his voice rings out earnestly.
 
@@ -183,7 +183,7 @@ Though Rala does not yet know this, the threat originates from Slinerak, a power
 >
 > Level 5 · Kivahr Agrimage
 >
-> ![Rala Ushna](../../../assets/image104.webp)
+> ![Rala Ushna](../../../assets/image131.webp)
 >
 > Tall, skinny, young, and affable, this fellow has an infectious energy about him. He dresses simply, wearing traditional Arcturian garb with Bejak accents, all under an official Redrak Agrimage apprentice tabard. His right arm bears a litany of inked names, running from his elbow to his wrist.
 
@@ -296,12 +296,12 @@ If the party chooses this route, mark the following Event Outcome:
 >
 > Upon completion of this Event, [[Krafton's Caravan]] will be added to the Region Map in the hex in which the Event took place.
 >
-> - If the party chose to [[Through the Grapevine]], the players control the [[Party]] as normal.
-> - If the party chose to [[Through the Grapevine]], the members of the [[Party]] are temporarily combined into [[Krafton's Caravan]] and the Party caravan is removed.
+> - If the party chose to [[Through the Grapevine]], the players control the [[DreamTeam]] as normal.
+> - If the party chose to [[Through the Grapevine]], the members of the [[DreamTeam]] are temporarily combined into [[Krafton's Caravan]] and the Party caravan is removed.
 >
 > As the Gamemaster, you should ensure that Krafton's Caravan (regardless of whether the party travels with it or not) moves from here to Krafton's urgent destination,[[Rortwark]].
 >
-> If the party chose to [[Through the Grapevine]], after Krafton's caravan arrives in Rortwark, the [[Party]] may once again be separately placed on the Region Map.
+> If the party chose to [[Through the Grapevine]], after Krafton's caravan arrives in Rortwark, the [[DreamTeam]] may once again be separately placed on the Region Map.
 >
 > #### Next Steps
 >

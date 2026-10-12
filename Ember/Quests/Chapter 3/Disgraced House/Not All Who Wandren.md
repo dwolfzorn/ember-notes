@@ -66,7 +66,7 @@ Once the party has successfully opened the prison and holding cells, Hephiss Wan
 >
 > Level 1 · Unknown Unknown
 >
-> ![Hephiss Wandren](../../../assets/image144.webp)
+> ![Hephiss Wandren](../../../assets/image174.webp)
 
 > [!quote] Read Aloud
 > Hephiss enters the center chamber with fast steps that echo against the floor, still wearing her gala finery.
@@ -80,7 +80,7 @@ Once the party has successfully opened the prison and holding cells, Hephiss Wan
 >
 > Level 1 · Unknown Unknown
 >
-> ![Projection of Pyix](../../../assets/image147.webp)
+> ![Projection of Pyix](../../../assets/image177.webp)
 
 > [!quote] Read Aloud
 > The image speaks, its voice seeming to come from everywhere and nowhere at once.

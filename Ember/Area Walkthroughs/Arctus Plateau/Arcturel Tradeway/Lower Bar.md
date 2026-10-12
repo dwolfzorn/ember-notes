@@ -55,7 +55,7 @@ tags: [ember, area-walkthroughs]
 >
 > Characters asking about the danger of falling down the well receive assurances they aren't the first to wonder about that:
 >
-> > The well has feather fall protections places in it that keeps living folk from falling to their deaths. In fact, each level has an outlet where people can get free of the well.
+> > The well has magical fall protections placed in it that keeps living folk from falling to their deaths. In fact, each level has an outlet where people can get free of the well.
 > >
 > > Every now and then some fool jumps in as a dare after one too many Open Veins, and their friends have to go fish them out of an access gate. They never get hurt, though.
 >

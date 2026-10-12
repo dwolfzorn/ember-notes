@@ -2,7 +2,7 @@
 title: "Adversaries"
 aliases: ["Adversaries"]
 journal: "Game Mechanics / Adversaries"
-tags: [ember, game-mechanics, index]
+tags: [crucible, game-mechanics, index]
 ---
 
 # Adversaries

@@ -20,16 +20,14 @@ Sorcerers have a welcome place in Ember, where the entire cosmos is suffused wit
 > - [[Oozeling]]
 > - [[Trickadee]]
 
-## Aberrant
+Aberrant*Source: Player's Handbook*
 
 > [!danger] Hazard
-> #### Reviled Sorcery
->
 > Aberrant Sorcerers gain their arcane power from the eldritch magic of [[The Abyss]]. First and foremost, familiarize yourself with the concept of [[Magic and Spellcraft]] in Ember, and discuss your character concept and background with the Gamemaster. The Reviled Magic of an Aberrant Sorcerer will have dramatic effects on gameplay, which should be considered before creating such a character.
 
 While all Aberrant Sorcerers aren't inherently evil, the Abyssal magic that they wield is reviled among most people of Ember (much like the Wizard's arcane tradition of Necromancy). As a result, life in normal society is difficult for an Aberrant Sorcerer, no matter their origins or motivations. Ultimately, many Sorcerers who dabble in Aberrant magic throughout Ember are evil in nature, thanks to the malevolent and chaotic influence of the Abyss — but there are exceptions to this paradigm. Some Aberrant Sorcerers spend their entire lives attempting to outrun the otherworldly weight of their Abyssal origins (to varying degrees of success). An Aberrant Sorcerer's origin could stem from any number of sources, such as a fateful encounter with an Abyssal artifact, or ancestry marked with alien corruption.
 
-## Clockwork
+Clockwork*Source: Player's Handbook*
 
 > [!warning] Gamemaster
 > The terms "Mechanus" and "Modron" do not exist in Ember. However, certain concepts of Mechanus persist via the lunar body known as [[Akon]], the Shattered Moon.
@@ -38,13 +36,13 @@ While all Aberrant Sorcerers aren't inherently evil, the Abyssal magic that they
 
 Clockwork Sorcerers of Ember channel their arcane magic through the cosmological influence of Akon, the Shattered Moon — where countless constructs toil in unknown servitude to long-dead masters, and the concept of Order reigns supreme. Manifestations of Clockwork Sorcery on Ember appear as one of Akon's various constructs or mechanical creations, and can be as esoteric as the Shattered Planet itself. A Sorcerer's Clockwork origin could hail from any number of sources, such as the influence of a lunar monolith, exposure to a powerful mechanical artifact, or ancestral ties to Akon's long-forgotten [[Wyrms]]. And whatever that source might be, the cosmic force of order that was once maintained by Akon lives on via the arcane methods of these custodians of law and balance.
 
-## Draconic
+Draconic*Source: Player's Handbook*
 
 Sorcerers with Draconic origins possess strange arcane powers that emulate those of Ember's [[Dragons]]. A Draconic origin comes with its fair share of stigma, given the troubled history of these wyrm-like creatures in the cosmos — including their problematic beginnings and enduring legacy of malevolence. However, not all Dragons in the annals of the cosmos have been evil creatures, and even those who do bear the ancestral legacy of Ember's malignant Dragons can often shirk the mantle of their progenitors. Thus, Draconic Sorcerers of Ember tend to be as unique and peculiar as the legendary creatures of their namesake. The fateful path that leads to a Sorcerer's Draconic origin can be one of many potentialities: perhaps your ancestors were experimented upon by a Vile Dragon, or maybe you were born within the accursed aura of a Cruel Dragon's remote lair. The possibilities, like a Dragon's wrath, are endless. And of all societies on Ember, the [[Rhivan]] people of the [[Star Academy]] tend to find a home for these wayward Sorcerers, whose primeval Draconic magic is always welcome among the world's most elite arcanists.
 
 **Associated Deities**: [[Alar]]
 
-## Spellfire
+Spellfire*Source: Forgotten Realms - Heroes of Faerun*
 
 > [!warning] Gamemaster
 > The term "Spellfire" does not exist in Ember. However, the concept of Spellfire persists via the metaphysical arcane phenomenon known as "Heartfire," which is derived from the preternatural [[Heart of Ember]].
@@ -53,13 +51,13 @@ Those who wield the rare phenomenon known as "Heartfire" throughout Ember harnes
 
 **Associated Deities**: [[Nite]]
 
-## Wild Magic
+Wild Magic*Source: Player's Handbook*
 
 Wild Magic Sorcerers cast their arcane spells by tapping into the cosmological influence of [[Orbis]], the Spirit Moon — the most singular and influential force of Chaos in the cosmos. Wild Magic Sorcerers are viewed with suspicion and distrust by many of Ember's societies, if only for the unpredictable destruction and calamity they can cause in their wake. However, among the moon-worshipping peoples of the [[Kithil]] and the [[Varún]], they are often welcomed as earthly avatars of The Spirit Moon's mercurial will. Wild Magic Sorcerers are also known to emerge from places where the veil of reality has been torn asunder by [[The Shattering]] — like the fragmented ruins of [[The Broken Tower]] scattered throughout the known world.
 
 **Associated Deities**: [[Nite]], [[Spectra]]
 
-### Wild Magic Surge
+**Wild Magic Surge**
 
 Some results of a Wild Magic Sorcerer's Wild Magic Surge require slight adjustment to fit the Ember cosmos. Replace the appropriate text of the original Wild Magic Surge table with the following:
 
@@ -67,7 +65,7 @@ Some results of a Wild Magic Sorcerer's Wild Magic Surge require slight adjustme
 | --- | --- |
 | 25–28 | Instead of the Astral Plane, the Wild Magic Sorcerer is transported to a realm of Orbis until the end of their next turn. |
 
-## Shadow
+Shadow*Source: Ravenloft: The Horrors Within*
 
 Shadow Sorcerers are inherently linked to the Inner Realm of [[Primordis]] and the lineage of the Fae and the [[Casia]]. Shadow Sorcery is often seen as sinister and predatory, and those who are blessed (or cursed, depending on the viewpoint) with innate abilities to harness it can command illusions and the shadows themselves. Shadow Sorcerers are often drawn to hidden glades and darkened enclaves, and they often become embroiled in Fae schemes or plans. In fact, for many Shadow Sorcerers, thier lineage is so directly tied to Fae creatures that they are bound at birth to their families and serve them throughout their lives, either knowingly or unknowingly. To that end, many Shadow Sorcerers can be found among the [[Waerd]] of the Lowland Bastions or with the [[Strider]] deep within the Corebright Forest.
 

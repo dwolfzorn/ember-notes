@@ -16,13 +16,14 @@ tags: [ember, area-walkthroughs]
 > [!tip] Exploration
 > #### Orb Access
 >
-> Characters with **Knowledge: Machines** or who make a successful **Science (DC 15)**check recognize that this balcony was used to pull orbs down from above and roll them into the nearby space, possibly to be worked on or used. However, none of this machinery would function at this point in its existence.
+> Characters who make a successful **Science (DC 15)** check recognize that this balcony was used to pull orbs down from above and roll them into the nearby space, possibly to be worked on or used. However, none of this machinery would function at this point in its existence.
 >
-> A successful **Awareness (DC 13)**notices that going by the diagram of how to work the old machine here, none of the controls are reachable, and were clearly meant for people substantially taller — like everything else in this ruin.
+> - **Knowledge: Machines**: The character automatically succeeds on this check.
+> - **Language: Pathward**: The character can read surviving instructions on the diagram which describe a process used to bring down a celestial orb from the racks overhead for examination in the nearby work room.
 >
-> - Characters with **Knowledge: Shent** would know that this makes sense given who made the locations. The Shent were substantially taller than most ancestries on Ember.
+> With a successful **Awareness (DC 13, Passive)** check, a character discerns that none of the controls are reachable, and were clearly meant for people substantially taller — like everything else in this ruin.
 >
-> Characters with **Language: Pathward** recognize the instructions on the diagram as those used to bring down a celestial orb from the racks overhead for examination in the nearby work room.
+> - **Knowledge: Shent**: The character would know that this makes sense given that the Shent were an ancestry of giants, substantially taller than most living folk on Ember.
 
 Characters might want to try to repair the railing and movement systems overhead to access the orb. While this isn't intended gameplay, or advised, it is certainly something possible for a sufficiently resourceful party.
 
@@ -36,8 +37,8 @@ There are two things to consider about the orb, and any possible solutions the p
 >
 > Bringing the glass orb into the Projection Room, or examining the orb up close (via flight, levitation, or similar) allows the party to examine the magical inscriptions in the glass.
 >
-> Characters with **Knowledge: Cosmology** know that this orb was meant to track the movement of Orbis across the sky, and has been etched with the figures necessary to plot its movements for near eternity, barring some celestial event changing its movement through the sky.
+> Characters with **Knowledge: Cosmology** know that this orb was meant to track the movement of Aura across the sky, and has been etched with the figures necessary to plot its movements for near eternity, barring some celestial event changing its movement through the sky.
 >
-> A successful **Arcana (DC 15)**recognizes that extensive divination, illusion, and evocation magic was etched into the glass of this orb. It is all in the form of ancient runes that characters with **Knowledge: Shent** recognize as belonging to their library of symbols.
+> A successful **Arcana (DC 15)** check recognizes that extensive divination, illusion, and evocation magic was etched into the glass of this orb. It is all in the form of ancient runes that characters with **Knowledge: Shent** recognize as belonging to their library of symbols.
 >
-> - **Critical Success** knows that the magic would have stored the knowledge of the moon's movements, major celestial events, deviations from its normal cycles, and even its inherent energy levels. However, there is no clear way to access this information, or any indication where it would be stored.
+> - **Critical Success**: The character identifies that the magic would have stored the knowledge of the moon's movements, major celestial events, deviations from its normal cycles, and even its inherent energy levels. However, there is no apparent way to access this information, or any indication where it would be stored.

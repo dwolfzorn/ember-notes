@@ -23,7 +23,7 @@ The sentry on this roof is a [[Wandren Watcher]].
 >
 > Level 1 · Unknown Unknown
 >
-> ![Wandren Watcher](../../../assets/image053.webp)
+> ![Wandren Watcher](../../../assets/image054.webp)
 
 > [!danger] Hazard
 > #### Beacon Brigade Watcher Tactics

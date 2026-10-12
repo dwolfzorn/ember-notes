@@ -20,9 +20,11 @@ tags: [ember, area-walkthroughs]
 > [!abstract] Kali Andrella
 > **[[Kali Andrella]]**
 >
-> Level 1 · Unknown Unknown
+> Level 6 · Human Agrimage
 >
-> ![Kali Andrella](../../../assets/image087.webp)
+> ![Kali Andrella](../../../assets/image096.webp)
+>
+> While she is no longer a young woman, the Arcturian in front of you is a study in motion, moving gracefully from one task to the next as if dancing from one side of the room to the other. As she moves, the vines that wrap around her scarred arm also move and sway, almost seeming to reach out next to her fingertips, as if part brace and part magic. The woman's dance is not a light or carefree one, but her movements have determination and purpose. If she eyes the world appraisingly from time to time, she seems more than capable of tackling what it has to offer.
 
 If characters came to Kali's cottage via the hedge maze, she lets them in via the side door from the maze:
 
@@ -44,7 +46,7 @@ If characters discover the [[Overgrown Trapdoor]] in the Northeast corner of Ste
 >
 > > You would come ready to sneak into my house with no warning? Do not let the half-ruined buildings around here fool you. I know how to defend myself. But first, what gives you the audacity to try to sneak up to and into my home?
 
-The party can calm Kali down with a successful `[[/check 17 persuasion]]` check. If the check fails, they have **-2 Banes** on further charisma checks with Kali. Proceed to [[A Conversation with Kali]].
+The party can calm Kali down with a successful **Diplomacy (DC 17)** check. If the check fails, they have **-2 Banes** on further charisma checks with Kali. Proceed to [[A Conversation with Kali]].
 
 ## Conversation with Kali
 
@@ -64,19 +66,19 @@ Kali is willing, if not eager, to speak with the party - if for no other reason 
 >
 > #### What Kali Knows
 >
-> Kali has been living in the cottage since the fall of Steed's Point, protecting it against the jurtak. She believes that she is the only one who has stood by Steed's Point, except maybe for Bertron Steed's construct Rattletrap. With a successful `[[/check insight 17]]` check, characters can sense some guilt around the fall of Steed's Point.
+> Kali has been living in the cottage since the fall of Steed's Point, protecting it against the jurtak. She believes that she is the only one who has stood by Steed's Point, except maybe for Bertron Steed's construct Rattletrap. With a successful **Awareness (DC 17)** check, characters can sense some guilt around the fall of Steed's Point.
 >
-> With a successful `[[/check persuasion 16]]` check, characters can get Kali to share what happened when Steed's Point fell - an earthquake brought the jurtak to the village and it was overrun. All efforts to fight back failed.
+> With a successful **Diplomacy (DC 16)** check, characters can get Kali to share what happened when Steed's Point fell - an earthquake brought the jurtak to the village and it was overrun. All efforts to fight back failed.
 >
 > - If they succeed by 2 or more on the check, Kali adds that she is the one who led the charge to defend Steed's Point, even after others believed it should be left behind.
 >
-> Kali is attached to Steed's Point because she thought of its founder, Bertron Steed, like a father and raised her daughter Moriah there - Moriah then left to become a famed traveling hunter. With a successful `[[/check insight 17]]` check, characters can tell that there is some hurt or bitterness regarding Kali's relationship with Moriah.
+> Kali is attached to Steed's Point because she thought of its founder, Bertron Steed, like a father and raised her daughter Moriah there - Moriah then left to become a famed traveling hunter. With a successful **Awareness (DC 17)** check, characters can tell that there is some hurt or bitterness regarding Kali's relationship with Moriah.
 >
-> - With a successful `[[/check persuasion 16]]` check, characters can get Kali to admit that she and Moriah parted on bad terms.
+> - With a successful **Diplomacy (DC 16)** check, characters can get Kali to admit that she and Moriah parted on bad terms.
 > - If they succeed by 2 or more on the check, Kali shares that she regrets the bad parting.
 > - If they succeed by 4 or more on the check, she adds that she also feels guilty, as she had no way to ask Moriah for help when Steed's Point was attacked.
 >
-> Kali is the reason for the infestation of gore birds - a last gasp attempt to save Steed's Point that has continued keeping the Jurtak at bay. With a successful `[[/check insight 17]]` check, characters are aware that Kali is still somewhat afraid of the jurtak because of how viciously they overran Steed's Point when it fell.
+> Kali is the reason for the infestation of gore birds - a last gasp attempt to save Steed's Point that has continued keeping the Jurtak at bay. With a successful **Awareness (DC 17)** check, characters are aware that Kali is still somewhat afraid of the jurtak because of how viciously they overran Steed's Point when it fell.
 
 > [!question] Q&A
 > **Q:** A question?
@@ -148,4 +150,4 @@ Kali is willing to keep talking to the group, but doesn't know much of what is g
 
 ## On Return Visits
 
-If characters have previously visited Kali, they may enter through the front door, which was previously covered in brambles. She also asks them how things have been going and is willing to prepare an [[Herbalism Kit]] for the group, but has no other real information.
+If characters have previously visited Kali, they may enter through the front door, which was previously covered in brambles. She also asks them how things have been going and is willing to prepare an [[Alchemist's Toolkit]] for the group, but has no other real information.

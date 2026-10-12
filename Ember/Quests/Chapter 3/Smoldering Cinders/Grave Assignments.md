@@ -64,14 +64,14 @@ The necromancer Amelia Naxan appears during this encounter for a brief moment, b
 >
 > Level 1 · Unknown Unknown
 >
-> ![Corpuleth](../../../assets/image124.webp)
+> ![Corpuleth](../../../assets/image154.webp)
 
 > [!abstract] Amelia Naxan
 > **[[Amelia Naxan]]**
 >
 > Level 1 · Unknown Unknown
 >
-> ![Amelia Naxan](../../../assets/image125.webp)
+> ![Amelia Naxan](../../../assets/image155.webp)
 
 > [!danger] Hazard
 > #### Corpuleth Tactics
@@ -109,7 +109,7 @@ The necromancer Amelia Naxan appears during this encounter for a brief moment, b
 > [!abstract] Skallith
 > **[[Skallith]]**
 >
-> Level 1 · Skallith Commonfolk
+> Level 1 · Skeleton Commonfolk
 >
 > ![Skallith](../../../assets/image008.webp)
 >
@@ -118,9 +118,9 @@ The necromancer Amelia Naxan appears during this encounter for a brief moment, b
 > [!abstract] Crumbling Skallith
 > **[[Crumbling Skallith]]**
 >
-> Level 0.5 (Minion) · Skallith Commonfolk
+> Level 0.5 (Minion) · Skeleton Commonfolk
 >
-> ![Crumbling Skallith](../../../assets/image126.webp)
+> ![Crumbling Skallith](../../../assets/image156.webp)
 >
 > You behold the terrifying appearance of a reanimated humanoid skeleton, whose decrepit bones remain dreadfully assembled, despite the lack of sinew and flesh. This loathsome skeletal creature wields a timeworn blade, and a rotted shortbow is slung across its bony back.
 
@@ -153,7 +153,7 @@ When the time is right for Luna to appear, read the following aloud:
 >
 > Level 10 (Boss) · Fej Justiciar
 >
-> ![Luna Karrowrath](../../../assets/image120.webp)
+> ![Luna Karrowrath](../../../assets/image151.webp)
 >
 > Clad in battle scarred Lunaran steel armor covered in the symbols of the Flameguard and the goddess Lumé, this Fej warrior has been through countless battles, and her intense, haunted gaze only reinforces this. She carries herself with an uncharacteristic grace for someone so heavily armored. Even the immense mace strapped to her back doesn't seem to slow her down.
 

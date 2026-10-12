@@ -30,7 +30,7 @@ This room never held much while the mine was active, serving as a place for peop
 >
 > A character who knocks on the wall and makes a successful **Science (DC 12)** check can tell that there is empty space beyond it.
 >
-> - **Talent: Smithing Novice**: The character automatically succeeds on this check.
+> - `[[/talent Compendium.crucible.talent.Item.smithingNovice00]]`: The character automatically succeeds on this check.
 >
 > The wall can be melted over the course of 5 minutes by applying heat to its surface. [[Metal Crumbler]] has no effect. Alternatively, the resin wall has AC 18, 18 Hit Points, and immunity to Poison and Psychic damage.
 >

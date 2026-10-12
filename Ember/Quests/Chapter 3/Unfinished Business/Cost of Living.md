@@ -21,7 +21,7 @@ tags: [ember, quests]
 >
 > #### Prerequisites
 >
-> [[Agraband Swift]] must be a member of the [[Party]] for this Event to occur.
+> [[Agraband Swift]] must be a member of the [[DreamTeam]] for this Event to occur.
 
 ### Ambushed!
 
@@ -32,7 +32,7 @@ As the Event begins, the characters are immediately beset by 4 [[Thayloc Courser
 >
 > Level 1 · Unknown Unknown
 >
-> ![Thayloc Courser](../../../assets/image150.webp)
+> ![Thayloc Courser](../../../assets/image180.webp)
 
 > [!danger] Hazard
 > #### Thayloc Courser Tactics
@@ -113,7 +113,7 @@ If the party manages to befriend the Thayloc Coursers before Sionia's arrival:
 >
 > Level 1 · Unknown Unknown
 >
-> ![Sionia](../../../assets/image122.webp)
+> ![Sionia](../../../assets/image152.webp)
 
 > [!info] Social
 > #### Advice from the Lonely Goddess

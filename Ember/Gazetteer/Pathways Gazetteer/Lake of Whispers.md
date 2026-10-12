@@ -11,7 +11,7 @@ tags: [ember, gazetteer]
 > [!warning] Gamemaster
 > #### Gamemaster's Summary
 >
-> This location exists at ⬢ s.32o8.2887 in the [[Fogbound Caverns]], east of the [[Primordial Bastion]].
+> This location exists at ⬢ p.3208.2887 in the [[Fogbound Caverns]], east of the [[Primordial Bastion]].
 >
 > - This location is featured in the [[To Fall and Fall Again]] Side Quest.
 

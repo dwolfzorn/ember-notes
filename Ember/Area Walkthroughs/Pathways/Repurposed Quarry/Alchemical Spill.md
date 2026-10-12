@@ -16,13 +16,17 @@ tags: [ember, area-walkthroughs]
 > [!danger] Hazard
 > #### Toxic Barrier
 >
-> Characters that touch or begin a turn already touching the slime spill suffer **Mild Acid Burns (Hazard 4, Fortitude, Health, Acid)**.
+> The slime spill counts as difficult terrain.
 >
-> Characters passing through the dangerous vapor but not touching the slime (such as jumping or flying over it) suffer **Exposure to Acidic Vapors (Hazard 3, Fortitude, Morale, Acid)**.
+> Characters that touch or begin a turn already touching the slime spill suffer **Mild Acid Burns (Hazard 4)**.
+>
+> Characters passing through the dangerous vapor but not touching the slime (such as jumping or flying over it) suffer **Exposure to Acidic Vapors (Hazard 3)**.
 
 > [!tip] Exploration
 > #### Hazardous Spill
 >
 > The chemicals are leaking from a destroyed lab overhead, the hole in the floor of the structure indicating some sort of explosion and subsequent corrosion of the metal by this chemical.
 >
-> Characters with the **Knowledge: Alchemy** knowledge or making a successful**Science (DC 14)** using [[Alchemist's Toolkit]] check note that this chemical is highly corrosive, pitting the stone anywhere it splashes, but isn't so corrosive that it's continuing to eat down into the stone.
+> A character who succeeds on a **Alchemy (DC 14, Passive)** check notes that this chemical is highly corrosive, pitting the stone anywhere it splashes, but isn't so corrosive that it's continuing to eat down into the stone.
+>
+> - **Knowledge: Alchemy**: The character automatically succeeds on this check.

@@ -31,7 +31,7 @@ Following the readaloud of "Setting the Scene," the 4 Silver Beam Guards and sol
 >
 > Level 4 · Automaton Servitor
 >
-> ![Silver Beam Engineer](../../../assets/image194.webp)
+> ![Silver Beam Engineer](../../../assets/image224.webp)
 >
 > Wearing a dark apron over a grey and blue uniform of the Silver Beam mining consortium, this technician is one of many hired to tackle technical issues for the company. Not outwardly armed or armored, they do have packs of tools and resources they can use to make field repairs and assist in the operation of Silver Beam machinery.
 
@@ -40,7 +40,7 @@ Following the readaloud of "Setting the Scene," the 4 Silver Beam Guards and sol
 >
 > Level 3 · Automaton Lawkeeper
 >
-> ![Silver Beam Guard](../../../assets/image195.webp)
+> ![Silver Beam Guard](../../../assets/image225.webp)
 >
 > Clad in the grey and blue uniform of the Silver Beam mining consortium, this guard is one of many hired security personnel entrusted with the safety of the company's operation. They stand ready with steel maces and light crossbows, and don't wear any visually obvious armor.
 
@@ -124,7 +124,7 @@ The large, central pool where the accident occured is inhabited by 2 [[Mootap]],
 >
 > Level 2 · Automaton Servitor
 >
-> ![Silver Beam Servitor](../../../assets/image192.webp)
+> ![Silver Beam Servitor](../../../assets/image222.webp)
 >
 > This humanoid construct is made of brushed silver steel with blue accents and bears the distinctive logo of the Silver Beam Consortium. It moves with a smooth precision punctuated with all the whirs and swishes of machinery hidden under it's glossy metal shell.
 
@@ -133,7 +133,7 @@ The large, central pool where the accident occured is inhabited by 2 [[Mootap]],
 >
 > Level 6 · Mootap Herd Beast
 >
-> ![Mootap](../../../assets/image196.webp)
+> ![Mootap](../../../assets/image226.webp)
 >
 > An eyeless creature appears out of nowhere, resembling a stubby eel crowned with a head of two dozen luminous tendrils like those of a giant anemone. These photophore tentacles writhe with inhuman glee as it reaches blindly into the water ahead.
 
@@ -185,7 +185,7 @@ Once the body of the destroyed Chessman has been dredged out of the water and pl
 >
 > Level 5 (Elite) · Jurtak Geomancer
 >
-> ![Jurtak Geomancer](../../../assets/image086.webp)
+> ![Jurtak Geomancer](../../../assets/image095.webp)
 >
 > The tall, six-eyed saurian before you clutches a gnarled staff crowned in a jagged crystal of lambent crystal. This loathsome creature is coated in thick, jagged stone that appears to be growing out of its very hide, forming an unnatural armor.
 
@@ -194,7 +194,7 @@ Once the body of the destroyed Chessman has been dredged out of the water and pl
 >
 > Level 3 · Jurtak Brigand
 >
-> ![Jurtak Hunter](../../../assets/image085.webp)
+> ![Jurtak Hunter](../../../assets/image094.webp)
 >
 > Lurking at the boundary of shadow and light, this lithe saurian creature's six piercing eyes gleam with a dreadful intelligence. At the ready, it cradles a bow lashed together from wood and bone, strung with taut sinews. Adorned in skeletal remnants, it appears equal parts hunter and horror.
 
@@ -203,7 +203,7 @@ Once the body of the destroyed Chessman has been dredged out of the water and pl
 >
 > Level 4 · Jurtak Berserker
 >
-> ![Jurtak Warrior](../../../assets/image084.webp)
+> ![Jurtak Warrior](../../../assets/image093.webp)
 >
 > You behold a lean, six-eyed saurian creature, its body clad in fragments of bone and its scales glinting in the dim light. The acrid scent of poison tinges the air, dripping from the bone blade held in its clawed hands. Its long, semi-prehensile tail moves with a predator's anticipation, and a forked tongue flicks across twisted lips as its eyes fix upon you with a predatory malice.
 
@@ -220,7 +220,7 @@ Once the body of the destroyed Chessman has been dredged out of the water and pl
 >
 > The [[Jurtak Warrior]] fight by hurling their [[Javelin]] before equipping their [[Glaive]] while closing distance. Once in close range they rely on their pikes and the extended reach those pikes grant to full effect. If enemies bunch up they'll use their [[Acid Spit]] to hit multiple enemies.
 >
-> The [[Jurtak Hunter]] fight from a distance, using their [[Longbow]] to rain arrows down on foes, ideally from high ground. If engaged in close combat, they will [[Bite]] and [[Claws]] and until they can get free. If it's available, they will use their [[Light Weapon Training]] against foes, especially if cornered or when a nearby enemy appears especially vulnerable to attack.
+> The [[Jurtak Hunter]] fight from a distance, using their [[Longbow]] to rain arrows down on foes, ideally from high ground. If engaged in close combat, they will [[Bite]] and [[Claws]] and until they can get free. If it's available, they will use their [[Lunge]] against foes, especially if cornered or when a nearby enemy appears especially vulnerable to attack.
 >
 > All Jurtak start combat with their first weapon attack coated in [[Jurtak Poison]]. They reapply it before attacking if they can spare the action to do so, and aren't currently engaged by combatants in close range.
 >

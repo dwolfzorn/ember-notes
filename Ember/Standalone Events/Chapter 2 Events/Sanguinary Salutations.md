@@ -78,7 +78,7 @@ If the characters approach Eliren, read or paraphrase the following:
 >
 > - **Arcana (DC 13)** The character finds that residual Transmutation magic still clings to the remains, but not evenly; some parts of the creature are more deeply altered than others.
 > - **Medicine (DC 13)** The character discovers that the transmutations occurred suddenly, rather than over time; the uneven distribution of alteration suggests spontaneity.
-> - **`[[/skill wilderness 13]]`** The character realizes that the transmutations appear to warp the creature's most vital adaptations: the yarnac its hide, the gore bird its wings, and the tiller bird its beak and talons.
+> - **Wilderness (DC 13)** The character realizes that the transmutations appear to warp the creature's most vital adaptations: the yarnac its hide, the gore bird its wings, and the tiller bird its beak and talons.
 >
 > Regardless of whether the characters succeed on a check or not, Eliren is grateful for the assistance, and bids farewell — she stuffs the pickling jars into a large satchel and begins walking in the direction of Ordain. Once Eliren departs, the characters may scavenge the creatures' crafting components.
 

@@ -18,6 +18,11 @@ tags: [ember, quests]
 > - Negotiate with Zodi Trask about a reward for their efforts.
 > - Meet with various citizens of Arcturel to further the investigation, including local raconteur **Gullivhar Paras**, famed artificer [[Vartholomew Chess]], crystal merchant **Nodrick Stolas**, and the Silver Beam Mining Consortium's [[Larissa Toth]].
 
+> [!danger] Hazard
+> #### Running An Old Friend Concurrently
+>
+> Entering the Tradway hex of Arcturel will trigger this event, but if you are running[[An Old Friend]] as well, you can run[[Unhappy Accidents]] at the same time. Both events take place in the same places, and the party can question Zodi Trask about both quests.
+
 ### A Task from Trask
 
 When the party reaches the threshold of Rallyhome in Arcturel, read the following:
@@ -46,7 +51,7 @@ If the Vrjnhar bard's song wasn't a clear indication, the Kiska miner seated in 
 >
 > Level 2 · Kiska Grappler
 >
-> ![Zodi Trask](../../../assets/image080.webp)
+> ![Zodi Trask](../../../assets/image089.webp)
 >
 > You regard a burly Kiska male whose corded muscles suggest a life of strenuous labor, a detail readily confirmed by the timeworn pickaxe at his side and the simplicity of his loose-hanging garb. Covered in a coat of gray-brown fur and quarry dust, this miner wears his long mane of vibrant hair in a thick braid to keep it dutifully out of the way. A smug countenance presides upon his mustachioed face, which appears to be marked by a few scars from some violent childhood scuffle or accident.
 
@@ -133,7 +138,7 @@ The party can visit Arcturian Automatons, the workshop of the famed artificer Va
 >
 > Level 4 · Hulg'run Commonfolk
 >
-> ![Vartholomew Chess](../../../assets/image191.webp)
+> ![Vartholomew Chess](../../../assets/image221.webp)
 >
 > You see a Hulg'run carved out of a rich brown stone, adorned with rugged, angular aesthetics. His literally chiseled jaw and hard-edged forearms are accented with pale pink marbling. He is dressed as a workman, with a heavy leather apron slung over plain, rugged clothing.
 
@@ -187,7 +192,7 @@ Once the party leaves Arcturian Automatons, they're approached in the street by 
 >
 > Level 2 · Automaton Servitor
 >
-> ![Silver Beam Servitor](../../../assets/image192.webp)
+> ![Silver Beam Servitor](../../../assets/image222.webp)
 >
 > This humanoid construct is made of brushed silver steel with blue accents and bears the distinctive logo of the Silver Beam Consortium. It moves with a smooth precision punctuated with all the whirs and swishes of machinery hidden under it's glossy metal shell.
 
@@ -214,7 +219,7 @@ A long 3 mintues later, Larissa Toth joins the party in the foyer. She has a few
 >
 > Level 6 (Elite) · Altyra Lightweaver
 >
-> ![Larissa Toth](../../../assets/image193.webp)
+> ![Larissa Toth](../../../assets/image223.webp)
 >
 > You regard a tall Altyra woman dressed in Railen fineries, her porcelain-colored skin marked with silver hexagonal lattices. Her long silver hair is worn in a braided low bun, and her attentive eyes are a striking color of bright lambent gold. This atristocrat's sharp features are overtly feminine, and noticeably bereft of scars or blemishes; she is undeniably attractive, and somewhat out of place amidst the grimy industrial subterranea of Arcturel.
 

@@ -22,9 +22,9 @@ As soon as you finish the readaloud, the characters are in mortal danger from th
 > [!danger] Hazard
 > #### The Crystal Stalactite
 >
-> The party must immediately react to avoid being hit by the shards of arcane mineral that are flung far and wide by the shattered crystal stalactite. Each character must avoid **Exploding Shards (Hazard 6, Reflex, Piercing)** as the crystal shards rip their skin and gouge their flesh.
+> The party must immediately react to avoid being hit by the shards of arcane mineral that are flung far and wide by the shattered crystal stalactite. Each character must avoid **Exploding Shards (Hazard 6)** as the crystal shards rip their skin and gouge their flesh.
 >
-> Characters who sustain damage from this hazard are affected by the chaotic resonance of the crystals and must also withstand the **Psychic Resonance (Hazard 0, Willpower, Psychic)** caused by the crystal shards or roll once each on the [[Kaleidoscope Crystal Effects]] table.
+> Characters who sustain damage from this hazard are affected by the chaotic resonance of the crystals and must also withstand the **Psychic Resonance (Hazard 0)** caused by the crystal shards or roll once each on the [[Kaleidoscope Crystal Effects]] table.
 
 Following the stalactite's seismic impact, the party members can take a moment to observe their surroundings. However, the characters must also assess whether or not the event has thrown them off course.
 

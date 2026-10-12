@@ -18,7 +18,7 @@ tags: [ember, area-walkthroughs]
 >
 > Level 1 · Unknown Unknown
 >
-> ![Surge Walker](../../../assets/image037.webp)
+> ![Surge Walker](../../../assets/image038.webp)
 
 > [!danger] Hazard
 > #### Ready and Waiting

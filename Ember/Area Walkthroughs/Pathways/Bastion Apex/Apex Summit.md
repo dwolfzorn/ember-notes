@@ -77,7 +77,7 @@ Such characters instead hear the voice say:
 >
 > Level 1 · Unknown Unknown
 >
-> ![Luxaroth](../../../assets/image023.webp)
+> ![Luxaroth](../../../assets/image024.webp)
 
 Luxaroth is somewhat wary of the party, having never seen such creatures before and lacking knowledge of their intentions. Moreover, communicating with a being as ancient as Luxaroth can be a difficult endeavor.
 
@@ -116,19 +116,19 @@ Luxaroth is somewhat wary of the party, having never seen such creatures before 
 >
 > The party can now converse with the Avatar of the First Giants, whose true name is Luxaroth. Luxaroth is an ancient being, a huge and intimidating figure who has no fear of the party. He speaks in a great booming voice and will even laugh as he speaks if he is sufficiently pleased by the party's questions or responses. During the following conversation, he provides additional basic information:
 >
-> - He will reveal that he is an Avatar and no longer truly corporeal, though he was once made of flesh and bone. He is now tied to the Orb of Lantyr above his head, and if it were to fail, he would fade into nothingness. He is not responsible for his current state; rather, he was bound to the orb by his fellow giants long ago. So long, in fact, that he has no concept of time or what age of the world he currently exists in.
-> - He informs the party that he is called a Giant, a follower of a deity called Lantyr. Though he has never seen her true visage, he has followed her through the device above his head, which he calls the Orb of Lantyr. He once had a deep and close relationship with the goddess, but over many thousands of years, the orb's powers have waned, eventually cutting off this connection entirely.
+> - He will reveal that he is an Avatar was once corporeal, but no longer is. He is now tied to the Orb of Lantyr above his head. If it were to fail, he would fade into nothingness. He is not responsible for his current state; he was bound to the orb by his fellow giants, long enough ago that he has no concept of time or what age of the world he currently exists in.
+> - He informs the party that he is called a Giant, a follower of a deity called Lantyr. Though he has never seen her true visage, he has followed her through the device above his head — the "Orb of Lantyr." He once had a close relationship with the goddess, but over thousands of years, the orb's powers have waned, eventually cutting off this connection.
 > - He has never seen creatures like the party and has no idea where they came from; he is fascinated to learn about the current cultures if the party tries to explain the world above and the goings-on of the Arctus Plateau and Ordain.
-> - He has stood watch over this section of the Pathways since an event he calls the Unveiling among his own people, where they fought each other over knowledge of the Abyss. This is something he will not speak more of as his eyes darken and sorrow flashes across his face for a moment.
-> - When the Orb of Lantyr was fully powered, he could roam far from its light as he was still connected through its radiance despite the distance, but now he can't venture far from its light.
+> - He has stood watch over this section of the Pathways since an event he calls the Unveiling, where his people fought each other over knowledge of the Abyss. He refuses to say more, sorrow flashing across his face for a moment.
+> - When the Orb of Lantyr was fully powered, he could roam far from its light, but now he can't venture far from its radiance.
 >
 > If the party asks how they can help repair or protect the Orb of Lantyr:
 >
-> > "Your heroism and compassion do you credit, young ones; you may have already brought the Orb's salvation with you, though you knew it not. I sense an item within your possession, a relic of the light that once lay below this tower that I could not claim myself. Within it lies enough radiant energy to empower the Orb above; all you have to do is lay it down before the orb or stand close to it so that the absorption can begin."
+> > Your heroism and compassion do you credit, young ones; you may have already brought the Orb's salvation with you, though you knew it not. I sense an item within your possession, a relic of the light that once lay below this tower that I could not claim myself. Within it lies enough radiant energy to empower the Orb above; all you have to do is lay it down before the orb or stand close to it so that the absorption can begin.
 >
-> It should be clear that Luxaroth is fairly removed from current affairs but has some ancient knowledge that he is happy to share, depending on whether the party has convinced him they are friendly. If not, and Luxaroth remains wary, they may attempt to try again using various methods or tactics to convince Luxaroth by rolling a `[[/check per 15]]`. On a failure, nothing happens, but on a success, Luxaroth opens up a little.
+> If the party has not previously convinced Luxaroth to be friendly, he remains wary, but anyone who makes a successful `[[/check per 15]]` check can warm him up to the party, and he becomes willing to share more.
 >
-> If asked for additional information on various topics, Luxaroth has some direct responses for the party, detailed below.
+> If Luxaroth is friendly, he is also willing to answer additional questions, the answers to which are provided below this block.
 
 > [!question] Q&A
 > **Q:** About the First Giants?
@@ -249,7 +249,7 @@ At this point in Early Access, the interactive elements described above for the 
 
 ## Fighting the Host of Monsters
 
-Combat begins as soon as initiative is rolled. During the first round, the Abyssal monster will be outside the barrier and unable to attack directly. This gives the party one round to cast spells and prepare. They will also be able to see where the first tower has been damaged and where the Abyssal host will attack first.
+Combat begins as soon as initiative is rolled. During the first round, the Abyssal monsters will be outside the barrier and unable to attack directly. This gives the party one round to cast spells and prepare. They will also be able to see where the first tower has been damaged and where the Abyssal host will attack first. It's recommended that you create and then throw 4d4+4 eels and 3d4+3 Echoes at the party. Every round.
 
 > [!abstract] Abyssal Eel
 > **[[Abyssal Eel]]**
@@ -268,7 +268,7 @@ Combat begins as soon as initiative is rolled. During the first round, the Abyss
 >
 > Level 1 · Abyssal Harbinger Echo
 >
-> ![Abyssal Echo](../../../assets/image024.webp)
+> ![Abyssal Echo](../../../assets/image025.webp)
 >
 > Emerging from the darkness is a terrifying eldritch apparition composed of dark smoke and malice, with prominent rows of gleaming sharp teeth. Its softly glowing eyes radiate spiteful hatred and cunning as it glides through the air with measured movements. Grasping hands, as if yearning to escape its form, materialize and vanish instantly, while its two enormous clawed hands seem to appear and disappear at will.
 
@@ -282,7 +282,7 @@ Combat begins as soon as initiative is rolled. During the first round, the Abyss
 >
 > Level 1 · Unknown Unknown
 >
-> ![Abyssal Eye](../../../assets/image017.webp)
+> ![Abyssal Eye](../../../assets/image018.webp)
 
 > [!danger] Hazard
 > #### Abyssal Eye Tactics
@@ -294,7 +294,7 @@ Combat begins as soon as initiative is rolled. During the first round, the Abyss
 >
 > Level 1 · Unknown Unknown
 >
-> ![Vhismara's Claw](../../../assets/image016.webp)
+> ![Vhismara's Claw](../../../assets/image017.webp)
 
 > [!danger] Hazard
 > #### Vhismara's Claw Tactics

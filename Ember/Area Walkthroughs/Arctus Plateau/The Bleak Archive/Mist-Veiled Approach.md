@@ -18,7 +18,7 @@ In the side of this mountain stand the ominous gates of Ebbok Zhùr, the Bleak A
 > [!quote] Read Aloud
 > The stony ground here is swathed in a low-hanging blanket of mist, along with a scattered array of lambent cerulean Moon Blossoms — which seem to grow brighter the closer they get to the entrance.
 
-Characters who look more closely at the doors leading to the Archive are able to notice a few details: runic etchings traced all along the door's surface, and a bit of esoteric graffiti carved in a wicked-looking language. The doors have no handles, and — other than the esoteric graffiti — are totally unmarred, as if the ravages time and weather have passed them by.
+Characters who look more closely at the doors leading to the Archive are able to notice a few details: runic etchings traced all along the door's surface, and a bit of esoteric graffiti carved in a wicked-looking language. Other than the esoteric graffiti, the doors are totally unmarred, as if the ravages time and weather have passed them by.
 
 > [!tip] Exploration
 > #### Surveying the Vault Exterior
@@ -50,9 +50,9 @@ The entrance to this place is secured using an arcane trap.
 >
 > Any character who makes a successful **Arcana (DC 13)** check notices the enchanted nature of the trapped door. It's also clear that the Pathward phrase etched upon the door (whether they understand the phrase or not) must be related to a command or key.
 >
-> - **Critical Success**: The character recognizes that the Abyssal graffiti is *also* command-related clue, despite the Abyssal text's alien nature.
+> - **Critical Success**: The character recognizes that the Abyssal graffiti is *also* a command-related clue, despite the Abyssal text's alien nature.
 >
-> Any creature who attempts to open the door without performing a gesture of the holy symbol of Sockets must face **Judgment of Sockets (Hazard 4, Willpower, Morale, Corruption)** and are **Weakened** until they finish a Rest.
+> Any creature who attempts to open the door without performing a gesture of the holy symbol of Sockets must face **Judgment of Sockets (Hazard 4)** and are **Weakened** until they finish a Rest.
 
 The front doorway to the Bleak Archive is locked by powerful magic, and can be opened by two primary methods: recognition of archaic Shent rites or Abyssal assistance from [[Nethehepticas]].
 

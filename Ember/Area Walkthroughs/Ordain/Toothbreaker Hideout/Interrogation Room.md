@@ -20,19 +20,19 @@ There are two primary circumstances in which the party will find themselves in t
 >
 > Level 1 · Unknown Unknown
 >
-> ![Toothbreaker Scaletamer](../../../assets/image032.webp)
+> ![Toothbreaker Scaletamer](../../../assets/image033.webp)
 
 > [!abstract] Scalemaw
 > **[[Scalemaw]]**
 >
 > Level 1 · Unknown Unknown
 >
-> ![Scalemaw](../../../assets/image033.webp)
+> ![Scalemaw](../../../assets/image034.webp)
 
 > [!danger] Hazard
 > #### Fighting the Interrogator
 >
-> Kierelin is a [[Toothbreaker Scaletamer]], and is accompanied by a highly-trained [[Scalemaw]] companion. They follow the tactics described in [[Gazetteer Reference]].
+> Kierelin is a [[Toothbreaker Scaletamer]], and is accompanied by a highly-trained [[Scalemaw]] companion. They both follow the respective tactics described in [[Toothbreaker Tactics]].
 >
 > #### Kierelin's Key
 >

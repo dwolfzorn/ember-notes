@@ -33,7 +33,7 @@ While navigating this psychedelic subterranean landscape, the party reaches a pe
 >
 > It is easy for the characters to spot the potential danger of these glittering webs, but they may be tempted to explore them after noticing treasure among the desiccated corpses.
 >
-> Whenever a creature moves through a space covered in glittering webs, they must face **Glittering Webs (Hazard 4, Fortitude, Harmless)**, if not resisted that character becomes **Restrained** by webbing. Creatures who are restrained may escape at the cost of **6 Action** or with a **Athletics (DC 16)** check.
+> Whenever a creature moves through a space covered in glittering webs, they must face **Glittering Webs (Hazard 4)**, if not resisted that character becomes **Restrained** by webbing. Creatures who are restrained may escape at the cost of **6 Action** or with a **Athletics (DC 16)** check.
 >
 > Sections of webbing are defined according to 5 foot squares, and can be destroyed with the application of Fire or Acid damage.
 >
@@ -54,29 +54,31 @@ After noticing the filigreed armor, the party may wish to explore the cave's tan
 > [!tip] Exploration
 > #### Searching for Treasure
 >
-> A total of four Shent corpses are scattered throughout the Cheliceraeth lair, all of them cocooned in gem-spangled webbing. These forgotten souls were once the *Sealers of the Southern Gate*; now, their worldly remains are all but bones and dust, mired in glittering web. Characters can loot the corpses with a small amount of effort, but must take care to avoid getting caught in the glittering webs.
+> Shent corpses are scattered throughout the Cheliceraeth lair, all of them cocooned in gem-spangled webbing. These forgotten souls were once the *Sealers of the Southern Gate*; now, their worldly remains are all but bones and dust, mired in glittering web. Characters can loot the corpses with a small amount of effort, but must take care to avoid getting caught in the glittering webs.
 >
-> **Shent Corpse A:** The Shent corpse to the northeast wears a set of [[Shent Breastplate]] armor adorned in ancient filigree.
+> Whenever a character loots a Shent Corpse, proceed in sequence:
 >
-> **Shent Corpse B:** The skeleton near the center of the area holds one item of interest: a powerful [[Shent Scroll Case]].
+> **Shent Corpse A:** This Shent corpse wears a set of [[Shent Breastplate]] armor adorned in ancient filigree.
+>
+> **Shent Corpse B:** This Shent corpse holds one item of interest: a powerful [[Shent Scroll Case]].
 >
 > Any character who examines the [[Shent Scroll Case]] and makes a successful **Arcana (DC 16, Passive)** check recognizes that the case is a powerful artifact and a discovery of considerable value.
 >
 > - **Knowledge: Artifacts**: The character automatically succeeds on this check.
 >
-> Any character with **Awareness (DC 15, Passive)** spots the other two Shent corpses concealed within the tangled mass of glittering webs.
->
-> **Shent Corpse C:** The ancient corpse to the southwest clings to something obscured by grit and gossamer: an ancient [[Shent Amulet]] made of a curious unknown alloy.
+> **Shent Corpse C:** This Shent corpse clings to something obscured by grit and gossamer: an ancient [[Shent Amulet]] made of a curious unknown alloy.
 >
 > Characters with **Knowledge: Legends** or **Knowledge: Gods** who make a successful **Society (DC 15)** check recognize that this holy symbol depicts the Elder God Pathwalker.
 >
-> **Shent Corpse D:** The corpse to the southeast holds two other aged items covered in elaborate filigree: a [[Shent Shield]] and a [[Shent Shortsword]].
+> **Shent Corpse D:** This Shent corpse holds two other aged items covered in elaborate filigree: a [[Shent Shield]] and a [[Shent Shortsword]].
+>
+> None of the remaining corpses hold anything valuable.
 
 #### Signara Attunement: Shent Scroll Case
 
 The first character to successfully unlock the [[Shent Scroll Case]] advances their **Attunement: Signara (+1)**. This occurs as soon as the magic item is unlocked.
 
-The items the party may discover here once belonged to ancient Shent giants and giantkin who served as Sealers of the Southern Gate. Characters can spend a few moments scrutinizing this loot to learn more of its nature and history.
+The items the party may discover here once belonged to ancient Shent Giants who served as Sealers of the Southern Gate. Characters can spend a few moments scrutinizing this loot to learn more of its nature and history.
 
 > [!tip] Exploration
 > #### Secrets of the Ancient Shent
@@ -106,7 +108,7 @@ Three [[Young Cheliceraeth]] lie in wait here disguised as Medium-sized outcropp
 >
 > Level 2 · Crystal Spider Cheliceraeth
 >
-> ![Young Cheliceraeth](../../../assets/image160.webp)
+> ![Young Cheliceraeth](../../../assets/image190.webp)
 >
 > A melodious, twinkling percussion fills the air — like the sound of softly cascading glass — as you notice a medium-sized growth of crystals transform into a ten-eyed creature with eight spindly legs and two large, articulated fangs. This horrible arachnid resembles an enormous semi-translucent spider made of faceted purple moonstone, which shimmers and scintillates in the scant light. Angry crystalline spikes decorate the extremities of its silicate form, and its ten loathsome eyes appear refracted with a dreadful arcane opalescence.
 

@@ -15,7 +15,7 @@ tags: [ember, quests]
 >
 > - Join the fray, either defending the refugees or siding with the attackers.
 > - Learn the first-hand story of the refugees and their plight.
-> - Investigate clues regarding the identity of the attacking raiders.
+> - Investigate clues regarding the identity of the attacking raiders, who are allied with but distinct from the raiders responsible for [[Pillaged Farmstead]].
 
 ### Caravan Under attack
 
@@ -37,7 +37,7 @@ The enemy raiding party consists of [[Gafto the Howler]], [[Shimz Shimring]], an
 >
 > Level 4 · Vrjnhar Protector
 >
-> ![Svala Bronwen](../../../assets/image095.webp)
+> ![Svala Bronwen](../../../assets/image105.webp)
 >
 > The vrjnhar woman is broad shouldered and intensely muscled, carrying herself with a fearless confidence. She sports pale white fur that pours off her chin and turns into a lengthy beard which is split into several braided coils and draped over her shoulders in several places. Each strand is adorned with bronze clasps and rings which contrast richly against her pale hair.
 >
@@ -48,7 +48,7 @@ The enemy raiding party consists of [[Gafto the Howler]], [[Shimz Shimring]], an
 >
 > Level 2 (Elite) · Zeph Berserker
 >
-> ![Gafto the Howler](../../../assets/image181.webp)
+> ![Gafto the Howler](../../../assets/image211.webp)
 >
 > Clad in scraps of golden robes and leather covered in bronze plates, this Zeph raider looks like they've been countless battles and never bothered to replace a single thread of their gear. They carry an axe and hammer in either hand, and threads of pulsating energy crawl up their thick arms in wild patterns only to erupt out of their head in great swirls of mist.
 
@@ -57,7 +57,7 @@ The enemy raiding party consists of [[Gafto the Howler]], [[Shimz Shimring]], an
 >
 > Level 2 (Elite) · Altyra Bard
 >
-> ![Shimz Shimring](../../../assets/image182.webp)
+> ![Shimz Shimring](../../../assets/image212.webp)
 >
 > Tall, slender, and imposing, this altyran raider holds herself with a confident swagger, and speaks with a resonant voice that vibrates with magic. At hand are her tools: a lyre made of gray wood, a bow with plentiful arrows, and a keen short sword slung from her hip.
 
@@ -66,7 +66,7 @@ The enemy raiding party consists of [[Gafto the Howler]], [[Shimz Shimring]], an
 >
 > Level 1 · Human Brigand
 >
-> ![Otherhood Raider](../../../assets/image156.webp)
+> ![Otherhood Raider](../../../assets/image186.webp)
 >
 > A lightly-armored, heavily armed fighter wearing golden robes and brown leather armor. They look determined, disciplined and spoiling for a fight.
 
@@ -83,7 +83,7 @@ The enemy raiding party consists of [[Gafto the Howler]], [[Shimz Shimring]], an
 >
 > Gafto is a violent maniac with little regard for their own safety.
 >
-> At the beginning of combat on their very first turn Gafto activates [[Berserker]] and relies almost exclusively on making aggressive use of [[Dual Wield]] to pummel opponents with [[Hand Axe]] and [[Claw Hammer]]. Their reckless approach to combat is made somewhat safer by their [[Thick Skin]].
+> At the beginning of combat on their very first turn Gafto activates [[Unknown]] and relies almost exclusively on making aggressive use of [[Dual Wield]] to pummel opponents with [[Hand Axe]] and [[Claw Hammer]]. Their reckless approach to combat is made somewhat safer by their [[Unknown]].
 >
 > Gafto knows their reckless aggression puts their opponents on edge, and leverages that to shatter the morale of their opponents and back them down using [[Zeph Lineage]].
 >
@@ -101,7 +101,7 @@ The enemy raiding party consists of [[Gafto the Howler]], [[Shimz Shimring]], an
 >
 > Svala will not hesitate to insert herself between the refugees and the raiders, making use of [[Intercept]] to close ground and shield them.
 >
-> In combat Svala relies on engaging with her Battleaxe and makes a dangerous foe due to [[Cadence]], following up on successful hits with a [[Unknown]] to punish her opponents, and will make liberal use of [[Disarming Strike]] to establish tactical superiority. Svala is nothing if not resilient, and will lean on [[Second Wind]] and [[Steadfast]] as needed in order to counteract physical or morale damage as necessary.
+> In combat Svala relies on engaging with her Battleaxe and makes a dangerous foe due to [[Cadence]], following up on successful hits with a [[Shield Bash]] to punish her opponents, and will make liberal use of [[Disarming Strike]] to establish tactical superiority. Svala is nothing if not resilient, and will lean on [[Second Wind]] and [[Steadfast]] as needed in order to counteract physical or morale damage as necessary.
 >
 > If Svala is pressed heavily and finds her reserves of strength taxed, her [[Vrjnhar Lineage]] should keep her supplied with Action Points and let her stay in the fight. Svala is at her most dangerous when pressed in melee combat and surrounded by enemies, making use of the engagement bonus she receives from [[Hold Fast]]
 >
@@ -115,11 +115,11 @@ In the aftermath of battle there is time for investigation.
 
 #### Heart Attunement: Refugees Saved
 
-If the party manages to successfully save all of the refugees, advance each character's **Attunement: Heart of Ember (+1)** at the conclusion of the Event.
+If the party manages to save one or more of the refugees, advance each character's **Attunement: Heart of Ember (+1)** at the conclusion of the Event.
 
 #### Abyss Attunement: Refugees Slain
 
-If the party allows the refugees to die at the hands of the raiders, advance each character's **Attunement: The Abyss (+1)** at the conclusion of the Event.
+If the party allows all of the refugees to die at the hands of the raiders, advance each character's **Attunement: The Abyss (+1)** at the conclusion of the Event.
 
 ### Interrogating the Raiders
 
@@ -128,50 +128,58 @@ If any of the raiders were captured alive they can be interrogated.
 > [!info] Social
 > #### Resentful Raiders
 >
-> If the party manages to capture any raiders alive, they can be interrogated for information. They inherently don't want to die, and are willing to cooperate if there is a chance they will survive. A successful **Intimidation (DC 14)** or **Diplomacy (DC 18)** check is sufficient to convince them to talk.
+> If the party manages to capture any raiders alive, they can be interrogated for information. The surviving raiders do not want to die, but they are more afraid of their distant handlers than they are of the characters. A successful **Intimidation (DC 14)** or **Diplomacy (DC 14)** check is sufficient to make one of them talk, though their answers are bitter, evasive, and incomplete.
 >
-> A successful **Deception (DC 14)**check determines they are absolutely earnest, and have a genuine contempt for the Ordinate.
+> A successful **Deception (DC 14)** check determines the raider genuinely despises the Ordinate and the Trading Houses, but does not seem especially informed about the larger organization they serve.
 >
-> **Culture: Ordani** characters or those who have **Knowledge: Trade** or **Knowledge: Politics** understand that the [[Otherhood of Fortune]] is a violent political movement full of radicals, who believe that the [[Ordinate]] and Trading Houses are utterly corrupt and need to be torn down. It's not precisely known who leads them, and their numbers have been growing over the last few months.
+> Characters with **Culture: Ordani** or **Knowledge: Politics** may recognize the raiders' complaints as common anti-Ordinate rhetoric.
 >
-> Characters with **Knowledge: Crime** or **Knowledge: Trade** know that these Otherhood Raiders have been growing bolder by the week, raiding travelers, trade caravans, even attacking settlements (like Helkas). They are always unpredictable in terms of methods and brutality, but they are becoming more and more widespread.
+> Characters with **Knowledge: Crime** or **Knowledge: Warfare** can also tell that the raid is unusually coordinated for ordinary banditry; the fact that it is happening to so many across the Golden Flats suggests a grander strategy.
 >
 > #### Under the Surface
 >
-> Characters using [[Telecognition]] while questioning the raiders can glean additional insights from the minds of the raiders.
+> Characters using [[Telecognition]] while questioning the raiders can glean additional insights from their minds.
 >
-> - When the **Queen of Scales** is mentioned, you get a flash of a market, and an ominously tall drakon or ashka figure.
-> - When the **Captain** is mentioned, you get a flash of a larger than life, heroic, humanoid sea captain with white hair.
-> - When asked about their base of operations, you get images of a large city on the coast, and it's certainly not Ordain.
+> - When asked who gives them orders, the character sees a flash of a crowded market, a coin rolled across long fingers, and a tall figure watching from behind billowing cloth.
+> - When asked who collects their spoils, the character sees a white-haired humanoid standing on the bow of a ship.
+> - When asked where the raiders come from, the character sees a large coastal city with gray docks; it is not Ordain.
+> - When asked what organization they are part of, the character hears a whispered phrase: "For Other Fortunes."
 >
-> #### The Dead Tell No Tales
+> #### The Dead Tell Some Tales
 >
 > If the party didn't manage to capture any raiders, but wants to use some manner of **Talent: Rune: Soul** magic to question the corpses can learn the information above. Using this magic in front of Svala and the refugees unsettles them greatly as necromancy is broadly feared and reviled.
 
 > [!question] Q&A
-> **Q:** About Raiding.
+> **Q:** About Raiding?
 >
 > **A:**
 >
-> > Refugees have been coming through for a while, we jump them, rob them. If they put up a fight, well, we kill a couple until the fight leaves them. Easy pickings, hardly any danger to us until today.
+> > Refugees have been coming through the Flats for a while. We jump them, we rob them, and if they put up a fight … well, we kill a couple until the fight leaves them. Easy pickings … until today.
 > >
-> > Need money to survive, right? That simple. Besides, a revolution takes money. The Queen of Scales sets expectations, and the Captain gets irate if we fall short for too long. Gotta keep everyone happy so we don't lose our heads.
+> > Need money to survive, right? That simple. You think Ordain cares who starves out here? Everyone takes from someone. I wonder … what have **you** taken?
 
 > [!question] Q&A
-> **Q:** About the Queen of Scales.
+> **Q:** About Their Handlers?
 >
 > **A:**
 >
-> > They are the heads of the fight against the Ordinate. You won't get anything else from me. I won't help the Ordinate or their dogs.
+> > I don't know their names. None of us do. We bring a portion of what we steal to the right hands … but they're always **different** hands, see?
 
 > [!question] Q&A
-> **Q:** About the Revolution.
+> **Q:** About Their Organization / Base?
 >
 > **A:**
 >
-> > The corrupt leadership of the Ordinate and their secret police ruin the lives of common folk, and we're exposing the truth that the people of the plateau aren't actually safe. The government doesn't care about them, and it can't stop us!
+> > We are everywhere, friend. The Plateau is our home. It doesn't belong to Ordain and the Trading Houses, no matter what their secret police dogs have to say. It could be yours, too … but you'd have to let me go.
 
 ### Talking with the Refugees
+
+The refugees are being guided by [[Svala Bronwen]]. If the characters wish to speak with her further, refer to [[Entrance Path]]. Her current goal is to get as many of these refugees as possible to safety.
+
+> [!warning] Gamemaster
+> #### [[A Friendly Reunion]]
+>
+> If the characters already met Svala during the [[A Friendly Reunion]] Event (or during an unrelated visit to Oldcraft Lodge), you will have to adjust the conversation to reflect their prior interactions.
 
 If any of the refugees survived, the party can talk with them.
 
@@ -188,40 +196,40 @@ If any of the refugees survived, the party can talk with them.
 > If the party speaks with any surviving Arcturian refugees, the characters can learn a few rumors about various dangers on the road that have mounted over the last few weeks:
 >
 > - These weren't the first bandits the small caravan has spotted on or off the road, but they managed to avoid detection before now.
-> - Several villages and homesteads across the Plateau are dealing with their own calamities, whether manmade, natural, or worse.
+> - Several villages and homesteads across the Plateau are dealing with their own attacks by mutated monsters and organized bandits.
 >
 > A successful **Deception (DC 14, Passive)** check against the refugees leads you to believe that they are earnest about their troubles.
 
 > [!question] Q&A
-> **Q:** About Refugee Origins
+> **Q:** About Refugee Origins?
 >
 > **A:**
 >
 > > Several of us hail from Skybrush, in the Rustvar Valleys, and others joined along the way. A few homesteads and farms, where times were tougher than usual. We've been making our way east for days now, a bit aimlessly I have to admit.
 
 > [!question] Q&A
-> **Q:** About Refugee Options
+> **Q:** About Refugee Options?
 >
 > **A:**
 >
 > There is a distinct uncertainty among the survivors and where they might go. One speaks up, voicing their options:
 >
-> > Well, Nain would be safest but the Corpin Sanctuary might be closer, but there's no promise of help there if the rumors are true. We could also head for the Oldcraft Lodge, but the roads aren't getting any safer and there's no guarantee we'd even get halfway there given how things have been going so far.
+> > Well, either Nain or the Corpin Sanctuary would be safest, but there's no promise of help at Corpin Sanctuary if the rumors are true. We could also head for the Oldcraft Lodge … wherever we decide, the roads aren't getting any safer, and there's no guarantee we'd even get halfway there given how things have been going so far.
 >
 > In response to this Sin becomes visibly confused and incredulous, quickly snapping back:
 >
-> > What? That's impossible, the Sages work to help the people of the plateau both physically and spiritually. Why would you not get help from them at their Sanctuary?
+> > What? That's impossible, the Sages work to help the people of the plateau both physically and spiritually. Why would you not get help from them at Corpin Sanctuary?
 > >
 > > You should absolutely make your way there, they'll help you!
 >
 > The refugees seem unconvinced, and the one that speaking for the group shrugs, saying:
 >
-> > Maybe they would, but we know what we've heard. They are apparently turning people away from the Sanctuary, and that doesn't surprise us much. Support from the Sages has been thin outside of Ordain lately. Seems like they've got their own problems and we're no longer worth they time. Maybe we ought to head for Nain…
+> > Maybe they would, but we know what we've heard. They are apparently turning people away from the Sanctuary, and that doesn't surprise us much. Support from the Sages has been thin outside of Ordain lately. Seems like they've got their own problems and we're no longer worth their time. Maybe we ought to head for Nain …
 
 > [!info] Social
 > #### Directing the Refugees
 >
-> Any character that makes a successful **Diplomacy (DC 15)**check can convince the refugees to go to [[Nain]], [[Corpin Sanctuary]], or [[Oldcraft Lodge]].
+> Any character who makes a compelling argument can convince the refugees to go to [[Nain]], [[Corpin Sanctuary]], or [[Oldcraft Lodge]]. If the characters do not suggest a destination, Svala speaks up in favor of Oldcraft Lodge.
 
 ### Concluding the Event
 

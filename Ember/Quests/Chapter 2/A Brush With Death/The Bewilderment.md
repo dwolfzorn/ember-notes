@@ -30,7 +30,7 @@ For example, [[Liestra Grann]] is surprisingly unaffected because the antiquaria
 > [!danger] Hazard
 > #### The Bewilderment
 >
-> While Cursed, at the start of each hour the character faces **Creeping Confusion (Hazard 6, Willpower, Morale, Psychic)**, and if they do not pass the hazard they enter a brief state of delusion.
+> While Cursed, at the start of each hour the character faces **Creeping Confusion (Hazard 6)**, and if they do not pass the hazard they enter a brief state of delusion.
 >
 > While in this state of delusion, the character may:
 >
@@ -40,6 +40,6 @@ For example, [[Liestra Grann]] is surprisingly unaffected because the antiquaria
 > - Trail off in the middle of sentences, forgetting that they had been speaking.
 > - Begin humming a tune the party might recognize as [[The Ballad of Dereth Erekos]].
 >
-> Additionally, each time the bearer of this curse awakens from a Rest they must face **Lost Dreams (Hazard 4, Willpower, Morale, Severe)**. The third time this hazard deals damage, that character will inevitably die of terrifying shock `[[/gmroll 1d12 # Hours]]` hours later. Immediately upon their death, the character becomes a [[Horrendor]] controlled by the Gamemaster on behalf of [[Tethra Shùl]] or their otherworldly master Nethehepticas.
+> Additionally, each time the bearer of this curse awakens from a Rest they must face **Lost Dreams (Hazard 4, Severe)**. The third time this hazard deals damage, that character will inevitably die of terrifying shock `[[/gmroll 1d12 # Hours]]` hours later. Immediately upon their death, the character becomes a [[Horrendor]] controlled by the Gamemaster on behalf of [[Tethra Shùl]] or their otherworldly master Nethehepticas.
 >
 > Once cursed, this curse may only be removed with a **Counterspell (Control, Aspect, Negate, DC 16)**.

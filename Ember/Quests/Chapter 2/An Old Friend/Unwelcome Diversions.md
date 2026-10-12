@@ -51,7 +51,7 @@ tags: [ember, quests]
 >
 > The distillery door is locked. It can be unlocked with a successful**Stealth (DC 14)** check requiring [[Lockpicks]] , but opening the door triggers a trap (see [[Unwelcome Diversions]] below).
 >
-> Alternatively, characters can smash through the glass with a successful **Athletics (DC 22)** check. On a failure, a piece of glass flies off of the window — the character who made the attempt must make a successful **Athletics (DC 14)** to leap out of the way or suffer **Shattered Glass Fragments (Hazard 6, Fortitude, Health, Piercing)**.
+> Alternatively, characters can smash through the glass with a successful **Athletics (DC 22)** check. On a failure, a piece of glass flies off of the window — the character who made the attempt must make a successful **Athletics (DC 14)** to leap out of the way or suffer **Shattered Glass Fragments (Hazard 6)**.
 >
 > - Characters who make a successful **Wilderness (DC 14)** check or have **Knowledge: Crafts** can identify the window material as double-spun glass, which is extremely difficult to break unless hit at a weak point and sprays pieces of glass at anyone who tries.
 > - Characters who make a successful **Awareness (DC 14)** check to examine the window can see minute cracks underneath the adhesive that is attaching the "Closed for Internal Processing" sign to the window.
@@ -62,7 +62,7 @@ tags: [ember, quests]
 > [!danger] Hazard
 > #### Do Not Enter
 >
-> The door to the distillery has been rigged with an electricity trap, triggered by anyone who attempts to pull on the metal handle. If characters try to use the knob to open the door, they must make a successful **Athletics (DC 15)** to leap out of the way or suffer **Electrical Discharge (Hazard 6, Fortitude, Health, Electricity)** . The trap can be triggered multiple times, with no reset time required.
+> The door to the distillery has been rigged with an electricity trap, triggered by anyone who attempts to pull on the metal handle. If characters try to use the knob to open the door, they must make a successful **Athletics (DC 15)** to leap out of the way or suffer **Electrical Discharge (Hazard 6)** . The trap can be triggered multiple times, with no reset time required.
 >
 > Characters who make a successful **Awareness (DC 14)** check, or who use a spell or talent to locate traps, spot a tiny sliver of metal in the gap between the edge of the door and the door frame, which seems out of place. This is the trigger to the trap.
 >
@@ -119,7 +119,7 @@ The young stablehand **Kaol** (Chaotic Neutral, Arcturian Human, he/him) returns
 >
 > The Lazing Lamps can only be disabled magically — this can be done using **Talent: Counterspell** against a Control rune with an Aura gesture and a willpower defense of 16.
 >
-> The lamps can also be physically removed from the room, though they are extremely hot to the touch. Any character who attempts to remove a lamp without using gloves, [[Smith's Toolkit]], or magical means must make a successful **Wilderness (DC 15)** when touching the lamps or suffer **Mild Burns (Hazard fortitude, Health, Fire)**.
+> The lamps can also be physically removed from the room, though they are extremely hot to the touch. Any character who attempts to remove a lamp without using gloves, [[Smith's Toolkit]], or magical means must make a successful **Wilderness (DC 15)** when touching the lamps or suffer **Mild Burns (Hazard fortitude)**.
 >
 > Characters who use magic capable of locating an object can locate a Lazing Lamp found within [[The Storage Room]] in the mine.
 >
@@ -152,7 +152,7 @@ The young stablehand **Kaol** (Chaotic Neutral, Arcturian Human, he/him) returns
 >
 > > Where your hands touch the metal, small bits of flaky gray dust float down to the ground. They're almost too tiny to see, but where they glint slightly in the light, their silvery color matches the metal in front of you.
 >
-> Characters with **Knowledge: Alchemy** or **Knowledge: Machines**, or who have the **Talent: Smithing Novice** or **Talent: Alchemy Novice** talent know that this kind of effect is caused either by something physical that has been applied to the metal or a natural weakness in the material, as opposed to a spell. They also have **+2 Boons** on further checks on the metal.
+> Characters with **Knowledge: Alchemy** or **Knowledge: Machines**, or who have the `[[/talent Compendium.crucible.talent.Item.smithingNovice00]]` or `[[/talent Compendium.crucible.talent.Item.alchemyNovice000]]` talent know that this kind of effect is caused either by something physical that has been applied to the metal or a natural weakness in the material, as opposed to a spell. They also have **+2 Boons** on further checks on the metal.
 >
 > - Any character who makes a successful **Science (DC 14)** check or uses a tool on the metal find that the bulk of the metal is strong, but the edges are flaky.
 > - Any character who makes a successful **Awareness (DC 14)** check can see residue on the edge of the metal pieces and on the edges of several tools nearby. It has a distinctive acrid smell to it.

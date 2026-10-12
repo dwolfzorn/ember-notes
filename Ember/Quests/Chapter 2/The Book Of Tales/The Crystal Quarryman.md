@@ -136,7 +136,7 @@ Once Zodi opens the door, the characters can finally take full stock of his phys
 >
 > Level 2 · Kiska Grappler
 >
-> ![Zodi Trask](../../../assets/image080.webp)
+> ![Zodi Trask](../../../assets/image089.webp)
 >
 > You regard a burly Kiska male whose corded muscles suggest a life of strenuous labor, a detail readily confirmed by the timeworn pickaxe at his side and the simplicity of his loose-hanging garb. Covered in a coat of gray-brown fur and quarry dust, this miner wears his long mane of vibrant hair in a thick braid to keep it dutifully out of the way. A smug countenance presides upon his mustachioed face, which appears to be marked by a few scars from some violent childhood scuffle or accident.
 
@@ -236,7 +236,7 @@ As the characters begin to unravel the mystery of the relic and its effect on [[
 >
 > Level 2 · Skither Servitor
 >
-> ![Skither](../../../assets/image051.webp)
+> ![Skither](../../../assets/image052.webp)
 >
 > Small and fast-moving, this creature seems at first like something to ignore, little more than a piece of trash with jagged wings crudely shaped to look like a insect. The creature's solitary eye and claw-like appendages seem to surge with fiery radiance as it strikes, leaving streaks of amber light in its wake.
 

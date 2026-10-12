@@ -49,9 +49,9 @@ After they listen to the statue's tale, the characters can inspect the stone eff
 > - **Culture: Arcturian**: The character gains **+2 Boons** on this check.
 > - **Critical Success**: The character is well-read when it comes to Amalthea Stonecraft's fantastic tales, or has been exposed to some of them via oral storytelling. Indeed, they probably have a favorite story from her vast body of work that occasionally comes to mind.
 >
-> A successful **Arcana (DC 15)** check is required for a character to accurately speculate the magical practices needed to accomplish the statue's enchantment (which include **Talent: Enchanting Journeyman**{Journeyman Enchanting} and at least some amount of capability with the **Talent: Rune: Illusion**{Illusion Rune}), and can reasonably speculate that Amalthea Stonecraft has some magical prowess in her own right (if the legends about her stories have any truth to them).
+> A successful **Arcana (DC 15)** check is required for a character to accurately speculate the magical practices needed to accomplish the statue's enchantment (which include `[[/talent Compendium.crucible.talent.Item.enchantingJourne]]`{Journeyman Enchanting} and at least some amount of capability with the **Talent: Rune: Illusion**{Illusion Rune}), and can reasonably speculate that Amalthea Stonecraft has some magical prowess in her own right (if the legends about her stories have any truth to them).
 >
-> - **Talent: Enchanting Journeyman**: The character automatically succeeds on this check.
+> - `[[/talent Compendium.crucible.talent.Item.enchantingJourne]]`: The character automatically succeeds on this check.
 > - **Knowledge: Artifacts**: The character gains **+2 Boons** on this check.
 > - **Knowledge: Legends**: The character gains **+2 Boons** on this check.
 >
@@ -93,12 +93,11 @@ A moment later, the lady of the house appears:
 >
 > Level 10 (Elite) · Human Bard
 >
-> ![Amalthea Stonecraft](../../../assets/image176.webp)
+> ![Amalthea Stonecraft](../../../assets/image206.webp)
 >
 > A wizened woman dressed in loose-fitting Arcturian garb stands before you, her elderly hands perched upon a knotted walking stick. You spy a pair of feathered wings on her stooped back, as brilliant and violet as any amythest, draped beneath the folds of a stitched brown apron. Similar quills line her forearms, and a ruffle of smaller feathers around her neck serves as an ersatz collar.
 >
->  > [!quote] Read Aloud
-> > A plume of purple feathers sits upon her aged head like a posh hat, capturing a fashionable kind of folk sensibility, which she wears with grace and aplomb. Her smile is as bright as the dawn, and her wrinkled eyes regard the world with a warm and perpetual interest.
+> A plume of purple feathers sits upon her aged head like a posh hat, capturing a fashionable kind of folk sensibility, which she wears with grace and aplomb. Her smile is as bright as the dawn, and her wrinkled eyes regard the world with a warm and perpetual interest.
 
 > [!quote] Read Aloud
 > This must be Lady Stonecraft, the legendary storyteller of Nain. She addresses you with the sincere familiarity of an elderly auntie.
@@ -137,7 +136,7 @@ A moment later, the lady of the house appears:
 > As a reward for the party's efforts, Amalthea promises to immortalize the characters in one of her tales and offers a choice of one of the following Items:
 >
 > - [[Unknown]]
-> - [[Unknown]]
+> - [[Eyes of the Inspector]]
 >
 > Any character with a **Diplomacy (DC 13, Passive)** check is able to confirm the veracity of Amalthea's intentions.
 >
@@ -200,7 +199,7 @@ A moment later, the lady of the house appears:
 >
 > - **Knowledge: Artifacts**: The character gains **+2 Boons** on this check.
 >
-> Any character suitably talented with **Talent: Enchanting Journeyman** or who inspects the manuscript using **Talent: Recognize Spellcraft** is able to detect the telltale signs of the **Talent: Rune: Control**{Control Rune}, and that the book has indeed been enchanted, but beyond that the manuscript's nature is inscrutable.
+> Any character suitably talented with `[[/talent Compendium.crucible.talent.Item.enchantingJourne]]` or who inspects the manuscript using **Talent: Recognize Spellcraft** is able to detect the telltale signs of the **Talent: Rune: Control**{Control Rune}, and that the book has indeed been enchanted, but beyond that the manuscript's nature is inscrutable.
 
 > [!warning] Gamemaster
 > #### Region Map: Nain

@@ -16,16 +16,18 @@ tags: [ember, quests]
 > - Meet Aythorn who is excited to see the seed-grown town and gives it a blessing of prosperity.
 > - Catch up with the town steward [[Triss Carpel]] and aspiring wizard [[Edivel Sprout]], and find out how the town is faring after the crisis in [[Bridging the Gap]].
 >
-> The vista composition remains on "[[Vista: Brevin]]" by default but can be swapped to "Brevin Festival, Bridge Complete" if the party saved the bridge.
+> The vista composition remains on the [[Brevin Festival]] Level by default, but can be swapped to [[Brevin Festival, Bridge Complete]] Level if the party saved the bridge.
 
 ### The Arrival of Aythorn
 
 > [!abstract] Aythorn
 > **[[Aythorn]]**
 >
-> Level 1 · Unknown Unknown
+> Level 18 (Boss) · Thornling Shard God
 >
-> ![Aythorn](../../../assets/image172.webp)
+> ![Aythorn](../../../assets/image202.webp)
+>
+> The shard god Aythorn is seen more often than most other Ember deities, but they never arrive quite the same way twice. A tree becomes a god becomes a drift of petals on the wind. A trail of blossoms leads to an impossible discovery. For those who are lucky, Aythorn eventually appears in their true form - a swirling vortex of flowers and breezes and leaves and vines that settles into the form of something halfway in-between a tall thornling and a tree in full bloom come to life.
 
 > [!quote] Read Aloud
 > Aythorn moves to the center of the platform at the heart of Brevin, seeming to float as much as they walk, trailing flower petals as they go.

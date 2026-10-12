@@ -16,7 +16,7 @@ There are a number of sketches on the desk, which include faraway landscapes, po
 > [!tip] Exploration
 > #### Identifying the Sketches
 >
-> Any character who makes a successful **Awareness (DC 13)**check can identify three of the sketches as architectural drawings of this tower.
+> Any character who makes a successful **Awareness (DC 13)** check can identify three of the sketches as architectural drawings of this tower.
 
 ### The First Sketch
 

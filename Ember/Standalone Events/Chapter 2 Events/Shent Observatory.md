@@ -79,7 +79,7 @@ When the mechanism locks into place, read or paraphrase the following:
 > [!abstract] Skallith
 > **[[Skallith]]**
 >
-> Level 1 · Skallith Commonfolk
+> Level 1 · Skeleton Commonfolk
 >
 > ![Skallith](../../assets/image008.webp)
 >
@@ -88,7 +88,7 @@ When the mechanism locks into place, read or paraphrase the following:
 > [!abstract] Skallith Warrior
 > **[[Skallith Warrior]]**
 >
-> Level 3 · Skallith Fighter
+> Level 3 · Skeleton Fighter
 >
 > ![Skallith Warrior](../../assets/image009.webp)
 >

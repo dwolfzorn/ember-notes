@@ -130,7 +130,7 @@ The second group challenge tests the party's ability to avoid notice from a floc
 >
 > > Your attempts to elude notice by the birds are unsuccessful. No longer afforded the luxury of subtlety you have to flee the cacophony of hungry cries that swell through the canyon behind you. Several outlying wings of the massive swarm reach you and rip at your exposed skin.
 >
-> The party is unable to avoid detection. Each character suffers damage from the **Swarming Talons (Hazard 12, Reflex, Slashing)**.
+> The party is unable to avoid detection. Each character suffers damage from the **Swarming Talons (Hazard 12)**.
 >
 > **Critical Failure**
 >
@@ -198,7 +198,7 @@ The third group challenge tests the party's ability to withstand the delirious f
 >
 > > You attempt to time your movements between exhalations of the plants, but you quickly become overtaken by the burning of your lungs and the persistence of the miasma. You cannot avoid inhaling some of the fumes and the breath is sucked away from your lungs. With the help of your allies you press onwards to the far side but feel the burning effects of the choking vapors.
 >
-> Each character must **Chokebellow Fumes (Hazard 12, Fortitude, Poison)**.
+> Each character must **Chokebellow Fumes (Hazard 12)**.
 >
 > **Critical Failure**
 >
@@ -216,7 +216,7 @@ The final group challenge requires the party to maintain their overall sense of 
 > [!tip] Exploration
 > #### The Bewildering Maze
 >
-> The party must perform a group skill check using **Wilderness (DC 16, Group)** to ascertain their bearings.
+> The party must perform a group skill check using **Wilderness (DC 16, Group)**to ascertain their bearings.
 >
 > - **Knowledge: Tracking**: The character gains **+2 Boons** on this check.
 > - **Path: Caravanner**: The character gains **+2 Boons** on this check.
@@ -268,7 +268,7 @@ A Varún warrior created a totem here to commemorate their defeat of this gargan
 > - Characters who previously discovered and identified the body of the Varún in [[Amazing Brambles]] have advantage on this check.
 > - **Critical Success**: The character recalls a rite of passage for adolescent Varún warriors, which tasked them with lone travel to a distant land — where they would hunt a most formidable monster amidst the local wilderness.
 >
-> Any character who makes a successful **Medicine (DC 16)** check can locate countless pock-marks in the bones that have been picked completely clean, and suspects that the nearby gore birds were drawn to this carcass (and made short work of the exposed remains).
+> Any character who makes a successful **Medicine (DC 16)**check can locate countless pock-marks in the bones that have been picked completely clean, and suspects that the nearby gore birds were drawn to this carcass (and made short work of the exposed remains).
 >
 > - **Knowledge: Forensics**: The character automatically succeeds on this check.
 > - **Knowledge: Beasts**: The character gains **+2 Boons** on this check.
@@ -281,7 +281,7 @@ A Varún warrior created a totem here to commemorate their defeat of this gargan
 > - **Knowledge: Subterranea**: The character gains **+2 Boons** on this check.
 > - **Critical Success**: The character has heard tales that Garganthus Hide is a precious material utilized by some of Ember's finest leatherworkers to create equipment that is prized for it's durability, flexibility, and light-neutralizing properties.
 >
-> Any character who makes a successful **Athletics (DC 25)** check is able to harvest 2 [[Garganthus Hide]].
+> Any character who makes a successful **Athletics (DC 25)**check is able to harvest 2 [[Garganthus Hide]].
 >
 > - **Knowledge: Crafts**: The character gains **+2 Boons** on this check.
 >
@@ -313,11 +313,11 @@ Once the party has retrieved the key, they are interrupted as described below:
 >
 > The party's response to the arrival of Mug & Cap could range from amicable to antagonistic. If the characters try to be friendly, there is an opportunity to persuade Mug & Cap to share information about the challenge clues.
 >
-> Any character who makes a successful **Diplomacy (DC 22)**or **Intimidation (DC 20)** check is able to convince Mug & Cap to share the solution to the first Challenge Clue, revealing their knowledge of [[Jekeroka Villa]] and its exact location.
+> Any character who makes a successful **Diplomacy (DC 22)**or **Intimidation (DC 20)**check is able to convince Mug & Cap to share the solution to the first Challenge Clue, revealing their knowledge of [[Jekeroka Villa]] and its exact location.
 >
-> - **Failure:** On the result of a failure, Mug & Cap will lie to the characters, and describe [[Unknown]] as the clue's location instead. Any character who makes a successful **Deception (DC 16, Passive)** check can tell they are lying.
+> - **Failure:** On the result of a failure, Mug & Cap will lie to the characters, and describe "Nurk's Hollow" in the [[Sarin Strand]] as the clue's location instead. Any character who makes a successful **Deception (DC 16, Passive)**check can tell they are lying.
 >
-> They party can also ask about the third Challenge Clue, to which Mug & Cap confess they have not yet figured it out. Any character who makes a successful **Deception (DC 16, Passive)** check can tell they are being forthright about it.
+> They party can also ask about the third Challenge Clue, to which Mug & Cap confess they have not yet figured it out. Any character who makes a successful **Deception (DC 16, Passive)**check can tell they are being forthright about it.
 
 ### To Paths Below
 

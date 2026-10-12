@@ -9,7 +9,7 @@ tags: [ember, area-walkthroughs]
 # Flow Control
 
 > [!quote] Read Aloud
-> This circular room initially seems to surve little purpose aside from facilitating access between areas, but upon entering you notice water running through a chute in the middle of the floor and two large metal wheels connected to pipes on the southern wall.
+> This circular room initially seems to serve little purpose aside from facilitating access between areas, but upon entering you notice water running through a chute in the middle of the floor and two large metal wheels connected to pipes on the southern wall.
 
 > [!tip] Exploration
 > #### Sluice Controls

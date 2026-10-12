@@ -92,7 +92,7 @@ The abandoned mine tunnels have been overrun by [[Vorg]], who lurk beneath the e
 >
 > Level 4 · Vorg Burrower
 >
-> ![Vorg](../../../assets/image079.webp)
+> ![Vorg](../../../assets/image088.webp)
 >
 > Seemingly endless segments of metal speed across the ground, dragged by the clicking and clacking of countless legs on each side and multiple pairs of surprisingly dexterous pincers. Within this metallic body, a orange-yellow glow is visible from the creature's pointed spine and through what passes for eyes, burning with a heat that emanates from its body into the nearby air.
 
@@ -111,7 +111,7 @@ The abandoned mine tunnels have been overrun by [[Vorg]], who lurk beneath the e
 >
 > Over the course of combat, the Vorg will prioritize the following actions and abilities:
 >
-> - In melee, the Vorg will use their [[Raking Talons]] action.
+> - In melee, the Vorg will use their [[Unknown]] action.
 > - If surrounded, a Vorg will attempt to climb to safety, then use its [[Clinging Grip]] on the following turn.
 >
 > The battle ends when the Vorg are slain or are **Weakened** or **Broken**, at which point they burrow into the earth and flee. If a Vorg cannot escape, it positions itself to affect as many enemies as possible with its [[Radiant Death Burst]] feature.

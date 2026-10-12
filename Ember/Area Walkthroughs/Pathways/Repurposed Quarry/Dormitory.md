@@ -18,7 +18,7 @@ tags: [ember, area-walkthroughs]
 >
 > Level 3 (Minion) · Human Scout
 >
-> ![Mutagist Scout](../../../assets/image010.webp)
+> ![Mutagist Scout](../../../assets/image011.webp)
 >
 > A rugged, sly-looking individual, clad in a patchwork cloak of leather and fabric, their attire a mismatched collection of adventure-worn gear. They have the bearing of a well traveled and road worn adventurer or mercenary. It is concerning how utterly nondescript they actually are.
 
@@ -27,7 +27,7 @@ tags: [ember, area-walkthroughs]
 >
 > Level 3 (Elite) · Human Chirurgeon
 >
-> ![Mutagist Vivisector](../../../assets/image011.webp)
+> ![Mutagist Vivisector](../../../assets/image012.webp)
 >
 > Clad in stained apron and coat, they regard you coolly from behind goggles and mask which make it impossibly to discern anything about them. They turn a razor sharp scalpel in their hand, as their off-hand rests on a pouch containing several vials of undoubtedly dangerous compounds. The air around them is thick with the scent of medicine and blood.
 
@@ -36,7 +36,7 @@ tags: [ember, area-walkthroughs]
 >
 > A group of 2 [[Mutagist Scout]] and 1 [[Mutagist Vivisector]] can be found here packing their things and discussing the orders to abandon the lab.
 >
-> A stealthy party can take them by surprise if they manage a successful **Stealth (DC 14)** group check where at least half the party succeed. Otherwise they will attack on sight.
+> A stealthy party can take them by surprise if they manage a successful **Stealth (DC 14, Group)** group check where at least half the party succeeds. Otherwise they will attack on sight.
 >
 > The Mutagists engage in melee combat directly, since the fighting area is tight. If possible, they will attempt to control the door into the dormitory, or the doorway between rooms as this allows them to fight only one enemy at a time.
 

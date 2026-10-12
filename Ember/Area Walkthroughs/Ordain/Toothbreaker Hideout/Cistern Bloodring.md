@@ -9,7 +9,7 @@ tags: [ember, area-walkthroughs]
 # Cistern Bloodring
 
 > [!quote] Read Aloud
-> The grand central atrium of the Concourse Hideout is a huge vaulted chamber, the ceiling is nearly 100 feet overhead whic descends into darkness as water cascades from a concentric ring of waterfalls into the depths of the cistern below. In the center of the chamber, a platform stands upon a column of rock, connected by three bridges.
+> The grand central atrium of the Concourse Hideout is a huge vaulted chamber. The ceiling is nearly 100 feet overhead, and descends into darkness as water cascades from a concentric ring of waterfalls into the depths of the cistern below. In the center of the chamber, a platform stands upon a column of rock, connected by three bridges.
 >
 > Upon the platform is built a ramshackle arena, tiered wooden bleachers surrounding an octagonal roped ring. Lights are strung overhead to illuminate the arena. An assortment of Toothbreakers or their guests lounge upon the bleachers, calling out encouragement to the combatants who battle in the ring.
 
@@ -20,7 +20,7 @@ Unless the party has been invited into this area as guests or they are escorted 
 >
 > Level 1 · Unknown Unknown
 >
-> ![Toothbreaker Scaletamer](../../../assets/image032.webp)
+> ![Toothbreaker Scaletamer](../../../assets/image033.webp)
 
 > [!tip] Exploration
 > #### Ukkfal's Key
@@ -52,7 +52,7 @@ Parties that are invited guests of the Toothbreakers are free to mingle here, sp
 > [!danger] Hazard
 > #### Toothbreakers
 >
-> If provoked into combat, the Toothbreakers here will follow the tactics described in [[Gazetteer Reference]].
+> If provoked into combat, the Toothbreakers here will follow the tactics described in [[Toothbreaker Tactics]].
 >
 > #### Raising the Alarm
 >
@@ -118,7 +118,7 @@ If the party is victorious in all four of these challenges, Raster Thorn himself
 >
 > Level 1 · Unknown Unknown
 >
-> ![Raster Thorn](../../../assets/image035.webp)
+> ![Raster Thorn](../../../assets/image036.webp)
 
 > [!danger] Hazard
 > #### Raster Thorn

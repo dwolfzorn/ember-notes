@@ -48,7 +48,7 @@ Once one or more of the characters have moved far enough to reach the halfway ma
 >
 > Level 2 · Zombie Grappler
 >
-> ![Sodden Corpse](../../../assets/image183.webp)
+> ![Sodden Corpse](../../../assets/image213.webp)
 >
 > The fetid smell of corpse rot assaults your senses as a vaguely misshapen humanoid silhouette shambles into view. What appears to be a putrid, ambulatory cadaver shuffles your way, its soft and bloated flesh reeking of the grave. The clothes it wore in life are tattered and torn, stained by the toxic putrescence of its undead form. As the creature’s milky, moldering eyes regard you with a malevolent inhuman hunger, its rotted jaws gnash in rapacious anticipation.
 
@@ -82,7 +82,7 @@ Once one or more of the characters have moved far enough to reach the halfway ma
 >
 > Characters can also choose to let the current wash them further downstream, outside the bounds of the area map.
 >
-> - Any character that allows the river to carry them downstream must succeed on a `[[/save dex 15]]`**Athletics (DC 15)** check or they suffer being **Dashed Against the Rocks (Hazard 10, Fortitude, Health, Bludgeoning)** before they wash up nearly two miles downstream to the southeast on the shore of hex 3210.2892.
+> - Any character that allows the river to carry them downstream must succeed on a `[[/save dex 15]]`**Athletics (DC 15)** check or they suffer being **Dashed Against the Rocks (Hazard 10)** before they wash up nearly two miles downstream to the southeast on the shore of hex 3210.2892.
 > - Characters who leave combat will remain outside of initiative order until a) all party members have washed downstream, b) the sodden corpses have been defeated in combat, or c) the remaining characters have successfully reached the eastern bank of the river.
 
 If the party defeats the Sodden Corpses in combat, the characters may take time to inspect the remains for information about their origins and how they might have reached Keeper's Crossing.

@@ -26,7 +26,7 @@ tags: [ember, quests]
 >
 > Level 1 · Hulg'run Scout
 >
-> ![Tauric](../../../assets/image158.webp)
+> ![Tauric](../../../assets/image188.webp)
 >
 > The young man's gray body appears to be carved from rock, with lines of blue agate running through the stone like veins. His color is matched by the gelatinous body of the small blueish-green ooze that sits on his shoulder, nestled into a hollow that seems to have been carved for the purpose.
 

@@ -34,7 +34,7 @@ The crevice is slightly hidden behind a sheet of fallen slate.
 >
 > - **Special Equipment:** The character gains **+2 Boons** on this check if they use a crowbar or another piece of suitable equipment.
 >
-> If the check is failed, it can be retried, but the party member in question must succeed on a **Athletics (DC 13)** or suffer **The Shifting Rock (Hazard 5, Fortitude, Health, Bludgeoning)**
+> If the check is failed, it can be retried, but the party member in question must succeed on a **Athletics (DC 13)** or suffer **The Shifting Rock (Hazard 5)**
 
 > [!warning] Gamemaster
 > #### Secret Door

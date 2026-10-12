@@ -22,7 +22,7 @@ Outside of Event-specific encounters, Zodi is only likely to be found at home du
 >
 > Level 2 · Kiska Grappler
 >
-> ![Zodi Trask](../../../assets/image080.webp)
+> ![Zodi Trask](../../../assets/image089.webp)
 >
 > You regard a burly Kiska male whose corded muscles suggest a life of strenuous labor, a detail readily confirmed by the timeworn pickaxe at his side and the simplicity of his loose-hanging garb. Covered in a coat of gray-brown fur and quarry dust, this miner wears his long mane of vibrant hair in a thick braid to keep it dutifully out of the way. A smug countenance presides upon his mustachioed face, which appears to be marked by a few scars from some violent childhood scuffle or accident.
 

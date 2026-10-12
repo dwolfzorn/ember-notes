@@ -11,14 +11,12 @@ tags: [ember, quests]
 > [!warning] Gamemaster
 > #### Gamemaster's Summary
 >
-> This Combat Event occurs when the party rushes back to [[Ushna Dredging]] to confront the enraged stalagmaw [[Slaith]] that is threatening to escape its prison at any moment. [[Lake Orial]]. By breaking Slaith's bindings, the characters can:
+> This Combat Event occurs when the party rushes back to [[Ushna Dredging]] at [[Lake Orial]] to confront the enraged stalagmaw [[Slaith]] that is threatening to escape its prison at any moment. By breaking Slaith's bindings, the characters can:
 >
 > - Opt to free Slaith and let it rampage until [[Eamon Mariflor]] sacrifices himself to fell it.
 > - Engage Slaith in an epic battle, demanding either overwhelming force or clever tactics.
-> - Make a pivotal decision about whether to rebind Slaith as [[Terrane]] demands, or destroy it and send its essence back to Cora, forcing the Arctus Plateau to find a new source of agricultural abundance.
-> - Discuss the ramifications of their choice with Eamon and Rala.
->
-> This event occurs automatically when arriving at [[Ushna Dredging]] after completing the [[Wisdom of the Sages]] event.
+> - Make a pivotal decision about whether to rebind Slaith as [[Terrane]] demands, or destroy it and send its essence back to [[Cora]], forcing the Arctus Plateau to find a new source of agricultural abundance.
+> - Discuss the ramifications of their choice with Eamon and [[Rala Ushna]].
 >
 > #### Area Walkthrough
 >
@@ -30,7 +28,7 @@ To unbind the gargantuan monstrosity, the party need only submerge [[Terrane's S
 
 ### Freeing Slaith
 
-If the party frees Slaith's bindings, but chooses not to fight the terrible creature, instead letting it roam free and wreak havoc, read or paraphrase the following:
+If the party frees Slaith's bindings, but chooses not to fight the terrible creature — instead letting it roam free and wreak havoc — read or paraphrase the following:
 
 > [!quote] Read Aloud
 > Without you there to stop it, the towering monstrosity emerges from the lake, and begins stomping the Ushna family home to pieces. Seeing no one there to stop the beast, Eamon Mariflor himself rushes to confront it, shouting and waving for bystanders to clear the way as he prepares his magic.
@@ -55,20 +53,23 @@ With Slaith and Eamon dead, and the party shunned, the story of Disturbed Earth 
 
 #### Abyss Attunement: Slaith Freed
 
-If the party frees Slaith, all party members advance their**Attunement: The Abyss (+1)** at the conclusion of the Event.
+If the party frees Slaith, all party members advance their **Attunement: The Abyss (+1)** at the conclusion of the Event.
 
 ### Battling Slaith the Stalagmaw
 
 If the party opts to fight Slaith, the battle begins as the creature hauls itself out of the waters of Lake Orial and moves implacably towards the shore, summoning minions to precede its advance.
 
+> [!quote] Read Aloud
+> The shard glows visibly within the lake bed, and a sound like a continent cracking in half rings out across the lakeside. A gargantuan beast rises up from beneath the water, foul acid dripping off the heaving mass of slime and mud.
+
 > [!abstract] Slaith
 > **[[Slaith]]**
 >
-> Level 12 (Boss) · Stalagmaw Gorger
+> Level 12 (Boss) · Stalagmaw Chomper
 >
-> ![Slaith](../../../assets/image112.webp)
+> ![Slaith](../../../assets/image139.webp)
 >
-> This immense elemental is a heaving mass of slime and gray mud only vaguely shaped like some crawling titan with four limbs and a dripping maw of blackness. Ropes of corrupted sludge drag between its limbs and spill from cracks in its body. Its face is a crude, shifting thing, with hollow pits for eyes and a wide, sagging maw that leaks foul mud wherever it turns. The air around it smells of rot and sickness, and every movement leaves the ground stained, and poisoned in its wake.
+> Ropes of corrupted sludge drag between the limbs of the four-legged creature, and spill from cracks in its body. Its face is a crude, shifting thing, with hollow pits for eyes and a wide, sagging maw that leaks foul mud wherever it turns. The air around it smells of rot and sickness, and every movement leaves a wake of stained and poisoned earth.
 
 > [!danger] Hazard
 > #### In the Shadow of the Colossus
@@ -89,7 +90,7 @@ If the party opts to fight Slaith, the battle begins as the creature hauls itsel
 > - **Extrude Vines** to position up to 2 [[Obsidian Vine Outgrowth]] on land to harass characters who linger by the shore.
 > - **Crushing Leap** to suddenly relocate with a concussive blast that damages a group of clustered enemies.
 > - When engaging a single foe, Slaith uses a combo of **Restraining Chomp** and **Thrash** to deal damage and leave the target **Restrained**, optionally adding **Headbutt** to further leave them **Staggered**.
-> - Slaith is empowered with earthen magic from Slinerak, and will **Cast Spell** with **Coran Earthen Pulse** or **Coran Earthen Surge** to damage and Stagger enemies.
+> - Slaith is empowered with earthen magic from Slinerak, and will **Cast Spell** with @Spell[earth.pulse.cora] or @Spell[earth.surge.cora] to damage and Stagger enemies.
 > - Accumulate Heroism as the battle progresses to unleash a devastating **Graviturgic Crush** attack, forcing enemies to cluster and become vulnerable to area-of-effect attacks.
 >
 > Outside if its turn, these additional features affect how Slaith behaves on the battlefield:
@@ -106,12 +107,12 @@ If the party opts to fight Slaith, the battle begins as the creature hauls itsel
 >
 > The [[Obsidian Vine Outgrowth]] that Slaith extrudes are extensions of Slaith's own form and are directly under Slaith's control, although they have their own separate health pool and Initiative. Slaith uses them to harass spellcasters or ranged attackers, ideally forcing them closer to Slaith. More details on Obsidian Vine Outgrowth tactics are presented in the earlier Event [[The Root Issue]].
 
-Slaith is a formidable foe, but the heroes have several tools at their disposal that can aid them during this climactic battle. Both [[Eamon Mariflor]] stands beside the heroes unless they forbid him from joining them. Additionally, an attentive party can use the environment of the Ushna Dredging Docks to counter some of Slaith's capabilities.
+Slaith is a formidable foe, but the heroes have several tools at their disposal that can aid them during this climactic battle. [[Eamon Mariflor]] stands beside the heroes unless they forbid him from joining them, and an attentive party can use the environment of the [[Ushna Dredging Docks]] to counter some of Slaith's capabilities.
 
 > [!danger] Hazard
 > #### Purge the Water!
 >
-> Four storage tanks are mounted to the Dredger Docks, each holding nearly 4,000 gallons of a mixture of water and silt pumped up from the lakebed, awaiting refinement. The tanks are initially full. Each tank can be individually purged by activating a discharge valve, sprays the contents back into the lake. This discharge can disperse a section of Befouled Water that Slaith has created, nullifying Slaith's ability to shape elementals in that location.
+> Four storage tanks are mounted to the underside of the dock, each holding nearly 4,000 gallons. The tanks are initially full. Each tank can be individually purged by activating a discharge valve, which sprays the contents through the attached drying vat and back into the lake. This discharge can disperse a section of Befouled Water that Slaith has created, nullifying Slaith's ability to shape elementals in that location.
 >
 > #### Drop the Claw!
 >
@@ -121,14 +122,14 @@ Slaith is a formidable foe, but the heroes have several tools at their disposal 
 >
 > #### Break the Crystals!
 >
-> Alternatively, the party can break the crystalline crown by mounting the beast's head — by running along the crane and leaping, using the [[Antigravity Stone]] from Terrane, or any other method — and making a single successful melee strike against Slaith, which lands on a fragile fault at the base of the crystals and produces the same effect as dropping the Dredging Claw.
+> Alternatively, the party can break the crystalline crown by mounting the beast's head — whehter by running along the crane and leaping, using the [[Antigravity Stone]] from Terrane, or any other method — and making a single successful melee strike against Slaith, which lands on a fragile fault at the base of the crystals and produces the same effect as dropping the Dredging Claw.
 >
 > #### Eamon Mariflor Tactics
 >
 > Eamon Mariflor stands beside the party to face the earthen colossus. During combat:
 >
 > - He uses **Cast Spell** to attack elementals which threaten the party's backline.
-> - If Slaith manifests a section of Befouled Water that the party does not clear on their own before Eamon's turn in the subsequent Round, Eamon will clear it himself by casting the **Icy Surge** spell.
+> - If Slaith manifests a section of Befouled Water that the party does not clear on their own before Eamon's turn in the subsequent Round, Eamon will clear it himself by casting the **Icy Surge** Spell.
 >
 > On his turn after seeing Slaith fashion at least one elemental from the befouled mud of Lake Orial, Eamon will shout out advice to the party:
 >
@@ -166,10 +167,10 @@ If the party has not convinced Terrane to take Slaith's place and continue to en
 
 ### Binding Slaith
 
-If the party decides to rebind Slaith, they need only use the silt of Lake Orial to copy the symbols shown by Terrane across the back of the beast. After they do so, read or paraphrase the following:
+If the party decides to rebind Slaith, they need only need to copy the symbols they were shown by Terrane, drawing them across the back of the beast using Lake Orial silt. After they do so, read or paraphrase the following:
 
 > [!quote] Read Aloud
-> A great rumbling shakes the entire lakeside as ethereal green light pours out of the silt-symbols. The strokes of the symbols spread out across Slaith's body, growing like vines until the entire beast is bound in their light. The colossal creature begins to recede into the water, sinking through the very silt of the lakebed as water pours in to fill the space it leaves behind. And then, it is does. Slaith is returned to its prison, and if all is as Terrane promised, Lake Orial will once again play its vital role in feeding the many peoples of the Arctus Plateau — at the expense of Slaith's eternal siphoning.
+> A great rumbling shakes the entire lakeside as ethereal green light pours out of the silt-symbols. The strokes of the symbols spread out across Slaith's body, growing like vines until the entire beast is bound in their light. The colossal creature begins to recede into the water, sinking through the very silt of the lakebed as water pours in to fill the space it leaves behind. With sound of a crashing wave, it is done. Slaith is returned to its prison, and if all is as Terrane promised, Lake Orial will once again play its vital role in feeding the many peoples of the Arctus Plateau — at the expense of Slaith's eternal siphoning.
 >
 > Eamon looks on with discomfort, quietly shaking his head and speaking without facing you:
 >
@@ -222,9 +223,9 @@ After the party finishes any ensuing discussion with Eamon, if they did not conv
 >
 > He turns and looks over his shoulder at the Ushna family home, all centered around the very docks on which you stand.
 >
-> > What are we, without this place and its bounty? Moreover, what will we do? I am sure the Circle and the labor councils will continue to support as as we transition but … this is what my family knows. How will we contribute now? What role can we fill in the ecosystem of the Redrak Fields?
+> > What are we, without this place and its bounty? Moreover, what will we do? I am sure the Circle and the labor councils will continue to support us as we transition but … this is what my family knows. How will we contribute now? What role can we fill in the ecosystem of the Redrak Fields?
 
-Rala is welcomes the party's thoughts on the matter, though if none immediately present themselves, he nods to the party, and returns to aiding his family in the cleanup efforts.
+Rala welcomes the party's thoughts on the matter, though if none immediately present themselves, he nods to the party, and returns to aiding his family in the cleanup efforts.
 
 ### Concluding the Event
 

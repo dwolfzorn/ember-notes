@@ -36,7 +36,7 @@ The Burnished Hand Protector stationed outside the entrance of Veneration Hall i
 >
 > Level 5 · Human Protector
 >
-> ![Burnished Hand Protector](../../../assets/image026.webp)
+> ![Burnished Hand Protector](../../../assets/image027.webp)
 >
 > You regard a heavily-armored Ordani warrior, whose bronze splint mail gleams with a gorgeous russet luster. A symmetrical crimson hand with the roots of an oak tree decorates this soldier's chest piece, and the well-oiled longsword at their side looks poised and ready for action.
 
@@ -165,7 +165,7 @@ Once the party has had ample time for conversation with Steros, read the followi
 > [!quote] Read Aloud
 > With brusque alacrity, Steros stands and dons his helmet.
 >
-> > Well, friends, that concludes our time for now. I look forward to additional consultations in the days and weeks to come. But for now, I have business at the Rusted Fortress that requires some timely attention. Please, return at your leisure to discuss an alliance with our group once you've had ample time to give it some serious consideration.
+> > Well, friends, that concludes our time for now. I look forward to additional consultations in the days and weeks to come. But for now, I have business at the Brass Fortress that requires some timely attention. Please, return at your leisure to discuss an alliance with our group once you've had ample time to give it some serious consideration.
 >
 > The brash young Tolus appears once more, ready to escort you back to the front gate of Veneration Hall. Your egress is swift and without incident.
 
@@ -187,9 +187,9 @@ Following their meeting with Steros, the party is approached by a lower-ranking 
 >
 > If the party is willing to hear his plea, Vance pulls them aside from the main thoroughfare to disclose the precise nature of the plight at hand:
 >
-> - Burnished Hand protectors are assigned daily-to-weekly shifts in various districts of the city as well as stations at the Rusted Fortress on Bura Island. Vance's best mate Ordan was scheduled to relieve Vance here at Veneration Hall three days ago, and Vance doesn't want to get his closest friend in trouble if he can help it.
+> - Burnished Hand protectors are assigned daily-to-weekly shifts in various districts of the city as well as stations at the Brass Fortress on Bura Island. Vance's best mate Ordan was scheduled to relieve Vance here at Veneration Hall three days ago, and Vance doesn't want to get his closest friend in trouble if he can help it.
 > - Ordan keeps an apartment in the neighboring Fallbrook district. If the party is willing to perform a wellness check on Ordan, Vance will pay them  **50** pieces in advance for their effort.
-> - Ordan was seen returning from his shift at the Rusted Fortress by a few other locals, but he wasn't seen leaving his apartment.
+> - Ordan was seen returning from his shift at the Brass Fortress by a few other locals, but he wasn't seen leaving his apartment.
 > - Vance and Ordan have been best friends since childhood, the kind of pure and honest camaraderie that is often hard to find.
 >
 > Any character who succeeds on a **Deception (DC 11)** check can determine that Vance's words are authentic, and that his concern for Ordan and his livelihood are sincere.

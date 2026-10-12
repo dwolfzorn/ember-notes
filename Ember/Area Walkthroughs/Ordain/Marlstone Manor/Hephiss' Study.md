@@ -37,7 +37,7 @@ tags: [ember, area-walkthroughs]
 >
 > Level 1 · Unknown Unknown
 >
-> ![Wandren Patroller](../../../assets/image050.webp)
+> ![Wandren Patroller](../../../assets/image051.webp)
 
 > [!danger] Hazard
 > #### Confrontation with the Guard

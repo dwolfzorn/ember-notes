@@ -9,8 +9,9 @@ Usage:
     python convert.py --input Crucible.resolved --output Ember.vault --source Crucible [--clean]
 
 Each --source gets its own top-level folder (with its own assets/ and
-_Index.md) inside the shared --output vault. --clean only wipes that
-source's folder, leaving the other source untouched.
+_Index.md) inside the shared --output vault. --clean only removes that
+source's generated notes and assets, leaving hand-written notes (anything
+without a `journal:` frontmatter key) and the other source untouched.
 
 Re-runnable: drop a fresh export folder in as --input and regenerate.
 """
@@ -385,32 +386,37 @@ def yaml_str(value: str) -> str:
     return f'"{escaped}"'
 
 
-def write_page(out_path: Path, page_name: str, journal_name: str, category_tag: str,
-                source_uuid: str, body_md: str):
+def write_text(path: Path, content: str):
+    # Always LF, so output is byte-identical on every OS.
+    path.write_text(content, encoding='utf-8', newline='\n')
+
+
+def write_page(out_path: Path, page_name: str, journal_name: str, source_tag: str,
+               category_tag: str, source_uuid: str, body_md: str):
     fm = [
         '---',
         f'title: {yaml_str(page_name)}',
         f'journal: {yaml_str(journal_name)}',
         f'source_uuid: {yaml_str(source_uuid)}',
-        'type: ember.lore',
-        f'tags: [ember, {category_tag}]',
+        f'type: {source_tag}.lore',
+        f'tags: [{source_tag}, {category_tag}]',
         '---',
         '',
         f'# {page_name}',
         '',
     ]
     content = '\n'.join(fm) + '\n' + body_md
-    out_path.write_text(content, encoding='utf-8')
+    write_text(out_path, content)
 
 
 def write_journal_index(folder: Path, entity_name: str, journal_name: str,
-                         category_tag: str, page_links: list):
+                        source_tag: str, category_tag: str, page_links: list):
     fm = [
         '---',
         f'title: {yaml_str(entity_name)}',
         f'aliases: [{yaml_str(entity_name)}]',
         f'journal: {yaml_str(journal_name)}',
-        f'tags: [ember, {category_tag}, index]',
+        f'tags: [{source_tag}, {category_tag}, index]',
         '---',
         '',
         f'# {entity_name}',
@@ -424,8 +430,7 @@ def write_journal_index(folder: Path, entity_name: str, journal_name: str,
         else:
             fm.append(f'- [[{link}]]')
     fm.append('')
-    out_path = folder / f'_{entity_name}.md'
-    out_path.write_text('\n'.join(fm), encoding='utf-8')
+    write_text(folder / f'_{entity_name}.md', '\n'.join(fm))
 
 
 def build_root_index(source_root: Path, source_name: str, journals: list):
@@ -458,7 +463,7 @@ def build_root_index(source_root: Path, source_name: str, journals: list):
         '',
     ]
     lines.extend(render_tree(tree, 2))
-    (source_root / '_Index.md').write_text('\n'.join(lines).rstrip() + '\n', encoding='utf-8')
+    write_text(source_root / '_Index.md', '\n'.join(lines).rstrip() + '\n')
 
 
 def write_readme(output_dir: Path):
@@ -496,22 +501,61 @@ just that source:
 python convert.py --input <new export folder> --output Ember.vault --source Ember --clean
 ```
 
-`--clean` removes only that source's previous folder (and its assets)
+`--clean` removes only that source's previously generated notes (and its assets)
 before regenerating, so it stays in sync with the new export without
 touching other sources. The conversion is deterministic, so re-running
 with the same input produces identical output.
 """
     readme_path = output_dir / 'README.md'
     if not readme_path.exists():
-        readme_path.write_text(content, encoding='utf-8')
+        write_text(readme_path, content)
+
+
+FRONTMATTER_RE = re.compile(r'\A---\r?\n(.*?)\r?\n---', re.S)
+
+
+def is_generated_note(path: Path, source_root: Path) -> bool:
+    """True for notes this script writes: the source's root _Index.md, plus every page and
+    journal index (all of which carry a `journal:` frontmatter key). Hand-written notes in the
+    vault never have that key, so --clean leaves them alone."""
+    if path == source_root / '_Index.md':
+        return True
+    try:
+        text = path.read_text(encoding='utf-8')
+    except (OSError, UnicodeDecodeError):
+        return False
+    m = FRONTMATTER_RE.match(text)
+    return bool(m and re.search(r'^journal:', m.group(1), re.M))
+
+
+def clean_source(source_root: Path) -> int:
+    """Remove this source's generated notes and assets/, keeping hand-written notes and any
+    folder that still contains one. Returns the number of hand-written notes kept."""
+    kept = 0
+    for path in sorted(source_root.rglob('*.md')):
+        if path.is_relative_to(source_root / 'assets'):
+            continue
+        if is_generated_note(path, source_root):
+            path.unlink()
+        else:
+            kept += 1
+    shutil.rmtree(source_root / 'assets', ignore_errors=True)
+    # Deepest first, so a folder emptied of its subfolders is removed too.
+    for folder in sorted((p for p in source_root.rglob('*') if p.is_dir()),
+                         key=lambda p: len(p.parts), reverse=True):
+        if not any(folder.iterdir()):
+            folder.rmdir()
+    return kept
 
 
 def convert(input_dir: Path, output_dir: Path, source: str, clean: bool):
     source_name = sanitize(source)
+    source_tag = slugify_tag(source_name)
     source_root = output_dir / source_name
 
+    kept = None
     if clean and source_root.exists():
-        shutil.rmtree(source_root)
+        kept = clean_source(source_root)
     source_root.mkdir(parents=True, exist_ok=True)
 
     journals = load_journals(input_dir)
@@ -547,6 +591,7 @@ def convert(input_dir: Path, output_dir: Path, source: str, clean: bool):
                 folder / f'{filename}.md',
                 page_name=page_name,
                 journal_name=j['name'],
+                source_tag=source_tag,
                 category_tag=category_tag,
                 source_uuid=j['uuid'],
                 body_md=body_md,
@@ -554,7 +599,7 @@ def convert(input_dir: Path, output_dir: Path, source: str, clean: bool):
             page_links.append((filename, page_name))
             total_pages += 1
 
-        write_journal_index(folder, entity_name, j['name'], category_tag, page_links)
+        write_journal_index(folder, entity_name, j['name'], source_tag, category_tag, page_links)
 
     build_root_index(source_root, source_name, journals)
     write_readme(output_dir)
@@ -575,6 +620,8 @@ def convert(input_dir: Path, output_dir: Path, source: str, clean: bool):
     print(f'Pages:           {total_pages}')
     print(f'Image embeds:    {total_images}')
     print(f'Assets copied:   {n_assets}')
+    if kept is not None:
+        print(f'Hand-written:    {kept} kept')
     print(f'Output:          {source_root}')
 
 
@@ -583,7 +630,7 @@ def main():
     parser.add_argument('--input', required=True, help='Path to the resolved export folder (contains journals/ and assets/)')
     parser.add_argument('--output', default='Ember.vault', help='Path to write the Obsidian vault')
     parser.add_argument('--source', required=True, help='Name of this source\'s top-level folder within the vault (e.g. Ember or Crucible)')
-    parser.add_argument('--clean', action='store_true', help='Remove this source\'s folder before generating')
+    parser.add_argument('--clean', action='store_true', help='Remove this source\'s previously generated notes and assets first (hand-written notes are kept)')
     args = parser.parse_args()
 
     convert(Path(args.input), Path(args.output), args.source, args.clean)

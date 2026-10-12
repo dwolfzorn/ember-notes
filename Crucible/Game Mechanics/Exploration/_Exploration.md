@@ -2,7 +2,7 @@
 title: "Exploration"
 aliases: ["Exploration"]
 journal: "Game Mechanics / Exploration"
-tags: [ember, game-mechanics, index]
+tags: [crucible, game-mechanics, index]
 ---
 
 # Exploration

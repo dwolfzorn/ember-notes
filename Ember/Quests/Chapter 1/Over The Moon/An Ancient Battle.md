@@ -28,7 +28,7 @@ In this Event, the party faces a Writhing Whisperer, a terrible abyssal monster 
 >
 > Level 6 (Elite) · Abyssal Harbinger Whisperer
 >
-> ![Writhing Whisperer](../../../assets/image069.webp)
+> ![Writhing Whisperer](../../../assets/image070.webp)
 >
 > Ever shifting and reshaping itself, producing new limbs as quickly as it retracts existing ones, occasionally you glimpse flickers of stars and lights swirling around under the surface, but they are always consumed by blackness a moment later.
 >
@@ -53,7 +53,7 @@ Shortly after the Whisperer is slain, the projection of Mioroth faintly appears,
 >
 > Level 18 (Boss) · Memory Shent Seer
 >
-> ![Mioroth](../../../assets/image088.webp)
+> ![Mioroth](../../../assets/image098.webp)
 >
 > Appearing as if from legends, a ghostly, semi-transparent, colossal figure looms over you even as he sits with his legs crossed. He is serene, calm, and intangible, as if made of pure energy and flickering strands of light. Shadows and motes of magic constantly evaporate from his body, and his only constant is his wise and gentle smiling expression. He looks faintly like a Kivahr, but as if carved from stone, with heavy brows, long limbs, and a muscular frame. The clothing he wears matches no recognizable style.
 

@@ -23,7 +23,7 @@ The Primordial Bastion is likely not its true name, as it is a structure of trul
 > [!warning] Gamemaster
 > #### Gamemaster's Summary
 >
-> This location exists at ⬢ s.3210.2886 in the [[Fogbound Caverns]], west of the [[Lake of Whispers]].
+> This location exists at ⬢ p.3210.2886 in the [[Fogbound Caverns]], west of the [[Lake of Whispers]].
 >
 > - This location is featured in the [[To Fall and Fall Again]] Side Quest.
 

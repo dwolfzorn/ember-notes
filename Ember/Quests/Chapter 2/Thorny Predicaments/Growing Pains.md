@@ -77,10 +77,9 @@ The movement of the vines on the canyon walls is due to the presence of 2 Gumtoa
 >
 > Level 2 · Gumtoad Chomper
 >
-> ![Gumtoad](../../../assets/image169.webp)
+> ![Gumtoad](../../../assets/image199.webp)
 >
-> > [!quote] Read Aloud
-> > The squat and colorful skin of bulk of these colorful frog-like amphibians is deceiving - while they might seem to be nothing more than odd decoration stuck to the canyon walls by their sticky skin, their long prehensile tongues dart back and forth, readying to shoot out and wrap themselves around the gumtoad's next unsuspecting target.
+> The squat and colorful skin of bulk of these colorful frog-like amphibians is deceiving - while they might seem to be nothing more than odd decoration stuck to the canyon walls by their sticky skin, their long prehensile tongues dart back and forth, readying to shoot out and wrap themselves around the gumtoad's next unsuspecting target.
 
 > [!danger] Hazard
 > #### Ambush!
@@ -89,21 +88,18 @@ The movement of the vines on the canyon walls is due to the presence of 2 Gumtoa
 >
 > #### Gumtoad Tactics
 >
-> TODO; RECONVERT AFTER ACTOR CREATED
+> The Gumtoads in Bramble Gully attack any creature that moves within range of their tongue attack (30 feet). If choosing between targets, Gumtoads favor creatures of Small or Medium size, which they believe are easier for them to grapple.
 >
-> The Gumtoads in Bramble Gully attack any creature that moves within range of their tongue attack (30 feet). If they see a creature moving 30-60 feet ahead of them, they will attempt to close the distance by jumping toward the target with their [[Standing Leap]]. If choosing between targets, Gumtoads favor creatures of Small or Medium size, which they believe are easier for them to grapple.
->
-> Once Gumtoads have selected a target, they use their very long [[Barbed Tongue]] to grab at members of the party — once the gumtoad has successfully used it to grapple a target, they can either pull the creature toward them with [[Tongue Pull]] or propel themselves onto the target from a distance with [[Tongue Boomerang]].
+> Once Gumtoads have selected a target, they use their very long [[Barbed Tongue]] to grab at members of the party — once the gumtoad has successfully used it to grapple a target, they can either pull the creature toward them with [[Barbed Tongue]] or propel themselves onto the target from a distance with [[Barbed Tongue]].
 
 > [!abstract] Sarracenias
 > **[[Sarracenias]]**
 >
-> Level 2 · Sarracenias Constrictor
+> Level 6 (Elite) · Sarracenias Constrictor
 >
-> ![Sarracenias](../../../assets/image170.webp)
+> ![Sarracenias](../../../assets/image200.webp)
 >
-> > [!quote] Read Aloud
-> > What at first glance seems to be a pile of plant debris spread across the ground moves, ever so slightly, at the hint of nearby motion, waiting for an opportunity to strike. Beneath the green and purple mass that blends into the scenery around it, its vines are ready to snatch up any who come too close and draw them into its waiting hungry maw.
+> What at first glance seems to be a pile of plant debris spread across the ground moves, ever so slightly, at the hint of nearby motion, waiting for an opportunity to strike. Beneath the green and purple mass that blends into the scenery around it, its vines are ready to snatch up any who come too close and draw them into its waiting hungry maw.
 
 > [!danger] Hazard
 > #### Ambush!
@@ -114,7 +110,7 @@ The movement of the vines on the canyon walls is due to the presence of 2 Gumtoa
 >
 > Sarracenias will attack any creature that is not currently grappled by or attached to another creature, and is within the 15-foot range of its Grasping Vines. Sarracenias prefer not to move if at all possible; if creatures move out of their range successfully, they will stay where they are instead of pursuing their prey.
 >
-> The Sarracenias primarily uses its [[Grasping Vines]] to drag creatures into its digestive sacs. The Sarracenias has several sacs, and can [[Engulf]] a new creature every other round.
+> The Sarracenias primarily uses its [[Ensnare]] to drag creatures into its digestive sacs. The Sarracenias has several sacs, and can [[Swallow]] a new creature every other round.
 
 ### Climbing to the Ledge
 
@@ -128,12 +124,11 @@ Once on the far side of the canyon, Edivel points out the location of the bush t
 > [!abstract] Ketral
 > **[[Ketral]]**
 >
-> Level 1 · Ketral Pack Member
+> Level 2 · Ketral Pack Member
 >
-> ![Ketral](../../../assets/image146.webp)
+> ![Ketral](../../../assets/image176.webp)
 >
-> > [!quote] Read Aloud
-> > The small creature has a dark rocky skin and mane, barely distinguishable from a pile of rocks or sodden earth beyond its glowing yellow eyes and sharpened claws. Its teeth, though small, seem to crowd its mouth, bared and ready to strike at anything that comes within their reach.
+> The small creature has a dark rocky skin and mane, barely distinguishable from a pile of rocks or sodden earth beyond its glowing yellow eyes and sharpened claws. Its teeth, though small, seem to crowd its mouth, bared and ready to strike at anything that comes within their reach.
 
 > [!danger] Hazard
 > #### Ambush!
@@ -144,19 +139,18 @@ Once on the far side of the canyon, Edivel points out the location of the bush t
 >
 > Ketral will only attack creatures who come within 5 feet of whatever position they currently hold, but attempt to anticipate where creatures will move next; once a creature is within 40 feet of them, they will burrow through rock and ground to move into the creatures' most likely path without being seen.
 >
-> Ketral work in packs, with one or two members of the pack situating themselves in a crack or crevice in a stony wall and striking out with their [[Bite]] or [[Claws]] in a [[Surprise Attack]]. If the moon Cora is at its height, these attacks are more dangerous, as noted in [[Lunar Attack]].
+> Ketral work in packs, with one or two members of the pack situating themselves in a crack or crevice to take advantage of [[Pack Hunter]]. Manipulating the terrain to their advantage to attack from a stony wall and strike out with their [[Bite]] or [[Claws]] in a surprise attack. If the moon Cora is at its height, these attacks are more dangerous.
 >
-> Additional Ketral wait in a nearby cavern; if their prey chases them into the cavern, they can take advantage of their [[Pack Tactics]], working together with others of their pack.
+> Additional Ketral wait in a nearby cavern; if their prey chases them into the cavern, they can take advantage of their [[Pack Hunter]] talent, working together with others of their pack.
 
 > [!abstract] Swarm of Cave Wasps
 > **[[Swarm of Cave Wasps]]**
 >
 > Level 0.5 · Cave Wasp Swarm
 >
-> ![Swarm of Cave Wasps](../../../assets/image171.webp)
+> ![Swarm of Cave Wasps](../../../assets/image201.webp)
 >
-> > [!quote] Read Aloud
-> > In dark caves and shadowy canyon corners, a whirring sound is often your only warning before your light extinguishes, swarmed by the cave wasps that wait in crevices and corners, following any source of light that passes by to claim it for their own.
+> In dark caves and shadowy canyon corners, a whirring sound is often your only warning before your light extinguishes, swarmed by the cave wasps that wait in crevices and corners, following any source of light that passes by to claim it for their own.
 
 > [!danger] Hazard
 > #### Cave Wasp Attack

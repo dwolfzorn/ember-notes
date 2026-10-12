@@ -37,14 +37,14 @@ As combat begins, read or paraphrase the following:
 >
 > Level 1 · Unknown Unknown
 >
-> ![Pale Whisperer](../../../assets/image188.webp)
+> ![Pale Whisperer](../../../assets/image218.webp)
 
 > [!abstract] Pale Whisperer Tendril
 > **[[Pale Whisperer Tendril]]**
 >
 > Level 1 · Unknown Unknown
 >
-> ![Pale Whisperer Tendril](../../../assets/image189.webp)
+> ![Pale Whisperer Tendril](../../../assets/image219.webp)
 
 Unlike the [[Writhing Whisperer]] in [[An Ancient Battle]] during [[Over The Moon]], this monster is not interested in communication or dialogue with the party. It attacks immediately, surging from the water and surprising the party.
 
@@ -56,7 +56,7 @@ If the party encountered the previous Whisperer during that Event, read this add
 > [!danger] Hazard
 > #### Abyssal Intrusion
 >
-> Conversely, if this is the first time the party has made contact with a Whisperer, the encounter has an immediate deleterious effect on the minds of the party. Each character must make a `[[/save wis 16]]` saving throw as the Whisperer makes telepathic contact with them and begins to weave itself into their minds. On a failure, the character suffers a single effect from the [[Minor Abyssal Madness]] table.
+> Conversely, if this is the first time the party has made contact with a Whisperer, the encounter has an immediate deleterious effect on the minds of the party. Each character must face **Formless Whispers (Hazard 8)**, as the Whisperer makes telepathic contact with them and begins to weave itself into their minds. On a failure, the character suffers a single effect from the [[Minor Abyssal Madness]] table.
 
 If the party spends any action or time trying to identify the Whisperer they will be unable to learn anything of note — the being defies all attempts to identify or understand it.
 
@@ -83,7 +83,7 @@ The Whisperer is intelligent, and well versed in fighting mortals — it is like
 > During combat:
 >
 > - The Whisperer uses [[Abyssal Whip]] whenever available, attempting to drag creatures close.
-> - If possible, it will attempt to whip and drag creatures &Reference[Prone] before attacking, in order to grant it **Advantage** with its [[Shadow Tendril]] attack.
+> - If possible, it will attempt to whip and drag creatures @Condition[Prone] before attacking, in order to grant it @**Advantage[[2]]** with its [[Shadow Tendril]] attack.
 > - Its [[Abyssal Whispers]] Legendary Action can be used to draw enemies closer, and should target the farthest enemies on the battlefield. Its guaranteed damage is also effective at downing already weak enemies — something the Whisperer is intelligent enough to do.
 > - Its [[Grasping Form]] Legendary Action can be used to hold nearby enemies in place. This is especially useful if the Whisperer has dragged primarily-ranged combatants into close range. It also prevents wounded characters from fleeing to (relative) safely.
 >

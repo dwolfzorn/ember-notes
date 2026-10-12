@@ -35,8 +35,8 @@ tags: [ember, area-walkthroughs]
 > [!danger] Hazard
 > #### Explosive Hazard
 >
-> Characters that noticed the fuel tank on the construct can attack that fuel tank to cause it to explode.Those who do at least 10 damage with attacks against the specific target of the fuel tank cause the fuel tank to explode in a 20ft area centered on the construct. Those caught in the blast suffer **Shrapnel Blast (Hazard 9, Fortitude, Health, Piercing)**.
+> Characters that noticed the fuel tank on the construct can attack that fuel tank to cause it to explode.Those who do at least 10 damage with attacks against the specific target of the fuel tank cause the fuel tank to explode in a 20ft area centered on the construct. Those caught in the blast suffer **Shrapnel Blast (Hazard 9)**.
 >
-> If the tank is destroyed by an attack or spell that deals lightning or fire damage the tank explodes more violently and in a larger area. This creates a 40ft area centered on the construct , anyone caught in this area suffer **Shrapnel… (Hazard 9, Fortitude, Health, Piercing)****…Flaming Sharpnel (Hazard 9, Fortitude, Health, Piercing)**
+> If the tank is destroyed by an attack or spell that deals lightning or fire damage the tank explodes more violently and in a larger area. This creates a 40ft area centered on the construct , anyone caught in this area suffer **Shrapnel… (Hazard 9)****…Flaming Sharpnel (Hazard 9)**
 >
 > .

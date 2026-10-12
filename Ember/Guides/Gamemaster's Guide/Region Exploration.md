@@ -32,7 +32,7 @@ A hex's Biome can be viewed by hovering over the ​​ icon in the Hex HUD. Eac
 
 Optionally, a hex may also contain a special Location, the name of which can be viewed by hovering over the ​​ icon in the Hex HUD. Locations are places with specific prewritten lore and gameplay — you can learn more about them in the [[Region Exploration]] section below.
 
-Hexes can have one of eight different Terrain types, the basic four of which simply modify the Land movement speed of your party when moving through that hex — an explanation party movement speeds can be found in the Party Movement section below.
+Hexes can have one of eight different Terrain types, the basic four of which simply modify the Land movement speed of your party when moving through that hex — an explanation of party movement speeds can be found in the Party Movement section below.
 
 | **Basic Terrain Types** | **Land Movement Speed Per Hour** |
 | --- | --- |
@@ -61,7 +61,7 @@ Canyons Terrain is used to classify special hexes that feature deep elevation re
 
 You can also view the Terrain of the Region Map by toggling on the Terrain Overlay by clicking the ​​ icon in the Scene Controls interface element found on the left side of the screen.
 
-When this overlay is active, it displays a legend of Biomes and Terrain types in the world, each with an associated are coded by color or texture displayed on the Region Map. Impassable edges between hexes are also depicted with solid black lines.
+When this overlay is active, it displays a legend of Biomes and Terrain types in the world, each coded by a color or texture displayed on the Region Map. Impassable edges between hexes are also depicted with solid black lines.
 
 ## Locations
 
@@ -71,6 +71,19 @@ Most Locations are initially undiscovered — meaning that they do not appear in
 
 1. You can encounter the Location directly by traveling to a hex where that location exists. When you enter a hex with a location, it is discovered automatically before any additional narrative events occur.
 2. The Gamemaster can individually mark locations as discovered using a button found at the top of each Gazetteer page or on the location view in [[The Codex]].
+
+## Map Fragments
+
+**Map Fragments** are hand-drawn sections of the Region Map which overlay the Fog of War to provide general awareness of the nearby terrain and geography. Map Fragments are displayed atop unexplored Fog of War, similar to a traveler's map by which a caravan would navigate the world. Map Fragments are automatically discovered and revealed in one of two ways:
+
+1. The party explores close enough to enter or directly see any hex the fragment covers.
+2. The party completes certain [[Quests and Events]] which describe that area.
+
+## Direction Markers
+
+Quest progression is often tied to exploration of the Region Map. When an Event tells the party where to find something, such as a village to visit, a ruin to investigate, or an ally to meet, a **Direction Marker** appears at that place on the Region Map.
+
+The marker may indicate a specific hex, or a general area where the exact location is uncertain. Direction Markers are drawn above the Fog of War, so they point the way through unexplored territory. A Direction Marker disappears once the location or event that it indicated has been discovered or encountered. Markers show where to go, but not the route to travel to get there.
 
 ## Region Levels
 
@@ -128,7 +141,7 @@ You move extremely quickly at 2× your party's normal speed. While moving this w
 Actions you take in Ember cause time to progress in the game world. The passage of time can have a number of important consequences:
 
 - **Triggered Events:** Whenever time passes, there is a probabilistic chance of triggering an Event. The ensuing Event could be beneficial, harmful, or both, and will typically involve social interaction, combat encounters, and/or exploration challenges.
-- **Branching Quests:** Some Quests in Ember depend on how quickly you reach a specific Event along that Quest. The clock is always ticking; how you choose to spend your time may effect the outcome or availability of Events within current and future Quests.
+- **Branching Quests:** Some Quests in Ember depend on how quickly you reach a specific Event along that Quest. The clock is always ticking; how you choose to spend your time may affect the outcome or availability of Events within current and future Quests.
 - **Miscellaneous:** Time passing can also have other minor effects, such as the movement and evolution of [[Weather]] on the Region Map.
 
 For this reason, it's important to understand what exactly causes time to pass:
@@ -148,12 +161,10 @@ Every hex on the map has a certain visibility distance, which defines the number
 
 These restricted movement and visibility edges between hexes are visualized in the Terrain Overlay, which can be toggled on via the ​​ icon in the Scene Controls interface element found on the left side of the screen.
 
+**Shared Fog of War**
+
+Fog of War exploration is shared between all players, representing collective discovery and memory of where the party has traveled.
+
 **Vantage Points**
 
 A Vantage Point is a special and rarely-encountered location or interactable object within the game world which has the effect of revealing a large area of Fog of War on the Region Map. Vantage Point reveals might happen as a result of certain Event outcomes, or as a byproduct of interacting with certain [[Area Maps]] during exploration of an Area Map.
-
-#### Shared Fog of War (Work In Progress)
-
-For the time being, all players (and the Gamemaster) have their own independent copies of Fog of War exploration, meaning that the duly revealed areas are not guaranteed to be synchronized across all players.
-
-The Fog of War exploration will be appropriately synchronized when all players are actively connected to the game server; but if a player is either absent for a session or disconnects during a session, they can miss moments of exploration — which will result in the fog of those areas not being revealed for them. This is a temporary limitation, and one objective for us during our continued development of Ember is to eventually feature a fully-synchronized Fog of War system for all players.

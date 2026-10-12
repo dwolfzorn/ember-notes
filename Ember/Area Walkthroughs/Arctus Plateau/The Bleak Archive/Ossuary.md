@@ -20,7 +20,7 @@ The skeletal remains here consist of the scattered bones of unnamed Abyssal here
 > [!danger] Hazard
 > #### Heretical Remains
 >
-> Any character who disturbs the bones here suffers **Ghostly Miasma (Hazard 8, Willpower, Morale, Void)**.
+> Any character who disturbs the bones here suffers **Ghostly Miasma (Hazard 8)**.
 
 The remains are horribly decomposed and mostly crumbling into bone dust, however the ossuary compartments do contain some forgotten baubles.
 

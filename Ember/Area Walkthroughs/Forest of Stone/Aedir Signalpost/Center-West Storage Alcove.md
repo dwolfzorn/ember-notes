@@ -25,7 +25,7 @@ The paper on top of the storage crate is Bejai's "Final Tower Storage" list, whi
 >
 > Additionally, characters may attempt to use Remel's sketches to figure out more about the list. She has drawn the following sketches:
 >
-> 1. A small golden-brown abstract head with glowing eyes. Any character who makes a successful **`[[/skillCheck social 14]]`** check connects this with the metal constructs that the Aedir Empire was known to use in its structures.
+> 1. A small golden-brown abstract head with glowing eyes. Any character who makes a successful **Society (DC 14)** check connects this with the metal constructs that the Aedir Empire was known to use in its structures.
 > 2. A battery filled with a liquid of some kind. Any character who makes a successful **Awareness (DC 14)** check recalls that the power in the tower is connected to a fluid of some kind.
 >
 > When making any of the above checks:

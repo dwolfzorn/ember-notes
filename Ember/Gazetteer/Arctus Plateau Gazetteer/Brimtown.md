@@ -18,22 +18,22 @@ Brimtown serves as a dusty, salt-of-the-earth threshold to the grander city belo
 > [!info] Social
 > #### At a Glance
 >
-> - **Settlement Type**: Arcturel District
-> - **Size**: Small (120–200)
-> - **Primary Cultures**: **Culture: Arcturian**
-> - **Predominant Ancestries**: **Ancestry: Human**, **Ancestry: Hulg'run**, **Ancestry: Keth**, **Ancestry: Fej**, and **Ancestry: Kiska**
+> - **Settlement Type:** Arcturel District
+> - **Size:** Small (120–200)
+> - **Primary Cultures:** **Culture: Arcturian**
+> - **Predominant Ancestries:** **Ancestry: Human**, **Ancestry: Hulg'run**, **Ancestry: Keth**, **Ancestry: Fej**, and **Ancestry: Kiska**
 > - **Languages:** **Language: Common**, **Language: Arcden**
 > - **Religion:** No central religion; household worship; common reverence for Lantyr
 > - **Governance:** A loose trade alliance of local businesses
 > - **Architecture:** Practical; homes, businesses, and mines are built within whatever space is available to them, using whatever materials are immediately available
 > - **Economy:** Trade of [[Inkaro Pearl, White]], ores, and minerals
-> - **Organizations**: [[House Cevher]]; Inkaro Lamplighters; Silver Beam Consortium
+> - **Organizations:** [[House Cevher]]; Inkaro Lamplighters; Silver Beam Consortium
 
 ## Landmarks
 
 Only a few hardy citizens make Brimtown their home, maintaining some of the barns, storage sheds, and barns that define the outpost district on the edge of Arcturel. Many workers live within Arcturel nearby instead, choosing to commute to Brimtown and earn a living helping caravaners, loading goods and tending to beasts of burden.
 
-**The Emberstone Beacon Watchtower**
+**The Emberstone BeaconWatchtower**
 
 This lone watchtower is built into the remains of a desiccated tree at the sinkhole's edge. Home to a small family known as the Brimtown Watchers, they keep a keen eye on Arcturel's surroundings and help caravans find their way to the city after dark.
 
@@ -41,7 +41,7 @@ This lone watchtower is built into the remains of a desiccated tree at the sinkh
 
 A ramshackle waystation near the sinkhole’s edge that hosts a tavern alongside an assortment of stables. In recent years, The Edge has desperately tried to shed its grim interior with a makeover and market itself to higher-paying customers, but it has yet to achieve lasting success. It is owned and operated by a congenial woman named Onsi Urganzi.
 
-**## Characters of Interest**
+## Characters of Interest
 
 ****Onsi Urganzi**Neutral Good, Arcturian Human, she/her**
 

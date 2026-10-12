@@ -39,7 +39,7 @@ As the party follows the trail further north through the long valley west of Sky
 >
 > If the characters spend at least 10 minutes in this location but do not voluntarily decide to take a Rest, they find themselves involuntarily setting down their packs and reclining amidst the wild meadow.
 >
-> Each character is so transfixed by the scene that they do not notice others in their company drifting off into a gentle sleep. Each party member faces a **Hazard 2 (Willpower, Morale, Psychic)** , and if they fail to resist, they fall asleep. Characters who succeed on fall into a daydream instead, unaware of the dozing of others. This torpor lasts for `[[/gmroll 1d4 # Hours of sleep]]` hours.
+> Each character is so transfixed by the scene that they do not notice others in their company drifting off into a gentle sleep. Each party member faces a **Hazard 2** , and if they fail to resist, they fall asleep. Characters who succeed on fall into a daydream instead, unaware of the dozing of others. This torpor lasts for `[[/gmroll 1d4 # Hours of sleep]]` hours.
 >
 > At first the dreams are pleasant, but any sleeping character who has not yet experienced a nightmare of Nethehepticas eventually experiences one of the dreams described in the [[Night Terrors]] Event.
 

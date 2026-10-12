@@ -32,7 +32,7 @@ If the party arrives the same day as Ill Tidings, or investigates another locati
 >
 > Level 12 (Boss) · Cor'ak Sorcerer
 >
-> ![Serethus](../../../assets/image135.webp)
+> ![Serethus](../../../assets/image165.webp)
 >
 > Tall and imposing, with a strong, bulky frame typical of the Cor'ak, this man's brown and tan are accented by splashes of vibrant purple. Long, purple horns that frame his head in a regal yet intimidating manner. His teal eyes are striking and seem to pierce through those he engages with. His robes are bright and vibrant, in Ordani fashion, and draped with glittering gems of all shapes and sizes.
 
@@ -45,6 +45,18 @@ If the party arrives the same day as Ill Tidings, or investigates another locati
 >
 > He immediately walks off toward the group, clearly expecting you to follow.
 
+`[[/outcome joinedSerethus]]`
+
+#### Akon Attunement: Met with Serethus
+
+If the party completes the investigation at Lilifeld Station with Serethus present at the scene, each character advances their **Attunement: Akon (+1)** at the conclusion of the event.
+
+`[[/outcome missedSerethus]]`
+
+#### Aura Attunement: Missed Serethus
+
+If the party completes the investigation at Lilifeld Station without Serethus, each character advances their **Attunement: Aura (+1)** at the conclusion of the event.
+
 ### A Round of Introductions
 
 > [!abstract] Eamon Mariflor
@@ -52,16 +64,16 @@ If the party arrives the same day as Ill Tidings, or investigates another locati
 >
 > Level 8 · Hulg'run Agrimage
 >
-> ![Eamon Mariflor](../../../assets/image109.webp)
+> ![Eamon Mariflor](../../../assets/image136.webp)
 >
-> Before you stands a short figure with dusky, gray hair shimmering with tiny magical stars and crescent moons. Glowing orange lines coil up his arms and over his face, making his skin look like a bed of cooling lava. His amber eyes seem to always glint with keen interest, and his wide, sharp-toothed smile is overtly friendly. He is dressed practically, and wears the mark of the Redrak Agrimage Circle pinned to his coat. He moves with lively energy.
+> Before you stands a short figure with dusky gray hair that shimmers with tiny magical stars and crescent moons. Glowing orange lines coil up his arms and over his face, making his skin look like a bed of cooling lava. His amber eyes seem to always glint with keen interest, and his wide, sharp-toothed smile is overtly friendly. He is dressed practically, and wears the mark of the Redrak Agrimage Circle pinned to his coat. He moves with lively energy.
 
 > [!abstract] Del Kalais
 > **[[Del Kalais]]**
 >
 > Level 1 · Unknown Unknown
 >
-> ![Del Kalais](../../../assets/image136.webp)
+> ![Del Kalais](../../../assets/image166.webp)
 
 > [!info] Social
 > #### Eamon Mariflor
@@ -231,13 +243,7 @@ If the party agrees to do the work, they can, but they won't find anything usefu
 >
 > The party can stop doing this research at any time, there is no penalty for doing so, and no benefit to finishing it.
 
-#### Akon Attunement: Met with Serethus
-
-If the party completes the investigation at Lilifeld Station with Serethus present at the scene, each character advances their **Attunement: Akon (+1)** at the conclusion of the event.
-
-#### Aura Attunement: Missed Serethus
-
-If the party completes the investigation at Lilifeld Station without Serethus, each character advances their **Attunement: Aura (+1)** at the conclusion of the event.
+`[[/outcome examinedRecords]]`
 
 ### Concluding the Event
 

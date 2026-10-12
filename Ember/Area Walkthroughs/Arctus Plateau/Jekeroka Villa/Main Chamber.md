@@ -79,7 +79,7 @@ Once the party returns to the Main Chamber after flipping the switches in the [[
 >
 > Level 1 · Unknown Unknown
 >
-> ![Anachraenum Aetherial](../../../assets/image041.webp)
+> ![Anachraenum Aetherial](../../../assets/image042.webp)
 
 > [!danger] Hazard
 > #### **Anachraenum Aetherial** **Tactics**

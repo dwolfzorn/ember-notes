@@ -31,18 +31,18 @@ Otherwise, the party has at most a moment's warning before …
 >
 > Level 9 (Elite) · Obsidian Vine Constrictor
 >
-> ![Towering Obsidian Vine](../../../assets/image105.webp)
+> ![Towering Obsidian Vine](../../../assets/image132.webp)
 >
-> A glittering tendril of black glass bursts forth from the earth, a thick as a tree trunk and tapering off to the size of a Giant's fist at its tail end, which whips menacingly in the air above you. All down its surface glint obsidian thorns, like the vine of an impossible plant made wholly of black crystal.
+> A glittering tendril of black glass bursts forth from the earth, as thick as a tree trunk and tapering off to the size of a Giant's fist at its tail ends, which whip menacingly in the air above you. Obsidian thorns glint down its surface, resembling the vine of an utterly an impossible plant made wholly of black crystal.
 
 > [!abstract] Obsidian Vine Outgrowth
 > **[[Obsidian Vine Outgrowth]]**
 >
 > Level 6 (Minion) · Obsidian Vine Constrictor
 >
-> ![Obsidian Vine Outgrowth](../../../assets/image106.webp)
+> ![Obsidian Vine Outgrowth](../../../assets/image133.webp)
 >
-> More black vines emerge from the ground around you, these ones only as thick as axeheads and reaching no higher than your waist, but sparkling with the same deadly thorns of finely-pointed obsidian.
+> More black vines emerge from the ground around you, not quite as toweringly tall, but still sparkling with the same deadly thorns of finely-pointed obsidian.
 
 > [!tip] Exploration
 > #### Recognizing the Vines
@@ -136,8 +136,8 @@ At the beginning of each combat round after the first, roll on the following tab
 | 2 | #### Rough Patch  A patch of thin obsidian vines — tiny glass thorns glinting — sprout from the ground in a 15-foot-radius circle around the largest concentration of party members and their allies, before hardening into inert obsidian. This area is considered Difficult Terrain from now on. |
 | 3 | #### Arm and a Tendril  Below a random party member who made a recent melee attack, wrist-thick obsidian vines thrust upward, attempting to pull their weapon away. The character must succeed on an **Athletics (DC 16)** check to dodge the vines or maintain their grip, or else their weapon is pulled from their hands and tossed onto the ground at their feet before the vines retreat back under the surface. |
 | 4 | #### Earthquake  The earth shakes beneath the party's feet. All characters must make a **Athletics (DC 12)** check or be knocked @Condition[Prone]. Characters with underground roots are immune to this effect. |
-| 5 | #### Gravquake  Bizarrely, gravity seems to invert itself for a moment in a 15-foot-radius circle around the largest concentration of party members and their allies, lifting them 5 feet into the air before dropping them. Those affected must succeed on a **Athletics (DC 14)** check to land on their feet, or else suffer an **Unexpected Fall (Hazard 3, Fortitude, Health, Bludgeoning)** damage and be knocked @Condition[Prone]. Any character who makes a successful **Arcana (DC 14)** check or who has **Knowledge: Cosmology** recognizes this as similar to the gravitational disturbances that occur on the moon of [[Cora]]. |
-| 6 | #### Acid Rain  A sudden drizzle of acidic liquid rains down from the sky in a 5-foot-radius circle around the largest concentration of party members and their allies. Affected characters must make a **Athletics (DC 14)** check to duck out of the way, or else suffer **Burning Tar (Hazard 6, Fortitude, Health, Acid)**. Characters who succeed must move out of the radius to gain the benefits of a success — doing so requires no movement action, but does provoke Reactive Strikes as normal. Any character who makes a successful **Arcana (DC 16)** check or who has **Knowledge: Cosmology** recognizes this as similar to foul and corrupt substances that permeate the moon of [[Cora]] due to the influence of the Wild God [[Slinerak]]. |
+| 5 | #### Gravquake  Bizarrely, gravity seems to invert itself for a moment in a 15-foot-radius circle around the largest concentration of party members and their allies, lifting them 5 feet into the air before dropping them. Those affected must succeed on a **Athletics (DC 14)** check to land on their feet, or else suffer an **Unexpected Fall (Hazard 3)** damage and be knocked @Condition[Prone]. Any character who makes a successful **Arcana (DC 14)** check or who has **Knowledge: Cosmology** recognizes this as similar to the gravitational disturbances that occur on the moon of [[Cora]]. |
+| 6 | #### Acid Rain  A sudden drizzle of acidic liquid rains down from the sky in a 5-foot-radius circle around the largest concentration of party members and their allies. Affected characters must make a **Athletics (DC 14)** check to duck out of the way, or else suffer **Burning Tar (Hazard 6)**. Characters who succeed must move out of the radius to gain the benefits of a success — doing so requires no movement action, but does provoke Reactive Strikes as normal. Any character who makes a successful **Arcana (DC 16)** check or who has **Knowledge: Cosmology** recognizes this as similar to foul and corrupt substances that permeate the moon of [[Cora]] due to the influence of the Wild God [[Slinerak]]. |
 
 ### Rala's Concerns
 

@@ -11,7 +11,7 @@ tags: [ember, gazetteer]
 > [!warning] Gamemaster
 > #### Gamemaster's Summary
 >
-> This location exists at ⬢ s.3195.2889 in the [[Mycelian Expanse]], northwest of [[Voidspan Bridge]].
+> This location exists at ⬢ p.3197.2889 in the [[Mycelian Expanse]], northwest of [[Voidspan Bridge]].
 >
 > - This location is featured in the [[Ancient Paths]] Main Quest.
 
@@ -19,7 +19,7 @@ This wide plateau covers a mile of level, elevated land, and has been marked by 
 
 ### Environment
 
-The raise area is no different from the rest of the Myceliean Expanse, though entrance to it is accomplished by way of massive stairs to the south, their scale fit for giants, or via a massive lava tube that winds its way up to the Mthspire Observatory.
+The raised area is no different from the rest of the Mycelian Expanse, though entrance to it is accomplished by way of massive stairs to the south, their scale fit for giants, or via a massive lava tube that winds its way up to the Mythspire Observatory.
 
 ### Ecology
 
@@ -27,4 +27,4 @@ While the cleared and built up space remains largely undisturbed, nature is slow
 
 ### Lore
 
-This overlook was a brief stopping point for the migrations to the surface by the ancient Giants, where they first breached the surface of Ember and saw the skies for the first time. This is now a small area where visitors from the surface are able to take in the enormity of the Pathways and their vast underground caverns. Its commanding view of the space also make it good for spotting landmarks and plotting courses through the gloom.
+This overlook was a brief stopping point for the migrations to the surface by the ancient Giants, where they first breached the surface of Ember and saw the skies for the first time. This is now a small area where visitors from the surface are able to take in the enormity of the Pathways and their vast underground caverns. Its commanding view of the space also makes it good for spotting landmarks and plotting courses through the gloom.

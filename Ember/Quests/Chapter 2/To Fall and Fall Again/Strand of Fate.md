@@ -31,8 +31,8 @@ Verdal believes the party has come with news about the missing Aberin Lowd. Verd
 >
 > Though Verdal's task leaves them with little time to talk, the party may extend their conversation with Verdal multiple ways, in which case they instead have [[Strand of Fate]] below:
 >
-> - `[[/check athletics 15]]` to help Verdal carry the crate.
-> - `[[/check persuasion 15]]` to convince Verdal to stop and put the crate down.
+> - **Athletics (DC 15)** to help Verdal carry the crate.
+> - **Diplomacy (DC 15)** to convince Verdal to stop and put the crate down.
 >
 > Unless a character succeeds on a strategy such as one of those above, Verdal only has time to share the following:
 >
@@ -40,7 +40,7 @@ Verdal believes the party has come with news about the missing Aberin Lowd. Verd
 > - If the party knows and shares that Aberin has died, Verdal is crushed by the news. They suggest telling Aberin's father, Kendral, who works by the docks.
 > - If the party does not know anything about Aberin, Verdal apologizes for interrupting their journey — it's just that the town is worried about Aberin, who is the son of Kendral Lowd, a local fisher who has "already lost so much."
 >
-> Any character who makes a successful `[[/check insight 11]]` check can tell that Verdal is honestly sharing all that they know.
+> Any character who makes a successful **Deception (DC 11)** check can tell that Verdal is honestly sharing all that they know.
 >
 > Some specific dialogue options for a short conversation with Verdal are presented below.
 
@@ -69,7 +69,7 @@ Verdal believes the party has come with news about the missing Aberin Lowd. Verd
 > - The main attraction in town is the Far From Home inn, where Chef Tama Tyne serves up the town's famous fish stew, served in edible bowls. The stew seems a bit bland to Verdal, but then everything seems a bit bland to them these days.
 > - The structure in the center of town is the town's shrine to Lantyr, which they keep burning at all times and is the only thing that seems to boost spirits.
 >
-> Any character who makes a successful `[[/check insight 11]]` check can tell that Verdal is honestly sharing all that they know.
+> Any character who makes a successful **Diplomacy (DC 11)** check can tell that Verdal is honestly sharing all that they know.
 >
 > Some specific dialogue options for a longer conversation with Verdal are presented below.
 
@@ -115,7 +115,7 @@ Verdal believes the party has come with news about the missing Aberin Lowd. Verd
 >
 > Level 1 · Unknown Unknown
 >
-> ![Kendral Lowd](../../../assets/image186.webp)
+> ![Kendral Lowd](../../../assets/image216.webp)
 
 Kendral is generally kind, but prefers keep his answers short, and return to his fishing.
 
@@ -127,7 +127,7 @@ Kendral is generally kind, but prefers keep his answers short, and return to his
 > - The odd feeling in town, which he refuses to investigate.
 > - His son Aberin, who went to [[Corpin Sanctuary]] for healing, but hasn't been heard from since he left Corpin weeks ago — Kendral believes him likely dead.
 >
-> Any character who succeeds on a `[[/check insight 14]]` check can tell that he is both guilty and afraid — he fears that sharing what happened to Aberin will somehow lead others to follow in his son's path.
+> Any character who succeeds on a **Diplomacy (DC 14)** check can tell that he is both guilty and afraid — he fears that sharing what happened to Aberin will somehow lead others to follow in his son's path.
 >
 > Some specific dialogue options for this short conversation with Kendral are presented below.
 >
@@ -135,9 +135,9 @@ Kendral is generally kind, but prefers keep his answers short, and return to his
 >
 > Kendral will only say more about Aberin to the party if they inform him of his son's death, and provide an item of proof such as Aberin's [[A Note For Pa]], the [[Defiled Journal]], or an [[Inscribed Ring of Eternal Rest]], all of which can be found in [[Tormented Threads]]. If the party knows the details of Aberin's demise, their decision of whether to reveal those details will affect their Attunement at the conclusion of the Event.
 >
-> Any character who knows about Aberin's death and makes a successful `[[/check persuasion 16]]` check can convince Kendral to speak further about Aberin without providing proof.
+> Any character who knows about Aberin's death and makes a successful **Diplomacy (DC 16)** check can convince Kendral to speak further about Aberin without providing proof.
 >
-> Meanwhile, any character unaware of Aberin's death must make a successful `[[/check persuasion 18]]` to convince Kendral to speak further about Aberin.
+> Meanwhile, any character unaware of Aberin's death must make a successful **Diplomacy (DC 18)** to convince Kendral to speak further about Aberin.
 >
 > If the party provides proof of Aberin's death, proceed to [[Strand of Fate]] below.
 
@@ -175,7 +175,7 @@ If the party chooses to withold the details of Aberin's fate from Kendral, each 
 > - After losing Dealin, Kendral stopped adventuring, and Jai left Storsa's Strand for Ordain, but Aberin became obsessed with getting back to the Pathways and finding Daelin.
 > - Aberin found what he thought was a way down to the Pathways, the [[Shrouded Borehole]], but trying to get to the Pathways began driving him mad.
 >
-> Any character who makes a successful `[[/check persuasion 17]]` or `[[/check intimidation 17]]` check can convince Kendral to share the location of the Shrouded Borehole and mark the location on the party's map — otherwise he refuses, not wanting the party to endanger themselves as well.
+> Any character who makes a successful **Diplomacy (DC 17)** or **Intimidation (DC 17)** check can convince Kendral to share the location of the Shrouded Borehole and mark the location on the party's map — otherwise he refuses, not wanting the party to endanger themselves as well.
 >
 > - **Knowledge: Abyssals**: The character gains **+2 Boons** on this check.
 > - **Character informed Kendral of his son's death**: The character gains **+2 Boons** on this check.
@@ -226,7 +226,7 @@ If the party wishes to learn more about the town of Storsa's Strand, they can vi
 > [!warning] Gamemaster
 > #### Sielle's Wares
 >
-> To determine what Sielle currently has for sale, roll 3 times on the [[Arcturian Trinkets]] treasure table. She charges 10 sp for each item.
+> To determine what Sielle currently has for sale, roll 3 times on the [[Arcturian Trinkets]] treasure table. She charges 1 sp for each item.
 
 > [!info] Social
 > #### Sielle Kraddock's Lost & Found Artifacts
@@ -234,7 +234,7 @@ If the party wishes to learn more about the town of Storsa's Strand, they can vi
 > What topics Sielle is willing to discuss with the party depends on character options selected by the party, and successful checks made:
 >
 > - **Knowledge: Trade**: Her business and sales.
-> - `[[/check religion 14]]` **or** **Knowledge: Gods**: Her devotion to Lantyr.
+> - **Society (DC 14)** **or** **Knowledge: Gods**: Her devotion to Lantyr.
 >
 > Additionally, if players buy an item, Sielle will talk at length, and knows the following:
 >
@@ -242,7 +242,7 @@ If the party wishes to learn more about the town of Storsa's Strand, they can vi
 > - Sielle suggested that Kendral Lowd investigate the odd energy, as members of his family have long been unofficial protectors of the town, but he worries that it will go wrong. If the party thinks they can talk him into it, he's at the docks.
 > - Sielle is hoping that by keeping the flame of Lantyr lit, the town will be protected from whatever is in the air.
 >
-> Any character who makes a successful `[[/check insight 11]]` check determines that everything Sielle shares is spoken truthfully.
+> Any character who makes a successful **Diplomacy (DC 11)** check determines that everything Sielle shares is spoken truthfully.
 
 > [!question] Q&A
 > **Q:** About Sielle's father and his trinkets?
@@ -284,14 +284,14 @@ If the party wishes to learn more about the town of Storsa's Strand, they can vi
 >
 > The first time that any character approaches the flame, they feel a sense of warmth fill them, unless they are carrying an item of [[The Abyss]] or have **Attunement: The Abyss** in which case:
 >
-> - Any character carrying an item of The Abyss (such as the [[Defiled Journal]] or the [[Finger of Nethehepticas]]) feels the item grow hot in their bag and takes `[[/damage 1d6 fire]]` damage.
+> - Any character carrying an item of The Abyss (such as the [[Defiled Journal]] or the [[Finger of Nethehepticas]]) feels the item grow hot in their bag, and they face a **Minor Burn (Hazard 4)**.
 >   > A fierce heat begins to radiate from the object of The Abyss that you carry with you, as if it is a ball of flame, leaving burns on your skin.
-> - If a character with **Attunement: The Abyss** that approaches the dancing fire of the shrine is repelled, taking `[[/damage 1d6 force]]` damage.
+> - If a character with **Attunement: The Abyss** that approaches the dancing fire of the shrine is repelled, facing **Repulsion (Hazard 3)** damage.
 >   > As you move toward the dancing flame, you hit what feels like a wall of force and are thrown backward.
 >
-> Any character who witnesses one of the above phenomena and makes a successful `[[/check arcana 15]]` check determines that the shrine is protected by some sort of divine magic that is anathema to Abyssal attunement.
+> Any character who witnesses one of the above phenomena and makes a successful **Arcana (DC 15)** check determines that the shrine is protected by some sort of divine magic that is anathema to Abyssal attunement.
 >
-> Any character who sees the shrine and makes a successful `[[/check religion 13]]` or `[[/check history 15]]` check knows that the bowl and torches comprise a shrine to [[Lantyr]], an Elder Goddess of Light and Life whose physical form is the celestial body commonly known as The Sun. Shrines of this type are open to all, and those who wish to honor Lantyr can do so by lighting one of the torches and opening themselves to the warmth of The Sun.
+> Any character who sees the shrine and makes a successful **Society (DC 13)** check knows that the bowl and torches comprise a shrine to [[Lantyr]], an Elder Goddess of Light and Life whose physical form is the celestial body commonly known as The Sun. Shrines of this type are open to all, and those who wish to honor Lantyr can do so by lighting one of the torches and opening themselves to the warmth of The Sun.
 >
 > - **Knowledge: Gods**: The character automatically succeeds on this check.
 >
@@ -299,7 +299,7 @@ If the party wishes to learn more about the town of Storsa's Strand, they can vi
 >
 > > A feeling of warmth fills your body, lifting your spirits. The warmth does not seem to come from the flame ahead of you, but from deep within your heart.
 >
-> The party is permitted to take one (but only one) torch with them — additional torches must be returned to the nearby bowl. If the party takes more than one, only one will stay lit; lit torches become [[Lantyr's Flame]]. Any additional torch sticks behave as [[Torches]] that refuse to light.
+> The party is permitted to take one (but only one) torch with them — additional torches must be returned to the nearby bowl. If the party takes more than one, only one will stay lit; lit torches become [[Lantyr's Flame]]. Any additional torch sticks behave as [[Torch]] that refuse to light.
 
 ### The Far From Home Inn
 
@@ -315,7 +315,7 @@ The party may choose, if they wish, to visit the Far From Home inn. It is mostly
 >
 > If a character chooses to taste the fish stew at any point during their conversation with Chef Tyne, the chef is thrilled and offers a bite free of charge. It is spiced aggressively, with enough heat on it to burn the mouth.
 >
-> Any character who tastes it must make a `[[/save constitution 14]]` saving throw. On a failure, they are burned by the spices and take `[[/damage 1d4 fire]]` damage.
+> Any character who tastes it faces **Spice Overload (Hazard 2)**.
 >
 > - **Ancestry: Vrjnhar**: The character gains **+2 Boons** on this saving throw.
 > - **Ancestry: Fej**: The character gains **+2 Boons** on this saving throw.
@@ -325,15 +325,15 @@ The party may choose, if they wish, to visit the Far From Home inn. It is mostly
 >
 > The Vrjnhar introduces herself as Chef Tama Tyne, and invites the party to try a sample of the fish stew. If no one in the party will taste the food, she's hurt and offended and busies herself with trying to come up with a new recipe, ignoring any further attempts at conversation.
 >
-> Any character who makes a successful `[[/check persuasion 18]]` check can convince Chef Tyne to speak with the party despite a collective refusal to taste the food.
+> Any character who makes a successful **Diplomacy (DC 18)** check can convince Chef Tyne to speak with the party despite a collective refusal to taste the food.
 >
 > - **Knowledge: Trade**: The character gains **+2 Boons** on this check.
 >
 > Meanwhile, characters who sample the food can address their experience with Chef Tyne in a number of ways:
 >
-> - `[[/check deception 15]]` to lie about their enjoyment of the meal.
-> - `[[/check 14 nature]]` to identify an ingredient and talk about it.
-> - `[[/check 14 persuasion]]` to change the conversation entirely to local matters.
+> - **Deception (DC 15)** to lie about their enjoyment of the meal.
+> - **Wilderness (DC 14)** to identify an ingredient and talk about it.
+> - **Diplomacy (DC 14)** to change the conversation entirely to local matters.
 >
 > With a success on any of the three checks, Chef Tyne will share information about Storsa’s Strand. Otherwise, she turns away from the group and goes back to cooking, mumbling about the palates of the people in the village.
 >
@@ -343,7 +343,7 @@ The party may choose, if they wish, to visit the Far From Home inn. It is mostly
 > - She arrived in Storsa’s Strand only about a season ago, having been recruited by the previous chef of the Far From Home. Tyne thought it would be a good opportunity, but the chef she replaced complained about having lost their ability to really enjoy food — Chef Tyne is now observing the same.
 > - The issues with the food predate Chef Tyne's arrival, but according to the previous chef, they started just before one of the locals had to be sent to Corpin Sanctuary after losing touch with reality. Tyne believes the last name of this unfortunate local was Lowd, probably related to the fisher Kendral Lowd, who works on the docks and helps supply her with fish.
 >
-> Any character who makes a successful `[[/check insight 11]]` check determines that Chef Tyne is being straightforwardly truthful with the party.
+> Any character who makes a successful **Diplomacy (DC 11)** check determines that Chef Tyne is being straightforwardly truthful with the party.
 
 ### Concluding the Event
 

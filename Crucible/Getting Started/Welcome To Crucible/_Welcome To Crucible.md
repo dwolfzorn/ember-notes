@@ -2,7 +2,7 @@
 title: "Welcome To Crucible"
 aliases: ["Welcome To Crucible"]
 journal: "Getting Started / Welcome To Crucible"
-tags: [ember, getting-started, index]
+tags: [crucible, getting-started, index]
 ---
 
 # Welcome To Crucible

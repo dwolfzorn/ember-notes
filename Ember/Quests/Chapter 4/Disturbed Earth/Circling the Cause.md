@@ -46,9 +46,9 @@ Rala invites the party to join him and Krafton at their meeting with Eamon Marif
 >
 > Level 8 · Hulg'run Agrimage
 >
-> ![Eamon Mariflor](../../../assets/image109.webp)
+> ![Eamon Mariflor](../../../assets/image136.webp)
 >
-> Before you stands a short figure with dusky, gray hair shimmering with tiny magical stars and crescent moons. Glowing orange lines coil up his arms and over his face, making his skin look like a bed of cooling lava. His amber eyes seem to always glint with keen interest, and his wide, sharp-toothed smile is overtly friendly. He is dressed practically, and wears the mark of the Redrak Agrimage Circle pinned to his coat. He moves with lively energy.
+> Before you stands a short figure with dusky gray hair that shimmers with tiny magical stars and crescent moons. Glowing orange lines coil up his arms and over his face, making his skin look like a bed of cooling lava. His amber eyes seem to always glint with keen interest, and his wide, sharp-toothed smile is overtly friendly. He is dressed practically, and wears the mark of the Redrak Agrimage Circle pinned to his coat. He moves with lively energy.
 
 > [!quote] Read Aloud
 > Eamon greets Krafton and Rala, then glances towards you all.
@@ -162,7 +162,7 @@ If the players agree, Eamon details the task at hand.
 >
 > Eamon wishes Rala and the party to go to [[Ushna Dredging]], the town responsible for harvesting the magically-enriched mud used by the agrimages to create soil for the Redrak Fields, retrieve a fresh barrel of the Lake Orial silt, and have Rala's yarnac Buttercup haul it to the [[Earthen Henge]], where the summoning ritual will be performed.
 >
-> [[Earthen Henge]]. Eamon can also share the following information:
+> Eamon can also share the following information:
 >
 > - The Lake Orial mud is needed both as a component in the summoning ritual, and so that Eamon can analyze it in an attempt to better understand the cause of this issue.
 > - Terrane blesses the mud of Lake Orial in exchange for rare organic magical components and arcane cosmological lore that the Steward of the Agrimage Circle offers at a summoning every three centuries.
@@ -291,7 +291,7 @@ After the meeting, the shocked and worried Krafton requests the party's aid on a
 > Krafton offers the following payment for securing [[Lilifeld Vineyard]]:
 >
 > - **50** immediately if the party leaves for the vineyard within the hour.
-> - An additional **25** if the party encounters hostile elementals there and repels them.
+> - An additional  **25** if the party encounters hostile elementals there and repels them.
 
 If the party accepts the task, mark the following Event Outcome:
 

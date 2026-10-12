@@ -14,7 +14,7 @@ tags: [ember, area-walkthroughs]
 > [!tip] Exploration
 > #### Golarne's Reminders
 >
-> Any character who makes a **Awareness (DC 15)** check notices a small piece of paper under one of the legs of the bed, which can be translated using the [[Area Overview]] rules.
+> Any character who makes a successful **Awareness (DC 15)** check notices a small piece of paper under one of the legs of the bed, which can be translated using the [[Area Overview]] rules.
 
 | **Basic Meaning** | **Full Translation** |
 | --- | --- |
@@ -25,7 +25,7 @@ One of the levers that opens the secret [[Unknown]] is activated by putting weig
 > [!tip] Exploration
 > #### A Powerful Rest
 >
-> Any character with a `[[/skill perception 15 passive format=long]]` or who makes a successful **Awareness (DC 13)** check while examining the room notices the following:
+> Any character who makes a successful **Awareness (DC 15, Passive)** check while examining the room notices the following:
 >
 > - The bed isn't fully made — it appears to have been purposefully set so that someone can easily get in and out of it.
 > - A dusting of a crystalline substance surrounds the bed.

@@ -20,7 +20,7 @@ This area is the Bleak Archive's most hallowed repository. Before exploring it t
 >
 > Level 6 (Boss) · Wraith Necromancer
 >
-> ![Tethra Shùl](../../../assets/image091.webp)
+> ![Tethra Shùl](../../../assets/image101.webp)
 >
 > You see the umbral apparition of a long-dead giant clad in the ancient, esoteric robes of a soothsayer. Her rotten form is draped in ever-flowing shadow, and from the depths of her grim countenance shine two motes of eerie crimson light, unholy eyes which regard you with a cruel malice the likes of which you've never seen.
 
@@ -141,7 +141,7 @@ A few items of import are scattered throughout this chamber, the most notable of
 >
 > Any character who makes a successful **Arcana (DC 13)** check is able to determine the magical nature of the Finger of Nethehepticas without the need for **Talent: Recognize Spellcraft**. They can tell it is clearly an item of great power and that it is accursed in nature, but the actual effects and properties of the curse remain inscrutable.
 >
-> - **Critical Success**: The character recognizes the Abyssal nature of the wand, but its properties remain inscrutable.
+> - **Critical Success**: The character recognizes the [[The Abyss]] nature of the wand, but its properties remain inscrutable.
 >
 > Any character who succeeds on a **Society (DC 17)** check has heard a handful of legends and rumors regarding ancient artifacts crafted from the remains of godlike beings, and this strange eldritch relic seems a likely candidate.
 >
@@ -151,5 +151,3 @@ A few items of import are scattered throughout this chamber, the most notable of
 > #### "A Brush With Death" Quest Progression: The Finger of Nethehepticas
 >
 > The choice to take The Finger of Nethehepticas is one with consequence. If the party chooses to take it, consult the [[Where Evil Lurks]] section of [[Where Evil Lurks]] in the [[A Brush With Death]] Quest for the most immediate of those consequences.
-
-## [[A Brush With Death]]

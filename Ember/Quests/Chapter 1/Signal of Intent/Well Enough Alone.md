@@ -52,7 +52,7 @@ The party may wish to clear one of the mounds of overgrowth to identify what is 
 > - **Wilderness (DC 13)** to use their knowledge of flora to identify specific vines to cut that weaken the fabric of the verdant covering to be more easily removed.
 > - Use the Ennervate action from **Talent: Rune: Death** to cause plants to wither and recede.
 >
-> If at least half of the group members obtain a successful outcome, the task is successful. If the party fails the task, each member of the party becomes demoralized from the **Unrelenting Vines (Hazard 4, Bludgeoning, Fortitude, Morale)**.
+> If at least half of the group members obtain a successful outcome, the task is successful. If the party fails the task, each member of the party becomes demoralized from the **Unrelenting Vines (Hazard 4)**.
 
 ### An Ancient Battleground
 

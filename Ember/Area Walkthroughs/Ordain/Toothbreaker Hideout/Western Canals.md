@@ -31,7 +31,7 @@ If the canals have been drained, read:
 >
 > Level 1 · Unknown Unknown
 >
-> ![Scalemaw](../../../assets/image033.webp)
+> ![Scalemaw](../../../assets/image034.webp)
 
 > [!danger] Hazard
 > #### Enraged Scalemaw

@@ -37,7 +37,7 @@ If the party has completed the last challenge in the [[Steam Room]] and touched 
 >
 > Level 1 · Unknown Unknown
 >
-> ![Vespian Hydral](../../../assets/image038.webp)
+> ![Vespian Hydral](../../../assets/image039.webp)
 
 > [!danger] Hazard
 > #### The Hydral Appears!

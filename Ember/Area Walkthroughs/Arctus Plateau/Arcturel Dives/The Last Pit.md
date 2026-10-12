@@ -36,7 +36,7 @@ tags: [ember, area-walkthroughs]
 >
 > Level 6 (Elite) · Tyraphem Aburyx
 >
-> ![Aburyx](../../../assets/image054.webp)
+> ![Aburyx](../../../assets/image055.webp)
 >
 > With a head of radiant yellow flame and the golden plate armor of a warrior, the Aburyx floats up from the ground it stands on, swiveling to face with you with a flare of light. Within moments, it it is hovering in front of you, a sword of light suddenly emerging from its hands as it readies to attack.
 

@@ -27,7 +27,7 @@ When the Tatterwing Moth arrives, the party has a brief moment to observe the cr
 >
 > Any character who succeeds on a **Wilderness (DC 11)** check is able to identify the tatterwing moth as native to the Arctus Plateau. Tatterwing moths are known to inhabit forest, grassland, swamp, and subterranean biomes, but are relatively scarce in urban environments.
 >
-> - `[[/knowledge beats]]`: The character gains **+2 Boons**.
+> - **Knowledge: Beasts**: The character gains **+2 Boons**.
 >
 > Characters with a **`[[/skill animalhandling 11 passive]]`** are able to notice that the behavior of the moth is peculiar and uncanny, as if it was being motivated by an outside influence.
 >

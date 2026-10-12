@@ -86,7 +86,7 @@ Roll on the table below to determine which nightmare the character experiences.
 >
 > - **Critical Success**: The dream feels to the character like, on some level, a warning, as much as it may be an overt call-to-action.
 >
-> By succeeding on a **Society (DC 13)** check, the character associates the imagery of the mountainside treetop village with a storied [[Rustvar Valleys]] settlement known as [[Skybrush]], which is indicated as a Point of Interest on the Region Map. The character is familiar with Skybrush and its role in [[Arctus Plateau]] commerce as a source of gravelbark pine and rare giantkin artifacts of the ancient [[Shent]] and [[Varún]].
+> By succeeding on a **Society (DC 13)** check, the character associates the imagery of the mountainside treetop village with a storied [[Rustvar Valleys]] settlement known as [[Skybrush]], which is indicated as a Point of Interest on the Region Map. The character is familiar with Skybrush and its role in [[Arctus Plateau]] commerce as a source of gravelbark pine and rare giant artifacts of the ancient [[Shent]] and [[Varún]].
 >
 > - **Critical Success**: The character recognizes a phrase from the sinister whispering: *"Ebbok Zhùr,"* which they know to be a Shent landmark of some kind.
 >

@@ -131,7 +131,7 @@ Once the agitators have been contacted, they can be spoken with to gain insight 
 
 ### Helping the Agitators
 
-> [!info] Social
+**> [!info] Social
 > #### Talking Stable Space
 >
 > A successful **Diplomacy (DC 14)** convinces one of the stablehands to talk about the situation here, and they point out that a wide swath of the stables has been rented out by a rich noble. They aren't at liberty to say who, but it has cut into available spaces, the remainder are going fast.
@@ -140,7 +140,7 @@ Once the agitators have been contacted, they can be spoken with to gain insight 
 >
 > - A further **Deception (DC 12)** check leads a character to suspect that whoever put the reservation for the spaces in has a lot of money to burn, and doesn't care about how much this stunt will end up costing them.
 
-Characters may want to speak to the stable boss directly, they can request that chance via any of the stablehands.
+Characters may want to speak to the stable boss directly, they can request that chance via any of the stablehands.**
 
 **Nathira Jessos (Neutral Good, Ordani Human, she/her)**
 

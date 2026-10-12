@@ -2,8 +2,8 @@
 title: "Blocking Movement"
 journal: "Game Mechanics / Combat"
 source_uuid: "JournalEntry.PETeWXMgCZCt14YN"
-type: ember.lore
-tags: [ember, game-mechanics]
+type: crucible.lore
+tags: [crucible, game-mechanics]
 ---
 
 # Blocking Movement

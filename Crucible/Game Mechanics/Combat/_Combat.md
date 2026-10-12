@@ -2,7 +2,7 @@
 title: "Combat"
 aliases: ["Combat"]
 journal: "Game Mechanics / Combat"
-tags: [ember, game-mechanics, index]
+tags: [crucible, game-mechanics, index]
 ---
 
 # Combat
@@ -12,7 +12,6 @@ tags: [ember, game-mechanics, index]
 - [[Initiative and Turn Order]]
 - [[Actions]]
 - [[Movement]]
-- [[Blocking Movement]]
 - [[Engagement and Flanking]]
 - [[Attack Rolls]]
 - [[Skill Attacks]]

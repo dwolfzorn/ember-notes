@@ -55,6 +55,6 @@ Any area confronted with a pollen storm is subject to the following mechanical c
 >
 > Characters who inhale or make significant contact with storm pollen suffer an immediate and significant allergic reaction.
 >
-> Each affected character must face **Allergic Irritation (Hazard 8, Fortitude, Poison, Morale)** which, if not resisted, also causes the **Disoriented** condition for `[[/gmroll 2d4 hours]]` or until the party completes a successful **Rest**.
+> Each affected character must face **Allergic Irritation (Hazard 8)** which, if not resisted, also causes the **Disoriented** condition for `[[/gmroll 2d4 hours]]` or until the party completes a successful **Rest**.
 >
 > A character can only be affected by this pollen contamination once per day.

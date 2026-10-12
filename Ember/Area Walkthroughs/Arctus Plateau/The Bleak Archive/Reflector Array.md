@@ -18,7 +18,7 @@ This chamber serves as a crucial hub for the system of rotating mirrors that unl
 >
 > The pit in this room is 40 feet deep, but so shrouded in darkness that it appears to be bottomless.
 >
-> Any character who falls into the pit suffers a **Great Fall (Hazard 12, Fortitude, Health, Bludgeoning)** and must also face [[/hazard 4 willpower morale void]{Abyssal Whispers}, becoming **Frightened** for `[[/roll 1d4]]` hours.
+> Any character who falls into the pit suffers a **Great Fall (Hazard 12)** and must also face [[/hazard 4 willpower morale void]{Abyssal Whispers}, becoming **Frightened** for `[[/roll 1d4]]` hours.
 
 The northern exit from the reflector array is concealed and controlled by an inconspicuous lever on the east side of the northern wall.
 

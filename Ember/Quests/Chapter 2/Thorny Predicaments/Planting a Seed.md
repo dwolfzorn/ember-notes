@@ -22,9 +22,11 @@ tags: [ember, quests]
 > [!abstract] Edivel Sprout
 > **[[Edivel Sprout]]**
 >
-> Level 1 · Unknown Unknown
+> Level 2 · Thornling Agrimage
 >
-> ![Edivel Sprout](../../../assets/image166.webp)
+> ![Edivel Sprout](../../../assets/image196.webp)
+>
+> The young thornling's body is reminiscent of the trunk of a sturdy sapling, but they are full of motion, darting from place to place with a smile on their face and a wand in their hand. Their frayed cloak suggests that they may have left a bit of chaos in their wake, but if so, it hasn't affected their friendly nature or chipper attitude.
 
 Edivel explains the situation at hand:
 
@@ -47,7 +49,6 @@ Edivel explains the situation at hand:
 > Any character that succeeds on a **Arcana (DC 15)** check while examining the animated bramble recognizes that it has been magically awakened, and has gained a modicum of intelligence and the ability to move slowly. Because of this, they can be dealt with a number of ways:
 >
 > - A source of fire (real, magical, or illusory) should cause them to move out of fear.
-> - Use of the [[Speak with Plants]] spell might allow the caster to reason with them.
 > - Use of the **Counterspell (Control, Influence, Negate, DC 15)** would undo the spell, returning the plants back to normal shrubs.
 >
 > A character that succeeds on a **Wilderness (DC 13)** check knows that destroying the brambles would be trivially easy with the use of fire or weapons that deal slashing damage.

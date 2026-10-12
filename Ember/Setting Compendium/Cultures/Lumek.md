@@ -13,7 +13,7 @@ tags: [ember, setting-compendium]
 >
 > - Language: **Language: Luma**
 > - Captial City: [[Hearth]]
-> - Technology: Iron/[[Amberal Bronze]] production, enhanced with fire magic.
+> - Technology: Iron/[[Ambral Bronze]] production, enhanced with fire magic.
 > - Major Religions/Beliefs:[[Lumé]].
 > - Names: Astarte, Lya, Lyax, Lucentis, Luna, Soluna, Lyra, Lyros, Thrax, Thala, Enki, Enja, Enjarr, Enya, Enyax, Ishtar, Ishtariak, Isha, Ishka, Iskar, Iskarrion, Lafa, Lafar, Ereshar, Eshkur, Kasha, Kashar.
 > - Ancestries: **Ancestry: Fej** (80%) + (Other [[The Ancestries]] exist in small numbers)
@@ -45,7 +45,7 @@ In times of conflict, the clerics, direct followers and champions of [[Lumé]] c
 
 ## Clothing & Adornments
 
-Lumek clothing is a blend of practicality and artistry, featuring hardy, resilient forms alongside refined and beautifully crafted pieces with flowing shapes. The color palette frequently includes striking reds and blacks, with many Lumek embellishing their attire with [[Amberal Bronze]] charms believed to protect against undeath, disease, and ill health.
+Lumek clothing is a blend of practicality and artistry, featuring hardy, resilient forms alongside refined and beautifully crafted pieces with flowing shapes. The color palette frequently includes striking reds and blacks, with many Lumek embellishing their attire with [[Ambral Bronze]] charms believed to protect against undeath, disease, and ill health.
 
 While most inhabitants of the Firelands do not wear armor on a daily basis, they all possess defensive clothing and weaponry, often keeping these items close at hand in case fighting breaks out. During their festivals at the beginning of a new cycle after the defeat of a Blood Baron attack, Lumek wear special celebration attire. These festival garments are much lighter and less practical, allowing for greater freedom of movement when dancing. They often feature an array of decorative elements, including gemstones, precious metal adornments, and beautiful charms.
 
@@ -55,7 +55,7 @@ Lumek cuisine revolves around a common dish called Luksa, a broad term for a mix
 
 ## Technology & Magic
 
-In addition to their fighting prowess taught to them through necessity and hard training, the Lumek are master blacksmiths. Most of their technology revolves around a unique process where the ashes of their dead are used to create weapons and armour, known as [[Amberal Bronze]]. A rare metal that is considered holy and typically not allowed to leave the Firelands' shores unless permitted by Lumé herself. Lumarin Steel comes in several different grades, and it is rumored that the ashes of the more faithful defenders and champions imbue the metal with power, making them stronger and giving them both the ability to cause more damage to undead but also enhance the fighting abilities of its wielder. It should come as no surprise then that the Lumek burn their dead in holy ceremonies to collect thier ashes and use them in the fighting to come.
+In addition to their fighting prowess taught to them through necessity and hard training, the Lumek are master blacksmiths. Most of their technology revolves around a unique process where the ashes of their dead are used to create weapons and armour, known as [[Ambral Bronze]]. A rare metal that is considered holy and typically not allowed to leave the Firelands' shores unless permitted by Lumé herself. Lumarin Steel comes in several different grades, and it is rumored that the ashes of the more faithful defenders and champions imbue the metal with power, making them stronger and giving them both the ability to cause more damage to undead but also enhance the fighting abilities of its wielder. It should come as no surprise then that the Lumek burn their dead in holy ceremonies to collect thier ashes and use them in the fighting to come.
 
 There are three major blacksmithing institutions across the Firelands, each with a specific focus. These schools teach incredibly ancient and traditional crafting processes. The three schools are the Vanbrel, which teaches weapon crafting and aggressive weapons of war; the Julmea, which teaches armorsmithing and defense construction techniques; and finally the Farimer, which teaches practical technologies for crafting everyday items used in farming or industry.
 

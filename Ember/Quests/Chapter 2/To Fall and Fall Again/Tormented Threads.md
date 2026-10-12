@@ -31,22 +31,22 @@ A cursory examination of the body doesn’t reveal what happened to the adventur
 > [!tip] Exploration
 > #### Examining the Body
 >
-> Any character who makes a successful `[[/check investigation 15]]` check spots folded paper tucked into the adventurer's armor, along with a ring, the [[Inscribed Ring of Eternal Rest]].
+> Any character who makes a successful **Awareness (DC 15)** check spots folded paper tucked into the adventurer's armor, along with a ring, the [[Inscribed Ring of Eternal Rest]].
 >
 > - One of the sheets is [[A Note For Pa]], a note from Aberin which asks whoever finds it to let his father [[Kendral Lowd]] in [[Storsa's Strand]] know that Aberin is dead, and pass on the location of Aberin's final resting place.
 > - Another is a torn piece of paper from Corpin Sanctuary. If characters have seen [[Aberin Lowd's Medical Records]], they can identify it as a torn piece from that record. It lists dates from two seasons earlier and a series of treatments, all unsuccessful.
 >
-> Any character who succeeds on a `[[/check history 14]]` check recognizes the armor and clothing that the adventurer is wearing. It shows influences from both the [[Rustvar Valleys]] and the [[Golden Flats]], and likely comes from somewhere near the intersection of those two regions, close to where the party is now.
+> Any character who succeeds on a **Society (DC 14)** check recognizes the armor and clothing that the adventurer is wearing. It shows influences from both the [[Rustvar Valleys]] and the [[Golden Flats]], and likely comes from somewhere near the intersection of those two regions, close to where the party is now.
 >
 > - **Knowledge: Crafts**: The character automatically succeeds on this check.
 >
-> Any character who makes a successful `[[/check perception 15]]` check notices ink-like blackness on the tips of the corpse's finger bones — the same color as the journal.
+> Any character who makes a successful **Awareness (DC 15)** check notices ink-like blackness on the tips of the corpse's finger bones — the same color as the journal.
 >
 > #### Aberin's Final Words
 >
-> If the party uses [[Speak with Dead]], the corpse only mutters incoherently, with naught but a few words discernable amidst the muttering: *Daelin*, *Storsa's Strand*, and *Borehole*.
+> If the party somehow communicates magically with the deceased, the spirit only mutters incoherently, with naught but a few words discernable amidst the muttering: *Daelin*, *Storsa's Strand*, and *Borehole*.
 >
-> Then, in a single moment of coherence, the corpse manages a final message:
+> Then, in a single moment of coherence, the dead manages a final message:
 >
 > > I tried to get back to the light in the sky, to find the way, to crawl through. I'm sorry Pa, I tried to find her. I did, I did. Through the borehole. Find Daelin. Go to that place and the light in the sky but no light on the ground and the darkness inside and I'm sorry, I'm sorry Pa.
 
@@ -62,9 +62,9 @@ If characters move closer to the journal, the decay on the withered grass beneat
 >
 > The party can use any of the following checks to inspect the journal from a distance:
 >
-> - `[[/check 15 arcana]]` to conclude that whatever is causing the book to smoke is not an effect of magic. It is something deeper.
-> - `[[/check 15 nature]]` to determine that the grass immediately around the book is more than dead — it seems as if it has been permanently drained of all life.
-> - `[[/check 15 perception]]` to make out the words on the front of the book, which say "An Account of Aberin Lowd" in **Language: Arcden** .
+> - **Arcana (DC 15)** to conclude that whatever is causing the book to smoke is not an effect of magic. It is something deeper.
+> - **Wilderness (DC 15)** to determine that the grass immediately around the book is more than dead — it seems as if it has been permanently drained of all life.
+> - **Awareness (DC 15)** to make out the words on the front of the book, which say "An Account of Aberin Lowd" in **Language: Arcden** .
 >
 > When making any of the above checks:
 >
@@ -76,9 +76,9 @@ If characters move closer to the journal, the decay on the withered grass beneat
 >
 > Interacting with the journal directly causes ill effects.
 >
-> - Any spell used to interact with the journal (such as [[Unknown]]) immediately ceases on contact with it, as if the journal forcibly rejected it, and deals `[[/damage 1d6 force]]` to the caster.
-> - If a character touches the book with an object, they find themselves unable to hold onto that object, dropping it immediately and involuntarily onto the ground.
-> - If a character touches the book with their hands, they feel a thick rot coat the back of their throat, as if they were choking, and they cannot breathe normally. If they put the book down, the effect stops — but if they pick it up again, they feel as if choking once more. Any character who touches the book also gains a Vulnerability to Necrotic damage until their next Long Rest.
+> 1. Any spell used to interact with the journal (such as **Attractive Kinetic Influence** or [[Rune: Kinesis]]) immediately ceases on contact with it, as if the journal forcibly rejected it, and the caster must face **Forced Blowback (Hazard 5)** to the caster.
+> 2. If a character touches the book with an object, they find themselves unable to hold onto that object, dropping it immediately and involuntarily onto the ground.
+> 3. If a character touches the book with their hands, they feel a thick rot coat the back of their throat, as if they were choking, and they cannot breathe normally. If they put the book down, the effect stops — but if they pick it up again, they feel as if choking once more. Any character who touches the book also gains a Vulnerability to Necrotic damage until their next **Rest**.
 >   > Your throat swells from the inside, as if some shadowy hand from within your own flesh squeezed tightly against your airway, slithering long fingers into your gut and clenching. Every effort you make to take in breath is a struggle, the air in your throat turning into a thick choking smog that grabs at your tongue and twists in your throat, as if it wants to make you speak its name.
 
 > [!tip] Exploration
@@ -86,7 +86,7 @@ If characters move closer to the journal, the decay on the withered grass beneat
 >
 > If characters hold and read the book despite the feeling of suffocation, they:
 >
-> - Gain 1 &Reference[exhaustion] level.
+> - Become @Condition[Exhausted].
 > - Learn the details below, which are also available as in-fiction journal entries on the description of the [[Defiled Journal]] Item.
 >
 > #### Within the Journal's Pages

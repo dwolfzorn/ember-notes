@@ -46,7 +46,7 @@ The symbol upon the wall is recognizable and similar to others found elsewhere i
 > - The symbol matches the symbol in Jasper's notes in his office.
 > - The symbol has been painted with silver paint matching the paint found in the Old Ore Pit.
 >
-> The party can attempt to decipher the symbol if they have not already. Any character who makes a successful `[[/check investigation 13]]` determines that it is meant to attract oozes to this location.
+> The party can attempt to decipher the symbol if they have not already. Any character who makes a successful **Science (DC 13)** check determines that it is meant to attract oozes to this location.
 
 > [!info] Social
 > #### Befriending the Oozes

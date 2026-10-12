@@ -36,7 +36,7 @@ The slime puddles are caustic and hazardous, but they can be easily avoided if t
 > [!danger] Hazard
 > #### Caustic Slime
 >
-> The digestive fluid within the puddles is acidic to the touch; boils form on their surfaces and pop unexpectedly. Any character who closely examines the goo risk taking damage from **Caustic Slime (Hazard 4, Reflex, Acid, Health)**.
+> The digestive fluid within the puddles is acidic to the touch; boils form on their surfaces and pop unexpectedly. Any character who closely examines the goo risk taking damage from **Caustic Slime (Hazard 4)**.
 
 > [!tip] Exploration
 > #### The Regurgitated Substance

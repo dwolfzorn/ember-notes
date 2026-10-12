@@ -20,7 +20,7 @@ tags: [ember, standalone-events]
 > [!danger] Hazard
 > #### Slipstream Hazard
 >
-> The characters must immediately struggle to avoid being pummeled by the preternatural currents of the quickwater's slipstream. Each character must withstand the **Raging Slipstream (Hazard 4, Fortitude, Bludgeoning)**}. Any character which fails to resist this hazard also suffers the **Exhausted** condition.
+> The characters must immediately struggle to avoid being pummeled by the preternatural currents of the quickwater's slipstream. Each character must withstand the **Raging Slipstream (Hazard 4)**}. Any character which fails to resist this hazard also suffers the **Exhausted** condition.
 >
 > - Characters with **Knowledge: Seafaring** avoid exhaustion even if they are affected by the hazard.
 >

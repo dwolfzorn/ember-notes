@@ -23,7 +23,7 @@ tags: [ember, quests]
 >
 > This is a Main Quest quest that awards 3 [[Milestone Progression]]: 1 Milestone Point each upon completion of the [[Corpin Arrival]], [[Sanctuary of Death]], and [[A Sage Welcome]] Events.
 
-Crumbling Sanctuary will take the party on a grand adventure as they discover the machinations of an evil necromantic plot, one that threatens to upheave the very Cindaric faith itself. After their alliance with Sin Marmot in Helkas, the characters will join the young druid on a westward pilgrimage to Corpin Sanctuary and the city of Ordain. However, this trip will prove far from idyllic.
+Crumbling Sanctuary will take the party on a grand adventure as they discover the machinations of an evil necromantic plot, one that threatens to upheave the very Cindaric faith itself. After their alliance with Sin Marmot in Helkas, the characters will join the young druid on a eastward pilgrimage to Corpin Sanctuary and the city of Ordain. However, this trip will prove far from idyllic.
 
 An encounter at a pillaged farmstead known as Dradley Grange will reveal the presence of marauding forces within the Arctus Plateau, and serve as the party's first clues since Helkas that unrest is troubling to the region. Subsequently, the party comes face to face with a small mob of reanimated corpses while they attempt to ford the ruins of Keeper's Crossing on the River Elenain, followed by a scuffle with a group of raiders from the Otherhood of Fortune — suggesting that several forces are at work to bring ruin to the people of the Plateau.
 

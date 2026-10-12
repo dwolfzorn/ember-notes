@@ -74,10 +74,10 @@ Roll on (or choose from) the following table to determine what kind of encounter
 > [!danger] Hazard
 > #### Pollen Contamination
 >
-> Characters who inhale or make orificial contact with storm pollen must face **Hazard 8 (Fortitude, Morale, Harmless)** to withstand its effect, which includes the following based on the result:
+> Characters who inhale or make orificial contact with storm pollen must face **Hazard 8** to withstand its effect, which includes the following based on the result:
 >
 > - The character has **-2 Banes** on all Knowledge skill checks and is **Staggered**.
-> - **Critical Failure**: The character also begins a coughing spurt and suffers **Hazard 4 (Fortitude, Severe)**.
+> - **Critical Failure**: The character also begins a coughing spurt and suffers **Hazard 4 (Severe)**.
 >
 > The negative effects of the pollen last for a duration of `[[/roll 2d4 hours]]` and can be cured by taking a **Rest**, by targeting the afflicted character with **Touch of Life**, or by consumption of an [[Antitoxin]].
 >

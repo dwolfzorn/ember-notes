@@ -21,4 +21,4 @@ In times of peace, the Balcony Overlook here is an interesting piece of architec
 > Characters who happen to occupy the Balcony Overlook during combat situations will find themselves in a more dangerous situation than the Sanctuary's other areas, due to the precipitous elevation and narrowness of the Overlook's walkways.
 >
 > - Any character without a flying speed who is pushed or shoved off the Balcony Overlook must make a successful **Athletics (DC 14)** check to avoid falling off the ledge.
-> - Characters who fall from the Balcony Overlook ledge suffer **falling damage (Hazard 3, Fortitude, Health, Bludgeoning)** for every 10 feet they fall.
+> - Characters who fall from the Balcony Overlook ledge suffer **falling damage (Hazard 3)** for every 10 feet they fall.

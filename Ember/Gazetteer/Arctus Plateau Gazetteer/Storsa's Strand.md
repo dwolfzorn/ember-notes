@@ -11,16 +11,16 @@ tags: [ember, gazetteer]
 > [!warning] Gamemaster
 > #### Gamemaster's Summary
 >
-> This settlement exists at ⬢ s.3205.2888 in the [[Rustvar Valleys]], on the western shore of [[Lake Mithra]].
+>  This settlement exists at ⬢ s.3205.2888 in the [[Rustvar Valleys]], on the western shore of [[Lake Mithra]].
 >
-> - This settlement is featured in [[Strand of Fate]].
+>  - This settlement is featured in [[Strand of Fate]].
 
-Storsa's Strand is a small fishing town on the western bank of Lake Mithra, known for its extravagant freshwater cuisine, bountiful exports of fish and fruit, and the strange tendency of its residents to drag curious treasures from the bottom of the lake. Sometimes, these treasures come with a small stroke of bad luck — a chance that many residents and visitors of Storsa's Strand are willing to take.
+  Storsa's Strand is a small fishing town on the western bank of Lake Mithra, known for its extravagant freshwater cuisine, bountiful exports of fish and fruit, and the strange tendency of its residents to drag curious treasures from the bottom of the lake. Sometimes, these treasures come with a small stroke of bad luck — a chance that many residents and visitors of Storsa's Strand are willing to take.
 
-> [!info] Social
+  > [!info] Social
 > #### At a Glance
 >
-> - **Settlement Type:** Fishing hamlet
+>  - **Settlement Type:** Fishing hamlet
 > - **Size:** Tiny (40 - 60)
 > - **Primary Cultures:** **Culture: Arcturian**
 > - **Predominant Ancestries:** **Ancestry: Human**, **Ancestry: Kivahr**
@@ -31,11 +31,11 @@ Storsa's Strand is a small fishing town on the western bank of Lake Mithra, know
 > - **Economy:** Fishing
 > - **Organizations**: Cult of the Sun
 
-## Landmarks
+  ## Landmarks
 
-Storsa's Strand is merely a small collection of old Arcturian homes and is located far enough away from the main route to Ordain to be isolated from most trade, but its position on the lake and reputation as an excellent source of both fish and fish stew does occasionally bring a trading caravan or traveling adventurer looking for a place to rest. The village includes:
+ Storsa's Strand is merely a small collection of old Arcturian homes and is located far enough away from the main route to Ordain to be isolated from most trade, but its position on the lake and reputation as an excellent source of both fish and fish stew does occasionally bring a trading caravan or traveling adventurer looking for a place to rest. The village includes:
 
-**The Far From HomeInn**
+ **The Far From HomeInn**
 
 An ale-soaked inn celebrated far and wide for the spicy flavors of their famous fish stew, which is served in edible bowls. Travelers from all about the continent talk about their visits here, with a select few celebrants and wayfarers who make their laketown visitations a habit. It is owned and operated by Chef Tama Tyne.
 
@@ -51,9 +51,9 @@ A solid timber wharf that once housed the infamous Qrag Kraddok, a cantankerous 
 
 A large, spherical shrine of overlapping bands of steel, forged by the Mondain Siblings in the elemental forge. Its hollow heart is filled with wood and set ablaze during the village's nightly rituals.
 
-## Characters of Interest
+ ## Characters of Interest
 
-**The Mondain SiblingsNeutral Good, Ordani Human, she/her & he/him**
+ **The Mondain SiblingsNeutral Good, Ordani Human, she/her & he/him**
 
 The Mondain Siblings — Cholni and Malcem — are the direct descendants of Storsa Mondain, for whom the village was named. Expert blacksmiths, they tend the elemental forge on the edge of town, but have rarely been seen since the village fell into its present gloom.
 
@@ -81,24 +81,24 @@ Ex-adventurer and member of the [[Anachraenum]], he was once a devout follower o
 
 Nono Cretz runs a secret Kingslayer card game for low stakes in the basement of her cozy split-level cottage home. She is more welcoming of outsiders than most but tries to size newcomers up before inviting them to her table, usually by challenging them to a quick game in The Far From Home.
 
-**## Life in Storsa's Strand
+ ## Life in Storsa's Strand
 
-Inhabited primarily by Human and Kivahr families who make their living farming and fishing, Storsa's Strand was once known as a welcoming place filled with happy people who loved to fish and relax. In recent years, however, something unsettling has crept over the hamlet; the people seem struck by a general sense of depression, making them more morose and glum. Most continue to do their best to stay cheerful, and their religious festivals of the sun are some of the few times when the old charm and cheerfulness of the settlement reveals itself once more.
+ Inhabited primarily by Human and Kivahr families who make their living farming and fishing, Storsa's Strand was once known as a welcoming place filled with happy people who loved to fish and relax. In recent years, however, something unsettling has crept over the hamlet; the people seem struck by a general sense of depression, making them more morose and glum. Most continue to do their best to stay cheerful, and their religious festivals of the sun are some of the few times when the old charm and cheerfulness of the settlement reveals itself once more.
 
-### Culture
+ ### Culture
 
-Storsa's Strand is a beautiful, quaint, and seemingly undisturbed hamlet of Arcturian heritage and culture. Its people are generally friendly to outsiders, and they have maintained the same buildings since they were built hundreds of years ago, living peaceful lives for generations.
+ Storsa's Strand is a beautiful, quaint, and seemingly undisturbed hamlet of Arcturian heritage and culture. Its people are generally friendly to outsiders, and they have maintained the same buildings since they were built hundreds of years ago, living peaceful lives for generations.
 
-Religion in Storsa's Strand is fairly concentrated on Lantyr, with festivals, nightly rituals, and many different practices that involve light and fire. This ardent belief has become more intense in recent years among the people of the hamlet, who believe that their worship of Lantyr is the only thing holding back a more serious mental toll. A large central shrine, made of carefully woven metal strands, lies in the center of the village with a hollow core; it is often filled with wood, and a bonfire is lit during nightly rituals.
+ Religion in Storsa's Strand is fairly concentrated on Lantyr, with festivals, nightly rituals, and many different practices that involve light and fire. This ardent belief has become more intense in recent years among the people of the hamlet, who believe that their worship of Lantyr is the only thing holding back a more serious mental toll. A large central shrine, made of carefully woven metal strands, lies in the center of the village with a hollow core; it is often filled with wood, and a bonfire is lit during nightly rituals.
 
-### Defense
+ ### Defense
 
-There are no military forces in the hamlet to speak of; the population is far too low. However, the Lowd Family has lived in the settlement for several generations and has often stepped in to solve local problems with aggressive animals or creatures when necessary. That protection has now faded away after Kendral Lowd retired and his two children went missing.
+ There are no military forces in the hamlet to speak of; the population is far too low. However, the Lowd Family has lived in the settlement for several generations and has often stepped in to solve local problems with aggressive animals or creatures when necessary. That protection has now faded away after Kendral Lowd retired and his two children went missing.
 
-### Politics
+ ### Politics
 
-The small hamlet is completely self-governing, and while the people generally show deference to the older generations, no one in the settlement is technically in charge.
+ The small hamlet is completely self-governing, and while the people generally show deference to the older generations, no one in the settlement is technically in charge.
 
-### Lore
+ ### Lore
 
-Storsa's Strand has stood for several hundred years and was named after the renowned Arcturian ranger Storsa Mondain, the celebrated traveler who first settled here following her decades of loyal service to Ordain's Trading Houses. Her original lodge was transformed into The Far From Home inn to preserve it. There are rumors that there may be artifacts from her days on the Arctus Plateau hidden somewhere in the house, though no one knows where.**
+ Storsa's Strand has stood for several hundred years and was named after the renowned Arcturian ranger Storsa Mondain, the celebrated traveler who first settled here following her decades of loyal service to Ordain's Trading Houses. Her original lodge was transformed into The Far From Home inn to preserve it. There are rumors that there may be artifacts from her days on the Arctus Plateau hidden somewhere in the house, though no one knows where.

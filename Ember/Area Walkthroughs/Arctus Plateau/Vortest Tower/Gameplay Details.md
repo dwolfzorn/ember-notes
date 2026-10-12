@@ -67,7 +67,7 @@ Encounters in Signara are subject to the following metaphysical changes and effe
 >
 > Any mortal humanoid who spends enough time in Signara — including the transdimensional Signaran pocket accessed by Vortest Tower — is likely to encounter the threat of otherworldly hallucinations.
 >
-> The first time a character sets foot in the otherworldly realm of Signara and every 4 hours after their arrival, they must face **Psychic Drift (Hazard 6, Willpower, Morale, Harmless)**, and if affected by this hazard, they succumb to the effects of Otherworldly Hallucinations.
+> The first time a character sets foot in the otherworldly realm of Signara and every 4 hours after their arrival, they must face **Psychic Drift (Hazard 6)**, and if affected by this hazard, they succumb to the effects of Otherworldly Hallucinations.
 >
 > - Signborn characters and characters with Attunement: Signara cause this hazard to have **-2 Banes**.
 > - Characters who are not hit by this hazard are immune to the effects of Otherworldly Hallucinations until the next dusk.

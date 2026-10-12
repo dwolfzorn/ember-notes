@@ -16,7 +16,7 @@ This market stall is the business place of the Signborn cobbler Narro Pinz, who 
 > [!info] Social
 > #### Conversation with the Shopkeep
 >
-> **Narro Pinz (Lawful Good, Ordani Signborn, They/Them)**
+> **Narro Pinz (Lawful Good, Ordani Signborn, they/them)**
 >
 > This industrious shoemaker never sits still while working the four corners of their stall, all four Signborn hands working as fast as they possibly can. Narro talks almost as fast as they work, and believes that "good enough" is the enemy of perfect.
 >

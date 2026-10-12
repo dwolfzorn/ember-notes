@@ -30,7 +30,7 @@ As the party investigates the sounds of war horn and marching feet, they encount
 >
 > Level 5 · Human Protector
 >
-> ![Burnished Hand Protector](../../../assets/image026.webp)
+> ![Burnished Hand Protector](../../../assets/image027.webp)
 >
 > You regard a heavily-armored Ordani warrior, whose bronze splint mail gleams with a gorgeous russet luster. A symmetrical crimson hand with the roots of an oak tree decorates this soldier's chest piece, and the well-oiled longsword at their side looks poised and ready for action.
 
@@ -39,7 +39,7 @@ As the party investigates the sounds of war horn and marching feet, they encount
 >
 > Level 8 (Boss) · Human Fighter
 >
-> ![Steros Kraver](../../../assets/image115.webp)
+> ![Steros Kraver](../../../assets/image146.webp)
 >
 > This remarkably spruce warrior is clad in an impressive suit of aged bronze armor. The etching of a symmetrical crimson hand with roots like an ancient oak is emblazoned on the breast piece, and a lavish fur cloak is draped upon the matching pauldrons. A shock of long white hair frames this bearded soldier's handsome face, which is decorated with utter discernment. He wields a mighty greataxe as tall as he is, and equally as deadly.
 
@@ -48,7 +48,7 @@ As the party investigates the sounds of war horn and marching feet, they encount
 >
 > If the party members wish to determine how familiar they are with the [[Burnished Hand]] and their historical ties to the [[Cindaric Sages]], the following skill checks can provide some perspective on what they know:
 >
-> **Society (DC 13)** The character has knowledge of the Burnished Hand's history as protectors of the Cindaric Sages, and that they both have significant holdings in [[Ordain]], such as their residence at the Rusted Fortress on [[Bura Island]], and their adherence to ritualistic [[Oaken]] technique. Early generations of the Burnished Hand included [[Vrjnhar]] warriors and clerics amongst their ranks.
+> **Society (DC 13)** The character has knowledge of the Burnished Hand's history as protectors of the Cindaric Sages, and that they both have significant holdings in [[Ordain]], such as their residence at the [[Unknown]] on [[Bura Island]], and their adherence to ritualistic [[Oaken]] technique. Early generations of the Burnished Hand included [[Vrjnhar]] warriors and clerics amongst their ranks.
 >
 > - **Critical Success**: The white-haired warrior that leads this group is known as Steros Kraver, and his reputation with his greataxe is nearly as large as the massive axe itself.
 >

@@ -18,7 +18,7 @@ tags: [ember, quests]
 > - Discover five macabre artworks illustrated by Gedron Tath that ominously depict the various murders in Skybrush.
 > - Acquire one of the accursed Varùn artifacts, potentially becoming afflicted by the curse itself.
 >
-> This Event is depicted using the "Snowy Ledge" Level of the [[Vista: Wedgelands]] Vista.
+> This Event is currently depicted using the "Snowy Ledge" Level of the [[Vista: Wedgelands]] Vista. A custom Level will be added at a later time.
 
 Clues gained during the party's first trip to Skybrush should inevitably lead them a mile south from town to investigate the remote domicile of **Gedron Tath** (Chaotic Neutral, Arcturian Kivahr, he/him) — an eccentric illustrator and sculptor who purchased a cursed Varùn ring from Liestra Grann. Here, the partyencounter more than they bargained for, and gather telling evidence about the grim forces motivating the situation in Skybrush.
 

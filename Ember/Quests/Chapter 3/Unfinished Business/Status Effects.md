@@ -20,7 +20,7 @@ tags: [ember, quests]
 >
 > #### Prerequisites
 >
-> [[Agraband Swift]] must be a member of the [[Party]] for this Event to occur.
+> [[Agraband Swift]] must be a member of the [[DreamTeam]] for this Event to occur.
 >
 > #### Area Walkthrough
 >
@@ -58,28 +58,28 @@ Once they gain entrance to The Pit Trap's interior, Agraband and the party must 
 >
 > Level 1 · Unknown Unknown
 >
-> ![Zira Hestidero](../../../assets/image060.webp)
+> ![Zira Hestidero](../../../assets/image061.webp)
 
 > [!abstract] Jorey Swift
 > **[[Jorey Swift]]**
 >
 > Level 1 · Unknown Unknown
 >
-> ![Jorey Swift](../../../assets/image061.webp)
+> ![Jorey Swift](../../../assets/image062.webp)
 
 > [!abstract] Undaunted Adept
 > **[[Undaunted Adept]]**
 >
 > Level 1 · Unknown Unknown
 >
-> ![Undaunted Adept](../../../assets/image056.webp)
+> ![Undaunted Adept](../../../assets/image057.webp)
 
 > [!abstract] Undaunted Trainee
 > **[[Undaunted Trainee]]**
 >
 > Level 1 · Unknown Unknown
 >
-> ![Undaunted Trainee](../../../assets/image057.webp)
+> ![Undaunted Trainee](../../../assets/image058.webp)
 
 ### Murder on the Dance Floor
 

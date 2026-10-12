@@ -13,7 +13,7 @@ tags: [ember, guides]
 >
 > The material presented on this page differs depending on whether you are playing using the *Dungeons & Dragons* or *Crucible* game system.
 
-Because of the unique nature of the Ember setting, there are certain limitations or features of the various [[Magical Forces]] which govern the cosmos that differ from other popular fantasy settings. Some of these important nuances are described below.
+Because of the unique nature of the Ember setting, there are certain limitations or features of the various Magical Forces which govern the cosmos that differ from other popular fantasy settings. Some of these important nuances are described below.
 
 ## Magical Runes
 

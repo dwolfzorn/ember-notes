@@ -22,9 +22,11 @@ tags: [ember, quests]
 > [!abstract] Triss Carpel
 > **[[Triss Carpel]]**
 >
-> Level 1 · Unknown Unknown
+> Level 3 · Thornling Druid
 >
-> ![Triss Carpel](../../../assets/image167.webp)
+> ![Triss Carpel](../../../assets/image197.webp)
+>
+> The thornling before you doesn't seem to ever stop moving, whether she's crouching down to look at the height of the grass, scanning the landscape around them, or walking softly but determinedly to take care of something, somewhere. Somehow, despite the constant motion, there a sense of peace around her that makes all of the activity seem less frantic and more like something that is simply necessary, like the coming of the tides or the rising of the sun.
 
 > [!quote] Read Aloud
 > As you take in the scene, a willowy Thornling runs towards you, a garland of flowers in their outstretched hands.

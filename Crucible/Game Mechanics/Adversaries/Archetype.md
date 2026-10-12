@@ -2,8 +2,8 @@
 title: "Archetype"
 journal: "Game Mechanics / Adversaries"
 source_uuid: "JournalEntry.b8f1AqQKQd4c6GTL"
-type: ember.lore
-tags: [ember, game-mechanics]
+type: crucible.lore
+tags: [crucible, game-mechanics]
 ---
 
 # Archetype

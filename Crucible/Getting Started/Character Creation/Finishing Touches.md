@@ -1,9 +1,9 @@
 ---
 title: "Finishing Touches"
 journal: "Getting Started / Character Creation"
-source_uuid: "JournalEntry.igKBi3RspoK5ZYhH"
-type: ember.lore
-tags: [ember, getting-started]
+source_uuid: "JournalEntry.nQQXDSIRfmWKtBcZ"
+type: crucible.lore
+tags: [crucible, getting-started]
 ---
 
 # Finishing Touches

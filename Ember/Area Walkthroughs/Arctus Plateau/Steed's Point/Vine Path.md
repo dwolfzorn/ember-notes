@@ -34,7 +34,7 @@ The overgrown alleyway here is fitted with a magical Entangling Vine Trap that c
 >
 > Any character who moves through the area must make a successful **Athletics (DC 16)** check or trigger the trap. A creature doesn't need to step on the ground to trigger the trap; the brambles and vines can detect intruders up to a height of 5 feet.
 >
-> Any creature in the area when the trap is triggered suffers **Barbed Thorns (Hazard 3, Reflex, Health, Piercing)** and are **Restrained** until the trap resets. A Restrained creature can take an action to make a **Athletics (DC 15)** check to free frees itself from the entangling vines and is no longer Restrained by them
+> Any creature in the area when the trap is triggered suffers **Barbed Thorns (Hazard 3)** and are **Restrained** until the trap resets. A Restrained creature can take an action to make a **Athletics (DC 15)** check to free frees itself from the entangling vines and is no longer Restrained by them
 >
 > The trap resets each morning at dawn. The [[Gore Bird Ravage]] infesting neighboring areas make short work of any living creature who gets caught here for very long.
 
@@ -45,7 +45,7 @@ Once one or more characters are caught in the vine trap the nearby Jurtak will t
 >
 > Level 4 · Jurtak Berserker
 >
-> ![Jurtak Warrior](../../../assets/image084.webp)
+> ![Jurtak Warrior](../../../assets/image093.webp)
 >
 > You behold a lean, six-eyed saurian creature, its body clad in fragments of bone and its scales glinting in the dim light. The acrid scent of poison tinges the air, dripping from the bone blade held in its clawed hands. Its long, semi-prehensile tail moves with a predator's anticipation, and a forked tongue flicks across twisted lips as its eyes fix upon you with a predatory malice.
 
@@ -54,7 +54,7 @@ Once one or more characters are caught in the vine trap the nearby Jurtak will t
 >
 > Level 3 · Jurtak Brigand
 >
-> ![Jurtak Hunter](../../../assets/image085.webp)
+> ![Jurtak Hunter](../../../assets/image094.webp)
 >
 > Lurking at the boundary of shadow and light, this lithe saurian creature's six piercing eyes gleam with a dreadful intelligence. At the ready, it cradles a bow lashed together from wood and bone, strung with taut sinews. Adorned in skeletal remnants, it appears equal parts hunter and horror.
 

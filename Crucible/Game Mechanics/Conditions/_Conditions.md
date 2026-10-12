@@ -2,7 +2,7 @@
 title: "Conditions"
 aliases: ["Conditions"]
 journal: "Game Mechanics / Conditions"
-tags: [ember, game-mechanics, index]
+tags: [crucible, game-mechanics, index]
 ---
 
 # Conditions

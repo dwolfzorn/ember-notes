@@ -1,12 +1,12 @@
 ---
-title: "V'Mar"
+title: "V'mar"
 journal: "Setting Compendium / Bestiary"
 source_uuid: "JournalEntry.emberBestiary000"
 type: ember.lore
 tags: [ember, setting-compendium]
 ---
 
-# V'Mar
+# V'mar
 
 #### Under Construction
 

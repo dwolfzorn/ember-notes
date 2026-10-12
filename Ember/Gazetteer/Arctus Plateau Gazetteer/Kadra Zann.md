@@ -11,12 +11,12 @@ tags: [ember, gazetteer]
 > [!warning] Gamemaster
 > #### Gamemaster's Summary
 >
-> This location exists at ⬢ s.3194.2913 in the [[Bloodwoods]], northwest of [[Talei]].
+> This location exists at ⬢ s.3192.2912 in the [[Bloodwoods]], northwest of [[Talei]].
 >
-> - This location can be explored within the Kadra Zann Area Map.
-> - This location is featured in `[[/eventState rubyGroveShadows]]`.
+> - This location can be explored within the [[Kadra Zann]] Area Map.
+> - This location is featured in [[Where Shadows Lie]].
 
-Kadra Zann is an ancient [[Shent]] ruin nestled in a mountainous pocket of the Bloodwoods north of Talei, and was once a temple to the forgotten [[Sentina]] god known as Zor-Thal, The Builder. Overrun by amerasp nests and their insectoid ilk, this clandestine place now serves as the secret headquarters for the mad druid Kyrban and his Doomsayers — heralds of [[The Silent Pack]] who aim to transplant a portion of Primordis to Ember itself, and usher in a new age of fey influence on the living planet.
+Kadra Zann is an ancient [[Shent]] ruin nestled in a mountainous pocket of the Bloodwoods north of Talei, and was once a temple to the forgotten [[Sentina]] god known as Zor-Thal, The Builder. Overrun by amerasp nests and pernicious Bloodwoods foliage, this clandestine place now serves as the secret headquarters for the mad druid Kyrban and his Doomsayers — heralds of [[The Silent Pack]] who aim to transplant a portion of [[Primordis]] to Ember itself, and usher in a new age of fey influence.
 
 ### Environment
 
@@ -24,7 +24,7 @@ Most of the stonework and landscape surrounding the main edifice of Kadra Zann h
 
 ### Ecology
 
-For time uncounted, Kadra Zann sat forgotten and abandoned, so the only wildlife that frequented the area was that of the Bloodwoods and nearby [[Wedgelands]] — and even those creatures were hesitant to prowl the ancient ruins of the place out of some untenable, primal fear. Now, thanks to the influence of Kyrban and his Doomsayers, Kadra Zann is a thriving home for various flora and fauna that participate in the hypernaturalistic Doomsayer ecosystem. These include typical Bloodwoods wildlife alongside novel amerasp kin, monstrous leshies, and fey graylings. Meanwhile, the Doomsayers have cultivated a few plants of Primordis that aren't normally encountered on Ember, like the gadha flower, grav root, and the malevolent Primordial Tree that grows within the Kadra Zann catacombs.
+For time uncounted, Kadra Zann sat forgotten and abandoned, so the only wildlife that frequented the area was that of the Bloodwoods and nearby [[Wedgelands]] — and even those creatures were hesitant to prowl the ancient ruins of the place out of some untenable, primal fear. Now, thanks to the influence of Kyrban and his Doomsayers, Kadra Zann is a thriving home for various flora and fauna that participate in the hypernaturalistic Doomsayer ecosystem. These include typical Bloodwoods wildlife alongside amerasps and fey graylings. Meanwhile, the Doomsayers have cultivated a few plants of Primordis that aren't normally encountered on Ember, like the gadha flower, grav root, and the malevolent Shadebranch that grows within Kadra Zann's lowest level.
 
 ### Lore
 

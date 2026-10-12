@@ -34,7 +34,7 @@ The party is attacked by a juvenile suarrok. This strange monstrosity is likely 
 >
 > Level 4 (Elite) · Winged Terror Suarrok
 >
-> ![Suarrok Juvenile](../../../assets/image066.webp)
+> ![Suarrok Juvenile](../../../assets/image067.webp)
 >
 > This creature is an unsettling thing, a strange mixture of bird and lizard, with massive, bat-like wings fringed with trailing feathers. A long, sinuous neck that coils and moves like a serpent holds a massive head with menacing, serrated beak that's perfectly designed for tearing through flesh. On this head rests a single, enormous eye that glows ominously, and as its gaze sweeps over you, a wash of stinging heat can be felt.
 
@@ -47,11 +47,11 @@ The party is attacked by a juvenile suarrok. This strange monstrosity is likely 
 >
 > The [[Suarrok Juvenile]] begins combat by landing near the party.
 >
-> At the start of combat, the Suarrok Juvenile will use its [[Searing Stare]] to inflict the most threatening enemy with the **Broken** condition.
+> At the start of combat, the Suarrok Juvenile will use its [[Searing Stare]] to inflict the most threatening enemy with the **Blinded** condition.
 >
 > Over the course of combat, the Suarrok Juvenile will prioritize the following actions and abilities:
 >
-> - In melee, the Suarrok Juvenile will use its [[Swooping Strike]] and [[Raking Talons]] actions.
+> - In melee, the Suarrok Juvenile will use its [[Swooping Strike]] and [[Unknown]] actions.
 > - The Suarrok Juvenile uses its [[Elusive Flight]] talent to make hit-and-run attacks.
 >
 > The battle ends when the Suarrok Juvenile is **Weakened** or **Broken**, at which point it attempts to flee. Alternatively, if this is the same Suarrok Juvenile from the [[Aedir Signalpost]], it will instead fight to the death, maddened at its nest being defiled.

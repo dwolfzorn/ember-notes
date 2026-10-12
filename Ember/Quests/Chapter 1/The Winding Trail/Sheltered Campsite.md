@@ -57,9 +57,9 @@ tags: [ember, quests]
  > [!abstract] Agraband Swift
 > **[[Agraband Swift]]**
 >
-> Level 3 · Human Caravaneer
+> Level 3 · Human Bard
 >
-> ![Agraband Swift](../../../assets/image148.webp)
+> ![Agraband Swift](../../../assets/image178.webp)
 >
 > A lute is slung across the back of this aged human clad in an odd yet practical assortment of clothing and jewelry. The seasoned bard wears the salt-and-pepper locks of his long hair pulled back into a high half ponytail. His wide smile and calm demeanor lend him an air of experienced confidence, and a certain glint in his eye evokes the mirthful spirit of a beloved uncle. It's clear this man could spin a worthy tale at a moment’s notice.
 
@@ -218,7 +218,7 @@ tags: [ember, quests]
  > [!warning] Gamemaster
 > #### Long Rest
 >
->  When the party is ready to rest, you may click the **Rest** button on the [[Party]] sheet to recover resources and advance time to the following morning.
+>  When the party is ready to rest, you may click the **Rest** button on the [[DreamTeam]] sheet to recover resources and advance time to the following morning.
 
  > [!quote] Read Aloud
 > As night settles over the caravan, the last of the activity dies down, leaving you to sit in relative peace and quiet. Here and there lanterns glimmer in the dark, and sentries sit on watch, perched high on wagon seats, looking for trouble, but little else is happening worthy of note.
@@ -303,7 +303,7 @@ tags: [ember, quests]
 >
 > Level 2 · Drakon Veiled Chain Investigator
 >
-> ![Ankarist](../../../assets/image099.webp)
+> ![Ankarist](../../../assets/image120.webp)
 >
 > You observe a stern Drakon warrior with a determined expression and piercing golden eyes. Clad in leather armor reinforced with steel, his martial prowess is immediately apparent in the way he handles the hefty greatsword at his side — a hulking blade with a wide, flared tip. This two-handed brand is obviously venerated by the Drakon, who regards the blade with marked discipline. A cloak pin on his breast bears the symbol of the Veiled Chain, the city of Ordain's noble protectorate.
 

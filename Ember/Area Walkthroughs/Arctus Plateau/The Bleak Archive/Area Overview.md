@@ -32,7 +32,7 @@ The Bleak Archive features a single Level, whose rooms organized into four secti
 
 The ceilings within the Bleak Archive are 30 feet high, unless otherwise stated.
 
-In some cases, a pit descends into darkness. These depths are 40 feet deep. Any creature that falls from the main floor or a metallic platform to the pit floor suffers a **Serious Fall (Hazard 12, Fortitude, Health, Bludgeoning)**. Climbing the pit walls requires a successful **Athletics (DC 16)** check.
+In some cases, a pit descends into darkness. These depths are 40 feet deep. Any creature that falls from the main floor or a metallic platform to the pit floor suffers a **Serious Fall (Hazard 12)**. Climbing the pit walls requires a successful **Athletics (DC 16)** check.
 
 ### Illumination
 
@@ -76,4 +76,4 @@ A mirror array puzzle located throughout the Bleak Archive is responsible for re
 >
 > Whenever a [[Corrupted Cadrithor]] is struck by one of the beams, it is instantly destroyed — leaving naught but a wisp of tenebrous smoke in its wake.
 >
-> Any creatures with a sensitivity to sunlight or with a weakness to Radiant damage that are struck by the beam suffer **Searing Light (Hazard 11, Fortitude, Health, Radiant)**.
+> Any creatures with a sensitivity to sunlight or with a weakness to Radiant damage that are struck by the beam suffer **Searing Light (Hazard 11)**.

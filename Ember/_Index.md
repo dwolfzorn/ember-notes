@@ -10,13 +10,17 @@ title: Ember Index
 
 - [[Arcturel Dives]]
 - [[Arcturel Tradeway]]
+- [[Citadel of Fire]]
 - [[Corpin Sanctuary]]
 - [[Jekeroka Villa]]
+- [[Kadra Zann]]
 - [[Lake Jinro Lunar Shrine]]
 - [[Mythspire Observatory]]
 - [[Oldcraft Lodge]]
 - [[Steed's Point]]
+- [[Temple of the Tides]]
 - [[The Bleak Archive]]
+- [[Tomb of the Unifiers]]
 - [[Ushna Dredging Docks]]
 - [[Vortest Tower]]
 
@@ -97,6 +101,8 @@ title: Ember Index
 ### Chapter 4
 
 - [[Disturbed Earth]]
+- [[Ruby Grove]]
+- [[The Flood and the Flame]]
 
 ## Setting Compendium
 
@@ -118,3 +124,4 @@ title: Ember Index
 - [[Chapter 1 Events]]
 - [[Chapter 2 Events]]
 - [[Chapter 3 Events]]
+- [[Chapter 4 Events]]

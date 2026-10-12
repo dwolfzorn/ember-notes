@@ -23,6 +23,9 @@ npm run serve   # stages content, builds the site + search index, serves at loca
 npm run build   # same, without the dev server (output in public/)
 npm run check   # tsc + prettier over the project's own code
 npm run smoke   # asserts known queries still rank correctly (run after build)
+npm test           # unit tests for the site code (see "Tests" below)
+npm run test:py    # converter tests (needs Python 3 + beautifulsoup4)
+npm run test:site  # contract tests over the built site (run after build)
 ```
 
 A build is two steps: `scripts/prepare-content.mjs` stages the vault into a
@@ -74,6 +77,49 @@ own pages, and pages not listed in any journal index fall back to
 alphabetical order after the listed ones. Like the semantic search index,
 this is computed once when the config loads, so a running `--serve` session
 won't pick up journal index edits until restarted.
+
+## Tests
+
+All project tests live in `tests/`. JS/TS tests use Node's built-in test
+runner (`node:test`, via `tsx`); the converter tests use Python's built-in
+`unittest`, so neither needs an extra test framework. CI
+(`.github/workflows/deploy.yml`) runs all of them before every deploy, and a
+failure blocks the deploy.
+
+| Command             | File                                  | Covers                                                                                                                                                                                                  |
+| ------------------- | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `npm run test:py`   | `tests/test_convert_foundry_notes.py` | `convert-foundry-notes.py`: HTML -> Markdown for every supported tag/callout/embed, page/index/root-index output, asset copying, `--clean` scoping, determinism, CLI                                    |
+| `npm test`          | `tests/folderOrder.test.ts`           | Journal-index page order (`buildFolderOrder`), the sidebar sort (`explorerSortFn`, incl. its serialize/rebuild round trip), and folder-page sort (`byFolderOrder`)                                      |
+|                     | `tests/semanticSearch.test.ts`        | Embedding helpers (`quantize`, `embedNormalized`), the `SemanticSearchIndex` emitter (corpus partitioning, index format, manifest), and the `SemanticSearchRuntime` emitter (self-hosted model/runtime) |
+|                     | `tests/prepareContent.test.ts`        | `scripts/prepare-content.mjs` staging into `content/`                                                                                                                                                   |
+|                     | `tests/skills.test.ts`                | The Claude Code skills load, and the vault files they read (e.g. `Ember/Campaign Status.md`) exist                                                                                                      |
+|                     | `quartz/**/*.test.ts`                 | Upstream Quartz unit tests                                                                                                                                                                              |
+| `npm run test:site` | `tests/site/builtSite.test.ts`        | The built `public/` site: index <-> model <-> client agree, every search result links to a real page, the search page has the elements the client needs, and no page loads external resources           |
+| `npm run smoke`     | `scripts/smoke-search.ts`             | Known queries still rank the expected page first                                                                                                                                                        |
+
+`npm test` loads the real embedding model. The first run downloads it
+(~25 MB) into `.cache/transformers`; later runs reuse it.
+
+### Keeping the tests up to date
+
+When you add or change functionality, update the tests in the same change:
+
+- **New behaviour in an existing component**: add a case to that
+  component's test file in the table above (e.g. a new HTML tag or callout
+  type in the converter -> a test in `test_convert_foundry_notes.py`).
+- **New script, emitter, or utility**: add `tests/<name>.test.ts` (or
+  `tests/test_<name>.py` for Python). `npm test` and `npm run test:py` pick
+  up new files automatically. Add a row to the table above.
+- **Anything that only shows up in the built site** (new pages, client
+  scripts, published assets): add a check to `tests/site/builtSite.test.ts`.
+- **Search quality**: add a query to `scripts/smoke-search.ts`.
+- **New skill in `.claude/skills/`**: `tests/skills.test.ts` checks its
+  frontmatter automatically. If the skill depends on a hand-written vault
+  file, add that file to the test.
+- Bug fix: add a test that fails without the fix.
+
+Run `npm test`, `npm run test:py`, and `npm run check` before pushing. After
+`npm run build`, also run `npm run test:site` and `npm run smoke`.
 
 ## Session prep (Claude Code)
 
@@ -131,8 +177,13 @@ in Step 1 — the folder name matches what you exported, e.g. `Ember` or
 - `--input` - the extracted export folder from Step 1 (contains `journals/` and `assets/`).
 - `--output` - the vault folder (`.` = this project folder).
 - `--source` - the name of the top-level folder for this source (`Ember` or `Crucible`).
-- `--clean` - wipes only that source's folder before regenerating, so stale
-  pages/assets from a previous export don't linger.
+- `--clean` - removes that source's previously generated notes and its
+  `assets/` folder before regenerating, so stale pages/assets from a previous
+  export don't linger. Hand-written notes (such as `Ember/Campaign Status.md`)
+  are kept: a note counts as generated only if its frontmatter has a
+  `journal:` key, which the converter always writes and hand-written notes
+  never have. Don't put your own images in `assets/`; it's replaced on every
+  run.
 
 You only need to run the command for the source you re-exported — there's
 no need to redo both every time.
@@ -153,6 +204,9 @@ Each source folder (`Ember/`, `Crucible/`) contains:
     here).
   - `<Page Name>.md` - one note per journal page.
 - `assets/` - images referenced by this source's journals.
+
+Generated notes are tagged with their source (`ember` or `crucible`) and
+category, e.g. `tags: [crucible, game-mechanics]`.
 
 ## Backlinks
 

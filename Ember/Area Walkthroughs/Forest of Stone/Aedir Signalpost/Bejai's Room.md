@@ -32,4 +32,4 @@ If characters touch the illuminated cube, it glows more strongly and plays a mes
 > [!danger] Hazard
 > #### Parting Jab
 >
-> As the recording ends, the cube pulses brightly and sends out a blast of force energy. All characters in the room suffer the effects of a **Forceful Blast (Hazard 5, Fortitude, Health, Bludgeoning)**.
+> As the recording ends, the cube pulses brightly and sends out a blast of force energy. All characters in the room suffer the effects of a **Forceful Blast (Hazard 5)**.

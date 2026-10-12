@@ -65,7 +65,7 @@ Once the party gains access to the apartment interior, they have a brief moment 
 >
 > Level 1 · Unknown Unknown
 >
-> ![Harrower](../../../assets/image118.webp)
+> ![Harrower](../../../assets/image149.webp)
 
 > [!danger] Hazard
 > #### Harrower Tactics

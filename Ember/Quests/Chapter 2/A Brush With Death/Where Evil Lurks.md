@@ -46,21 +46,21 @@ Once the party reaches the Bleak Archive's True Vault, they must contend with th
 >
 > Once Tethra Shùl has been defeated in combat, her worldly remains must be destroyed or consecrated via one of the following methods:
 >
-> Tethra Shùl's worldly remains are imbued with a persistent enchantment from @Spell[spell.death.aura.influence].
+> Tethra Shùl's worldly remains are imbued with a persistent enchantment from **Extended Aspect of Death**.
 >
-> - **Destroying the Remains:** The remains can be destroyed by dealing 33 points of magical damage to the remains. If the remains are destroyed, all creatures within 30 feet experience **Necrotic Wave (Hazard 4, Fortitude, Health, Corruption)** and **Abyssal Screams (Hazard 4, Willpower, Morale, Void)**. Characters who take damage this way are subject to the effects of a [[Minor Abyssal Madness]].
+> - **Destroying the Remains:** The remains can be destroyed by dealing 33 points of magical damage to the remains. If the remains are destroyed, all creatures within 30 feet experience **Necrotic Wave (Hazard 4)** and **Abyssal Screams (Hazard 4)**. Characters who take damage this way are subject to the effects of a [[Minor Abyssal Madness]].
 > - **Dispelling the Remains:** The remains can be dispelled using a ritual to counterspell the effect, through **Counterspell (Death, Influence, Negate, DC 16)**. Dispelling the remains effectively consecrates them for the purposes of the Consecration outcome.
 >   - The nature of the enchantment can be recognized with **Talent: Recognize Spellcraft**.
 >   - Attempts to dispel using the **Life** rune gain +2 Boons.
 >   - Attempts to dispel using the **Death** rune suffer +2 Banes.
 
-#### Heart Attunement: Warlock's Remains Consecrated
-
-If the characters cleanse the Bleak Archive by consecrating Tethra Shùl's remains, each character advances their **Attunement: Heart of Ember (+1)** at the conclusion of the Event.
-
 #### Cora Attunement: Warlock's Remains Destroyed
 
 If the characters cleanse the Bleak Archive by destroying Tethra Shùl's remains, each character advances their **Attunement: Cora (+1)** at the conclusion of the Event.
+
+#### Heart Attunement: Warlock's Remains Consecrated
+
+If the characters cleanse the Bleak Archive by consecrating Tethra Shùl's remains, each character advances their **Attunement: Heart of Ember (+1)** at the conclusion of the Event.
 
 `[[/outcome cleansed]]`
 
@@ -92,6 +92,11 @@ Once the worldly remains of Tethra Shùl have been cleansed — via consecration
 ### Seizing the Finger of Nethehepticas
 
 Whether or not anyone the party takes possession of the [[Finger of Nethehepticas]] while looting the [[True Vault]] of the Bleak Archive affects both any individual who chooses to take possession, and the story that the party will face ahead.
+
+> [!danger] Hazard
+> #### Holding the Finger
+>
+> The [[Finger of Nethehepticas]] is an incredibly cursed artifact that changes a player's attunement levels in addition to slowly corrupting them over time. While not yet implemented, anyone who continues to hold this item during the course of Chapter 4 and the Quest Horror Rising will face some particularly perilous situations.
 
 #### Abyss Attunement: Strange Relic
 

@@ -122,16 +122,16 @@ Once the agitators have been contacted, they can be spoken with to gain insight 
 
 ### Helping the Agitators
 
-Characters wanting to help the people being detained will need to speak with the Burnished Hand officer.
+**Characters wanting to help the people being detained will need to speak with the Burnished Hand officer.**
 
 **Kabiro Klark (Neutral Good, Ordani Human, he/him)**
 
 The burly, steely-eyed Burnished Hand officer is straight-backed and severe. The is a career monster hunter, practically having grown up in the Burnished Hand. He is loyal to them to a fault, and considers his duty to the Burnished Hand and the Arctus Plateau a calling.
 
-> [!info] Social
+**> [!info] Social
 > #### Reading Kabiro
 >
-> A successful **Deception (DC 14)** check allows a character to get a general read on Kabiro's personality. Generally speaking he's a career military man, or as close as a Burnished Hand warrior gets to being one. He takes himself, his position, and his duties incredibly seriously.
+> **A successful **Deception (DC 14)** check allows a character to get a general read on Kabiro's personality. Generally speaking he's a career military man, or as close as a Burnished Hand warrior gets to being one. He takes himself, his position, and his duties incredibly seriously.
 >
 > - **Result of 16+** He comes off as humorless, and stubborn, but seems to mean well.
 >
@@ -139,7 +139,7 @@ The burly, steely-eyed Burnished Hand officer is straight-backed and severe. The
 >
 > A successful **Deception (DC 14)** while watching the rest of the Burnished Hand warriors allows a character to notice that with the chaos of the crowds going on around them, their attention is split and scattered. It would be relatively easy to distract them.
 >
-> Characters with **Knowledge: Crime** or **Knowledge: Intrigue** have advantage on the above check and also know that they could easily rile up the crowds to draw more attention, giving the detainees a chance to scatter.
+> Characters with **Knowledge: Crime** or **Knowledge: Intrigue** have advantage on the above check and also know that they could easily rile up the crowds to draw more attention, giving the detainees a chance to scatter.**
 
 #### Mayis Attunement: Helping the Agitators
 
@@ -148,13 +148,13 @@ If the party chooses to help the agitators, each character advances their **Attu
 > [!info] Social
 > #### Riling the Crowd
 >
-> A successful **Diplomacy (DC 15)**, **Deception (DC 14)** or **Intimidation (DC 16)** check can be used to incite the crowd to action. Characters with **Knowledge: Crime** or **Knowledge: Intrigue** have advantage on this check.
+> **A successful **Diplomacy (DC 15)**, **Deception (DC 14)** or **Intimidation (DC 16)** check can be used to incite the crowd to action. Characters with **Knowledge: Crime** or **Knowledge: Intrigue** have advantage on this check.
 >
 > Depending on what the party chooses to do, and how they direct the crowd, this can have several different outcomes:
 >
 > - Directing the crowd's ire at the Burnished Hand for detaining people will result in violence. Stones and punches may be thrown, and the armored warriors will be forced to defend themselves. The ensuing skirmish with the angered crowd will result in them retreating from the area.
 > - Directing the crowd's ire or attention toward the Hayren Arms (such as claiming they are offering first-come-first-served rooms) causes the crowd to rush the hotel, practically bowling over the Burnished Hand in the process, forcing them to redirect their attention, allowing the detainees to escape.
-> - Inciting the refugees and locals to fight causes the Burnished Hand to try and break up the scuffles, creating a diversion necessary for the detainees to dissolve into the crowds, though some of them may decide to join the brawl.
+> - Inciting the refugees and locals to fight causes the Burnished Hand to try and break up the scuffles, creating a diversion necessary for the detainees to dissolve into the crowds, though some of them may decide to join the brawl.**
 
 #### Orbis Attunement: Riling the Crowd
 
@@ -163,7 +163,7 @@ If the party chooses to rile up the crowd, each character advances their **Attun
 > [!danger] Hazard
 > #### Trampling Hazard
 >
-> If the party incites the crowd to violence, they will need to make a successful **Athletics (DC 14)**, **Athletics (DC 14)**, or **Intimidation (DC 14)** check to avoid being shoved around, attacked, or trampled by the crowd. Failure results in `[[/damage 1d6 bludgeoning]]` damage, while failure by 10 or more results in `[[/damage 1d8 bludgeoning]]` damage.
+> If the party incites the crowd to violence, they will need to make a successful **Athletics (DC 14)**, **Athletics (DC 14)**, or **Intimidation (DC 14)** check to avoid being shoved around, attacked, or trampled by the crowd. Failure results in `[[/damage 1d6 bludgeoning]]` damage, while failure by 10 or more results in `[[/damage 1d8 bludgeoning]]` damage.**
 
 ### Reporting Success
 

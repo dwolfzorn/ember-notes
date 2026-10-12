@@ -2,8 +2,8 @@
 title: "Swarms"
 journal: "Game Mechanics / Adversaries"
 source_uuid: "JournalEntry.b8f1AqQKQd4c6GTL"
-type: ember.lore
-tags: [ember, game-mechanics]
+type: crucible.lore
+tags: [crucible, game-mechanics]
 ---
 
 # Swarms
@@ -18,6 +18,6 @@ A **Swarm** represents a single Adversary which is in truth a coordinated mass o
 
 - Maximum **Health** is doubled.
 - Against any single-target source of damage, the swarm gains additional **Resistance** equal to its **Toughness**.
-- The swarm's **Size** decreases as its Health is depleted until reaching a minimum Size of 2.
+- The swarm's **Size** decreases as its **Health** is depleted until reaching a minimum **Size** of 2.
 
    As the Gamemaster, deploying a Swarm challenges the players to adapt and shift their tactical approach. As with other Adversaries, swarms can have different **Threat** tiers to create different types of challenges ranging from minor swarms of **Minion** enemies to a single mega-swarm that is treated as a **Boss**-tier opponent.

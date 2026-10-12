@@ -19,9 +19,11 @@ tags: [ember, quests]
 > [!abstract] Kali Andrella
 > **[[Kali Andrella]]**
 >
-> Level 1 · Unknown Unknown
+> Level 6 · Human Agrimage
 >
-> ![Kali Andrella](../../../assets/image087.webp)
+> ![Kali Andrella](../../../assets/image096.webp)
+>
+> While she is no longer a young woman, the Arcturian in front of you is a study in motion, moving gracefully from one task to the next as if dancing from one side of the room to the other. As she moves, the vines that wrap around her scarred arm also move and sway, almost seeming to reach out next to her fingertips, as if part brace and part magic. The woman's dance is not a light or carefree one, but her movements have determination and purpose. If she eyes the world appraisingly from time to time, she seems more than capable of tackling what it has to offer.
 
 ### Too Busy To Chat
 
@@ -114,7 +116,6 @@ If the party goes up to see Kali, they find her at a makeshift stand in a small 
 >
 > With their talk complete, Kali offers the party something to help their future adventures and travels. Generally, she gives a single portion of [[Growing Thorns]] to the party, but if the party brought her specifically joyful news, she gives them an additional item.
 >
-> - If the party met Moriah, she offers a pouch of Throwing Stones, which have the properties of [[Beads of Force]].
 > - If the party saved Brevin, she adds an [[Alchemist's Toolkit]] and an [[Everbloom]], which she has begun cultivating after getting a seed sent to her by Edivel.
 > - If the party brought news of Rattletrap, she offers a [[Potion of Healing]] and a trinket she found while clearing out Steed's Point that reminds her of him. Roll on the [[Arcturian Trinkets]] table for the item at hand.
 

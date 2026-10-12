@@ -25,7 +25,7 @@ The two women will allow the characters to stay and engage in conversation if th
 > [!tip] Exploration
 > #### Unloading the Boxes
 >
-> The characters can unload the boxes over the course of 30 minutes.
+> A character can help unload the boxes by making a successful **Athletics (DC 12)** check. On a failure, the character drops one of the boxes, causing it to splinter open; Tay reprimands them, and politely refuses any future "help" the character might offer.
 >
 > #### Laria's Cough
 >
@@ -48,13 +48,13 @@ If the characters try to talk to Vilby, they find him unresponsive, focused on t
 >
 > > He hasn't said a word since our village burned down. One of Vilby's best friends went in a separate direction with their family, toward Corpin Sanctuary. I hear they're turning folks away there, so we're hoping the family will head this way next. Vilby's worried about who they'll meet on the road — isn't that right, kid? We figure that's why he's got that stone, to protect us if he needs to.
 >
-> Any character who makes a successful **Performance (DC 14)** or **Diplomacy (DC 14)** check can cheer up Vilby with a rousing story of heroics or a simple reassurance that he'll see his friend again. The boy smiles faintly, then hands the characters his stone.
+> Any character who makes a successful **Performance (DC 14)** or **Diplomacy (DC 14)** check can cheer up Vilby with a rousing story of heroics or a simple reassurance that he'll see his friend again. The boy smiles faintly, then hands the characters his [[Magic Stone]].
 >
 > #### The Group's Journey
 >
 > Once the boxes are unloaded, Tay thanks the characters for their help and rewards them  **1**. She then opens up about their group's journey, which took them to Arcturel not too long ago:
 >
-> > After our village burned at the hands of those horrible bandits, we thought to settle in Arcturel. Mining work is steady, and we don't mind the labor. Plus, a town built in a hole in the ground seems safer in comparison to life aboveground these days.
+> > After our village burned at the hands of those horrible monsters and bandits, we thought to settle in Arcturel. Mining work is steady, and we don't mind the labor. Plus, a town built in a hole in the ground seems safer in comparison to life aboveground these days.
 >
 > She trails off momentarily, as if remembering something unpleasant.
 >

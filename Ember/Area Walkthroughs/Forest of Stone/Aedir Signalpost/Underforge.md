@@ -18,7 +18,7 @@ The humanoid is a Broken Aedir Sentinel. Though it is partially destroyed, it ma
 >
 > Level 4 (Boss) · War Machine Aedir Sentinel
 >
-> ![Broken Aedir Sentinel](../../../assets/image065.webp)
+> ![Broken Aedir Sentinel](../../../assets/image066.webp)
 >
 > This large metal creature once had four arms, but two have eroded, leaving them as crumbling stumps. The remaining arms hold a broad swordlike weapons, one whole and one broken, Both swat at the air in front of the creature as it staggers forward., leaking viscous orange fluid from within its body with every shaky step.
 
@@ -69,7 +69,7 @@ The party can eliminate the construct's access to Alchemical Fluid by turning of
 > [!danger] Hazard
 > #### Heated Valves
 >
-> If a valve is touched without protective equipment (for example, thick gloves), the character who turns it must make a successful **Athletics (DC 13)** check or suffer a **Minor Steam Burn (Hazard 4, Fortitude, Health)**.
+> If a valve is touched without protective equipment (for example, thick gloves), the character who turns it must make a successful **Athletics (DC 13)** check or suffer a **Minor Steam Burn (Hazard 4)**.
 
 Once the construct has been defeated, the party can explore the rest of the room.
 

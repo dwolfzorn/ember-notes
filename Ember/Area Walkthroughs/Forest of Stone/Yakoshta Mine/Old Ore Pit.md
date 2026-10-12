@@ -25,7 +25,7 @@ A young Hulg'run who is shorter than most of the others and has tufts of moss gr
 
 **Danith (Lawful Neutral, Arcturian Hulg'run, he/him)**
 
-A Hulg'run, whose face includes geometric spikes that might resemble piercings on another humanoid, is catching their breath.
+A Hulg'run, whose face includes geometric spikes that might resemble piercings on another humanoid, is catching his breath.
 
 > [!info] Social
 > #### Exhausted Miners

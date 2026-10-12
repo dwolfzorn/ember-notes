@@ -52,9 +52,9 @@ If the party would like, they can engage Clipper and Lyla in conversation, or ex
 > [!abstract] Lyla Cevher
 > **[[Lyla Cevher]]**
 >
-> Level 2 · Human Cevher Heiress
+> Level 2 · Human Operator
 >
-> ![Lyla Cevher](../../../assets/image098.webp)
+> ![Lyla Cevher](../../../assets/image119.webp)
 >
 > A Human who is sharply dressed in a beautiful and richly decorated coat that proudly displays her wealthy background. It's clear from an initial glance at her overall bearing and clothing style that she is from the city of Ordain itself and while she holds herself with a confident air, she is also friendly and welcoming with a slight smile and small laughter lines appearing around her eyes.
 
@@ -122,7 +122,7 @@ If the party would like, they can engage Clipper and Lyla in conversation, or ex
 >
 > Level 2 · Signborn Trader
 >
-> ![Clipper](../../../assets/image155.webp)
+> ![Clipper](../../../assets/image185.webp)
 >
 > You hear the sound of jingling bells as a purple-skinned Signborn with a slight build draws your attention. Crowned in a feathered mop of cerulean- and lavender-streaked hair, this young merchant's bright cobalt eyes and wide, sharp-toothed smile reveal an unmistakable affability.
 >
@@ -131,7 +131,7 @@ If the party would like, they can engage Clipper and Lyla in conversation, or ex
 > [!info] Social
 > #### The Energetic Merchant
 >
-> Clipper is a goodhearted, curious, enterprising, and enthusiastic [[Maziran]] aspiring to mercantile greatness. If asked about why she's in the caravan and where she's headed, she shares a simple portion of her personal story, as presented below.
+> Clipper is a goodhearted, curious, enterprising, and enthusiastic [[Signborn]] aspiring to mercantile greatness. If asked about why she's in the caravan and where she's headed, she shares a simple portion of her personal story, as presented below.
 >
 > Any character who makes a successful **Deception (DC 13)**check understands that all the chaotic energy and endless inquisitiveness that Clipper exudes is absolutely genuine and not for show. Behind all this is a thread of earnest desire to succeed which she tries not to let show too much, possibly to avoid seeming too serious.
 >
@@ -212,7 +212,7 @@ The ancient menhir is a Shent moonstone, a pillar powered by a specific lunar cy
 >
 > #### Offered Assistance
 >
-> If the party fails to recognize the glyphs on the menhir, [[Clipper]] speaks up and cheerfully offers their assistance using their Glyphspeak inflection granted by their [[Signborn Lineage]].
+> If the party fails to recognize the glyphs on the menhir, [[Clipper]] speaks up and cheerfully offers their assistance, translating the glyphs automatically.
 
 When the characters decipher the ancient runes, read or paraphrase the following:
 

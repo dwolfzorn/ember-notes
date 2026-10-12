@@ -61,18 +61,18 @@ Three pits of tar come to life around the party, assembling earth elementals tha
 >
 > Level 3 · Globlin Prankster
 >
-> ![Mud Globlin](../../../assets/image107.webp)
+> ![Mud Globlin](../../../assets/image134.webp)
 >
-> This stout, slumping creature is made from dark gray mud that flows through its vaguely humanoid form in slow, heavy folds. Its surface bubbles and pops as if stirred by some inner heat or foul reaction, sending up wet burps thick with the stench of rotting plants. Where it drags its stubby limbs across the ground, the mud leaves a clinging stain that blackens anything it touches.
+> This stout, slumping creature is made from dark-brown mud that flows through its vaguely humanoid form in slow, heavy folds. Its surface bubbles and pops as if stirred by some inner heat or foul reaction, sending up wet burps thick with the stench of rotting plants. Where it drags its stubby limbs across the ground, the mud leaves a clinging stain that blackens anything it touches.
 
 > [!abstract] Clodmarl
 > **[[Clodmarl]]**
 >
 > Level 5 · Stone Elemental Juggernaut
 >
-> ![Clodmarl](../../../assets/image108.webp)
+> ![Clodmarl](../../../assets/image135.webp)
 >
-> This elemental has the rough shape and bearing of a person, though up close there is no mistaking it for flesh and blood. Its body is made from dense clay and packed earth, with plates of stone fitted across its shoulders, chest, arms, and brow like armor. Its hands are heavy, blunt masses of hardened soil reinforced with stone, and look more like a mauls than hands. Each step it takes lands with the dull weight of a walking statue.
+> This elemental has the rough shape and bearing of a person, though up close there is no mistaking it for flesh and blood. Its body is made from dense clay and packed earth, with plates of stone fitted across its shoulders, chest, arms, and brow like armor. Its arms end in heavy, blunt masses of hardened soil reinforced with stone, and look more like mauls than hands. Each step it takes lands with the dull weight of a walking statue.
 
 > [!tip] Exploration
 > #### Recognizing the Elementals
@@ -143,7 +143,7 @@ Unbeknownst to the party, the corrupt influence of [[Slaith]] is causing localiz
 >
 > - At range, they will position themselves to **Cast Spell** a **Earthen Ray** at a group of enemies.
 > - Each turn they will advance to close distance towards their targets, using **Overrun** as soon as they get within range to do so.
-> - In melee they will use **Grapple** to seize their opponents, **Strike** them with their caustic fists, **Headbutt** to leave them **Staggered**, and **Throw** them to assert battlefield control.
+> - In melee they will use **Grapple** to seize their opponents, **Strike** them with their caustic fists, @Action[Actor.MOqeexKHbkns315S headbutt] to leave them **Staggered**, and **Throw** them to assert battlefield control.
 >
 > If a Clodmarl becomes **Broken** or if it is close to **Dead**, it will instinctually try to use **Submerging Withdrawal** to retreat to a position where it can recover strength.
 >
@@ -162,12 +162,12 @@ At the beginning of each combat round after the first, roll on the following tab
 
 | Range | #### Muddy Waters Moments |
 | --- | --- |
-| 1 | #### Tar Bubbles  Each tar pit belches a massive bubble of black slime that pops and explodes onto the surrounding area. Creatures within 10 feet of an edge of an active tar pit must make a **Athletics (DC 14)** or else suffer the **Burning Tar (Hazard 6, Fortitude, Health, Acid)**. |
-| 2 | #### Hand of Tar  Living tar seeps upward through the soil in a 15-foot-radius circle, grasping at the legs of all characters within it. Affected characters must succeed on on a **Athletics (DC 16)** check, or else take **Searing Tar (Hazard 4, Fortitude, Health, Acid)** damage. Characters that fail the Athletics check are yanked @Condition[Prone] as the tar gripping their legs dives back into the earth. |
+| 1 | #### Tar Bubbles  Each tar pit belches a massive bubble of black slime that pops and explodes onto the surrounding area. Creatures within 10 feet of an edge of an active tar pit must make a **Athletics (DC 14)** or else suffer the **Burning Tar (Hazard 6)**. |
+| 2 | #### Hand of Tar  Living tar seeps upward through the soil in a 15-foot-radius circle, grasping at the legs of all characters within it. Affected characters must succeed on on a **Athletics (DC 16)** check, or else take **Searing Tar (Hazard 4)** damage. Characters that fail the Athletics check are yanked @Condition[Prone] as the tar gripping their legs dives back into the earth. |
 | 3 | #### New Tar Pit  The earth boils as a new active tar pit opens up, from which new elementals can emerge on this and future rounds. |
 | 4 | #### Earthquake  The earth shakes beneath the party's feet. All characters must make a **Athletics (DC 12)** check or be knocked @Condition[Prone]. |
-| 5 | #### Gravquake  Bizarrely, gravity seems to invert itself for a moment in a 15-foot-radius circle around the largest concentration of party members and their allies, lifting them 5 feet into the air before dropping them. Those affected must succeed on a **Athletics (DC 14)** check to land on their feet, or else suffer an **Unexpected Fall (Hazard 3, Fortitude, Health, Bludgeoning)** damage and be knocked @Condition[Prone]. Any character who makes a successful **Arcana (DC 14)** check or who has **Knowledge: Cosmology** recognizes this as similar to the gravitational disturbances that occur on the moon of [[Cora]]. |
-| 6 | #### Acid Rain  A sudden drizzle of acidic liquid rains down from the sky in a 5-foot-radius circle around the largest concentration of party members and their allies. Affected characters must make a **Athletics (DC 14)** check to duck out of the way, or else suffer **Burning Tar (Hazard 6, Fortitude, Health, Acid)**. Characters who succeed must move out of the radius to gain the benefits of a success — doing so requires no movement action, but does provoke Reactive Strikes as normal. Any character who makes a successful **Arcana (DC 16)** check or who has **Knowledge: Cosmology** recognizes this as similar to foul and corrupt substances that permeate the moon of [[Cora]] due to the influence of the Wild God [[Slinerak]]. |
+| 5 | #### Gravquake  Bizarrely, gravity seems to invert itself for a moment in a 15-foot-radius circle around the largest concentration of party members and their allies, lifting them 5 feet into the air before dropping them. Those affected must succeed on a **Athletics (DC 14)** check to land on their feet, or else suffer an **Unexpected Fall (Hazard 3)** damage and be knocked @Condition[Prone]. Any character who makes a successful **Arcana (DC 14)** check or who has **Knowledge: Cosmology** recognizes this as similar to the gravitational disturbances that occur on the moon of [[Cora]]. |
+| 6 | #### Acid Rain  A sudden drizzle of acidic liquid rains down from the sky in a 5-foot-radius circle around the largest concentration of party members and their allies. Affected characters must make a **Athletics (DC 14)** check to duck out of the way, or else suffer **Burning Tar (Hazard 6)**. Characters who succeed must move out of the radius to gain the benefits of a success — doing so requires no movement action, but does provoke Reactive Strikes as normal. Any character who makes a successful **Arcana (DC 16)** check or who has **Knowledge: Cosmology** recognizes this as similar to foul and corrupt substances that permeate the moon of [[Cora]] due to the influence of the Wild God [[Slinerak]]. |
 
 ### Rala's Concerns
 

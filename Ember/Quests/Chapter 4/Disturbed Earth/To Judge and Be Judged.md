@@ -18,7 +18,7 @@ tags: [ember, quests]
 > - Consider what their choice means for the future of the Arctus Plateau.
 > - Be rewarded for their crucial intervention.
 >
-> This Event is depicted using the [[Earthen Henge (active)]] composition of the [[Vista: Redrak Fields]] Vista.
+> This Event is depicted using the [[Earthen Henge (active)]] Level of the [[Vista: Redrak Fields]] Vista.
 
 ### Preparing for the Ritual
 
@@ -51,9 +51,9 @@ Depending on how the party dealt with Slaith during [[Braving the Elements]], th
 >
 > **A:**
 >
-> Eamon greets you warmly, shaking your each of your hands.
+> Eamon greets you warmly, shaking each of your hands.
 >
-> > You all did something incredibly brave back at the lake. Not just by confronting Slaith, but also by jumping headfirst an uncertain future, where those of us on Ember's surface will be responsible for discovering just how to make our way of life sustainable. I know we're up to the task, and I'm glad that you feel the same. Terrane, however, may be … upset … that your actions have returned Slaith to Cora. I'm here to support you, however I can. When you're ready, trace the spiral on the floor plate with this Orial mud, and we'll face her together.
+> > You all did something incredibly brave back at the lake. Not just by confronting Slaith, but also by jumping headfirst an uncertain future, where those of us on Ember's surface will be responsible for discovering how to make our way of life sustainable. I know we're up to the task, and I'm glad that you feel the same. Terrane, however, may be … upset … that your actions have returned Slaith to Cora. I'm here to support you, however I can. When you're ready, trace the spiral on the floor plate with this Orial mud, and we'll face her together.
 >
 > Rala steps forward and clears his throat.
 >
@@ -75,14 +75,14 @@ Once the party traces the spiral on the henge's floor plate with Orial mud, if t
 >
 > > Greetings, warriors of Ember. I felt the bindings snap into place as you put that beast Slaith back where it belonged. I am highly impressed by the skill and bravery of mere mortals such as yourselves. You have performed a great service to both Cora and Ember. Your names will be known among the Korvathi, and I wish to provide you a token of our gratitude.
 >
-> With a grinding noise, she slides a faintly glowing stone ring off her equally stony finger, and hands it to you.
+> With a grinding noise, she slides a glowing stone ring off her equally stony finger, and hands it to you.
 >
-> > This ring, provided only my people's greatest soldiers, is crafted of a rare and supremely stable Coran stone. The minerals within have a neutralizing effect on the vile acids and poisons of our archenemy. May it protect you as it has protected me for countless millennia.
+> > This ring, provided only to my people's greatest soldiers, is crafted of a rare and supremely stable Coran stone. The minerals within have a neutralizing effect on the vile acids and poisons of our archenemy. May it protect you as it has protected me for countless millennia.
 
 Terrane hands over a [[Ring of Neutralization]] in gratitude for the party's service.
 
 > [!quote] Read Aloud
-> > Unless any lingering issues or questions remain, I will return to Cora and continue the fight, and expect to see whoever leads your Agrimage Circle at the appointed time next century. I hope the compact allows your people to flourish, just as Slaith's imprisonment has protected my own.
+> > Unless any lingering issues or questions remain, I will return to Cora and continue the fight. At the appointed time next century, I expect to see whoever leads your Agrimage Circle once again. I hope the compact allows your people to flourish, just as Slaith's imprisonment has protected my own.
 
 ### Terrane's Judgement
 
@@ -91,7 +91,7 @@ Once the party traces the spiral on the henge's floor plate with Orial mud, if t
 > [!quote] Read Aloud
 > Nearly as soon as you exit the twisted stone circle, the Korvathi sage appears in a burst of green light. Her booming voice sounds like a landslide bearing directly down on you.
 >
-> > Imbeciles! What did I tell you about the dangers of destroying Slaith outright?! The battle against evil is not for the brittle of spirit! Even now, my brethren battle in on Cora's surface, among overwhelming horde's of Slinerak's minions! We were barely holding before you sent this foul beast back to our battlefield! How **dare** you?! I will remember what you have done here — and we Korvathi live **very** long lives!
+> > Imbeciles! What did I tell you about the dangers of destroying Slaith outright?! The battle against evil is not for the brittle of spirit! Even now, my brethren battle in on Cora's surface, against overwhelming hordes of Slinerak's minions! We were barely holding **before** you sent this foul beast back to our battlefield! How **dare** you?! I will remember what you have done here — and we Korvathi live **very** long lives!
 
 > [!info] Social
 > #### Duty Above All
@@ -102,6 +102,7 @@ Once the party traces the spiral on the henge's floor plate with Orial mud, if t
 > - That if Terrane does not uphold her end of the compact, the Korvathi will lose the arcane knowledge and rare plant-based magical components provided by the Agrimage Circle.
 > - That if the forces for good on the Arctus Plateau were to collapse, the battle against evil on the surface of Ember would suffer, and thus the battle against evil *everywhere*.
 > - Chaos and suffering on the Arctus Plateau would make people more vulnerable to recruiting by cults of Slinerak.
+> - Another argument that specifically addresses Terrane's motivations, as adjudicated by the Gamemaster.
 >
 > Any character who makes a successful **Diplomacy (DC 16)** check is able to discern Terrane's priorities from conversation with her: the principle of duty, supplies for the war effort, the intertwined nature of the interplanetary battle against evil, and the threat of Slinerak cults on Ember's surface.
 >
@@ -125,7 +126,7 @@ If the party tries (for the first time) to convince Terrane to take Slaith's pla
 Once the party traces the spiral on the henge's floor plate with Orial mud, if the party [[Braving the Elements]] and already convinced Terrane to take Slaith's place, read or paraphrase the following:
 
 > [!quote] Read Aloud
-> Nearly as soon as you exit the twisted stone circle, the Korvathi sage appears in a burst of green light. When she speaks, her is solemn and as hard as the stone of which she is made.
+> Nearly as soon as you exit the twisted stone circle, the Korvathi sage appears in a burst of green light. When she speaks, her VOICE is solemn and as hard as the stone of which she is made.
 >
 > > You have bested the beast Slinerak, and saved the Plateau from the threat which burdens my home. As promised, I will travel to Lake Orial, and submerge myself beneath it, such that I may provide for you all that which I previously seized from Slaith by force. By the terms of our compact, it is my duty, and my responsibility — just as important as the one I have to my brethren. I hope that my service to your Plateau will serve the fight against evil everywhere. In such hope, I have only two asks:
 > >
@@ -135,26 +136,26 @@ Once the party traces the spiral on the henge's floor plate with Orial mud, if t
 
 ### The Agrimages' Gratitude
 
-Once Terrane has departed, if the party [[Braving the Elements]], read or paraphrase the following:
+Once Terrane has departed — regardless of the circumstances of her departure — if the party [[Braving the Elements]], read or paraphrase the following:
 
 > [!quote] Read Aloud
 > Eamon takes a sharp breath, and turns to face to you.
 >
 > > Thank you immensely for facing Terrane with me — not to mention for defeating Slaith, and ridding the Plateau of an uncomfortable bargain that I do not believe truly served the interests of the land and its people.
 > >
-> > Now, this brings us to my compact with **you**! First, your gold, as promised, and better yet …
+> > Now, this brings us to my compact with **you**! First, your gold as promised, and better yet …
 >
 > The sprightly agrimage digs in his pack, and retrieves two strange artifacts.
 >
-> > In truth, I begun my research into alternative sources of agrimagical abundance as soon as Terrane revealed the truth of the compact. I believe my discovers may also be of use to adventurers like you.
+> > In truth, I began research alternative sources of agrimagical abundance as soon as Terrane revealed the truth of the compact. I believe my discoveries may also be of use to adventurers like you.
 >
 > He hands you gnarled wooden wand, split into spindly roots at its bottom end.
 >
-> > First, an ancient artifact that predates compact that founded the Circle — one of the earliest experiments with agrimagic. Or, well … a replica thereof. I believe that by applying agrimagical developments of the last millennia, we can replicate at scale what our ancestors thought possible only by archwizards. In this case … a wand capable of massively accelerating plant growth! Use it to ensnare evil, or bring abundance with you wherever you go. Be aware: this prototype must spend a week planted in soil before regaining its charge.
+> > First, an ancient artifact that predates the compact that founded the Circle — one of the earliest experiments with agrimagic. Or, well … a replica thereof. I believe that by applying agrimagical developments of the last millennia, we can replicate at scale what our ancestors thought possible only by archwizards. In this case … a wand capable of massively accelerating plant growth! Use it to ensnare evil, or bring abundance with you wherever you go. Be aware: this prototype must spend a week planted in soil before regaining its charge.
 > >
 > > And secondly …
 >
-> He lifts a small terrarium, resembling the one he carries with him, but cover in a glass dome and bound to sturdy metal chain.
+> He lifts a small terrarium, resembling the one he carries with him, but covered in a glass dome and bound to sturdy metal chain.
 >
 > > This, I believe, is my finest work. Inside is the bulb of the rare Aenarus plant, which converts sunlight into concentrated life energy . The terrarium is made of durable Coran glass, and the base is my own design: a blend of mechanical and agrimagical technology that stores this life energy and transmutes it to something your body can use. As long as the device's wielder is attuned to it, whenever the plant is in direct sunlight, all attempts to heal the wielder's body will prove incredibly effective. The base can store a single charge of this energy, which is restored when the plant next spends an hour in the sunlight.
 
@@ -164,7 +165,7 @@ Eamon hands over:
 - A [[Wand of Plant Growth]]
 - The [[Terrarium of Life Energy]]
 
-He is happy to answer questions about the devices, and to discuss the future of the Redrak Fields.
+He is happy to answer questions about the devices, and to discuss the future of the [[Redrak Fields]].
 
 Before he departs with Rala, unless the party [[To Judge and Be Judged]], also read or paraphrase the following:
 
@@ -179,11 +180,11 @@ Before he departs with Rala, unless the party [[To Judge and Be Judged]], also r
 >
 > > I encourage you to apply those same wits and wisdom to tackling the problem we now face, and have no doubt that wherever you wander, your work will be instrumental in solving it.
 >
-> Rala nods with sheepish enthusiasm, then turns to look at you all, clear gratitude in his eyes for accompanying him on his journey and helping bring him to this moment.
+> Rala nods with sheepish enthusiasm, then turns to look at you all, clear gratitude in his eyes for accompanying him on his journey and helping bring him to this moment. It is clear you have an ongoing friend in him.
 
 ### The Agrimages' Judgement
 
-Once Terrane has departed, if the party [[Braving the Elements]], read or paraphrase the following:
+Once Terrane has departed — regardless of the circumstances of her departure — if the party [[Braving the Elements]], read or paraphrase the following:
 
 > [!quote] Read Aloud
 > As Eamon turns towards you, the set of his jaw makes it clear Terrane's feelings are not shared. When he speaks, his tone is businesslike.
@@ -192,7 +193,7 @@ Once Terrane has departed, if the party [[Braving the Elements]], read or paraph
 >
 > He hands you gnarled wooden wand, split into spindly roots at its bottom end.
 >
-> > Though I suppose it is now irrelevant, I began my research into alternatives to such an uncomfortable bargain the moment Terrane shared the truth of the compact. In so doing, I developed a prototype replica of one of the first agrimagical artifacts ever discovered — a wand which causes explosive plant growth. Proof positive, in my opinion, that we would have been more than capable of applying the last millennia of agrimagical innovation to solving our problem without siphoning a creature against its will. I suppose its now irrelevant. The prototype is yours, if you wish.
+> > Though I suppose it is now irrelevant, I began researching alternatives to such an uncomfortable bargain the moment Terrane shared the truth of the compact. In so doing, I developed a prototype replica of one of the first agrimagical artifacts ever discovered — a wand which causes explosive plant growth. Proof positive, in my opinion, that we would have been more than capable of applying the last millennia of agrimagical innovation to solving our problem without siphoning a creature against its will. I suppose its now irrelevant. The prototype is yours, if you wish.
 > >
 > > Be aware that it contains no inherent well of magical energy — it stores one charge, and it must spend a week planted in soil to restore it.
 
@@ -234,7 +235,7 @@ Once the agrimages have departed, [[Krafton Lilifeld]] approaches the party in a
 >
 > > Well! I suppose that's that! We better hope that these agrimages are as capable as Mr. Mariflor believes they are, or else we'll be looking at a lot of empty tables. If it were me, I wouldn't have chosen some foul beast over the prosperity of the Arctus Plateau, but I suppose that's why you're the adventurers and I'm the head of an Ordani trading house.
 >
-> As makes to leave, he speaks as if to himself, but conspicuously loudly … and conspicuously lacking an invitation to stay in touch.
+> As he makes to leave, he speaks as if to himself, but conspicuously loudly … and conspicuously lacking an invitation to stay in touch.
 >
 > > Best make haste back to Ordain … we must begin stockpiling, reallocating distribution, potentially even rationing … my, what a pickle we're now in …
 

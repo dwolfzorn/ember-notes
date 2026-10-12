@@ -20,14 +20,14 @@ The [[Kynryth]] attacks the party as soon as it detects their presence. The dorm
 >
 > Level 1 · Unknown Unknown
 >
-> ![Kynryth](../../../assets/image052.webp)
+> ![Kynryth](../../../assets/image053.webp)
 
 > [!abstract] Kynryth Husk
 > **[[Kynryth Husk]]**
 >
 > Level 1 · Unknown Unknown
 >
-> ![Kynryth Husk](../../../assets/image052.webp)
+> ![Kynryth Husk](../../../assets/image053.webp)
 
 > [!danger] Hazard
 > #### Radiant Orb
@@ -55,7 +55,7 @@ The [[Kynryth]] attacks the party as soon as it detects their presence. The dorm
 > Over the course of combat, the Kynryth Husk will prioritize the following actions and abilities:
 >
 > - In melee, the Kynryth Husk will use its [[Multiattack]] Action.
-> - Whenever able, the Kynryth Husk will [[Unknown]] to transform into a fully powered [[Kynryth]].
+> - Whenever able, the Kynryth Husk will [[Receive Flame]] to transform into a fully powered [[Kynryth]].
 
 Once the Kynryth are defeated, the characters can search the room.
 

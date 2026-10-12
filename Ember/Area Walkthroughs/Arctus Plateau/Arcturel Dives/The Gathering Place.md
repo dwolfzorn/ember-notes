@@ -21,9 +21,9 @@ Once the entire party has entered the area, a wind blows from deeper inside the 
 > [!danger] Hazard
 > #### A Stiff Wind
 >
-> Characters must make a successful **Athletics (DC 15)** or be pushed backward 20 feet. If this effect pushes a character into a wall or gate, they suffer **Terrain Impact (Hazard 6, Fortitude, Health, Bludgeoning)**.
+> Characters must make a successful **Athletics (DC 15)** or be pushed backward 20 feet. If this effect pushes a character into a wall or gate, they suffer **Terrain Impact (Hazard 6)**.
 >
-> - **Critical Failure**: The character also falls **Prone** and suffers **A Hard Fall (Hazard 3, Fortitude, Health, Bludgeoning)**.
+> - **Critical Failure**: The character also falls **Prone** and suffers **A Hard Fall (Hazard 3)**.
 
 > [!tip] Exploration
 > #### Locating the Source

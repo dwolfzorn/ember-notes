@@ -2,7 +2,7 @@
 title: "Character Creation"
 aliases: ["Character Creation"]
 journal: "Getting Started / Character Creation"
-tags: [ember, getting-started, index]
+tags: [crucible, getting-started, index]
 ---
 
 # Character Creation

@@ -2,7 +2,7 @@
 title: "Crafting"
 aliases: ["Crafting"]
 journal: "Game Mechanics / Crafting"
-tags: [ember, game-mechanics, index]
+tags: [crucible, game-mechanics, index]
 ---
 
 # Crafting

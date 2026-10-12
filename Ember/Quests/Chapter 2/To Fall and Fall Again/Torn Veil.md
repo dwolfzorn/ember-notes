@@ -28,21 +28,21 @@ Notably, there is no way to stop the change in the characters' vision. [[Unknown
 > [!tip] Exploration
 > #### Shifting Vision
 >
-> Any character with a `[[/check perception 17 passive format=long]]` who makes a successful `[[/check perception 15]]` check determines that what they are seeing is real — their vision has been altered by an unknown source, but what they are seeing is legitimately in front of them.
+> Any character with a **Awareness (DC 17, Passive)** check determines that what they are seeing is real — their vision has been altered by an unknown source, but what they are seeing is legitimately in front of them.
 >
 > Before moving on, the party can attempt to learn more about what has happened to them. When making any of the following checks to investigate the cause of the change in vision:
 >
 > - **Knowledge: Abyssals**: The character gains **+2 Boons** on the check.
 > - **Knowledge: Undeath**: The character gains **+2 Boons** on the check.
 >
-> Any character who makes a successful `[[/check nature 16]]` check can tell that the change in their vision was not caused by anything physical or natural.
+> Any character who makes a successful **Wilderness (DC 16)** check can tell that the change in their vision was not caused by anything physical or natural.
 >
-> Additionally, any character that makes a successful `[[/check arcana 16]]` check concludes their shifting vision was caused by an abundance of necrotic energy in the area.
+> Additionally, any character that makes a successful **Arcana (DC 16)** check concludes their shifting vision was caused by an abundance of necrotic energy in the area.
 >
 > If any party member determines the cause to be necrotic energy, any party members may draw further conclusions about that energy via the following checks:
 >
-> - `[[/check history 15]]` to determine that amount of energy is highly unusual, but is sometimes found in places whether that many creatures from [[The Abyss]] — or one particularly powerful one — were destroyed, leaving a stain upon the world. This includes sites where creatures from The Abyss are known to have attacked Ember during [[The Shattering]]. Here on the bridge, the stain has woven together with echoes of unknown but powerful magical abilities to create a strong lingering effect.
-> - `[[/check survival 16]]` to sense where this area of necrotic energy is located. It hangs over the bridge, extending from one side to the other.
+> - **Society (DC 15)** to determine that amount of energy is highly unusual, but is sometimes found in places whether that many creatures from [[The Abyss]] — or one particularly powerful one — were destroyed, leaving a stain upon the world. This includes sites where creatures from The Abyss are known to have attacked Ember during [[The Shattering]]. Here on the bridge, the stain has woven together with echoes of unknown but powerful magical abilities to create a strong lingering effect.
+> - **Wilderness (DC 16)** to sense where this area of necrotic energy is located. It hangs over the bridge, extending from one side to the other.
 
 ### The Battle At The Bridge
 
@@ -51,16 +51,15 @@ A closer examination of the bridge can reveal what happened during the past batt
 > [!tip] Exploration
 > #### Recreating the Battle
 >
-> Any character who makes a successful `[[/check investigation 21]]` check — made easier if evidence is assembled below — determines that a battle happened on the bridge only a few years prior, between a creature of The Abyss and a pair of combatants: a cleric of Lantyr and a wizard. The Abyssal creature was mostly defeated, and slunk back across the southwestern side of the bridge.
+> Any character who makes a successful **Awareness (DC 21)** check — made easier if evidence is assembled below — determines that a battle happened on the bridge only a few years prior, between a creature of The Abyss and a pair of combatants: a cleric of Lantyr and a wizard. The Abyssal creature was mostly defeated, and slunk back across the southwestern side of the bridge.
 >
 > #### Assembling the Evidence
 >
 > To ease their investigation, the party may attempt to piece together evidence. For each of the following checks that at least one party member succeeds on, lower the DC of the above Investigation check by 1:
 >
-> - `[[/check arcana 15]]` to determine that one set of gouges dug into the bridge were created by a spellcaster casting both Fire Bolts and Magic Missiles. The blast marks are greater on the southwestern side of the bridge, suggesting the spellcasters' enemy or enemies came from that side of the bridge.
-> - `[[/check religion 15]]` to note that the second set of gouges form a protective symbol associated with acolytes of [[Lantyr]]. These symbols are arranged at the center of the bridge, as if preventing something from crossing over.
-> - `[[/check nature 15]]` to conclude that the third set of gouges are claw marks from a large creature, and that more of them are located on the southwestern side of the bridge, suggesting the creature came from that direction.
-> - `[[/check survival 15]]` to piece together that whatever that left the gouges on the southwestern end of the bridge was injured and backed away towards the southwest, and that the injuries were likely fatal to it.
+> - **Arcana (DC 15)** to determine that one set of gouges dug into the bridge were created by a spellcaster casting both Fire Bolts and Magic Missiles. The blast marks are greater on the southwestern side of the bridge, suggesting the spellcasters' enemy or enemies came from that side of the bridge.
+> - **Society (DC 15)** to note that the second set of gouges form a protective symbol associated with acolytes of [[Lantyr]]. These symbols are arranged at the center of the bridge, as if preventing something from crossing over.
+> - **Wilderness (DC 15)** to conclude that the third set of gouges are claw marks from a large creature, and that more of them are located on the southwestern side of the bridge, suggesting the creature came from that direction. This additionally allows them to piece together that whatever that left the gouges on the southwestern end of the bridge was injured and backed away towards the southwest, and that the injuries were likely fatal to it.
 >
 > When making any of the above checks to assemble evidence:
 >

@@ -18,7 +18,7 @@ Unless you're particularly averse to spoilers, you may wish to read the [[Main Q
 
 Before the game begins, take time for every member of the party to create a player character of the Player Character type. If you want players to be able to do this themselves, you will need to ensure that players have the Create Actors permission granted to them in the User Permission Configuration screen.
 
-Once each player has completed the [[Creation Overview]] process, you should add their created character to the [[Party]] group, which defines the set of characters who are currently traveling together.
+Once each player has completed the [[Creation Overview]] process, you should add their created character to the [[DreamTeam]] group, which defines the set of characters who are currently traveling together.
 
 > [!warning] Gamemaster
 > #### Session Zero
@@ -52,4 +52,4 @@ Automatic movement of the Strayhearth Caravan is not yet implemented in Beta. We
 
 For now, Gamemasters will need to manually move the Strayhearth Caravan up until the [[The Collapsed Cairn]] event, after which point the players will take control of their own Party token. The caravan should follow the annotated map shown below to reach this point at around noon on Day 2.
 
-![](../../assets/image102.webp)The Gamemaster should follow the above route with the Strayhearth Caravan until the Collapsed Cairn is encountered. Bookmark icons represent events that occur. Bookmarks which contain beds are the places the caravan camps for the night.
+![](../../assets/image123.webp)The Gamemaster should follow the above route with the Strayhearth Caravan until the Collapsed Cairn is encountered. Bookmark icons represent events that occur. Bookmarks which contain beds are the places the caravan camps for the night.

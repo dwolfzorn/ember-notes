@@ -18,7 +18,7 @@ A [[Wandren Patroller]] loiters in this area, rummaging through the clothes. The
 >
 > Level 1 · Unknown Unknown
 >
-> ![Wandren Patroller](../../../assets/image050.webp)
+> ![Wandren Patroller](../../../assets/image051.webp)
 
 > [!danger] Hazard
 > #### Wandren Patroller Tactics

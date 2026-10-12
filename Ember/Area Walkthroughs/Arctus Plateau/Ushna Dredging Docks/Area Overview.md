@@ -18,7 +18,7 @@ tags: [ember, area-walkthroughs]
 
 ## Gameplay Details
 
-The areas of the Ushna Dredging Dock have the following features unless specified otherwise in the text.
+The areas of the Ushna Dredging Docks have the following features unless specified otherwise in the text.
 
 ### Levels & Elevation
 

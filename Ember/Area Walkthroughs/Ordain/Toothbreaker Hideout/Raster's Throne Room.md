@@ -29,21 +29,21 @@ This room serves as Raster Thorne's administrative chamber, and currently contai
 >
 > Level 1 · Unknown Unknown
 >
-> ![Raster Thorn](../../../assets/image035.webp)
+> ![Raster Thorn](../../../assets/image036.webp)
 
 > [!abstract] Toothbreaker Thug
 > **[[Toothbreaker Thug]]**
 >
 > Level 1 · Unknown Unknown
 >
-> ![Toothbreaker Thug](../../../assets/image034.webp)
+> ![Toothbreaker Thug](../../../assets/image035.webp)
 
 > [!abstract] Scalemaw
 > **[[Scalemaw]]**
 >
 > Level 1 · Unknown Unknown
 >
-> ![Scalemaw](../../../assets/image033.webp)
+> ![Scalemaw](../../../assets/image034.webp)
 
 > [!danger] Hazard
 > #### Raster Thorn

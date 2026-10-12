@@ -42,7 +42,7 @@ This area is broken up into various stone steps that descend toward the pool whe
 >
 > The ground is badly tainted by otherworldly Abyssal energies, making it somewhat hazardous to rest here. While the party is generally safe for the short period they are present here, prolonged exposure to the energies will begin to have an effect on their minds.
 >
-> Characters that complete a **Recovery or Rest** in this area must withstand the hazard of the **Tainted Ground (Hazard 4, Willpower, Psychic, Harmless)** or or suffer a single effect from the [[Minor Abyssal Madness]] table upon the conclusion of their rest.
+> Characters that complete a **Recovery or Rest** in this area must withstand the hazard of the **Tainted Ground (Hazard 4)** or or suffer a single effect from the [[Minor Abyssal Madness]] table upon the conclusion of their rest.
 
 ### Enemies
 

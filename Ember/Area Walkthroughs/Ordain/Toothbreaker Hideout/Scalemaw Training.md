@@ -20,21 +20,21 @@ tags: [ember, area-walkthroughs]
 >
 > Level 1 · Unknown Unknown
 >
-> ![Toothbreaker Scaletamer](../../../assets/image032.webp)
+> ![Toothbreaker Scaletamer](../../../assets/image033.webp)
 
 > [!abstract] Toothbreaker Thug
 > **[[Toothbreaker Thug]]**
 >
 > Level 1 · Unknown Unknown
 >
-> ![Toothbreaker Thug](../../../assets/image034.webp)
+> ![Toothbreaker Thug](../../../assets/image035.webp)
 
 > [!abstract] Scalemaw
 > **[[Scalemaw]]**
 >
 > Level 1 · Unknown Unknown
 >
-> ![Scalemaw](../../../assets/image033.webp)
+> ![Scalemaw](../../../assets/image034.webp)
 
 > [!info] Social
 > #### Fascination With Scalemaws
@@ -64,7 +64,7 @@ If the party arrives to this area without a Toothbreaker escort, or if they anta
 > [!danger] Hazard
 > #### Toothbreakers
 >
-> Vaafo and his allies follow the tactics described in [[Gazetteer Reference]].
+> Vaafo and his allies follow the tactics described in [[Toothbreaker Tactics]].
 >
 > #### Raising the Alarm
 >

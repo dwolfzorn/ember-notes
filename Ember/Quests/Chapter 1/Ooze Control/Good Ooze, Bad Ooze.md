@@ -41,7 +41,7 @@ Once a character comes within 20 feet of any of the three oozes, all three revea
 >
 > Level 0.5 · Slime Metallic Ooze
 >
-> ![Luminous Copper Ooze](../../../assets/image073.webp)
+> ![Luminous Copper Ooze](../../../assets/image074.webp)
 >
 > An amorphous slime of a creature slowly oozes forward, dragging bits of flaked copper and the occasional crystal within its gelatinous body. Though it seems formless as it moves, it reaches out in a long tentacle-like arm when confronted with a fight, readying itself to strike.
 
@@ -54,7 +54,7 @@ Once a character comes within 20 feet of any of the three oozes, all three revea
 >
 > Over the course of combat, the Luminous Copper Ooze will prioritize the following actions and abilities:
 >
-> - In melee, the Luminous Copper Ooze will strike out with its [[Pseudopod]] attack.
+> - In melee, the Luminous Copper Ooze will strike out with its [[Unknown]] attack.
 > - When struck in combat with a metal melee weapon, the Luminous Copper Ooze can use its [[Corrode Weapon]] ability to degrade the weapon's quality.
 
 > [!abstract] Luminous Iron Ooze
@@ -62,7 +62,7 @@ Once a character comes within 20 feet of any of the three oozes, all three revea
 >
 > Level 1 · Slime Metallic Ooze
 >
-> ![Luminous Iron Ooze](../../../assets/image070.webp)
+> ![Luminous Iron Ooze](../../../assets/image071.webp)
 >
 > The viscous body of the luminous iron ooze is a silvery gray, filled with small fragments of metal and the occasional piece of glittering crystal. As it moves, its body shapes and reshapes itself, stretching and contracting in a viscous pool that extends a single gray-iron tentacle.
 
@@ -75,14 +75,14 @@ Once a character comes within 20 feet of any of the three oozes, all three revea
 >
 > Over the course of combat, the Luminous Iron Ooze will prioritize the following actions and abilities:
 >
-> - In melee, the Luminous Iron Ooze will use its [[Pseudopod]] attack and [[Magnetic Disarm]] reaction to damage and disarm enemies.
+> - In melee, the Luminous Iron Ooze will use its [[Unknown]] attack and [[Magnetic Disarm]] reaction to damage and disarm enemies.
 
 In addition to the oozes, the characters must navigate a dangerous hazard.
 
 > [!danger] Hazard
 > #### Contaminated Pool
 >
-> Prolonged exposure to the oozes and their internal contaminants has left the large pool in the center of the cavern dangerously electrified. Any character who steps into or starts their turn within the large pool nearest to where the oozes appeared risks harm from the **Electrified Pool (Hazard 4, Electricity, Fortitude)**. The pool, while dangerous, is too watered down for its contents to be useful if collected.
+> Prolonged exposure to the oozes and their internal contaminants has left the large pool in the center of the cavern dangerously electrified. Any character who steps into or starts their turn within the large pool nearest to where the oozes appeared risks harm from the **Electrified Pool (Hazard 4)**. The pool, while dangerous, is too watered down for its contents to be useful if collected.
 
 ### After the Fight
 
@@ -96,7 +96,7 @@ After the party's encounter with the oozes, a small figure emerges from behind o
 >
 > Level 1 · Hulg'run Scout
 >
-> ![Tauric](../../../assets/image158.webp)
+> ![Tauric](../../../assets/image188.webp)
 >
 > The young man's gray body appears to be carved from rock, with lines of blue agate running through the stone like veins. His color is matched by the gelatinous body of the small blueish-green ooze that sits on his shoulder, nestled into a hollow that seems to have been carved for the purpose.
 
@@ -108,7 +108,7 @@ If the party defeated the hostile oozes:
 If the party has avoided the ooze fight, Tauric instead attempts to usher the party out of the caves, saying:
 
 > [!quote] Read Aloud
-> > Did you see any oozes running about? We just saw some sliding around the cave — better get out of here before they come back!
+> > Did you see any oozes slurking about? We just saw some sliding around the cave — better get out of here before they come back!
 
 The Hulg'run quickly introduces himself as [[Tauric]] and his [[Oozeling]] companion as **Squish**. He then asks the party for their help getting home.
 
@@ -117,7 +117,7 @@ The Hulg'run quickly introduces himself as [[Tauric]] and his [[Oozeling]] compa
 >
 > Level 0.5 (Minion) · Slime Metallic Ooze
 >
-> ![Oozeling](../../../assets/image070.webp)
+> ![Oozeling](../../../assets/image071.webp)
 >
 > You spy a tiny translucent ooze that appears to regard you with a measure of curiosity, if its cautious and gregarious movements are any indication. This strange creature extends its viscous form into a hand-like tendril, which waves to you in friendly salutation.
 

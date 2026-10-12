@@ -18,7 +18,7 @@ tags: [ember, quests]
 > - Save Krafton's elderly sommelier at Krafton's request.
 > - Investigate the source of the elemental attack.
 >
-> This event is depicted using the [[Vineyard Attack]] composition of the [[Redrak Fields]] Vista.
+> This event is depicted using the [[Vineyard Attack]] Level of the [[Redrak Fields]] Area Map.
 
 ### Battling the Elementals
 
@@ -29,7 +29,7 @@ Four hostile elementals have already climbed from the living tar pit near the ce
 >
 > Level 8 (Elite) · Crystallath Telekinetic
 >
-> ![Crystallath](../../../assets/image110.webp)
+> ![Crystallath](../../../assets/image137.webp)
 >
 > This large elemental's body is built from dark stone threaded with bright veins of crystal that glitter as they catch the light. Its form is humanoid, broken up by gems of various shapes and sizes jutting from its body. Despite its size, each step seems muted and light, pressing into the ground far less deeply than its bulk would require.
 
@@ -38,18 +38,18 @@ Four hostile elementals have already climbed from the living tar pit near the ce
 >
 > Level 3 · Globlin Prankster
 >
-> ![Mud Globlin](../../../assets/image107.webp)
+> ![Mud Globlin](../../../assets/image134.webp)
 >
-> This stout, slumping creature is made from dark gray mud that flows through its vaguely humanoid form in slow, heavy folds. Its surface bubbles and pops as if stirred by some inner heat or foul reaction, sending up wet burps thick with the stench of rotting plants. Where it drags its stubby limbs across the ground, the mud leaves a clinging stain that blackens anything it touches.
+> This stout, slumping creature is made from dark-brown mud that flows through its vaguely humanoid form in slow, heavy folds. Its surface bubbles and pops as if stirred by some inner heat or foul reaction, sending up wet burps thick with the stench of rotting plants. Where it drags its stubby limbs across the ground, the mud leaves a clinging stain that blackens anything it touches.
 
 > [!abstract] Clodmarl
 > **[[Clodmarl]]**
 >
 > Level 5 · Stone Elemental Juggernaut
 >
-> ![Clodmarl](../../../assets/image108.webp)
+> ![Clodmarl](../../../assets/image135.webp)
 >
-> This elemental has the rough shape and bearing of a person, though up close there is no mistaking it for flesh and blood. Its body is made from dense clay and packed earth, with plates of stone fitted across its shoulders, chest, arms, and brow like armor. Its hands are heavy, blunt masses of hardened soil reinforced with stone, and look more like a mauls than hands. Each step it takes lands with the dull weight of a walking statue.
+> This elemental has the rough shape and bearing of a person, though up close there is no mistaking it for flesh and blood. Its body is made from dense clay and packed earth, with plates of stone fitted across its shoulders, chest, arms, and brow like armor. Its arms end in heavy, blunt masses of hardened soil reinforced with stone, and look more like mauls than hands. Each step it takes lands with the dull weight of a walking statue.
 
 > [!tip] Exploration
 > #### Recognizing the Elementals
@@ -97,7 +97,7 @@ Four hostile elementals have already climbed from the living tar pit near the ce
 > The Crystallath is a [[Telekinetic]] spellcaster with [[Cora Attunement (Rank IV)]], using its spellcraft to damage, hinder, or incapacitate opponents.
 >
 > - It will keep a distance from enemies, preferring to **Cast Spell** from near the 60 foot range of **Earthen Arrow** or **Kinetic Blast**.
-> - It will use its Cora attunement to inflect Spells like **Coran Kinetic Blast** to inflict the **Staggered** Condition.
+> - It will use its Cora attunement to inflect Spells like @Spell[kinesis.blast.cora] to inflict the **Staggered** Condition.
 > - If approached by enemies, it will use [[Inflection: Push]] to knock them backwards.
 > - If the Crystallath becomes cornered it will use **Telekinetic Flight** or **Submerging Withdrawal** to escape from harm.
 >
@@ -119,7 +119,7 @@ Four hostile elementals have already climbed from the living tar pit near the ce
 >
 > - At range, they will position themselves to **Cast Spell** a **Earthen Ray** at a group of enemies.
 > - Each turn they will advance to close distance towards their targets, using **Overrun** as soon as they get within range to do so.
-> - In melee they will use **Grapple** to seize their opponents, **Strike** them with their caustic fists, **Headbutt** to leave them **Staggered**, and **Throw** them to assert battlefield control.
+> - In melee they will use **Grapple** to seize their opponents, **Strike** them with their caustic fists, @Action[Actor.MOqeexKHbkns315S headbutt] to leave them **Staggered**, and **Throw** them to assert battlefield control.
 >
 > If a Clodmarl becomes **Broken** or if it is close to **Dead**, it will instinctually try to use **Submerging Withdrawal** to retreat to a position where it can recover strength.
 >
@@ -189,7 +189,7 @@ If the party intends to rescue Humbolt with strength and manual dexterity while 
 >
 > #### Falling into the Tar
 >
-> Anyone who falls into the tar suffers from **Caustic Tar (Hazard 8, Acid, Fortitude)** before a mob of Krafton's other staff (or party members) rapidly arrive to pull the character out. This process takes too long for that character to participate in any other attempts to save Humbolt before he sinks.
+> Anyone who falls into the tar suffers from **Caustic Tar (Hazard 8)** before a mob of Krafton's other staff (or party members) rapidly arrive to pull the character out. This process takes too long for that character to participate in any other attempts to save Humbolt before he sinks.
 >
 > If the party fails to rescue Humbolt, he sinks up to his neck in the tar before Krafton's other staff manage to pull him out, then rush him inside to cleanse the tar and treat his acid burns.
 

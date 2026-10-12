@@ -118,7 +118,7 @@ Eb's favorite fishing spot down near the water's edge offers some vague indicati
 > - **Knowledge: Tracking**: The character gains **+2 Boons** on this check.
 > - **Critical Success**: The character notes the relative cleanliness of the tracks, and is unable locate any signs of struggle or conflict, suggesting that Eb waded into the river himself.
 >
-> Any character who succeeds on an **Awareness (DC 13)** check is able to locate a [[Tiny Copper Key]] in a hollowed out rock near the fishing gear. A character that is a sufficiently talented **Talent: Smithing Novice** , or that makes a successful **Science (DC 14)** check can deduce that the key isn't big enough for anything other than a small lockbox, and that perhaps the boy may have hid one in his Bedroom (see below).
+> Any character who succeeds on an **Awareness (DC 13)** check is able to locate a [[Tiny Copper Key]] in a hollowed out rock near the fishing gear. A character that is a sufficiently talented `[[/talent Compendium.crucible.talent.Item.smithingNovice00]]` , or that makes a successful **Science (DC 14)** check can deduce that the key isn't big enough for anything other than a small lockbox, and that perhaps the boy may have hid one in his Bedroom (see below).
 
 Eb's bedroom is the location of the definitive clues that will point the party in the right direction to find the missing boy.
 

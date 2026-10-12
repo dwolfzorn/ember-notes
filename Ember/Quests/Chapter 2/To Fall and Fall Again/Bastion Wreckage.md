@@ -32,13 +32,13 @@ The chambers here were once the main living section of the bastion, filled with 
 >
 > Any character who makes a successful **Awareness (DC 16)** check determines that while some of the damage here was caused by same the monsters of great power whose handiwork the character has witnessed elsewhere in the bastion, other damage was clearly inflicted by a different source.
 >
-> - **Critical Success**: The character unearths the [[Skull of Merliota]] artifact from within the rubble.
+> - **Critical Success**: The character unearths the[[Skull of Merliota]] artifact from within the rubble.
 >
-> Meanwhile, any character who succeeds on a `[[/check history 15]]` check concludes that some of the damage marks on the stone were inflicted by a large mace or club.
+> Meanwhile, any character who succeeds on a **Society (DC 15)** check concludes that some of the damage marks on the stone were inflicted by a large mace or club.
 >
 > - **Knowledge: Warfare**: The character automatically succeeds on this check.
 >
-> Any character who makes a successful `[[/check arcana 16]]` check senses the use of magic here in eons past. The lingering effects of this magic can still be felt, and while most of the energies here feel dark and twisted, that feeling is accompanied by a strong radiant energy, as if corrupt entities were confronted by a power infused with a radiant light.
+> Any character who makes a successful **Arcana (DC 16)** check senses the use of magic here in eons past. The lingering effects of this magic can still be felt, and while most of the energies here feel dark and twisted, that feeling is accompanied by a strong radiant energy, as if corrupt entities were confronted by a power infused with a radiant light.
 >
 > - **Critical Success**: The character notes that flames melted some of the magical stone, suggesting the use of powerful fire magic.
 
@@ -51,7 +51,7 @@ Once the party has finished investigating the ruins, a ghostly projection of the
 >
 > Level 18 (Boss) · Memory Shent Seer
 >
-> ![Mioroth](../../../assets/image088.webp)
+> ![Mioroth](../../../assets/image098.webp)
 >
 > Appearing as if from legends, a ghostly, semi-transparent, colossal figure looms over you even as he sits with his legs crossed. He is serene, calm, and intangible, as if made of pure energy and flickering strands of light. Shadows and motes of magic constantly evaporate from his body, and his only constant is his wise and gentle smiling expression. He looks faintly like a Kivahr, but as if carved from stone, with heavy brows, long limbs, and a muscular frame. The clothing he wears matches no recognizable style.
 
@@ -92,7 +92,7 @@ If the party [[An Ancient Battle]] in [[An Ancient Battle]] during "Over the Moo
 >
 > Once Mioroth has finished discussing more urgent matters, players may also entreat him to divulge more of his wealth of knowledge in the [[Bastion Wreckage]] section further below.
 >
-> Any character who makes a successful **Deception (DC 12)** check determines that Mioroth is speaking truthfully about this urgent threat.
+> Any character who makes a successful **Diplomacy (DC 12)** check determines that Mioroth is speaking truthfully about this urgent threat.
 >
 > Specific dialog options for Mioroth's discussion of the issue at hand are presented below:
 

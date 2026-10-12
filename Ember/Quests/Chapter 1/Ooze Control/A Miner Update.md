@@ -28,7 +28,7 @@ tags: [ember, quests]
 >
 > Level 1 · Hulg'run Trader
 >
-> ![Sellen](../../../assets/image159.webp)
+> ![Sellen](../../../assets/image189.webp)
 >
 > Between the light from the candles perched on her shoulders, the large pickaxe in one hand, and the clipboard in another, the woman before you seems nothing if not prepared for whatever faces her. The weathering on the carved stone of her body gives the sense that she's got more than a few stories to tell about what has gotten her this far along her journey, but whatever her past has brought her, she hasn't lost either the smile on her face or the determination in her eyes.
 
@@ -105,7 +105,7 @@ As the party speaks with Sellen, Jasper and Tauric approach, deep in an argument
 >
 > Level 1 · Hulg'run Operator
 >
-> ![Jasper](../../../assets/image075.webp)
+> ![Jasper](../../../assets/image076.webp)
 >
 > The hulg'run man steps carefully, as if he is assessing everything around him with sharp eyes and careful determination. He wears a slight scowl on his face, as if he is above whatever is around him, but the severity of his expression is somewhat undercut by the brilliance of the gems embedded in his face, arms, and legs, which have been carefully polished to a sparkling shine.
 
@@ -114,7 +114,7 @@ As the party speaks with Sellen, Jasper and Tauric approach, deep in an argument
 >
 > Level 1 · Hulg'run Scout
 >
-> ![Tauric](../../../assets/image158.webp)
+> ![Tauric](../../../assets/image188.webp)
 >
 > The young man's gray body appears to be carved from rock, with lines of blue agate running through the stone like veins. His color is matched by the gelatinous body of the small blueish-green ooze that sits on his shoulder, nestled into a hollow that seems to have been carved for the purpose.
 
@@ -218,7 +218,7 @@ The more that Jasper speaks, the more upset Tauric becomes, but he attempts to k
 >
 > Any character who makes a successful **Diplomacy (DC 13)**or **Intimidation (DC 15)**check is able to convince Tauric to help (by either convincing Tauric they won't hand the contaminant over to Jasper, or by threatening to let Yakoshta fall to the ooze invasion by moving on).
 >
-> Once adequately convinced, Tauric shares that the location can be found near a small lake, which he offers to mark for the party. He notes that there's a large pile of rocks blocking the path, which will have to be cleared if they want to move forward.
+> Once adequately convinced, Tauric shares that a path into the cliffs above Yakoshta begins south of [[Helkas]]; the path is marked by "a strange old thing on the side of the road" (the [[Overgrown Sunwell]]) and leads to "a huge crevasse" that Tauric was unable to cross.
 
 > [!question] Q&A
 > **Q:** Why not ooze mining?

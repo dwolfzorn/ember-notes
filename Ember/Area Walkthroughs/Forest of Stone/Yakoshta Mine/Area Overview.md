@@ -35,7 +35,7 @@ The Yakoshta Mine features a total of two vertical Levels of elevation, includin
 >
 > #### Less-Deadly Falls
 >
-> At your discretion, you may allow for a character that falls to instead tumbling below and breaking their fall with a **Scaffolding Impact (Hazard 5, Fortitude, Health, Bludgeoning)**.
+> At your discretion, you may allow for a character that falls to instead tumbling below and breaking their fall with a **Scaffolding Impact (Hazard 5)**.
 
 ### Illumination
 
@@ -45,7 +45,7 @@ Within each cavern, unless indicated, the light of the kaleidoscope crystals is 
 
 ### Terrain
 
-In general, the mine has normal terrain. Climbing over barricades or climbing up or down to a different Scene Level counts as &reference[difficult terrain].
+In general, the mine has normal terrain. Climbing over barricades or climbing up or down to a different Scene Level counts as [[Movement]].
 
 ### Inhabitants
 
@@ -122,8 +122,8 @@ As a result of the ooze attacks, many of the track switches have been damaged or
 
 | Range | #### Yakoshta Mine Track Switches |
 | --- | --- |
-| 1 | #### Electrified Switch  The switch has become electrified by a silver ooze. Any party member that touches it directly receives an [[/hazard 4 fortitude morale electricity]{Electrical Discharge}. |
-| 2 | #### Contaminated Switch  The switch has contaminated ooze goo on it. If it is not removed, any party member that touches it risks a **Mild Acid Burn (Hazard 4, Fortitude, Health, Acid)**. |
+| 1 | #### Electrified Switch  The switch has become electrified by a silver ooze. Any party member that touches it directly receives an **Electrical Discharge (Hazard 4)**. |
+| 2 | #### Contaminated Switch  The switch has contaminated ooze goo on it. If it is not removed, any party member that touches it risks a **Mild Acid Burn (Hazard 4)**. |
 | 3 | #### Stuck Switch  The switch was damaged by the recent earthquakes and gets stuck halfway. Any character who makes a successful **Athletics (DC 14)** check can move it the rest of the way. If oil or another lubricant is applied, this check is made with **+2 Boons**. |
 | 4—6 | #### Functioning Switch  The switch works as planned. |
 

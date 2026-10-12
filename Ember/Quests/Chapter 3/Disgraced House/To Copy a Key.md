@@ -37,7 +37,7 @@ If they did not complete [[Sickness in The Burns]]:
 >
 > Level 1 · Unknown Unknown
 >
-> ![Janix Mance](../../../assets/image137.webp)
+> ![Janix Mance](../../../assets/image167.webp)
 
 > [!info] Social
 > #### A Conversation with Janix
@@ -105,19 +105,18 @@ The party must cross the seemingly empty quarry in order to retrieve the quickme
 > [!abstract] Ketral
 > **[[Ketral]]**
 >
-> Level 1 · Ketral Pack Member
+> Level 2 · Ketral Pack Member
 >
-> ![Ketral](../../../assets/image146.webp)
+> ![Ketral](../../../assets/image176.webp)
 >
-> > [!quote] Read Aloud
-> > The small creature has a dark rocky skin and mane, barely distinguishable from a pile of rocks or sodden earth beyond its glowing yellow eyes and sharpened claws. Its teeth, though small, seem to crowd its mouth, bared and ready to strike at anything that comes within their reach.
+> The small creature has a dark rocky skin and mane, barely distinguishable from a pile of rocks or sodden earth beyond its glowing yellow eyes and sharpened claws. Its teeth, though small, seem to crowd its mouth, bared and ready to strike at anything that comes within their reach.
 
 > [!abstract] Suarrok Juvenile
 > **[[Suarrok Juvenile]]**
 >
 > Level 4 (Elite) · Winged Terror Suarrok
 >
-> ![Suarrok Juvenile](../../../assets/image066.webp)
+> ![Suarrok Juvenile](../../../assets/image067.webp)
 >
 > This creature is an unsettling thing, a strange mixture of bird and lizard, with massive, bat-like wings fringed with trailing feathers. A long, sinuous neck that coils and moves like a serpent holds a massive head with menacing, serrated beak that's perfectly designed for tearing through flesh. On this head rests a single, enormous eye that glows ominously, and as its gaze sweeps over you, a wash of stinging heat can be felt.
 
@@ -139,11 +138,11 @@ The party must cross the seemingly empty quarry in order to retrieve the quickme
 >
 > The Suarrok Juvenile joins combat after sensing blood, whether spilled from a Ketral or one of the characters. Add it to the initiative tracker on the following round.
 >
-> At the start of combat, the Suarrok Juvenile will use its [[Searing Stare]] to inflict the most threatening enemy with the **Broken** condition.
+> At the start of combat, the Suarrok Juvenile will use its [[Searing Stare]] to inflict the most threatening enemy with the **Blinded** condition.
 >
 > Over the course of combat, the Suarrok Juvenile will prioritize the following actions and abilities:
 >
-> - In melee, the Suarrok Juvenile will use its [[Swooping Strike]] and [[Raking Talons]] actions.
+> - In melee, the Suarrok Juvenile will use its [[Swooping Strike]] and [[Unknown]] actions.
 > - The Suarrok Juvenile uses its [[Elusive Flight]] talent to make hit-and-run attacks.
 >
 > The battle ends when the creatures are slain or forced to retreat.

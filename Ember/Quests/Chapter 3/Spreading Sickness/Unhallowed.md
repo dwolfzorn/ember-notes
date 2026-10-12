@@ -21,6 +21,11 @@ tags: [ember, quests]
 
 A version of the Veiled Chain headquarters depicting the damaged state is planned but not yet complete. In the meantime, the event will show the undamaged version.
 
+> [!danger] Hazard
+> #### The Barrier
+>
+> Shortly after materializing, Serethus's [[Unknown]] becomes invisible to the naked eye; it can be revealed using [[Unknown]] or a similar effect. Any character who makes a successful **Arcana (DC 12)** check while examining the wall (visible or not) can successfully identify it as a [[Unknown]].
+
 ### Speaking to Serethus
 
 > [!quote] Read Aloud

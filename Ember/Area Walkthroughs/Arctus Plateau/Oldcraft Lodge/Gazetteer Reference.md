@@ -9,7 +9,7 @@ tags: [ember, area-walkthroughs]
 # Gazetteer Reference
 
 > [!quote] Read Aloud
-> A rustic single-story lodge sits on the banks of Lake Jinro, its grounds marked by the sweet scent of ripe berries and wild irises. While at first glance, its warm wood and lush grounds seem no different than those found at any other Arcturian waterfront home, the iridescent blue of its roof shifts colors ever so slightly each time as the light moves across it, and the faint sound of turning pages whispers on the breeze.
+> A rustic single-story lodge sits on the banks of Lake Jinro, its grounds marked by the sweet scent of ripe berries and wild irises. While at first glance, its warm wood and lush grounds seem no different than those found at any other Arcturian waterfront home, strange lights of shifting color pulsate from within, and the faint sound of turning pages whispers on the breeze.
 
 Oldcraft Lodge has long served as the home and library of Sigil, a Shard God committed to the pursuit of knowledge. Though it appears as a modest residence from the outside, it is rumored to contain a vast arcane library whose full extent only Sigil himself is truly aware of. Most visitors to Oldcraft Lodge never come close to seeing its entire interior. They typically work either in the communal spaces provided by Sigil or grounds outside.
 

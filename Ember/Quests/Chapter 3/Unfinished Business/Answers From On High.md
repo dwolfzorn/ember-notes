@@ -21,7 +21,7 @@ tags: [ember, quests]
 >
 > #### Prerequisites
 >
-> [[Agraband Swift]] must be a member of the [[Party]] for this Event to occur.
+> [[Agraband Swift]] must be a member of the [[DreamTeam]] for this Event to occur.
 
 ### Warm Welcomes
 
@@ -103,14 +103,14 @@ The characters have arrived in time to witness the funeral rites of **Xaros Half
 >
 > Level 1 · Unknown Unknown
 >
-> ![Conaris Haid](../../../assets/image123.webp)
+> ![Conaris Haid](../../../assets/image153.webp)
 
 > [!abstract] Burnished Hand Protector
 > **[[Burnished Hand Protector]]**
 >
 > Level 5 · Human Protector
 >
-> ![Burnished Hand Protector](../../../assets/image026.webp)
+> ![Burnished Hand Protector](../../../assets/image027.webp)
 >
 > You regard a heavily-armored Ordani warrior, whose bronze splint mail gleams with a gorgeous russet luster. A symmetrical crimson hand with the roots of an oak tree decorates this soldier's chest piece, and the well-oiled longsword at their side looks poised and ready for action.
 
@@ -119,7 +119,7 @@ The characters have arrived in time to witness the funeral rites of **Xaros Half
 >
 > Level 8 (Elite) · Human Cindaric Sage
 >
-> ![Cindaric Sage](../../../assets/image025.webp)
+> ![Cindaric Sage](../../../assets/image026.webp)
 >
 > This scholarly healer is clad in garments of bright gold and lush crimson, the colors of the famed Cindaric Sages of the Arctus Plateau. Their shoulders and tunic are marked with the familiar four-leafed diamond that signifies the Cindaric order, and their hands are marked and calloused by the wholesome abrasions of honest labor. The sage regards you with a benevolent smile.
 
@@ -128,7 +128,7 @@ The characters have arrived in time to witness the funeral rites of **Xaros Half
 >
 > Level 1 · Human Commonfolk
 >
-> ![Ordani](../../../assets/image149.webp)
+> ![Ordani](../../../assets/image179.webp)
 >
 > This person is stylishly dressed in layers of bright cloth with intricate patterns and differing weights, creating a lavish ensemble of texture and color. Their garb is accented with silvers and golds, and minor gems which glitter in the light, making them appear all the more dazzling.
 

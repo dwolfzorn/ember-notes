@@ -39,7 +39,7 @@ Initiative is rolled immediately at the start of this combat event, after "Setti
 > [!abstract] Skallith
 > **[[Skallith]]**
 >
-> Level 1 · Skallith Commonfolk
+> Level 1 · Skeleton Commonfolk
 >
 > ![Skallith](../../../assets/image008.webp)
 >
@@ -48,9 +48,9 @@ Initiative is rolled immediately at the start of this combat event, after "Setti
 > [!abstract] Crumbling Skallith
 > **[[Crumbling Skallith]]**
 >
-> Level 0.5 (Minion) · Skallith Commonfolk
+> Level 0.5 (Minion) · Skeleton Commonfolk
 >
-> ![Crumbling Skallith](../../../assets/image126.webp)
+> ![Crumbling Skallith](../../../assets/image156.webp)
 >
 > You behold the terrifying appearance of a reanimated humanoid skeleton, whose decrepit bones remain dreadfully assembled, despite the lack of sinew and flesh. This loathsome skeletal creature wields a timeworn blade, and a rotted shortbow is slung across its bony back.
 
@@ -71,14 +71,14 @@ Initiative is rolled immediately at the start of this combat event, after "Setti
 | --- | --- |
 | 1 | #### Undying Fortitude  Through sheer malevolent will, a recently-slain [[Skallith]] absorbs some of the spiritual essence of a dead Cindaric nearby, and reanimates to attack once more. This newly arisen Skallith has 1 Health. |
 | 2 | #### High Dive  An unseen Skallith takes a leap off of higher ground or terrain to target one of the characters with a plunging attack. A character hit by this attack must succeed on a **Athletics (DC 13)** to avoid being knocked **Prone**. |
-| 3 | #### Death by Candlelight  A Skallith in the mob takes up a nearby candelabra that burns with five fiery candles at its sconces and hurls it at a random party member. The character hit by this attack must make a **Athletics (DC 14)** or suffer **The Burning Wax (Hazard 6, Fortitude, Health, Fire)**. |
+| 3 | #### Death by Candlelight  A Skallith in the mob takes up a nearby candelabra that burns with five fiery candles at its sconces and hurls it at a random party member. The character hit by this attack must make a **Athletics (DC 14)** or suffer **The Burning Wax (Hazard 6)**. |
 | 4 | #### Who Goes There?  An unseen [[Crumbling Skallith]] claws its way from the shadows to attack from behind. |
 | 5 | #### Blood Bath  A nearby door swings wide open as a gout of human blood sprays the opposite wall. A [[Skallith]] emerges from within, holding the newly severed head of a Cindaric. Any character who can see the Skallith must succeed on a **Intimidation (DC 13, Passive)** check to avoid becoming **Frightened** until the end of their next turn. |
 | 6 | #### A Knock at the Door  An unseen [[Skallith]] has flanked the party from another position on the map, and swings a nearby door wide open to attack from behind. A gust of wind rustles the prayer books and candelabras scattered throughout the chamber. |
 | 7 | #### Paint it Red  An unseen [[Skallith]] drags the cadaver of a hapless sanctuary visitor out of a nearby chamber or corridor, painting a streak of blood on the floor. Any character who can see the Skallith must succeed on a must succeed on a **Intimidation (DC 13, Passive)** check to avoid becoming **Frightened** until the end of their next turn. |
-| 8 | #### Heads Will Roll  A [[Crumbling Skallith]] or [[Skallith]] uses its own skull as a thrown weapon, hurling it at a random member of the party who must suffer **Heads Up! (Hazard 4, Fortitude, Health, Bludgeoning)** |
+| 8 | #### Heads Will Roll  A [[Crumbling Skallith]] or [[Skallith]] uses its own skull as a thrown weapon, hurling it at a random member of the party who must suffer **Heads Up! (Hazard 4)** |
 | 9 | #### Back to Back  A Cindaric Adherent staggers into the area with two Crumbling Skallith clinging to their back. The Adherent is eviscerated in a bloody torrent as the [[Crumbling Skallith]] turn their attention to the party. |
-| 10 | #### Eldritch Miasma  An eldritch miasma of tenebrous Abyssal energy seeps from the most recently slain Skallith or Crumbling Skallith and immediately dissipates. Any living creature within 30 feet of the remains suffers **Miasmic Toxicity (Hazard 3, Willpower, Morale, Psychic)**. Any character that takes damage this way is also **Decaying** until the end of their next turn. |
+| 10 | #### Eldritch Miasma  An eldritch miasma of tenebrous Abyssal energy seeps from the most recently slain Skallith or Crumbling Skallith and immediately dissipates. Any living creature within 30 feet of the remains suffers **Miasmic Toxicity (Hazard 3)**. Any character that takes damage this way is also **Decaying** until the end of their next turn. |
 | 11 | #### Decrepit Reassembly  Through sheer malevolent will, a recently-slain [[Crumbling Skallith]] absorbs some of the spiritual essence of a dead Cindaric nearby, and reanimates to attack once more. This newly arisen Crumbling Skallith has 1 Health. |
 | 12 | #### Call to Harms  One of the Skallith rasps a fearsome battle cry in an ancient, evil language. Each Skallith ally within 60 feet gains +2 Boons on their next attack. |
 
@@ -150,7 +150,7 @@ After the brief encounter on the Winding Stairs, the characters can proceed to t
 > [!abstract] Skallith Warrior
 > **[[Skallith Warrior]]**
 >
-> Level 3 · Skallith Fighter
+> Level 3 · Skeleton Fighter
 >
 > ![Skallith Warrior](../../../assets/image009.webp)
 >
@@ -181,7 +181,7 @@ Once the group of skeletal undead here in the Refectory has been defeated in com
 >
 > Level 6 (Elite) · Ashka Necromancer
 >
-> ![Evesso](../../../assets/image184.webp)
+> ![Evesso](../../../assets/image214.webp)
 >
 > This tall Ashka scholar is draped in the burgundy robes of a Cindaric Sage. His viridian-scaled form is lean and austere, and his countenance betrays an erudite contrition. Surely, this scholar is an accomplished practitioner of the Cindaric arts, if the age of his blue-green squama and the patina of his weathered staff are any indication.
 

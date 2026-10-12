@@ -11,7 +11,7 @@ tags: [ember, standalone-events]
 > [!warning] Gamemaster
 > #### Gamemaster's Summary
 >
-> This standalone event set in the [[Verdant Paths]] places the characters face-to-face with two monstrous arachnids. In this standalone event, the party must:
+> This Standalone Event set in the [[Verdant Paths]] places the characters face-to-face with two monstrous arachnids. In this standalone event, the party must:
 >
 > - Avoid damage and disorientation as they tumble down into a overgrown gulley during a sudden landslide.
 > - Survive an untimely attack from two [[Sitherian]], who lair in a small cave nearby.
@@ -24,7 +24,7 @@ The unstable earth beneath the party's feet gives away causing the group to tumb
 > [!danger] Hazard
 > #### Tumble in the Rough
 >
-> Each character must face a **Minor Rockslide (Hazard 4, Reflex, Bludgeoning)** from the sudden but sloped fall. Any character who fails this save by more than 10 also gains the **Prone** condition.
+> Each character must face a **Minor Rockslide (Hazard 4)** from the sudden but sloped fall. Any character who fails this save by more than 10 also gains the **Prone** condition.
 >
 > While they've already spied one of the creatures, there are a total of two [[Sitherian]] here: the initial assailant in the cliffside cave to the southeast, and another hidden Sitherian among the foliage to the northwest.
 
@@ -40,7 +40,7 @@ The unstable earth beneath the party's feet gives away causing the group to tumb
 > [!danger] Hazard
 > #### Arachnid Attack!
 >
-> Characters with **Awareness (DC 16, Passive)** are able to spot the hidden Sitherian to the northwest, who will attempt to engage the party unseen. While the Sitherian remains hidden, it has advantage on attacks against enemy characters who fail to detect it.
+> Characters with **Awareness (DC 16, Passive)** are able to spot the hidden Sitherian to the northwest, who will attempt to engage the party unseen. While the Sitherian remains hidden, it has **+2 Boons** on attacks against enemy characters who fail to detect it.
 >
 > #### Sitherian Tactics
 >

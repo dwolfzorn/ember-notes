@@ -36,7 +36,7 @@ What the people of Arcturel don't know is that Hew's malfunction is actually a s
 - [[Rider]]
 - [[Chamberlain]]
 - [[Vartholomew Chess]]
-- [[Ifton Shepp]]
+- Ifton Shepp
 - Nodrick Stolas
 - Calandra
 - Hob Korell

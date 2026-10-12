@@ -25,9 +25,11 @@ The sun-kissed agrimage [[Moriah Foxhaven]] lives amongst a group of beast-ridin
 > [!abstract] Moriah Foxhaven
 > **[[Moriah Foxhaven]]**
 >
-> Level 1 · Unknown Unknown
+> Level 3 · Human Agrimage
 >
 > ![Moriah Foxhaven](../../assets/image003.webp)
+>
+> A young Arcturian woman sits atop a magnificent four-legged yarnac, which she drives across the grassy plain with calm and ease. Her sun-kissed light brown skin is freckled from relentless exposure to the rays of Lantyr, and the details of her close-fitting garb reveal a healthy symbiosis with the nature around her — earth-tone garments made from cotton, straps and belts made from vine instead of leather, and an assortment of jewelry and trinkets lovingly culled from the natural world. There's a fire in her twenty-something auburn eyes that suggests an undeterred sense of self, and she regards you with unwavering composure as she dismounts the beast to entreat with you face-to-face.
 
 > [!info] Social
 > #### Meeting the Agrimage

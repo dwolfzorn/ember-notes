@@ -19,7 +19,7 @@ tags: [ember, quests]
 
 ### Approaching the Caravan
 
-If the characters approach the caravan with any amount of caution, propriety, or stealth, they can easily overhear a couple of the merchants engaged in conversation — who earnestly discuss their most recent venture to the infamous sinkhole city of Arcturel. These are **Doran Styme** (Lawful Neutral, Arcturian Human, he/him), a squat leather trader in his late forties, and his older "brother" **Nevel Rux** (Chaotic Good, Arcturian Human, he/him), a reedy jewel merchant in his early fifties.
+If the characters approach the caravan with any amount of caution, propriety, or stealth, they can easily overhear a couple of the merchants engaged in conversation — who earnestly discuss their most recent venture to the infamous sinkhole city of Arcturel. These are **Doran Styme** (Lawful Neutral, Arcturian Human, he/him), a squat leather trader in his mid-fifties, and his older "brother" **Nevel Rux** (Chaotic Good, Arcturian Human, he/him), a reedy jewel merchant in his early sixties.
 
 As the characters approach, read the following:
 

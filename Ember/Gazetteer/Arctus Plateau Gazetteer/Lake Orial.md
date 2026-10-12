@@ -25,4 +25,4 @@ Life around Lake Orial is not without its perils, rare though they may be. The p
 
 ### Lore
 
-The shores of Lake Orial are primarily inhabited by communities of hard-working Bejaki settlers. Daily life around the rural expanse of Lake Orial is difficult, but also cherished by the Kivahr, Keth, and others that call the land home. As such, the legends and lore of Lake Orial are infused with those of the Bejaki people. More than one sordid tale involving Trolls of the far north has been shared among storytellers who journey here, along with legends of odd cyptids that lurk among black aspen in the neighboring woods.
+The shores of Lake Orial are primarily inhabited by communities of hard-working Bejak settlers. Daily life around the rural expanse of Lake Orial is difficult, but also cherished by the Kivahr, Keth, and others that call the land home. As such, the legends and lore of Lake Orial are infused with those of the Bejak people. More than one sordid tale involving Trolls of the far north has been shared among storytellers who journey here, along with legends of odd cryptids that lurk among black aspen in the neighboring woods.

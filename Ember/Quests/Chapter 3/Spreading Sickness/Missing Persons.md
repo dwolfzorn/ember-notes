@@ -17,10 +17,6 @@ tags: [ember, quests]
 > - Learn about the agitators attempting to turn the populace of Ordain against its leadership.
 > - Get their next assignment in the city.
 
-#### Vista Under Development
-
-A scene representing the Veiled Chain headquarters is planned, in the meantime, the event will show the Hallows vista, which is where the entrance to their hidden operations can be found.
-
 ### Reporting the Lab
 
 > [!warning] Gamemaster

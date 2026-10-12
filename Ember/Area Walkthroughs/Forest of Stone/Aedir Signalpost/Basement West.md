@@ -18,7 +18,7 @@ The party may wish to peruse through the tools on these workbenches, although ta
 >
 > Any character who makes a successful **Awareness (DC 15)** check can confirm that the tools on the tables were recently cleaned by the application of a substance that likely covered the entire room, as the worktables and barrels in the room show the same level of cleaning.
 >
-> - The trap can be discovered before it is triggered with a successful **Awareness (DC 15)** check to note the drops of condensation on the long table of tools beneath each of the bronze spouts, or by using the spell [[Find Traps]] or similar, or through the use of the [[Recognize Spellcraft]] talent, which reveals an aura of magic around both the worktables and the bronze spouts.
+> - The trap can be discovered before it is triggered with a successful **Awareness (DC 15)** check to note the drops of condensation on the long table of tools beneath each of the bronze spouts, or through the use of the [[Recognize Spellcraft]] talent, which reveals an aura of magic around both the worktables and the bronze spouts.
 >
 > #### Sorting through the Tools
 >
@@ -26,7 +26,7 @@ The party may wish to peruse through the tools on these workbenches, although ta
 >
 > - **Society (DC 15)** to identify the bulk of the tools as metalworking tools that would have been used by the Aediri.
 > - **Arcana (DC 15)** to identify a [[Spellwrought Pen]] among the items on the table.
-> - **Awareness (DC 15)** to spot a few scattered gems on the table, likely used as component pieces in magical works. In total, the gems are worth 50 gp. They also notice that all of the papers and books on the table have the same symbol either on or near them.
+> - **Awareness (DC 15)** to spot a few scattered gems on the table, likely used as component pieces in magical works. In total, the gems are worth  **5**. They also notice that all of the papers and books on the table have the same symbol either on or near them.
 >
 > When making any of the above checks:
 >
@@ -57,10 +57,10 @@ This trap uses the natural steam cleaning functions of the basement (meant to ke
 >
 > **Steam Release (Initiative 20).** Hot steam is released from the spouts in the wall and begins filling the room. Characters within the room must make a series of checks to avoid the injurious release of steam. The difficulty and danger of this trap escalates the longer it is active:
 >
-> - **Round 1**:**Mild Steam Burn (Hazard 2, Fortitude, Health, Fire)**
-> - **Round 2:** **Minor Steam Burn (Hazard 3, Fortitude, Health, Fire)**
-> - **Round 3:** **Steam Burn (Hazard 5, Fortitude, Health, Fire)**
-> - **Round 4+:** **Major Steam Burn (Hazard 6, Fortitude, Health, Fire)**
+> - **Round 1**:**Mild Steam Burn (Hazard 2)**
+> - **Round 2:** **Minor Steam Burn (Hazard 3)**
+> - **Round 3:** **Steam Burn (Hazard 5)**
+> - **Round 4+:** **Major Steam Burn (Hazard 6)**
 >
 > **Alchemical Cleaning Agents (Initiative 10).** Alchemical cleaning agents are released into the steam. Any creature that ends their turn within range of the steam must make a successful **Medicine (DC 15)** to take precautionary measures against breathing in the toxic air. Failing this check results in the character being **Poisoned**. If the character is already poisoned when making this check, they suffer a coughing fit and are knocked **Prone**.The cleaning agents disperse into the steam and become harmless after 1 round.
 >

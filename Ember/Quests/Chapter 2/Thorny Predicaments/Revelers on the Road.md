@@ -144,7 +144,7 @@ As characters are leaving, or at any point at the GM's discretion, a minor earth
 > [!danger] Hazard
 > #### A Minor Shake
 >
-> Characters must succeed on a **Athletics (DC 15)** saving throw to stay upright during the tremors. On failure, the character is thrown to the ground and suffersa **Rocky Tumble (Hazard 2, Fortitude, Health, Bludgeoning)** .
+> Characters must succeed on a **Athletics (DC 15)** saving throw to stay upright during the tremors. On failure, the character is thrown to the ground and suffers a **Rocky Tumble (Hazard 2)** .
 
 > [!quote] Read Aloud
 > In the aftermath of the shaking, Leini peers over at the map scrawled into the dirt and says:

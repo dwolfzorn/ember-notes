@@ -43,7 +43,7 @@ The dormant [[Kynryth Husk]] will not activate unless a character attacks them o
 >
 > Level 1 · Unknown Unknown
 >
-> ![Kynryth Husk](../../../assets/image052.webp)
+> ![Kynryth Husk](../../../assets/image053.webp)
 
 > [!danger] Hazard
 > #### Kynryth Husk Tactics
@@ -53,4 +53,4 @@ The dormant [[Kynryth Husk]] will not activate unless a character attacks them o
 > Over the course of combat, the Kynryth Husk will prioritize the following actions and abilities:
 >
 > - In melee, the Kynryth Husk will use its [[Multiattack]] Action.
-> - Whenever able, the Kynryth Husk will [[Unknown]] to transform into a fully powered [[Kynryth]].
+> - Whenever able, the Kynryth Husk will [[Receive Flame]] to transform into a fully powered [[Kynryth]].

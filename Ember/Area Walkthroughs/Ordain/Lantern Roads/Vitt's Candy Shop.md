@@ -29,7 +29,7 @@ A [[Wandren Patroller]] guards the stairway behind the shop. The Patroller remai
 >
 > Level 1 · Unknown Unknown
 >
-> ![Wandren Patroller](../../../assets/image050.webp)
+> ![Wandren Patroller](../../../assets/image051.webp)
 
 > [!danger] Hazard
 > #### Beacon Brigade Patroller Tactics

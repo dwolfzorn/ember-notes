@@ -24,7 +24,7 @@ This long hallway east of the [[Unknown]] is trapped with nefarious blades and a
 >
 > The Spinning Blade Trap is triggered when 10 or more pounds of weight are applied to the pressure plate. When the trap is triggered, several whirling blades erupt from the nearby wall and sweep through the hallway.
 >
-> - Any character who is within the area of the trap immediately or at the start of a subsequent turn faces **Hazard 6 (Fortitude, Health, Slashing)**.
+> - Any character who is within the area of the trap immediately or at the start of a subsequent turn faces **Hazard 6**.
 
 After surmounting the hazard of the blade trap, the party must cross a deep pit using small metal platforms in alcoves on either side, circling around to a triangular area with three mirrors just before the entrance to the [[Unknown]].
 

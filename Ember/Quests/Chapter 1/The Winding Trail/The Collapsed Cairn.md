@@ -81,7 +81,7 @@ The party can examine the blockage to get a sense of how bad it is and how much 
 >
 > > Don't be reckless. We are not in such a rush that it's worth being crushed to death.
 >
-> Characters who ignore this warning and attempt to traverse the rubble must succeed on three successive **Athletics (DC 25)** skill checks. Upon each failure, the character may suffer damage as **Shifting Rocks (Hazard 12, Fortitude, Health, Bludgeoning)** threaten to pin them in place.
+> Characters who ignore this warning and attempt to traverse the rubble must succeed on three successive **Athletics (DC 25)** skill checks. Upon each failure, the character may suffer damage as **Shifting Rocks (Hazard 12)** threaten to pin them in place.
 >
 > It is possible to turn back at any point and return to safety without any further checks. Any character who is killed or incapacitated by this damage can be extracted from the rubble at the expense of 1 hour of rescue time.
 >
@@ -167,7 +167,7 @@ Agraband says that he will check in with the party at the end of each day, but e
 >
 > #### Next Steps
 >
-> Upon completing this Event, the [[Party]] gains their own active group token on the Region Map, which allows the players to move independently of the Strayhearth Caravan.
+> Upon completing this Event, the [[DreamTeam]] gains their own active group token on the Region Map, which allows the players to move independently of the Strayhearth Caravan.
 >
 > It is intended for the characters to accept Agraband's proposal to scout for an alternate route. If they do this, they will need to backtrack and explore the other routes in the Verdant Pathways. Each of the two alternate paths has a Side Quest associated with it:
 >

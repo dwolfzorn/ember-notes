@@ -43,7 +43,7 @@ The party can explore the Librarium of Spectra, perhaps intending to find an aco
 >
 > #### Gods Research
 >
-> Any character who succeeds on on a **Awareness (DC 15)** or a **Arcana (DC 15)** specifically looking for God knowledge unearth the following, characters with **Knowledge: Gods** have advantage on this check.
+> Any character who succeeds on on a **Awareness (DC 15)** or a **Society (DC 15)** specifically looking for God knowledge unearth the following, characters with **Knowledge: Gods** have advantage on this check.
 >
 > - Many gods of the Nineteen, whom the people of the Arctus Plateau worship, are said to visit the great city of Ordain in disguise. Some of them have favorite spots where they like to spend time among their followers or take in the city's metropolitan airs.
 > - **Result of 18+:** The character encounters a priest of Katu, studying weather phenomena and charts. He informs the party that ancient Katu and his small family of Shard Gods reside upon a floating island, which for the last several hundred years has been discreetly anchored off the southeastern Arctus Plateau, far from any trade routes, roads, or well-traveled paths.
@@ -54,8 +54,7 @@ The party can explore the Librarium of Spectra, perhaps intending to find an aco
 > Any character who succeeds on on a **Awareness (DC 13)** or a **Arcana (DC 13)** specifically looking for Magical knowledge unearth the following, characters with **Knowledge: Rituals** have advantage on this check.
 >
 > - Ordain has always been a city surrouned by magical forces, but the Ordani people have never been great wizards and there is no academy or place where wizards specifally gather together expcet in this very building. But they are few and far between.
-> - **Result of 19+:** The character finds a battered and tired looking Wizard nestled deep into some books and while initially wary if the character is also a wizard and succeeds on a **Diplomacy (DC 15)** check the now friendly wizard teaches them the spell [[Arcane Eye]].
-> - **Result of 24+:** The character assists the weary wizard for one hour. During this time, they develop an unusual rapport, and if the character also succeeds in **Deception (DC 16)**, they gain insight into the nature of magic and the intricate, interwoven fabric of reality. The wizard, who reveals themselves to be none other than the Star Mage Eveis Brightstone in disguise, teleports away, leaving behind a scroll of [[Scrying]].
+> - **Result of 24+:** The character assists the weary wizard for one hour. During this time, they develop an unusual rapport, and if the character also succeeds in **Diplomacy (DC 16)**, they gain insight into the nature of magic and the intricate, interwoven fabric of reality. The wizard, who reveals themselves to be none other than the Star Mage Eveis Brightstone in disguise, teleports away, leaving behind a scroll of [[Scrying]]. TODO: REPLACE SCROLL OF SCRYING WITH SOMETHING SUITABLE FROM CRUCIBLE SPELLS
 >
 > #### Shent Research
 >
@@ -80,7 +79,7 @@ The woman standing among stacks of books is the Elder Goddess Spectra. She is a 
 >
 > Level 1 · Unknown Unknown
 >
-> ![Spectra](../../../assets/image190.webp)
+> ![Spectra](../../../assets/image220.webp)
 
 > [!quote] Read Aloud
 > While her dazzling appearance and aura clearly indicate that Spectra is a being of great power and influence, her presence in this dusty, tucked-away library is somewhat surprising. Nonetheless, she speaks to you all with warm and flowing tones, as if she has known you your entire lives.
@@ -94,7 +93,7 @@ The woman standing among stacks of books is the Elder Goddess Spectra. She is a 
 >
 > If any character succeeds on **Arcana (DC 11)** check, they will likely experience something of an explosion in the person's mind as the raw power emanating from the entity in front of them rocks them backward with unbelievable force. Her passive aura is not damaging, nor blinding, and it feels warm without causing any issues with characters' overall temperature.
 >
-> Spectra appears earnest and upfront, but it's very hard to read her intentions. A successful **Deception (DC 20)** check notes that while she is honest and forthcoming with her answers, she will not reveal sensitive information to the party, either because she wants to protect them or because she doesn't quite understand their motivations just yet.
+> Spectra appears earnest and upfront, but it's very hard to read her intentions. A successful **Diplomacy (DC 20)** check notes that while she is honest and forthcoming with her answers, she will not reveal sensitive information to the party, either because she wants to protect them or because she doesn't quite understand their motivations just yet.
 >
 > The party can continue their conversation with Spectra for some time, during which time he provides additional information:
 >

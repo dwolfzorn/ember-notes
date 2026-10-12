@@ -29,7 +29,7 @@ Though there are many dead, enough survivors remain to eventually stabilize and 
 >
 > Level 1 · Altyra Trader
 >
-> ![Sadri Zhalimorne](../../../assets/image067.webp)
+> ![Sadri Zhalimorne](../../../assets/image068.webp)
 >
 > You regard a steel-skinned woman with luminous golden eyes and side-parted bob of short-cropped silver hair. Adorned in a brown sleeveless tunic with leather shorts and boots, her countenance is equal parts purposeful and amused, and you can’t help but notice the lambent lines of bright copper that decorate her legs. A beaded Arcturian plastron necklace hangs around her neck, proudly signifying some kind of social station.
 
@@ -80,7 +80,7 @@ Once it appears that the party has no further urgent questions for Sadri, she br
 >
 > > I don't know if you came across them while you were traveling, but there are miners out in Yakoshta and a group of Anachraenum explorers in the Forest of Stone. In light of recent attacks, I feel it's vital that we take steps to find out if they are okay or not. I don't have anyone to spare right now, but I'm prepared to hire you to go out there and check on them. I'll pay you for information on the status of both groups.
 >
-> Sadri offers a further reward of  **1 each** in exchange for confirmation that the miners at [[Yakoshta]] and the Anachraenum expedition at the [[Ancient Door]] are safe.
+> Sadri offers a further reward of  **10** in exchange for confirmation that the miners at [[Yakoshta]] and the Anachraenum expedition at the [[Ancient Door]] are safe.
 
 `[[/outcome sadriRequest]]`
 
@@ -100,7 +100,7 @@ Ankarist looks troubled by events, but behind his outward expression of concern 
 >
 > Level 2 · Drakon Veiled Chain Investigator
 >
-> ![Ankarist](../../../assets/image099.webp)
+> ![Ankarist](../../../assets/image120.webp)
 >
 > You observe a stern Drakon warrior with a determined expression and piercing golden eyes. Clad in leather armor reinforced with steel, his martial prowess is immediately apparent in the way he handles the hefty greatsword at his side — a hulking blade with a wide, flared tip. This two-handed brand is obviously venerated by the Drakon, who regards the blade with marked discipline. A cloak pin on his breast bears the symbol of the Veiled Chain, the city of Ordain's noble protectorate.
 
@@ -153,9 +153,9 @@ Lyla is actively helping to coordinate the response and talking with townsfolk a
 > [!abstract] Lyla Cevher
 > **[[Lyla Cevher]]**
 >
-> Level 2 · Human Cevher Heiress
+> Level 2 · Human Operator
 >
-> ![Lyla Cevher](../../../assets/image098.webp)
+> ![Lyla Cevher](../../../assets/image119.webp)
 >
 > A Human who is sharply dressed in a beautiful and richly decorated coat that proudly displays her wealthy background. It's clear from an initial glance at her overall bearing and clothing style that she is from the city of Ordain itself and while she holds herself with a confident air, she is also friendly and welcoming with a slight smile and small laughter lines appearing around her eyes.
 
@@ -216,7 +216,7 @@ The party notices that Sin is obviously exhausted by the ordeal, both physically
 >
 > Level 2 · Keth Cindaric Aspirant
 >
-> ![Sin Marmot](../../../assets/image100.webp)
+> ![Sin Marmot](../../../assets/image121.webp)
 >
 > A Keth with a friendly demeanor and wide blue eyes and a strange half-mask that covers her mouth. She seems to view everything around her with an air of wondrous innocence but her keen glances also suggest the ability to read any given situation quickly and she may be more capable than she appears at first glance.
 
@@ -276,9 +276,9 @@ Though Sin wants to remain in Helkas and help the townsfolk, she also recognizes
 > [!abstract] Agraband Swift
 > **[[Agraband Swift]]**
 >
-> Level 3 · Human Caravaneer
+> Level 3 · Human Bard
 >
-> ![Agraband Swift](../../../assets/image148.webp)
+> ![Agraband Swift](../../../assets/image178.webp)
 >
 > A lute is slung across the back of this aged human clad in an odd yet practical assortment of clothing and jewelry. The seasoned bard wears the salt-and-pepper locks of his long hair pulled back into a high half ponytail. His wide smile and calm demeanor lend him an air of experienced confidence, and a certain glint in his eye evokes the mirthful spirit of a beloved uncle. It's clear this man could spin a worthy tale at a moment’s notice.
 
@@ -312,7 +312,7 @@ Though Sin wants to remain in Helkas and help the townsfolk, she also recognizes
 >
 > Level 2 · Signborn Trader
 >
-> ![Clipper](../../../assets/image155.webp)
+> ![Clipper](../../../assets/image185.webp)
 >
 > You hear the sound of jingling bells as a purple-skinned Signborn with a slight build draws your attention. Crowned in a feathered mop of cerulean- and lavender-streaked hair, this young merchant's bright cobalt eyes and wide, sharp-toothed smile reveal an unmistakable affability.
 >
@@ -357,6 +357,6 @@ Though Sin wants to remain in Helkas and help the townsfolk, she also recognizes
 > When the party is ready to depart Helkas for Ordain, take the following specific actions:
 >
 > 1. Mark the "Departed Helkas" Event outcome as completed.
-> 2. Add [[Ankarist]], [[Lyla Cevher]], and [[Sin Marmot]] to the [[Party]] caravan.
+> 2. Add [[Ankarist]], [[Lyla Cevher]], and [[Sin Marmot]] to the [[DreamTeam]] caravan.
 > 3. You may remove the [[Strayhearth Caravan]] from play.
 > 4. Begin traveling along the eastern road towards Ordain. The [[Leavetakings]] Event will occur after crossing the first bridge or upon the party's first **Rest**.

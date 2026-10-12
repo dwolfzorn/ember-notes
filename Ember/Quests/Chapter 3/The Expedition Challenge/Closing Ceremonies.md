@@ -17,7 +17,7 @@ tags: [ember, quests]
 > - Accept their new standing as full members of the Anachraenum, with all the benefits that status entails.
 > - Speak with [[Fernis Ossa]] about her lingering concerns of political upheaval in the Anachraenum, and plan the investigation to come.
 >
-> This Event is depicted using the [[The Arctus Plateau]] Region Map.
+> This Event is depicted using the [[Vista: All-Fable Keep]] Vista.
 
 ### Speaking with Arcos
 
@@ -28,7 +28,7 @@ The party can now speak with Arcos to receive their accolades — including full
 >
 > Level 1 · Unknown Unknown
 >
-> ![Arcos Sarinland](../../../assets/image143.webp)
+> ![Arcos Sarinland](../../../assets/image173.webp)
 
 > [!quote] Read Aloud
 > The guildmaster beams with joy as he steps forward, clasping your hands.
@@ -95,7 +95,7 @@ Following the party's encounter with Arcos, Fernis Ossa will emerge from the sha
 >
 > Level 1 · Unknown Unknown
 >
-> ![Fernis Ossa](../../../assets/image101.webp)
+> ![Fernis Ossa](../../../assets/image122.webp)
 
 > [!quote] Read Aloud
 > As you begin to leave the hall, you notice a shape emerge from next to one of the wooden beams along the side of the main hall.

@@ -28,7 +28,7 @@ The crystals of the kaleidoscope cavern are mesmerizing, but spending too long i
 >
 > Characters encountering this event will find the crystal caverns have begun to influence their perceptions. Characters with **Knowledge: Subterranea** immediately suspect that the crystals formed in this place are not entirely natural.
 >
-> Any character who can see the light emitted by a cluster of kaleidoscope crystals must face **Kaleidoscopic Disorientation (Hazard 4, Willpower, Psychic, Morale)**. If this hazard is not resisted, the character additionally suffers from one of the following effects which persist until the successful completion of a Rest.
+> Any character who can see the light emitted by a cluster of kaleidoscope crystals must face **Kaleidoscopic Disorientation (Hazard 4)**. If this hazard is not resisted, the character additionally suffers from one of the following effects which persist until the successful completion of a Rest.
 >
 > |  | #### Kaleidoscope Crystal Effects |
 > | --- | --- |

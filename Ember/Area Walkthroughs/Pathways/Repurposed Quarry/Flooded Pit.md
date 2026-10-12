@@ -8,19 +8,13 @@ tags: [ember, area-walkthroughs]
 
 # Flooded Pit
 
-**Work in Progress!**
-
-While this combat should come pre-configured in the scene for the **Repurposed Quarry - Lower** area, there is a chance that the actor has been cleared. For Early Access you may need to add the Mutated Ultra Drake to the area for this encounter. The required actors are listed in the encounter below.
-
-Make sure the Mutated Ultra Drake begins with the status "Invisible" or starts hidden to represent it being submerged.
-
 > [!quote] Read Aloud
 > The flooded pit marks the quarry's deepest point, a vast expanse now claimed by dark, swift-moving water. The reflective surface shimmers continuously under the erratic light, creating an illusion of boundless depth beneath. The sound of the cascading waterfall above reverberates through this space, adding to the sense of both confinement and expanse.
 
 > [!danger] Hazard
 > #### Drake Attack
 >
-> The massive drake here prefers to remain out of sight for as long as it can, waiting to attack prey when they are unwary.
+> The massive drake here prefers to remain out of sight for as long as it can, waiting to attack prey when they are unwary. Its token begins hidden or with the Invisible status to represent it being submerged.
 >
 > Characters moving through this area must succeed on a **Awareness (DC 18)** check to notice the presence of a massive, mutated drake lurking in the water of the flooded pit. Characters that fail are subject to **Unaware** when the creature explodes from the water and attacks.
 
@@ -29,31 +23,34 @@ Make sure the Mutated Ultra Drake begins with the status "Invisible" or starts h
 >
 > Level 6 (Boss) · Afflicted Pallid Drake Ultra Drake
 >
-> ![Mutated Ultra Drake](../../../assets/image015.webp)
+> ![Mutated Ultra Drake](../../../assets/image016.webp)
 >
 > Warped and misshapen, this monster is covered in thick scales, and scuttles forward on half a dozen limbs protruding haphazardly from its grotesque form. Its head is crowned with a flaring array of teal horns which extend into long, uneven spikes that run halfway down its spine. The creature's elongated mouth is framed by six finger-like appendages ready to guide pray into its jagged teeth. Scabbed over brown pustules blemish its body, hinting at an illness in remission.
 
 > [!danger] Hazard
 > #### Drake Tactics
 >
-> The drake is very aggressive and its [[Preternatural Instinct]] gives it a significant advantage over its prey, it relies on its substantially armored [[Drake Scales]] to protect it from severe injury when entering battle.
+> The Mutated Ultra Drake is the most dangerous creature in the quarry, and its stat block has more moving parts than most the party has faced. It hunts from the water, punishes groups and wounded prey, and never gives up the fight.
 >
-> The drake is fast, capable of using its [[Unknown]] to quickly close distance and harm multiple foes in the process.
+> **Ambush.** The drake begins submerged and hidden, and its [[Extended Breath]] lets it stay under for 15 minutes. [[Thermal Vision]] lets it track warm bodies through the dark water from 60 feet away, so it waits until the party has spread out along the water's edge before it bursts out and strikes the nearest character. [[Preternatural Instinct]] gives it +2 Boons on Initiative, so it is likely to act before most of the party.
 >
-> Up close, the drake uses its natural [[Talons]] and [[Bite]] attacks to rip apart foes, with its [[Bloodletter]] talent making these attacks particularly dangerous. The drake is ruthless, and will favor targets that are already **Bleeding** (informed by [[Blood Sense]]) and use this to fuel more actions through [[Blood Frenzy]].
+> On its turn, the drake will:
 >
-> If an opponent is for some reason unreachable, or if two or more party members cluster together, it will make use of its [[Unknown]] and [[Unknown]] to punish them from a distance.
+> - Strike with its [[Talons]] and [[Bite]], favoring wounded characters, which its [[Blood Sense]] pinpoints within 20 feet.
+> - Press any advantage. A Critical Hit triggers [[Bloodletter]], leaving the target **Bleeding** for 3 Rounds, and [[Blood Frenzy]], granting +1 Action once per Round. After defeating a character, it uses **Ruthless Momentum** to move and strike the next.
+> - Use **Noxious Spray** when two or more characters line up within its 30-foot ray, or **Noxious Spit** on a single character within 20 feet who stays out of reach.
+> - Use **Tail Sweep** when three or more characters surround it; on a Critical Hit, they become **Staggered**.
+> - Climb the quarry walls and structures when a character shelters out of reach. If it finds itself above its prey, it can leap down on them with **Swooping Strike**, gaining a Boon for every 10 feet it descends. This is an opportunity, not its main avenue of attack.
 >
-> When surrounded, the drake can use its [[Tail Sweep]] to knock down and scatter nearby creatures, allowing it to escape or maneuver.
+> When it dodges a melee attack, it spends Focus on **Counter Evade** to strike back. Its [[Electricity Absorption]] heals it from lightning that its resistance more than absorbs, so electrical attacks are a poor choice against it.
 >
-> However, for all the drake's considerable power, it is has not been changed beyond the point of having survival instincts. If it feels its prey is too tough, or becomes **Broken** it will flee, retreating back into the darkness or below the waters and out of sight. If it successfully flees, it tears loose of the [[Control Collar]] , leaving it behind instead of the collar being found on the body as detailed below.
+> Breaking its morale only provokes it further. If it becomes **Broken**, it does not flee, but becomes **Enraged** and fights to the death.
 
 > [!tip] Exploration
 > #### Explore
 >
-> Examining the dead drake, you find a [[Control Collar]]. A successful **Arcana (DC 14)** check reveals that the inscriptions and runs would have worked in concert with runes carved into the quarry walls to keep the drake in the lowest level.
+> Examining the dead drake, you find a [[Control Collar]]. A successful **Arcana (DC 14)** check reveals that the inscriptions and runes would have worked in concert with runes carved into the quarry walls to keep the drake in the lowest level. The runes would have leveled a shockingly powerful and likely painful psychic shock when triggered. However, they are largely burned out, and likely haven't functioned for quite a while.
 >
-> - **Success** You notice that the runes would have leveled a shockingly powerful and likely painful psychic shock when triggered. However, the runes are largely burned out, and likely haven't functioned for quite a while.
-> - **Critical Success** The amount of magical artifice needed to make something like this is considerable, and likely required it to be custom made. Characters with **Knowledge: Crafts** note that while there's no clear maker's mark, the list of people who could create something of this sort is probably fairly short.
+> - **Critical Success**: The amount of magical artifice needed to make something like this is considerable, and likely required it to be custom made. Characters with **Knowledge: Crafts** note that while there's no clear maker's mark, the list of people who could create something of this sort is probably fairly short.
 >
 > - A further **Wilderness (DC 14)** check regarding this would lead you to believe that the creature was eventually conditioned to remain in the quarry, even without a working collar. Likely, it was smart enough to know what would happen if it tried to breach containment, and unwilling to risk it.

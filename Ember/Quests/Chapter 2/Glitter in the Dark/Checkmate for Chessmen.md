@@ -101,7 +101,7 @@ If the party raids the Chessmen camp and chooses to capture the Renegade Constru
 >
 > Any character who succeeds on a **Awareness (DC 12)** check while searching the camp is also able to locate the following:
 >
-> - A [[Repair Kit (smith)]].
+> - A [[Unknown]].
 > - A leather purse containing  **3 3**.
 
 Check the Outcome to conclude the event, once the players have collected their evidence for Larissa Toth and had ample time to search the camp.

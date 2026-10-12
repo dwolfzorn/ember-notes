@@ -22,3 +22,8 @@ tags: [ember, area-walkthroughs]
 >
 > - Stock and supply ledgers which yield a [[List of Chemicals]] utilized in the laboratory.
 > - A book containing numerous [[Mutagenic Formulae]].
+
+> [!warning] Gamemaster
+> #### Elevator
+>
+> An elevator connects this level to the [[Compound Lab]] on the middle level. To operate it, click on the elevator using the  Interact With Objects mode in the Tokens layer of Scene Controls and choose **Ascend**. Any tokens standing on the platform ride up with it and arrive on the middle level when it stops.

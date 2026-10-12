@@ -20,7 +20,7 @@ The stables are a point of pride and are decorated somewhat opulently: magically
 >
 > Level 1 · Jobri Pack Member
 >
-> ![Jobri](../../../assets/image081.webp)
+> ![Jobri](../../../assets/image090.webp)
 >
 > The eyes of this large reptilian beast are remarkably big, and the padded five-toed feet that accompany its six muscular legs only accentuate the creature's charming awkwardness. Fitted with tack and bridle, this riding lizard lurks with a measure of domesticated calm, absentmindedly hunting for insects with each flick of its prehensile tongue.
 

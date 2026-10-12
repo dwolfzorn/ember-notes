@@ -2,7 +2,7 @@
 title: "Character Mechanics"
 aliases: ["Character Mechanics"]
 journal: "Game Mechanics / Character Mechanics"
-tags: [ember, game-mechanics, index]
+tags: [crucible, game-mechanics, index]
 ---
 
 # Character Mechanics

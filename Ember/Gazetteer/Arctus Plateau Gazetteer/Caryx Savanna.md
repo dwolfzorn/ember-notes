@@ -8,8 +8,6 @@ tags: [ember, gazetteer]
 
 # Caryx Savanna
 
-**Work In Progress!** This biome and its accompanying entry are not in the scope of Early Access Gameplay. All text provided here is currently **in development** and **incomplete**. This entry will be revised and expanded on in future updates.
-
 > [!warning] Gamemaster
 > #### Gamemaster's Summary
 >
@@ -31,4 +29,4 @@ Life in the Caryx Savanna is a vivid tapestry of adaptation and survival. Grass 
 
 ### Lore
 
-The Caryx Savanna has long been a wild area of the Arctus Plateau, home to many predators and ancient creatures from the [[Age of Beasts]]. After [[The Shattering]], a few scattered families of [[Ashka]] settled on the eastern and southern shores, establishing hidden villages and trying to tame the land around them. They brought with them deep cultural beliefs in the harmony between fire and water. However, despite their efforts, their ritual practices have disrupted the area's natural balance, causing extreme weather phenomena and moon zeniths that bring chaos, destruction, and intense intermittent magic to the region. The violent two-season system eventually led most of these villages to be abandoned, except for [[Tajar]], a settlement on the Savanna's southern edge, which still clings on despite the dangers.
+The Caryx Savanna has long been a wild area of the Arctus Plateau, home to many predators and ancient creatures from the [[Age of Beasts]]. After [[The Shattering]], a few scattered families of [[Ashka]] settled on the eastern and southern shores, establishing hidden villages and trying to tame the land around them. They brought with them deep cultural beliefs in the harmony between fire and water. However, despite their efforts, their ritual practices have disrupted the area's natural balance, causing extreme weather phenomena and moon zeniths that bring chaos, destruction, and intense intermittent magic to the region. The violent two-season system eventually led most of these villages to be abandoned, except for Tajar, a settlement on the Savanna's southern edge, which still clings on despite the dangers.

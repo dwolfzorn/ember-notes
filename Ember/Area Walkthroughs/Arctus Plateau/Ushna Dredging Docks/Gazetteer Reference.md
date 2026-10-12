@@ -9,7 +9,7 @@ tags: [ember, area-walkthroughs]
 # Gazetteer Reference
 
 > [!quote] Read Aloud
-> The shore of Lake Orial here bears a broad, weathered sprawl of timber and stone piers where great yarnac strain against harness and chain, dragging heavy scoops through the shallows. Creaking overhead are several cranes, each looming like long-necked birds, moving load after load of rich mud to filtering troughs and holding tanks packed with dark, glistening mud.
+> Out from shores of Lake Orial stretch ancient stone piers, bearing drying vats and a complex series of pipes and valves. Cranes creak overhead, looming like long-necked birds as they move load after load of rich silt into holding tanks packed with dark, glistening mud.
 >
 > On the opposite side of wide, wagon worn roads are stretches of pasture fences, and lakeside homes with a mixture of Arcturian thatch and Bejak ornamentation betraying the mixed heritage of this community.
 
@@ -32,7 +32,7 @@ Ushna Dredging is simultaneously the home of the Ushna family and their dredging
 > - **Size**: Miniscule (30–60)
 > - **Primary Cultures**: **Culture: Bejak**, **Culture: Arcturian**
 > - **Predominant Ancestries**: **Ancestry: Kivahr**, **Ancestry: Keth**, **Ancestry: Human**
-> - **Governance**: Broad democratic assembly of all residents and visiting nomads, with decision making between assemblies handled by a council of elders of the Ushna family.
+> - **Governance**: Broad democratic assembly of all residents and visiting nomads; between gatherings of the full assembly, decisions are made by a council of Ushna family elders.
 > - **Architecture**: A mixture of Arcturian artistry and rugged Bejaki practicality.
 > - **Economy**: The primary export is magically enriched mud harvested from Lake Orial; secondary trade includes yarnac wool, woolen garments, and carefully prepared yarnac meat.
 > - **Religion**: Some private shrines to various gods can be found, but the prevailing central religious practice is Bejaki seasonal offerings, and rites of gratitude, which are widely observed.
@@ -40,7 +40,7 @@ Ushna Dredging is simultaneously the home of the Ushna family and their dredging
 
 ## Landmarks
 
-The most notable locations are the Ushna family docks, complete with cranes, mud-troughs, drying platforms, and packing warehouses, as well as the Caravan Circle. The surrounding Ushna farmland is quieter and including homes for the many branches of the Ushna family, along with wool sheds, cookfires, and a fenced field where yarnac graze between shifts.
+The most notable locations are the Ushna family docks, complete with cranes, mud-troughs, drying platforms, and packing warehouses, as well as the Caravan Circle. The surrounding Ushna farmland is quieter, and includes homes for the many branches of the Ushna family, along with wool sheds, cookfires, and a fenced field where yarnac graze between shifts.
 
 **The Ushna Siltworks Processing Yard**
 
@@ -50,7 +50,7 @@ This wide, muddy work yard contains the settlement’s largest filtering tanks, 
 
 A broad stretch of fenced land where yarnac rest, graze, and receive care. To preserve the integrity of the land, the commons are broken up into six distinct areas and the herds are rotated through them regularly.
 
-The six areas that make up the commons see rotation in their use, sometimes being turned into community gardens, or serving as a festival ground, while other sections host the yarnac herds. It is also the place where the community holds rites honoring aging or fallen yarnac whose strength sustained the community.
+The six areas that make up the commons see rotation in their use, sometimes being turned into community gardens, or serving as a festival ground, while other sections host the yarnac herds. It is also the place where the community holds rites to honor aging or fallen yarnac whose strength sustained the community.
 
 **Caravan Circle Nomad Camp and Assembly Area**
 
@@ -72,7 +72,7 @@ Yaphta is the descendant of Ushna Dredging's founder, and handles the day-to-day
 
 ## Life In Ushna Dredging
 
-Daily life on the shore of Lake Orial follows a steady cycle of work and rest. Mornings are slow, punctuated by low calls of yarnac being fed and harnessed for the day's work, followed by breakfast and tea. Work begins midday, where cranes groan overhead and yarnac drag scoops of mud ashore below. Come afternoon, all is still save for the yarnac released to graze in the fields. Workers bathe and eat, and by sundown the Ushna family and visiting nomads come together to tend gardens, play music, and tell stories.
+Daily life on the shore of Lake Orial follows a steady cycle of work and rest. Mornings are slow, punctuated by low calls of yarnac being fed and harnessed for the day's work, followed by breakfast and tea. Work begins midday, where cranes groan overhead and yarnac pull barrels of mud away from the shore. Come evening, all is still save for the yarnac released to graze in the fields. Workers bathe and eat, and by sundown the Ushna family and visiting nomads come together to tend gardens, play music, and tell stories.
 
 ### Culture
 
@@ -84,16 +84,16 @@ The closest the community has to a militia is Redsai's Roadmen — named for Red
 
 ### Economy
 
-A portion of this settlement's necessities come from within: the small Ushna family farm, lake fishing by visiting Bejak nomads, handsewn yarnac wool garments, and the occasional meat of old or fallen yarnac.
+A portion of this settlement's necessities come from within: the small Ushna family farm, lake fishing performed by visiting Bejak nomads, handsewn yarnac wool garments, and the occasional meat of old or fallen yarnac.
 
-However, the lifeblood of this settlement is the magically enriched mud of Lake Orial. It is packed into barrels, and sent on to Rortwark, where the Agrimage Circle turn it into topsoil for use across the Redrak Fields. Mutual agreements with the labor councils that govern the rest of the Redrak Fields ensure that Ushna Dredging always receives shipments of the supplies it needs, with the reciprocal expectation that the settlement supplies the enriched mud that allows the councils' fields to flourish.
+However, the lifeblood of this settlement is the magically enriched mud of Lake Orial. It is packed into barrels, and sent on to Rortwark, where the Agrimage Circle turn it into topsoil for use across the Redrak Fields. Mutual agreements with the labor councils that govern the rest of the Redrak Fields ensure that Ushna Dredging always receives shipments of the supplies it needs, with the reciprocal expectation that Ushna Dredging supplies the Redrak Fields with the enriched mud that allows the councils' fields to flourish.
 
 ### Politics
 
-In Bejak tradition, Ushna Dredging is governed horizontally via mass assembly. All who stay at Caravan Circle — and are thus supported by the Ushna family's hospitality — thank their hosts by working the land. In turn, all who work are offered a voice in the decisions made about Ushna Dredging. By this process, Ushna Dredging functions simultaneously as home and livelihood of the Ushna family, and a gathering place on the Arctus Plateau for the far-flung Bejak people.
+In Bejak tradition, Ushna Dredging is governed horizontally via mass assembly. All who stay at Caravan Circle — and are thus supported by the Ushna family's hospitality — thank their hosts by working the land. In turn, all who work are offered a voice in the decisions made about Ushna Dredging. By this process, Ushna Dredging functions simultaneously as the working home of the Ushna family, and a gathering place on the Arctus Plateau for the far-flung Bejak people.
 
 When disagreements grow too great to be resolved by consensus, a traditional Bejak Beast Clash is held. Each Bejak's bonded beast companion represents them in a battle of tactics and control. Caravan Circle is cleared, and each participants' beasts attempt to drive the others out of the central ring in order to establish its Bejak partner as the victor.
 
 ### Lore
 
-The Ushna family established the first permanent dock here almost four centuries ago after arriving in Redrak Fields from the Bejak homelands. Over generations, the settlement has become a place where Bejaki culture and Arcturian craftsman ship have blended into a powerful and vital part of the regional agricultural practice.
+The Ushna family established the first permanent dock here almost four centuries ago after arriving in the Redrak Fields from the Bejak homelands. Over generations, the settlement has become a place where Bejak culture and Arcturian craftsman ship have blended into a powerful and vital part of the regional agricultural practice.

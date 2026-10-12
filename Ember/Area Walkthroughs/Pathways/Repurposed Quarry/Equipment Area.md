@@ -11,7 +11,7 @@ tags: [ember, area-walkthroughs]
 > [!quote] Read Aloud
 > The equipment area is a chaotic sprawl of crates and boxes scattered about, some toppled and others hastily pried open. Inside the adjoining space, you find the remnants of packs, containers, and essential items like medicine, all bearing marks of a hurried search.
 >
-> Evidence of a ransack is clear, a palpable disorder that leaves little untouched and little of value. Only a few brooms, hand tools, and pieces of protective gear remain.
+> Evidence of a ransack is clear, a palpable disorder that leaves little untouched and little of value. Only a few brooms, hand tools, and pieces of protective gear remain. An alchemist's or physician's workbench on the south wall has been smashed and its contents broken save for a few surviving vials and a discarded syringe.
 
 > [!tip] Exploration
 > #### Searching The Leftovers
@@ -20,16 +20,14 @@ tags: [ember, area-walkthroughs]
 >
 > #### Volatile Chemicals
 >
-> A successful **Science (DC 16)** using [[Alchemist's Toolkit]] while examining the bottles of chemicals recognizes the presence of volatile compounds that are not only explosive but highly corrosive.
+> A character who examines the syringe of chemicals with a successful **Alchemy (DC 15)** using [[Alchemist's Toolkit]] check can identify some of the chemicals as not only explosive but also highly corrosive.
 >
-> The party can collect five [[Caustic Phial]].
+> - **Knowledge: Alchemy**: The character gains **+2 Boons** on this check.
 >
-> #### Unattended Compounds
+> Success on the prior check allows for the party to collect five [[Caustic Phial]], although it's unclear what these materials would be used to create without being able to study formulae for how a compound was made or what its mixture ratios were.
 >
-> Examining the syringe of chemicals with a successful **Medicine (DC 16)** using [[Alchemist's Toolkit]] check recognizes that the components listed on the bottle in the pouch alongside the syringe are all very dangerous.
+> #### Lethal Compounds
 >
-> Beyond that it's unclear what they would do in concert with each other without also being able to study notes on the compound and how it was made and what the mixture ratios were.
+> Alternatively, a character who succeeds on a **Medicine (DC 14)** check notices a list of numerous dangerous compounds scribbled on the bottle in the pouch accompanying the syringe. Every single one is individually dangerous, and would make this a deadly compound if injected. If the substance is recognized, a dose of [[Drakonbane Poison]] can be claimed from the workbench.
 >
-> An additional **Science (DC 14)** or **`[[/skillCheck 14 medicine]]`** check notices a list of numerous dangerous compounds scribbled on the bottle in the pouch accompanying the syringe. Every single one is incredibly dangerous, and would make this a deadly compound if injected.
->
-> A dose of [[Drakonbane Poison]] can be claimed here.
+> - **Knowledge: Crime**: The character gains **+2 Boons** on this check.

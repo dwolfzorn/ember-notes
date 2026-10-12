@@ -2,8 +2,8 @@
 title: "Runes"
 journal: "Game Mechanics / Spellcraft"
 source_uuid: "JournalEntry.qoXoXou3DQqlPoE6"
-type: ember.lore
-tags: [ember, game-mechanics]
+type: crucible.lore
+tags: [crucible, game-mechanics]
 ---
 
 # Runes
@@ -45,9 +45,9 @@ The mechanics for each of the twelve runes are embedded below:
 
    ![Rune: Control](../../assets/image007.webp)   ## Rune: Control
 
-  Wisdom 2    The orderly force of discipline and permanence. The Control rune governs thought, reason, and persistence.
+  Wisdom 2 Kinematic Spellcraft +1   The orderly force of discipline and permanence. The **Control** rune governs thought, reason, and persistence.
 
-The Control rune scales using **Wisdom**, targets **Willpower**, and deals **Psychic** damage to **Morale**. It is opposed by the chaotic rune of **Kinesis**.
+The **Control** rune scales using **Wisdom**, targets **Willpower**, and deals **Psychic** damage to **Morale**. It is opposed by the chaotic rune of **Kinesis**.
 
   ### Actions
 
@@ -63,9 +63,9 @@ Motivate may only affect a creature or object which you can physically touch. Yo
 
        ![Rune: Death](../../assets/image008.webp)   ## Rune: Death
 
-  Presence 2    The orderly force of destruction, responsible for the corruption of all biological matter. The Death rune governs decay and destruction.
+  Presence 2 Kinematic Spellcraft +1   The orderly force of destruction, responsible for the corruption of all biological matter. The **Death** rune governs decay and destruction.
 
-The Death rune scales using **Presence**, targets **Fortitude**, and deals **Corruption** damage to **Health**. It is opposed by the chaotic rune of **Life**.
+The **Death** rune scales using **Presence**, targets **Fortitude**, and deals **Corruption** damage to **Health**. It is opposed by the chaotic rune of **Life**.
 
   ### Actions
 
@@ -81,9 +81,9 @@ Ennervate may only affect a creature or object you can physically touch. You may
 
        ![Rune: Earth](../../assets/image009.webp)   ## Rune: Earth
 
-  Wisdom 2    The orderly force of elemental earth, responsible for physical matter. The Earth rune governs minerals, metals, soils, and other physical compounds.
+  Wisdom 2 Elemental Spellcraft +1   The orderly force of elemental earth, responsible for physical matter. The **Earth** rune governs minerals, metals, soils, and other physical compounds.
 
-The Earth rune scales using **Wisdom**, targets **Reflex**, and deals **Acid** damage to **Health**. It is opposed by the chaotic rune of **Storm**.
+The **Earth** rune scales using **Wisdom**, targets **Reflex**, and deals **Acid** damage to **Health**. It is opposed by the chaotic rune of **Storm**.
 
   ### Actions
 
@@ -99,9 +99,9 @@ Mould may only affect a creature or object you can physically touch. You may att
 
        ![Rune: Flame](../../assets/image010.webp)   ## Rune: Flame
 
-  Intellect 2    The chaotic force of elemental, thermal energy. The Flame rune governs fire and heat.
+  Intellect 2 Elemental Spellcraft +1   The chaotic force of elemental, thermal energy. The **Flame** rune governs fire and heat.
 
-The Flame rune scales using **Intellect**, targets **Reflex**, and deals **Fire** damage to **Health**. It is opposed by the orderly rune of **Frost**.
+The **Flame** rune scales using **Intellect**, targets **Reflex**, and deals **Fire** damage to **Health**. It is opposed by the orderly rune of **Frost**.
 
   ### Actions
 
@@ -117,9 +117,9 @@ Enkindle may only affect a creature or object you can physically touch. You may 
 
        ![Rune: Frost](../../assets/image011.webp)   ## Rune: Frost
 
-  Wisdom 2    The orderly force of water and cold. The Frost rune governs the creation of water or other fluids and their transfer between liquid and frozen states.
+  Wisdom 2 Elemental Spellcraft +1   The orderly force of water and cold. The **Frost** rune governs the creation of water or other fluids and their transfer between liquid and frozen states.
 
-The Frost rune scales using **Wisdom**, targets **Fortitude**, and deals **Cold** damage to **Health**. It is opposed by the chaotic rune of **Flame**.
+The **Frost** rune scales using **Wisdom**, targets **Fortitude**, and deals **Cold** damage to **Health**. It is opposed by the chaotic rune of **Flame**.
 
   ### Actions
 
@@ -135,9 +135,9 @@ Condense may only affect a creature or object you can physically touch. You may 
 
        ![Rune: Illumination](../../assets/image012.webp)   ## Rune: Illumination
 
-  Presence 2    The orderly force of light and energy. The Illumination rune governs light and radiance.
+  Presence 2 Spiritual Spellcraft +1   The orderly force of light and energy. The **Illumination** rune governs light and radiance.
 
-The Illumination rune scales using **Presence**, targets **Reflex**, and deals **Radiant** damage to **Health**. It is opposed by the chaotic rune of **Illusion**.
+The **Illumination** rune scales using **Presence**, targets **Reflex**, and deals **Radiant** damage to **Health**. It is opposed by the chaotic rune of **Illusion**.
 
   ### Actions
 
@@ -153,15 +153,15 @@ Reveal may only affect a creature or object you can physically touch. You may at
 
        ![Rune: Illusion](../../assets/image013.webp)   ## Rune: Illusion
 
-  Intellect 2    The chaotic force of trickery and whimsy. The illusion rune governs magical manifestations of falsehood or misdirection.
+  Intellect 2 Spiritual Spellcraft +1   The chaotic force of trickery and whimsy. The **Illusion** rune governs magical manifestations of falsehood or misdirection.
 
-The Illusion rune scales using **Intellect**, targets **Willpower** defense, and deals **Psychic** damage to **Morale**. It is opposed by the orderly rune of **Illumination**.
+The **Illusion** rune scales using **Intellect**, targets **Willpower** defense, and deals **Psychic** damage to **Morale**. It is opposed by the orderly rune of **Illumination**.
 
   ### Actions
 
    ![Seeming](../../assets/image013.webp)  #### Seeming
 
- Single3A1F1 Hand   SpellHarmless Your command of the Rune of Illusion allows you to fabricate perception in various simple ways and to manipulate shadow and light to create distraction or entertainment, producing one of the following effects:
+ Single3A1F1 Hand   SpellHarmlessSubtle Your command of the Rune of Illusion allows you to fabricate perception in various simple ways and to manipulate shadow and light to create distraction or entertainment, producing one of the following effects:
 
 - Modify a single aspect of your own physical appearance. Such alterations might include adjusting the sound of your voice, changing the color of your eyes, gaining illusory horns, or appearing slightly taller or shorter. The alteration persists until you Rest or enact a different alteration and can be verified as illusory by physical inspection.
 - Manifest a convincing recreation of a short sound or single scent that you can clearly recall. The illusion originates from your position and lasts for 10 seconds. You can control the volume of the sound or odorousness of the scent to be perceptible up to a range of 60 feet or shorter.
@@ -171,9 +171,9 @@ Seeming may only affect a creature or object you can physically touch. You may a
 
        ![Rune: Kinesis](../../assets/image014.webp)   ## Rune: Kinesis
 
-  Presence 2    The chaotic force of space and physical movement. The Kinesis rune governs all things related to the act of movement and physicality.
+  Presence 2 Kinematic Spellcraft +1   The chaotic force of space and physical movement. The **Kinesis** rune governs all things related to the act of movement and physicality.
 
-The Kinesis rune scales using **Presence**, targets **Physical** defense, and deals **Bludgeoning**, **Piercing**, or **Slashing** damage to **Health**. It is opposed by the orderly rune of **Control**.
+The **Kinesis** rune scales using **Presence**, targets **Physical** defense, and deals **Bludgeoning**, **Piercing**, or **Slashing** damage to **Health**. It is opposed by the orderly rune of **Control**.
 
   ### Actions
 
@@ -189,9 +189,9 @@ Propel may only affect a creature or object you can physically touch unless othe
 
        ![Rune: Life](../../assets/image015.webp)   ## Rune: Life
 
-  Wisdom 2    A chaotic force of creation, responsible for living matter. The Life rune governs health and matters relating to biological growth.
+  Wisdom 2 Kinematic Spellcraft +1   A chaotic force of creation, responsible for living matter. The **Life** rune governs health and matters relating to biological growth.
 
-The Life rune scales using **Wisdom** and provides **Restoration** of **Health**. In special circumstances it may be used to inflict **Poison** damage opposed by **Fortitude**. It is opposed by the orderly rune of **Death**.
+The **Life** rune scales using **Wisdom** and provides **Restoration** of **Health**. In special circumstances it may be used to inflict **Poison** damage opposed by **Fortitude**. It is opposed by the orderly rune of **Death**.
 
   ### Actions
 
@@ -207,9 +207,9 @@ Bloom may only affect a creature or object you can physically touch. You may att
 
        ![Rune: Storm](../../assets/image044.webp)   ## Rune: Storm
 
-  Intellect 2    The chaotic force of raw electrical energy. The Storm rune governs sources of electrical charge and discharge.
+  Intellect 2 Elemental Spellcraft +1   The chaotic force of raw electrical energy. The **Storm** rune governs sources of electrical charge and discharge.
 
-The Storm rune scales using **Intellect**, targets **Reflex**, and deals **Electricity** damage to **Health**. It is opposed by the orderly rune of **Earth**.
+The **Storm** rune scales using **Intellect**, targets **Reflex**, and deals **Electricity** damage to **Health**. It is opposed by the orderly rune of **Earth**.
 
   ### Actions
 
@@ -225,9 +225,9 @@ Energize may only affect a creature or object you can physically touch. You may 
 
        ![Rune: Oblivion](../../assets/image016.webp)   ## Rune: Oblivion
 
-  Intellect 2    A chaotic force of destruction and annihilation of existence. The Oblivion rune governs unmaking of matter or decoherence of spirit.
+  Intellect 2 Spiritual Spellcraft +1   A chaotic force of destruction and annihilation of existence. The **Oblivion** rune governs unmaking of matter or decoherence of spirit.
 
-The Oblivion rune scales using **Intellect**, targets **Willpower**, and deals **Void** damage to **Morale**. It is opposed by the orderly rune of **Soul**.
+The **Oblivion** rune scales using **Intellect**, targets **Willpower**, and deals **Void** damage to **Morale**. It is opposed by the orderly rune of **Soul**.
 
   ### Actions
 
@@ -243,9 +243,9 @@ Erase may only affect a creature or object you can physically touch. You may att
 
        ![Rune: Soul](../../assets/image017.webp)   ## Rune: Soul
 
-  Presence 2    An orderly force of creation and spiritual essence. The Soul rune governs the fundamental procession of souls through life and death and relates to matters of sapience, personality, and mental health.
+  Presence 2 Spiritual Spellcraft +1   An orderly force of creation and spiritual essence. The **Soul** rune governs the fundamental procession of souls through life and death and relates to matters of sapience, personality, and mental health.
 
-The Soul rune scales using **Presence** and provides **Restoration** of **Morale**. In special circumstances it may be used to inflict **Psychic** damage opposed by **Willpower**. It is opposed by the chaotic rune of **Oblivion**.
+The **Soul** rune scales using **Presence** and provides **Restoration** of **Morale**. In special circumstances it may be used to inflict **Psychic** damage opposed by **Willpower**. It is opposed by the chaotic rune of **Oblivion**.
 
   ### Actions
 

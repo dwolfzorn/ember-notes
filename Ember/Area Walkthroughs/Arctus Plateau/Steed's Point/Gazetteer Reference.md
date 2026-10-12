@@ -16,7 +16,7 @@ While this abandoned village is currently infested by the gore birds, jurtak, an
 > [!warning] Gamemaster
 > #### Gamemaster's Summary
 >
-> This settlement exists at ⬢ s.3212.2898 in the [[Golden Flats]], southwest of the [[Ordani Skywalk]].
+> This location exists at ⬢ s.3212.2898 in the [[Golden Flats]], southwest of the [[Ordani Skywalk]].
 >
 > - This settlement can be explored within the [[Steed's Point]] Area Map.
 > - This settlement is featured in [[The Rickety Man]] and [[Thorny Predicaments]].

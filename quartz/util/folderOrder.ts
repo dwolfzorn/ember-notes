@@ -10,7 +10,10 @@ import { FileTrieNode } from "./fileTrie"
 // pages" rather than naming a real subfolder. We walk every such note and turn that
 // document order into a slug -> position map so the site's navigation can match Foundry
 // instead of falling back to alphabetical.
-function buildFolderOrder(contentDir: string, corpusRoots: string[]): Record<string, number> {
+export function buildFolderOrder(
+  contentDir: string,
+  corpusRoots: string[],
+): Record<string, number> {
   const orderMap: Record<string, number> = {}
   const counters = new Map<string, number>()
 

@@ -21,7 +21,7 @@ tags: [ember, quests]
 >
 > #### Prerequisites
 >
-> [[Agraband Swift]] must be a member of the [[Party]] for this Event to occur.
+> [[Agraband Swift]] must be a member of the [[DreamTeam]] for this Event to occur.
 
 ### Untarnished Munitions
 
@@ -32,7 +32,7 @@ When the Event begins, Agraband and the party have arrived at the forge of the f
 >
 > Level 1 · Unknown Unknown
 >
-> ![Brackus von Tet](../../../assets/image151.webp)
+> ![Brackus von Tet](../../../assets/image181.webp)
 
 > [!info] Social
 > #### A Conversation with Brackus

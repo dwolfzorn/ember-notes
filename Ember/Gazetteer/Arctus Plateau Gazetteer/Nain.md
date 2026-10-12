@@ -13,7 +13,7 @@ tags: [ember, gazetteer]
 >
 > This settlement exists at ⬢ s.3216.2893 in the [[Golden Flats]], northwest of [[Seawall]].
 >
-> - This settlement is featured in [[A Smuggler Extraordinaire]]. [[The Book Of Tales]], and [[Next Year In Nain]].
+> - This settlement is featured in [[A Smuggler Extraordinaire]], [[The Book Of Tales]], and [[Next Year In Nain]].
 
 This weather-swept village is occupied by two main social groups of Arcturians — the Stone-hearted and the River Walkers — and serves as a small trade hub for the surrounding farmsteads.
 
@@ -23,13 +23,13 @@ This weather-swept village is occupied by two main social groups of Arcturians �
 > - **Settlement Type:** Fishing village and river trade hub
 > - **Size:** Small (200 - 250)
 > - **Primary Cultures:** **Culture: Arcturian**
-> - **Predominant Ancestries:** **Ancestry: Human**, **Ancestry: Hulg'run**, **Ancestry: Kavir**, **Ancestry: Keth**, **Ancestry: Fej**, **Ancestry: Kiska**
+> - **Predominant Ancestries:** **Ancestry: Human**, **Ancestry: Hulg'run**, **Ancestry: Kivahr**, **Ancestry: Keth**, **Ancestry: Fej**, **Ancestry: Kiska**
 > - **Languages:** **Language: Common**, **Language: Arcden**
 > - **Religion:** Low/Moderate; primary deities include [[Lantyr]], [[Janar]], and [[Vekalla]]
 > - **Governance:** Village Council, with outside influence from the Otherhood of Fortune
 > - **Architecture:** Modern Arcturian (with an emphasis on stone and wood materials), featuring an elaborate network of water wheels, channels, and aqueducts
 > - **Economy:** Fishing, shipping, travel; cultivation and trade of produce (rice, wheat) and livestock (horses, pigs, sheep, donkeys); smuggling
-> - **Organizations**: [[House Bastilla]], [[House Lilifeld]], [[House Wandren]], [[Otherhood of Fortune]]
+> - **Organizations:** [[House Bastilla]], [[House Lilifeld]], [[House Wandren]], [[Otherhood of Fortune]]
 
 ## Landmarks - The Thruways
 
@@ -77,7 +77,7 @@ This sardonic bartender of the Barrel Bottom is an unscrupulous rogue, rumored t
 
 The eponymous proprietor of Zenodora's General Goods, Zenodora Vann is known as a shrewd but gregarious businesswoman with a passion for Nain history and a taste for foreign cuisine.
 
-**## Characters of Interest - The Riverwinds**
+## Characters of Interest - The Riverwinds
 
 **[[Amalthea Stonecraft]]Chaotic Good, Arcturian Aster/Human, she/her**
 
@@ -103,7 +103,7 @@ The people of Nain observe several holidays, such as Trawler's Haul, an annual c
 
 ### Politics
 
-Trade in Nain is the primary concern of the town's commercially-driven Town Council, which is comprised of several members from each group and a few neutral parties (along with a few covert operatives of the [[Otherhood of Fortune]].
+Trade in Nain is the primary concern of the town's commercially-driven Town Council, which is comprised of several members from each group and a few neutral parties (along with a few covert operatives of the [[Otherhood of Fortune]]).
 
 ### Defense
 

@@ -35,9 +35,9 @@ In front of the barrier are difficult-to-see markings left by Aberin Lowd, who l
 > [!tip] Exploration
 > #### Message in the Dirt
 >
-> Any character with a `[[/skill perception 16 passive format=long]]` or who makes a successful **Awareness (DC 14)** check notices markings in the dirt in front of the barrier — arrows and symbols, along with the initials "A.L." etched deeply but shakily into the ground like a signature. The markings are worn and difficult to see in the dim light, but the symbols may be possible to interpret with some effort.
+> Any character with a **Awareness (DC 16, Passive)** check notices markings in the dirt in front of the barrier — arrows and symbols, along with the initials "A.L." etched deeply but shakily into the ground like a signature. The markings are worn and difficult to see in the dim light, but the symbols may be possible to interpret with some effort.
 >
-> Any character who succeeds a further `[[/check investigation 18]]` check can piece together the sequence of symbols present in the markings, allowing them to follow in Aberin's footsteps and guide the party through the small gap that Aberin located in the barrier.
+> Any character who succeeds a further **Arcana (DC 18)** check can piece together the sequence of symbols present in the markings, allowing them to follow in Aberin's footsteps and guide the party through the small gap that Aberin located in the barrier.
 >
 > - **Character with the** [[Defiled Journal]] **compares the journal to the markings**: The character gains **+2 Boons** on this check.
 > - **Character illuminates the markings**: The character gains **+2 Boons** on this check.
@@ -47,13 +47,13 @@ Characters can also make their own way deeper into the borehole by learning more
 > [!tip] Exploration
 > #### Investigating the Barrier
 >
-> Any character who makes a successful `[[/check arcana 15]]` check recognizes the wall as a form of Abyssal energy that functions similarly to magic.
+> Any character who makes a successful **Arcana (DC 15)** check recognizes the wall as a form of Abyssal energy that functions similarly to magic.
 >
 > - **Knowledge: Abyssals**: The character automatically succeeds on this check.
 >
 > #### Interacting with the Barrier
 >
-> - Characters who touch (but do not attack) the barrier hear a soft whispering in their ears and begin to feel nauseated. Characters who remain in contact with the barrier must make a successful `[[/save constitution 15]]` saving throw or else take `[[/damage 1d10 necrotic]]` damage.
+> - Characters who touch (but do not attack) the barrier hear a soft whispering in their ears and begin to feel nauseated. Characters who remain in contact with the barrier must face **Essence of Decay (Hazard 5)**.
 > - A successful [[Unknown]] against a DC of 14 can create a narrow gap in the barrier, as if the dispelled magic was mixed with something more powerful keeping the rest of the barrier intact.
 > - Any character who has equipped an item of [[Lantyr]] or [[Spectra]] (such as [[Lantyr's Flame]], [[Spectra's Blessing]], or the [[Sunalin Shield]]) can simply walk through the barrier, which hisses as it is repelled from them. This leaves behind a narrow gap for others to pass through.
 >
@@ -67,19 +67,19 @@ Characters can also make their own way deeper into the borehole by learning more
 >
 > **Other Weapon Attack**
 >
-> A melee weapon attack: Unless the weapon deals Radiant damage, some of the darkness comes off on the weapon, coating it. Until the next Long Rest, attacks with this weapon are made with Disadvantage. During that Long Rest, the character carrying the weapon must make a successful `[[/save wisdom 14]]` saving throw or else roll on the [[Minor Abyssal Madness]] table.
+> A melee weapon attack: Unless the weapon deals Radiant damage, some of the darkness comes off on the weapon, coating it. Until the next **Rest**, attacks with this weapon are made with **-2 Banes**. During that **Rest**, the character carrying the weapon must face **Needling Madness (Hazard 4)**. If the hazard succeeds they must roll on the [[Minor Abyssal Madness]] table.
 >
 > **Unarmed Attack**
 >
-> Some of the darkness comes off of the barrier, coating any body part that came into direct contact with the barrier and clinging to it. The character affected must make a successful `[[/save constitution 16]]` check or else take `[[/damage 2d6 necrotic]]` damage and gain the &Reference[Poisoned] Condition until their next Long Rest. On a success, they take half damage and do not become Poisoned. The barrier seems thinner at the point of contact.
+> Some of the darkness comes off of the barrier, coating any body part that came into direct contact with the barrier and clinging to it. The character affected must face **Corrupting Darkness (Hazard 7)** and gain the @Condition[Diseased] Condition for 1 round. The barrier seems thinner at the point of contact.
 >
 > **Ranged Weapon or Magical Attack**
 >
 > The attack bounces off of the barrier and targets the attacker. That character receives the full brunt of the attack, but the barrier sizzles and releases plumes of smoke at the point of impact. It smells faintly of charred meat.
 
-#### Akon Attunement: Bypass the Barrier with Arcane Magic
+#### Akon Attunement: Bypass the Barrier with Magic
 
-Any character who manages to bypass the barrier with a arcane magic (such as the Dispel Magic spell) advances their **Attunement: Akon (+1)** at the conclusion of the Event.
+Any character who manages to bypass the barrier through clever use of magic or counterspell advances their **Attunement: Akon (+1)** at the conclusion of the Event.
 
 #### Ragen Attunement: Bypass the Barrier with Divinity
 
@@ -136,23 +136,23 @@ Breathing is nearly impossible in this room, as if the air itself is antithetica
 > [!danger] Hazard
 > #### Choking On The Air
 >
-> The character must immediately make a `[[/save wisdom 16]]` saving throw.
+> The character faces **Asphyxiating Atmosphere (Hazard 6)**
 >
-> **Successful Save**
+> **Unsuccessful Hazard**
 >
-> On a **success,** they have the will to move forward despite the choking effects of the cavern.
+> If the hazard fails to breach their defenses**,** they have the will to move forward despite the choking effects of the cavern.
 >
-> If the character succeeds on a further `[[/check perception 18]]` or `[[/check investigation 18]]` check, they locate and may use the exit, emerging in [[Savage Descent]].
+> If the character succeeds on a **Awareness (DC 18)** or **Wilderness (DC 18)** check, they locate and may use the exit, emerging in [[Savage Descent]].
 >
-> If the character fails either check, they may attempt it again, but after 2 failures they collapse from lack of air and gain 1 &Reference[Exhaustion] Level, before waking up in a [[Savage Descent]].
+> If the character fails either check, they may attempt it again, but after 2 failures they collapse from lack of air and begin **Suffocating**, before inexplicably waking up in a [[Savage Descent]] one round later.
 >
-> **Failed Save**
+> **Failed Defense**
 >
-> On a **failure,** they take `[[/damage 1d6 psychic]]` damage and hear the voice whispering once again:
+> If the hazard succeeds against them**,** they face **Hateful Whispers (Hazard 8)** and hear the voice whispering once again:
 >
 > > You tremble as your pathetic body begins to break down … but death would be too easy … not as much fun. Will you face your doom now … or will you suffer from it later … choose … choose … you must choose …
 >
-> If the character chooses to face their doom now, they take `[[/damage 1d6 psychic]]` damage and gain 1 &Reference[Exhaustion] level.
+> If the character chooses to face their doom now, they face **Hateful Whispers (Hazard 8)** and gain @Condition[Exhausted].
 >
 > If they choose to suffer from it later, they must roll on the [[Minor Abyssal Madness]] table.
 >
@@ -172,25 +172,25 @@ The hands target the character's belongings, attempting to steal an item in the 
 >
 > While navigating this challenge, individual hands can be attacked and destroyed in a single hit, but immediately upon their destruction the cold wind blows again and the hands reassemble in their last position, striking out at the character in the process.
 >
-> Whenever a hand reassembles, the character must make a successful `[[/save dexterity 15]]` saving throw or else take `[[/damage 1d6 slashing]]` damage. Each time this check is made, the DC for this check increases by 2 and the damage increases to the next largest damage die — `[[/damage 1d8 slashing]]` then `[[/damage 1d10 slashing]]` and so on, up to `[[/damage 1d20 slashing]]`.
+> Whenever a hand reassembles, the character must face **Cutting Winds (Hazard 6)**. Each time this check is made, it gains increasing **+1 Boons**, **+2 Boons**, **+3 Boons** and after that the damage it does becomes **Shear Force Winds (Hazard 12, Severe)**.
 
 > [!tip] Exploration
 > #### Walking Through
 >
-> To avoid being grabbed by the disembodied hands, the character must make a `[[/check acrobatics 18]]` check. On a success, they weave their way through and emerge on the other side in [[Savage Descent]]. On a failure, they experience the consequences laid out in [[Savage Descent]] below.
+> To avoid being grabbed by the disembodied hands, the character must make a **Athletics (DC 18)** check. On a success, they weave their way through and emerge on the other side in [[Savage Descent]]. On a failure, they experience the consequences laid out in [[Savage Descent]] below.
 >
 > - **Knowledge: Forensics**: The character gains **+2 Boons** on this check.
 
 > [!danger] Hazard
 > #### Suffering the Hands
 >
-> If the character fails their check to walk safely through, or attempts any other action, the hands scratch at them as they move through. In the process, the hands deal `[[/damage 1d6 slashing]]` damage and attempt to take an Uncommon item from them — or a different item at the Gamemaster's discretion.
+> If the character fails their check to walk safely through, or attempts any other action, the hands scratch at them as they move through. In the process, the character must face **Tearing Hands (Hazard 6)** and any time they take damage in that way the hands steal an Uncommon item — or a different item at the Gamemaster's discretion.
 >
-> To reflexively grab the item and secure it, the character must make a successful `[[/save dexterity 15]]` saving throw, or else lose the item as the hands scuttle off with it into the darkness, and a malevolent voice whispers:
+> To reflexively grab the item and secure it, the character must make a successful **Athletics (DC 15)** check, or else lose the item as the hands scuttle off with it into the darkness, and a malevolent voice whispers:
 >
 > > Will you be able to face what's next … without your little treasure … take it back now if you dare …
 >
-> To retrieve an item stolen by the hands, the character must make a successful `[[/check 16 sleightofhand]]` check. On a success, they snatch the item back. On a failure, the hands pull the item under the ground and scratch at the character, dealing them `[[/damage 1d6 slashing]]` damage. This check may be repeated, but further failures cause increased damage by the same rules for escalating damage established in [[Savage Descent]] above.
+> To retrieve an item stolen by the hands, the character must make a successful **Stealth (DC 16)** check. On a success, they snatch the item back. On a failure, the hands pull the item under the ground and scratch at the character and they must face **Tearing Hands (Hazard 6)**. This check may be repeated, but further failures cause increased damage by the same rules for escalating damage established in [[Savage Descent]] above.
 >
 > At any point after the initial damage and attempted theft by the hands, the character may opt to leave the room, emerging in a [[Savage Descent]].
 
@@ -206,7 +206,7 @@ The character has difficulty making their way forward as the air presses them do
 > [!danger] Hazard
 > #### A Physical Weight
 >
-> Upon entering this area, the character must immediately make a `[[/save strength 18]]` saving throw. On a success, they move forward despite the weight, remaining upright. On a failure, they are pushed down onto their knees by the weight, subjecting them immediately to [[Savage Descent]] below.
+> Upon entering this area, the character must immediately make a **Athletics (DC 18)** check. On a success, they move forward despite the weight, remaining upright. On a failure, they are pushed down onto their knees by the weight, subjecting them immediately to [[Savage Descent]] below.
 
 After the character bears the physical burden of the passageway, the mysterious chamber adds on a mental weight.
 
@@ -220,7 +220,7 @@ After the character bears the physical burden of the passageway, the mysterious 
 > [!danger] Hazard
 > #### A Mental Weight
 >
-> The character must make a successful `[[/save 16 wisdom]]` saving throw to bear the mental weight. On a success, they continue staggering forward at their current height — remaining standing or crawling. On a failure, they are pushed down, subjecting them to [[Savage Descent]] below.
+> The character must face **Burden (Hazard 6)** in order to bear the mental weight. If they successfully defend against the hazard, they continue staggering forward at their current height — remaining standing or crawling. If the hazard breaches their defense, they are pushed down, subjecting them to [[Savage Descent]] below.
 
 > [!tip] Exploration
 > #### Exiting the Passageway
@@ -234,8 +234,8 @@ If at any point the character succumbs to either the mental or physical weight o
 >
 > When a character is pushed down by the weight of the cavern:
 >
-> - The character takes `[[/damage 1d6 piercing]]` damage.
-> - If the character was walking, they begin crawling, and if they were crawling, they begin dragging themselves forward.
+> - The character faces **Piercing Stones (Hazard 3)**.
+> - If the character was walking, they are forced **Prone** and begin crawling, and if they were already crawling, they begin dragging themselves forward.
 > - They are then immediately subjected to the consequences associated with their new movement height below.
 >
 > #### Movement Height: Crawling
@@ -244,9 +244,9 @@ If at any point the character succumbs to either the mental or physical weight o
 >
 > > Crawling like a child … do you feel like a child? Frightened like a child?
 >
-> The character must make a `[[/save 16 wisdom]]` saving throw or gain the &Reference[Frightened] Condition and immediately bolt for the end of the passageway, automatically failing all remaining checks until they exit the passage.
+> The character must face **Tormenting Whispers (Hazard 4)** and gain the @Condition[Frightened] Condition if they recieve any morale damage in this way. They immediately bolt for the end of the passageway, automatically failing all remaining checks until they exit the passage.
 >
-> Regardless of the result, the character must now navigate the sharp rocks on their hands and knees. Making this transition safely requires a successful `[[/check acrobatics 15]]` check. On a failure (or if they previously became Frightened) the character takes an additional `[[/damage 1d6 slashing]]` damage.
+> Regardless of the result, the character must now navigate the sharp rocks on their hands and knees. Making this transition safely requires a successful **Athletics (DC 15)** check. On a failure (or if they previously became Frightened) the character takes an additional **Gouging Stones (Hazard 3)** damage.
 >
 > After resolving these consequences, the character resumes their journey to the end of the passageway, now moving on hands and knees.
 >
@@ -256,7 +256,7 @@ If at any point the character succumbs to either the mental or physical weight o
 >
 > > You drag yourself forward, bit by bit … leaving your blood behind. How sad you are … how … tiring …
 >
-> The character takes `[[/damage 1d6 slashing]]` damage and gains 1 &Reference[Exhaustion] level before emerging, bloody and bruised, into a [[Savage Descent]].
+> The character faces **Tearing Rocks (Hazard 3)** damage and gains @Condition[Exhausted] before emerging, bloody and bruised, into a [[Savage Descent]].
 
 ### Painful Echoes
 
@@ -270,7 +270,7 @@ If at any point the character succumbs to either the mental or physical weight o
 >
 > Any sound made by the character (a word spoken, a loud footstep, and so on) bounces off of the walls and becomes louder and louder until it escalates into a percussive attack.
 >
-> The character can make their way through the cavern silently by succeeding on a `[[/check stealth 16]]` check. On a failure, the sound that they make bounces through the room and hits them at full volume. They must succeed on a `[[/save constitution 16]]` saving throw or take `[[/damage 1d6 thunder]]` damage.
+> The character can make their way through the cavern silently by succeeding on a **Stealth (DC 16)** check. On a failure, the sound that they make bounces through the room and hits them at full volume. They must face **Concussive Sound (Hazard 4)**.
 
 As characters make their way through the cavern, they are also subjected twice to the whispering voice of the borehole. The first trial subjects the character to a sensation of intense fear.
 
@@ -282,9 +282,9 @@ As characters make their way through the cavern, they are also subjected twice t
 > [!danger] Hazard
 > #### Trial of Fear
 >
-> The character must succeed on a `[[/save wisdom 15]]` saving throw or they gain the &Reference[Frightened] Condition and flee towards the exit.
+> The character must successfully defend against **Dark Cacophony (Hazard 6)** or gain the @Condition[Frightened] Condition and flee towards the exit.
 >
-> This cacophony of the character's flight causes a loud series of echoes, requiring them to succeed on a `[[/save constitution 16]]` saving throw or take `[[/damage 1d6]]` Thunder damage. If they have previously taken Thunder damage during this trial, this saving throw is made with Disadvantage.
+> This thunderous echoing sound of the character's flight causes a loud series of echoes, requiring them to face **Concussive Sound (Hazard 6)**. If they have previously failed to defend against this hazard befor, this hazard gains **+2 Boons**.
 
 Afterward, the second trial subjects the character to a sensation of overpowering joy.
 
@@ -296,9 +296,9 @@ Afterward, the second trial subjects the character to a sensation of overpowerin
 > [!danger] Hazard
 > #### Trial of Joy
 >
-> The character must succeed on a `[[/save wisdom 15]]` saving throw or they begin to giggle uncontrollably.
+> The character must face **Contagious Laughter (Hazard 6)** or they begin to giggle uncontrollably.
 >
-> The giggles echo back and forth, louder and louder, requiring the character to succeed on a `[[/save constitution 16]]` saving throw or take `[[/damage 1d6]]` Thunder damage. If they have previously taken Thunder damage during this trial, this saving throw is made with Disadvantage.
+> The giggles echo back and forth, louder and louder, requiring the character to face **Concussive Sound (Hazard 6)**. If they have previously failed to defend against this hazard befor, this hazard gains **+2 Boons**.
 
 Once the character has faced both trials, they emerge in a [[Savage Descent]].
 
@@ -310,14 +310,14 @@ Once the character has faced both trials, they emerge in a [[Savage Descent]].
 > [!danger] Hazard
 > #### Lulled to Sleep
 >
-> If at any point in this challenge the character falls asleep, they must immediately roll on the [[Minor Abyssal Madness]] table and gain 1 &Reference[Exhaustion] level, before awakening in [[Savage Descent]].
+> If at any point in this challenge the character falls asleep, they must immediately roll on the [[Minor Abyssal Madness]] table and gain @Condition[Exhausted] , before awakening in [[Savage Descent]].
 
 The first challenge subjects the character to a mental compulsion to sleep.
 
 > [!danger] Hazard
 > #### Sleep Now
 >
-> The character must make a `[[/save wisdom 16]]` saving throw or else are inflicted with the effects of the [[Unknown]] Spell (cast at a Spell Level equivalent to the character's Level) and the associated consequences under [[Savage Descent]] above. The character is subject to this saving throw and its effects even if they would normally not be affected by this Spell (due to being Undead, or having Immunity to being Charmed, and so on).
+> The character must face **Persuasive Sleep (Hazard 6)** and if they do not adequately defend against fall to the @Condition[Sleep] condition. See [[Savage Descent]] above. The character is subject to this hazard and its effects even if they would normally not be affected by the need for Sleep (due to being Undead, or having Immunity to Sleep, immunity to charming magical effects, and so on).
 
 If the character remains awake through the first challenge, the second offers them a choice: go to sleep voluntarily, or face a physical compulsion to do so.
 
@@ -331,7 +331,7 @@ If the character remains awake through the first challenge, the second offers th
 >
 > Characters may choose to sleep, suffering the penalty under [[Savage Descent]] above.
 >
-> If they do not, they must succeed on a `[[/save constitution 15]]` saving throw or they take `[[/damage 1d8 psychic]]` damage, and suffer lingering fatigue — the next time they take a Long Rest, they must succeed on a `[[/save wisdom 15]]` saving throw or they gain 1 &Reference[Exhaustion] level when they wake.
+> If they do not, they face **Draining Words (Hazard 6)**, and suffer lingering fatigue — the next time they take a **Rest**, they successfully defend against **Draining Exhaustion (Hazard 6)** or they gain @Condition[Exhausted] when they wake.
 
 Once characters have either resisted the effects of the exhaustion or fallen asleep, they may leave this cavern and emerge into [[Savage Descent]].
 
@@ -349,17 +349,17 @@ The entire party emerges in an open misty cavern, reunited after their individua
 > [!tip] Exploration
 > #### Pushing Through
 >
-> To push on into the Pathways, the party must succeed on a group `[[/check 20 wisdom]]` check (if at least half the party succeeds, the entire group succeeds).
+> To push on into the Pathways, the party must succeed on a group **Arcana (DC 20, Group)** check or **Medicine (DC 20, Group)** (if at least half the party succeeds, the entire group succeeds).
 >
 > - **Character overcame their trial without taking damage:** That character gains **+2 Boons** on their check.
 > - **Character shares an account of their experiences in the Shrouded Borehole:** That character gains **+2 Boons** on their check.
-> - **Character stops here for a Short or Long Rest:** That character gains **Disadvantage** on their check.
+> - **Character stops here for a Recovery or Rest:** That character gains @**Advantage[[-2]]** on their check.
 >
-> Additionally, any character who fails their Wisdom check may make a single `[[/check athletics 15]]` check to attempt to push forward through brute force. On a success, they stagger forward a few feet, and may attempt their Wisdom check again with **+2 Boons**, using the result of this second check for the purpose of the group check.
+> Additionally, any character who fails their Wisdom check may make a single **Athletics (DC 15)** check to attempt to push forward through brute force. On a success, they stagger forward a few feet, and may attempt their Arcana or Medicine check again with **+2 Boons**, using the result of this second check for the purpose of the group check.
 >
 > #### Solitary Voices
 >
-> If the party as a whole fails the group check, but any party member succeeded on their individual Wisdom check, that character may attempt to convince the rest of the party to keep going into the Pathways with a successful `[[/check 15 persuasion]]`, `[[/check deception 15]]`, or `[[/check 15 intimidation]]` check. If they succeed, they persuade the group as a whole to push through into the Pathways.
+> If the party as a whole fails the group check, but any party member succeeded on their individual check, that character may attempt to convince the rest of the party to keep going into the Pathways with a successful **Diplomacy (DC 15)**, **Deception (DC 15)**, or **Intimidation (DC 15)** check. If they succeed, they persuade the group as a whole to push through into the Pathways.
 
 Unless the entire party pushes on — or is convinced to push on — into the Pathways, the party as a whole loses their nerve and turns around, retreating to the safe place behind them.
 
@@ -371,7 +371,7 @@ Unless the entire party pushes on — or is convinced to push on — into the Pa
 > [!danger] Hazard
 > #### Turning Back
 >
-> As they retreat, every member of the party takes `[[/damage 1d6 psychic]]` and `[[/damage 1d6 necrotic]]` damage before stumbling out of the cavern and finding themselves back where they started, outside of the Shrouded Borehole on Ember's surface.
+> As they retreat, every member of the party faces **Tormenting Whispers (Hazard 6)** and **Decaying Retreat (Hazard 6)** before stumbling out of the cavern and finding themselves back where they started, outside of the Shrouded Borehole on Ember's surface.
 >
 > Parties who turn around cannot enter the Pathways through the Shrouded Borehole later, as described in [[Savage Descent]] above.
 

@@ -28,7 +28,7 @@ tags: [ember, quests]
 >
 > Level 1 · Unknown Unknown
 >
-> ![Cherish Ellerie](../../../assets/image153.webp)
+> ![Cherish Ellerie](../../../assets/image183.webp)
 
 > [!question] Q&A
 > **Q:** What do you do in Ordain?
@@ -95,7 +95,7 @@ When the encounter begins, read the following aloud, then click the Outcome box 
 >
 > Level 1 · Unknown Unknown
 >
-> ![Paint Globlin](../../../assets/image029.webp)
+> ![Paint Globlin](../../../assets/image030.webp)
 
 > [!danger] Hazard
 > #### Challenging Art

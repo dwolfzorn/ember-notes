@@ -18,7 +18,7 @@ At this time, however, the vendor's supply of "exotic" creatures has been deplet
 > [!info] Social
 > #### Tolan's Wares
 >
-> Tiny Critters has [[Crevvet]], [[Gore Bird]], and [[Trickadees]] for sale at the price of 5 gp each.
+> Tiny Critters has [[Crevvet]], [[Gore Bird]], and [[Trickadee]] for sale at the price of 5 gp each.
 
 > [!tip] Exploration
 > #### Liberating the Critters

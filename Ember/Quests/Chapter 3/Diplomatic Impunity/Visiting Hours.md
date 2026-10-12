@@ -67,7 +67,7 @@ Once they have handed over any items they want stashed, the guard will cinch up 
 >
 > Level 1 · Unknown Unknown
 >
-> ![Jonico Daridane](../../../assets/image132.webp)
+> ![Jonico Daridane](../../../assets/image162.webp)
 
 > [!question] Q&A
 > **Q:** Your lobby?
@@ -86,7 +86,7 @@ Once they have handed over any items they want stashed, the guard will cinch up 
 > [!tip] Exploration
 > #### A Familiar Name
 >
-> Charactgers with **Knowledge: Politics** or **Path: Cindaric Initiate** or making a successful **Society (DC 14)** check recognizes the name, and that he was once also a member of the Ordinate council but was recently replaced.
+> Characters with **Knowledge: Politics** or **Path: Cindaric Initiate** or who make a successful **Society (DC 14)** check recognizes the name, and that he was once also a member of the Ordinate council but was recently replaced.
 
 > [!question] Q&A
 > **Q:** Weren't you on the Ordinate council?

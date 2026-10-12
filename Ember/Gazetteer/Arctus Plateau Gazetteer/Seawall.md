@@ -25,13 +25,13 @@ Seawall, notably built on top of a previous Aedir colony known as Avadaol, is a 
 > - **Settlement Type:** Port city
 > - **Size:** Large (10,000 - 12,000)
 > - **Primary Cultures:** **Culture: Arcturian**
-> - **Predominant Ancestries:** **Ancestry: Human**, **Ancestry: Hulg'run**, **Ancestry: Kavir**, **Ancestry: Keth**, **Ancestry: Fej**, **Ancestry: Kiska**
+> - **Predominant Ancestries:** **Ancestry: Human**, **Ancestry: Hulg'run**, **Ancestry: Kivahr**, **Ancestry: Keth**, **Ancestry: Fej**, **Ancestry: Kiska**
 > - **Languages:** **Language: Common**, **Language: Arcden**
 > - **Religion:** Minimal
 > - **Governance:** Otherhood of Fortune leads; various lieutenants manage aspects of city life
 > - **Architecture:** Ancient Aediri, Modern Arcturian, and Ordani
 > - **Economy:** Fishing, shipping, travel, smuggling
-> - **Organizations**: [[House Bastilla]], [[House Wandren]], [[Otherhood of Fortune]]
+> - **Organizations:** [[House Bastilla]], [[House Wandren]], [[Otherhood of Fortune]]
 
 ## Landmarks - Tower Crags
 

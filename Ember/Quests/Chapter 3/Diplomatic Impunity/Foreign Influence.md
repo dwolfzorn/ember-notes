@@ -50,14 +50,14 @@ After the party states their business, and presents the messenger bag the attend
 >
 > Level 1 · Unknown Unknown
 >
-> ![Loris Tezran](../../../assets/image128.webp)
+> ![Loris Tezran](../../../assets/image158.webp)
 
 > [!abstract] Ancara
 > **[[Ancara]]**
 >
 > Level 1 · Unknown Unknown
 >
-> ![Ancara](../../../assets/image129.webp)
+> ![Ancara](../../../assets/image159.webp)
 
 > [!quote] Read Aloud
 > From the side of the building a shadow slips across the gravel as a massive winged creature stalks into view, talons clicking, its pinions rustling like heavy silk. It watches you with a predatory intensity that tightens the air.
@@ -135,23 +135,25 @@ If the party does accept to carry out the ambassador's tasks, he responds as suc
 > [!quote] Read Aloud
 > The Ambassador sweeps the documents into the bag and stands lifting it with him
 >
-> > Good, very good! I am pleased you've chosen to be reasonable. Seek out Katerin Bastilla at the Bastilla estate in Coinwealth, and handle the tasks she has for you. Once you've done them all, report back here, and we can put all this ugly business behind us.
+> > Good! Very good! I'm quite pleased you've chosen the path of reason. Seek out Katerin Bastilla at the Bastilla estate in Coinwealth Heights — which you'll find at the southwestern edge of the city — and handle whatever tasks she has for you. Once you've done them all, report back here, and we can put this ugly business behind us.
 > >
-> > Endran will see you out.
+> > Now … Endran will see you out.
 >
 > With that, the Ambassador takes his leave, though the massive ancara, Rakavi, remains in place, watchful and vigilant.
 >
-> A moment later an attendant appear, Endran you presume, and he gestures for you to follow.
+> A moment later an attendant appears (Endran you presume), and gestures for you to follow.
 >
 > > This way, please.
 >
 > You are walked through the embassy to the entrance, and escorted to the front gates which clatter closed behind you.
 
-Once the party is clear of the embassy they can carry on with this quest, or return to other matters.
+Check the "Coinwealth Heights Discovered" Outcome below for the Coinwealth Heights POI to appear on the Region Map. Once the party is clear of the embassy they can carry on with this quest, or return to other matters.
+
+`[[/outcome coinwealthHeights]]`
 
 ### Concluding the Event
 
 > [!warning] Gamemaster
 > #### Next Steps
 >
-> Once the party has finished being coerced by the ambassador, they should head off to Coinwealth Heights to meet the ambassador's contact. If they want, they can also report this meeting to the Veiled Chain via the [[Coming Clean]] event.
+> Once the party has finished being coerced by the ambassador, they should head off to [[Coinwealth Heights]] to meet the ambassador's contact. If they want, they can also report this meeting to the [[Veiled Chain]] via the [[Coming Clean]] event.

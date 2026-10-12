@@ -37,7 +37,7 @@ The Profane Altar itself is a 3-foot high hexagonal lectern, asymmetrically carv
 >
 > #### Destroying the Profane Altar
 >
-> The Profane Altar can be destroyed by using dealing 20 magical damage to it. When the altar is destroyed, all creatures within 10 feet suffer the effects of **Profane Backlash (Hazard 8, Willpower, Morale, Psychic)**.
+> The Profane Altar can be destroyed by using dealing 20 magical damage to it. When the altar is destroyed, all creatures within 10 feet suffer the effects of **Profane Backlash (Hazard 8)**.
 >
 > #### Dispelling the Profane Altar
 >

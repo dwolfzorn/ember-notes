@@ -62,7 +62,7 @@ If players defeated Luxaroth in combat, mark this Event Outcome:
 >
 > With the Avatar seemingly gone, whether destroyed or recovering magically, the party will not be able to count on his aid again and have to make their way back through the Fogbound Caverns on foot.
 >
-> As the party makes their way back, any character that has **Knowledge: Abyssals** or succeeds on a `[[/check nature 14]]` check can confirm that the biome and area around them are slowly losing some of the Abyssal energies, and the omnipresent fog and feelings of wrongness are beginning to fade. Likely, this will take some weeks or months.
+> As the party makes their way back, any character that has **Knowledge: Abyssals** or succeeds on a **Wilderness (DC 14)** check can confirm that the biome and area around them are slowly losing some of the Abyssal energies, and the omnipresent fog and feelings of wrongness are beginning to fade. Likely, this will take some weeks or months.
 
 #### Cora Attunement: Luxaroth Defeated
 
@@ -79,7 +79,7 @@ If the party chooses to ally themselves with Luxaroth, each character advances t
 >
 > With the Avatar destroyed alongside the Orb of Lantyr Relic, the light is now completely gone in the Fogbound Caverns, and darkness has fallen entirely. The party will not be able to count on the aid of Luxaroth ever again, as he is truly gone, and they must make their way back through the rising danger of the unbound Fogbound Caverns on foot.
 >
-> As the party makes their way back, any character that has **Knowledge: Abyssals** or succeeds on a `[[/check nature 13]]` or `[[/check arcana 13]]` check can confirm that the biome and area around them is becoming even more infused with Abyssal energies. The fog grows thicker, and attacks by monsters in every hex they pass through will also increase. In the long term, the darkness here is likely to spread even onto the surface of the Arctus Plateau.
+> As the party makes their way back, any character that has **Knowledge: Abyssals** or succeeds on a **Wilderness (DC 13)** or **Arcana (DC 13)** check can confirm that the biome and area around them is becoming even more infused with Abyssal energies. The fog grows thicker, and attacks by monsters in every hex they pass through will also increase. In the long term, the darkness here is likely to spread even onto the surface of the Arctus Plateau.
 
 #### Abyss Attunement: Orb Destroyed
 

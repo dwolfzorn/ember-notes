@@ -17,33 +17,33 @@ tags: [ember, gazetteer]
 > - **Settlement Type:** Agricultural hub
 > - **Size:** Medium (2500 - 3000)
 > - **Primary Cultures:** **Culture: Arcturian**
-> - **Predominant Ancestries:** **Ancestry: Human**, **Ancestry: Keth**, **Ancestry: Kavir**
+> - **Predominant Ancestries:** **Ancestry: Human**, **Ancestry: Keth**, **Ancestry: Kivahr**
 > - **Languages:** **Language: Common**, **Language: Arcden**
-> - **Religion:** Minor; Revelers of [[Orbis]]; minor shrines to other gods; [[Cindaric Sages]] followers
-> - **Governance:** Consensus-based government with the Rortwark Labor Council and the Agrimages Circle in shared leadership
-> - **Architecture:** A blend of Modern Arcturian design with [[Kithil]]-inspired components.
-> - **Economy:** Primarily agricultural, centered around food production, the export of enriched soil to [[Redrak Fields]] and beyond, and trade with Ordain and further regions.
-> - **Organizations**: [[House Lilifeld]], [[Agrimage Circle]]
+> - **Religion:** Minor; Revelers of [[Orbis]]; minor shrines to other gods; [[Cindaric Sages]] followers.
+> - **Governance:** Consensus-based government with the Rortwark Labor Council and the Agrimages Circle in shared leadership.
+> - **Architecture:** A blend of modern Arcturian design with [[Kithil]]-inspired components.
+> - **Economy:** Primarily agricultural, centered around food production, the export of enriched soil to the [[Redrak Fields]] and beyond, and trade with Ordain and beyond.
+> - **Organizations:** [[House Lilifeld]], [[Agrimage Circle]]
 
 ## Landmarks
 
 **The Harvest SpireMonument**
 
-A tower monument in the center of the Rortwark central park, it is a great carving of a pile of foodstuffs and represents the collective work and unity of the people of Redrak Fields. It was created by a local artist, commissioned by the Rortwark Labor Council, and is a point of pride for the city.
+A tower monument in the center of the Rortwark central park, this great carving of a pile of foodstuffs represents the collective work and unity of the people of Redrak Fields. It was created by a local artist, commissioned by the Rortwark Labor Council, and is a point of pride for the city.
 
 **Worker's SquareCivic Meeting Place**
 
-A massive square near the center of town, floored with clay bricks in Redrak red, where assemblies of the Rortwark Labor Council are held, as well as many civic ceremonies. When built, it allowed every worker in Rortwark to attend simultaneously, but as the town has grown, such meetings necessarily now consist of representatives from various individual farms and other establishments.
+A massive square near the center of town — floored with clay bricks in Redrak red — where assemblies of the Rortwark Labor Council are held, as well as many civic ceremonies. When built, it allowed every worker in Rortwark to attend simultaneously, but as the town has grown, such meetings necessarily now consist of select representatives from individual farms and other establishments.
 
 **The Old GlowstoneInn**
 
-An historic inn with a two-story great room built around a large glowing stone that radiates warmth and light. Nobody knows the precise history of where the old glowstone came from, but there are a hundred different tales that all claim to be the truth. It has many rooms, and is the busiest of the many inns found in the city.
+A historic inn with a two-story great room built around a large glowing stone that radiates warmth and light. Nobody knows the precise history of where the old glowstone came from, but there are a hundred different tales that all claim to be the truth. It has many rooms, and is the busiest of the many inns found in the city.
 
 **Wortrot BreweryTavern**
 
 A massive tavern that produces the majority of the beer and spirits consumed in the city save for what's made by local vineyards in the region, or imported. A large sitting area has view of the casks and brewing apparatuses. Food and drink is served all day and all night, and live music is common.
 
-**## Characters of Interest**
+## Characters of Interest
 
 **Eamon MariflorNeutral, Arcturian Human, she/her**
 
@@ -65,4 +65,4 @@ Kaelir Ryseparo is the current representative of House Lilifeld's interests in R
 
 ### Politics
 
-The local government is adopted from the [[Kithil]] model found in the northern lands, utilizing consensus-based decision making with multiple voices being heard on every issue. Its administration is divided between the Rortwark Labor Council and the Agrimages Circle. While human presence is great here, the city's fabric is diverse, with many ancestries present, and boasts a significant Keth population in a dedicated and celebrated Kithil quarter.
+The local government is adopted from the [[Kithil]] model found in the northern lands, utilizing consensus-based decision making that ensures multiple voices are heard on every issue. Administration of the settlement is handled primarily by the Rortwark Labor Council, but with the frequent consultation of the Agrimage Circle. While the human population is numerous, the city's fabric is diverse — many ancestries count themselves among Rortwark's people, and the settlement boasts a significant Keth population in a dedicated and celebrated Kithil quarter.

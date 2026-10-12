@@ -20,7 +20,7 @@ The island’s eponymous shrine is its most notable feature, and is a famed land
 >
 > The Lunar Shrine is comprised of six standing stone menhirs and a circular stone dais that sits between them, overgrown and forgotten by time. Each of the menhirs corresponds to one of Ember's six moons — [[Akon]], [[Aura]], [[Cora]], [[Mayis]], [[Orbis]], and [[Ragen]] — and is laced with a small amount of ore that hails from is respective lunar body.
 >
-> Any haracter with **Awareness (DC 12, Passive)** while examining the menhirs is able to notice the curious ore woven into the stone.
+> Any character with **Awareness (DC 12, Passive)** while examining the menhirs is able to notice the curious ore woven into the stone.
 >
 > Subsequent to this discovery, any character who makes a successful **Wilderness (DC 15)** check while examining the menhirs can confirm the lunar nature of the respective ores.
 >
@@ -41,7 +41,7 @@ The island’s eponymous shrine is its most notable feature, and is a famed land
 > The Lunar Shrine has additional properties, which can only be activated simultaneously once per week:
 >
 > - Until the character completes a Rest, attempts to Counterspell the character with this effect are made with **-2 Banes**.
-> - After they complete a Long Rest, characters who utilize the Lunar Shrine's enchanted properties add one point of Lunar Attunement to their current Lunar Attunement level. A character cannot benefit from this effect more than once. See [[The Moon Child of Lake Jinro]] for additional information and rewards.
+> - After they complete a **Rest**, characters who utilize the Lunar Shrine's enchanted properties add one point of Lunar Attunement to their current Lunar Attunement level. A character cannot benefit from this effect more than once. See [[The Moon Child of Lake Jinro]] for additional information and rewards.
 >
 > Additionally, the first character to use the Lunar Shrine to enhance the spells and succeed on an additional **Arcana (DC 13)** gains a temporary, one-time use ability to divine until they complete a Rest. As part of a downtime action during a period of Recovery, they may read the omens and divine the future, to know the outcome of a plan they propose to undertake. The answer to their question comes in the form of omens and signs that they interpret as either: positive, negative, both, or neither.
 
@@ -59,7 +59,7 @@ Once the party has had sufficient time to conduct an initial survey of the Shrin
 >
 > Level 10 (Elite) · Garganthus Deep Behemoth
 >
-> ![Juvenile Garganthus](../../../assets/image076.webp)
+> ![Juvenile Garganthus](../../../assets/image084.webp)
 >
 > You behold the hulking form of a quadrupedal reptilian creature with a long prehensile tail and tenebrous skin. Its agile saurian head is marked by multiple sets of bulbous pearlescent eyes, two fan-shaped ears of prodigious length, and a mouth lined with spear-like fangs. The creature's massive arms end in three-fingered hands with formidable claws, and its muscular legs look as though they could mount the toughest terrain with ease.
 

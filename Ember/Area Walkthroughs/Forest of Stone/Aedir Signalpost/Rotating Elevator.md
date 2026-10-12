@@ -13,7 +13,7 @@ If closed, the elevator can be opened from the outside by pulling a lever locate
 > [!quote] Read Aloud
 > The metal walls of the inside of the elevator are copper-colored, with a hand-shaped indentation in the wall by the door, as if someone had forced their palm into the metal. Below the indentation is a panel with four circular niches, arranged as if they were the top, bottom, left, and right points of a diamond. The top, left, and right niches all hold metal discs inscribed with different glyphs. The bottom niche is empty.
 
-Any character who takes a look at the glyphs can tell that the left and right discs are mirror images of each other.
+Any character who takes a look at the glyphs can tell that the left and right discs are mirror images of each other. Rules for translating these glyphs are provided here: [[Area Overview]].
 
 | Position | Basic Meaning | Full Translation |
 | --- | --- | --- |
@@ -55,7 +55,7 @@ Touching the disc at the top of the diamond raises the elevator one floor. This 
 > [!quote] Read Aloud
 > The glyph in the metal disc glows beneath your fingertips, and the elevator creaks as it begins to ascend, slowly rising inch by inch until it comes to a stop.
 
-Characters can only make the elevator descend if they find the elevator Descent Disc and put it into the empty slot in the elevator panel as noted below.
+Characters can only make the elevator descend if they find the [[Elevator Glyphstone]] and put it into the empty slot in the elevator panel as noted below.
 
 > [!quote] Read Aloud
 > The glyph in the metal disc is slow to warm this time, and the elevator jerks as it descends, shaking you as it lowers to the floor below.

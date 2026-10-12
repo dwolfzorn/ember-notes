@@ -11,13 +11,13 @@ tags: [ember, quests]
 > [!warning] Gamemaster
 > #### Requirements
 >
-> This main quest occurs during Chapter 3 amidst the great city of [[Ordain]], and is intended to begin 3 days after the party has completed [[A Sage Welcome]], as the characters return to [[Cindarin Temple]] for [[Sin Marmot]]'s initiation ceremony.
+> This Main Quest occurs during Chapter 3 within the great city of [[Ordain]], and is intended to begin 3 days after the party has completed [[A Sage Welcome]], as the characters return to [[Cindarin Temple]] for [[Sin Marmot]]'s initiation ceremony.
 >
-> Unlike the events of Chapter 2, each of the Chapter 3 main quests can occur simultaneously, although the characters must manage their time accordingly for various encounters and events to proceed with certain measures of success.
+> Unlike the events of Chapter 2, each of the Chapter 3 Main Quests can occur simultaneously, although the characters must manage their time accordingly for various encounters and Events to proceed with certain measures of success.
 >
 > #### Difficulty
 >
-> The "Smoldering Cinders" quest is designed for a party of Level 5 characters.
+> The "Smoldering Cinders" Quest is designed for a party of Level 5 characters.
 >
 > #### Milestone Progression
 >

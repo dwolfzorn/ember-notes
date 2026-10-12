@@ -38,7 +38,7 @@ The surface of the water around the central platform is set to height 0. Applyin
 >
 > Characters that begin their turn in the water surrounding the central platform must make a successful **Athletics (DC 13)** check or be pulled 10 feet downward and moved 10 feet clockwise by the machinery churning the water.
 >
-> Between -15 and -30 feet below the surface of the water the machines sweep past rapidly, and risk catching creatures in them. Any character who ends their turn at or between these depths must succeed on a **Athletics (DC 13)** or take damage from a **Machine Impact (Hazard 4, Fortitude, Health, Bludgeoning)**.
+> Between -15 and -30 feet below the surface of the water the machines sweep past rapidly, and risk catching creatures in them. Any character who ends their turn at or between these depths must succeed on a **Athletics (DC 13)** or take damage from a **Machine Impact (Hazard 4)**.
 >
 > Characters with a Swim Speed have **+2 Boons** for this hazard.
 

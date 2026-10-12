@@ -11,7 +11,7 @@ tags: [ember, quests]
 > [!warning] Gamemaster
 > #### Gamemaster's Summary
 >
-> This exploration event allows the characters to find the shed skin of a massive dragon. In this event, the party can:
+> This exploration event allows the characters to find the shed skin of a massive dragon. This event occurs on the region map, where the molt is visible at the old dragon lair, without a specific area map or vista to depict it. In this event, the party can:
 >
 > - Find the [[Molted Dragon Skin]] itself, and investigate clues that reveal its relationship to the drakes.
 > - Discover a shrine to the skin, and evidence that someone was recently here venerating it.
@@ -20,7 +20,7 @@ tags: [ember, quests]
 ### Skin Of Evil
 
 > [!quote] Read Aloud
-> Near the head of the molt is what appears to be a makeshift shrine captures the eye, a curious assortment of offerings and melted candles sits forgotten in the dark. On the side of the molt lies the remnants of an abandoned work site, where tools and scraps of hide are left forgotten.
+> Near the head of the molt, a makeshift shrine catches the eye: a curious assortment of offerings and melted candles, sitting forgotten in the dark. Along the side of the molt lie the remnants of an abandoned work site, its tools and scraps of hide left where they fell.
 >
 > Underfoot, layered footprints crisscross the area, most faded, mapping the paths of countless visitors to this area.
 
@@ -45,15 +45,15 @@ tags: [ember, quests]
 >
 > #### Draconic Insights
 >
-> Characters with **Knowledge: Dragons** have **+2 Boons** on these checks.
+> A character who succeeds on a **Awareness (DC 13)** check notes that the skin is months, possibly years old, and was at one point accompanied by a considerable layer of dried substances like blood, sweat or pus on the inside of the skin, which also spilled out onto the ground. The shedding process was likely violent and unpleasant for the dragon.
 >
-> A character making successful **Awareness (DC 13)** check notes that the skin is months, possibly years old, and was at one point accompanied by a considerable layer of dried substances like blood, sweat or pus on the inside of the skin, which also spilled out onto the ground. The shedding process was likely violent and unpleasant for the dragon.
+> - **Knowledge: Dragons**: The character gains **+2 Boons** on this check.
+> - **Critical Success**: There is evidence on the ground and on the inside of the skin indicating that this substance has been scraped off in large amounts. Whoever did it was fairly thorough, and the majority of the remaining substance is soaked into the ground and impossible to gather.
 >
-> - **Critical Success**There is evidence on the ground and on the inside of the skin indicating that this substance has been scraped off in large amounts. Whoever did it was fairly thorough, and the majority of the remaining substance is soaked into the ground and impossible to gather.
+> A character who succeeds on an **Awareness (DC 13)** check notes the resemblance between this dragon and the smaller drakes encountered above ground. The two creatures seem to have only a few differences: the dragon has eight eyes where the drakes have two, and a row of blades along its spine that the drakes lack.
 >
-> A character making a successful **Awareness (DC 13)** check notes the resemblance between this dragon and the smaller drakes encountered above ground. The two creatures seem to have only a few differences, such as the number of eyes and the placement of frills along the body on the drakes instead of along the spine.
->
-> - **Critical Success**The size of the dragon's skin and configuration of the frills indicates that this was an adult vile dragon, and one that was likely centuries old, if not older, and likely at the upper size limits of its kind.
+> - **Knowledge: Dragons**: The character gains **+2 Boons** on this check.
+> - **Critical Success**: The size of the dragon's skin and configuration of the frills indicates that this was an adult vile dragon, and one that was likely centuries old, if not older, and likely at the upper size limits of its kind.
 
 ### Regarding Dragons
 
@@ -101,57 +101,67 @@ The party is unlikely to know much about dragons at this point, but has run into
 > [!tip] Exploration
 > #### Looking Over The Shrine
 >
-> A successful **Society (DC 14)** while examining the shrine notes that it is built to venerate an eclectic mix of gods, including Janar, Lanespear, Malae, Obrisire, Steelson, Sionia and Sigil, all gods found within [[The Nineteen]]. A stone bowl at the center is filled with burnt parchment, perhaps where offerings or prayers are given. It contains only ash.
+> A character succeeding on a **Society (DC 14)** check while examining the shrine notes that it is built to venerate an eclectic mix of gods, including Janar, Lanespear, Malae, Obrisire, Steelsong, Sionia and Sigil, all gods found within [[The Nineteen]]. A stone bowl at the center is filled with burnt parchment, perhaps where offerings or prayers are given. It contains only ash.
 >
-> - **Critical Success**The gods present in this shrine are related in curious ways, such as Janar, Lanespear and Obirsire for hunting and survival, and Malae, Sionia, Steelsong and Sigil for herbalism, research, and invention. Put together, this seems to be a shrine that serves two purposes, or two groups: hunters, warriors and beast wranglers looking for skill and protection, and scholars or inventors looking for guidance and inspiration.
+> - **Knowledge: Gods**: The character gains **+2 Boons** on this check.
+> - **Critical Success**: The gods present in this shrine are related in curious ways, such as Janar, Lanespear and Obrisire for hunting and survival, and Malae, Sionia, Steelsong and Sigil for herbalism, research, and invention. Put together, this seems to be a shrine that serves two purposes, or two groups: hunters, warriors and beast wranglers looking for skill and protection, and scholars or inventors looking for guidance and inspiration.
 >
-> Examining the shrine with a successful **Awareness (DC 13)** notes that this shrine was used recently, within the last few days. The faint tang of burnt herbs lingering in the air. A small, half-empty flask sits conspicuously among the offerings, its cap removed, the liquid, blood, still fresh within. Someone, not long ago, paid a visit to this shrine.
+> Examination of the shrine with a successful **Awareness (DC 13)** check allows a character to notice that this shrine was used recently, within the last few days. The faint tang of burnt herbs lingers in the air. A small, half-empty flask sits conspicuously among the offerings, its cap removed, the liquid, blood, still fresh within. Someone, not long ago, paid a visit to this shrine.
 >
 > Looking at the ground and making a successful **Wilderness (DC 13)** check reveals that the ground around the shrine bears fresh scuffs and footprints. These prints are only a few days old by the looks. Oddly they appear out of nowhere and vanish abruptly.
 
 Characters looking over the footprints can glean a little info, and perhaps some extra.
 
 > [!quote] Read Aloud
-> You notice that there is a pretty well worn trail that the humanoid footprints are following. You are confident that you could follow this trail and they would likely lead you to their origin, or fairly close to it at least. The trail isn't new, so it likely hasn't been used in a while, but it's still clear enough to follow.
+> You notice a well worn trail leading away east, the kind made by many trips back and forth. The older booted prints follow it, and you are confident that following the trail would lead you to where they came from, or close to it. It hasn't been used in a while, but it's still clear enough to follow.
 
 > [!tip] Exploration
 > #### Tracking the Trails
 >
-> A successful **Wilderness (DC 12)** notes that there are humanoid and bipedal reptilian tracks all over this area. The oldest of the tracks are the booted humanoids who seem to have walked up and down the area more than once, likely examining it like you are now.
+> A successful **Awareness (DC 12)** check notes that there are humanoid and bipedal reptilian tracks all over this area. The oldest of the tracks are the booted humanoids who seem to have walked up and down the area more than once, likely examining it like you are now. The reptilian tracks are substantially newer, having crossed through this area. They don't seem to have stayed for long before moving on in a totally different direction than the humanoid prints.
 >
-> - **Success.** The reptilian tracks are substantially newer, having cross through this area. They don't seem to have stayed for long before moving on in a totally different direction that the humanoid prints.
-> - **Critical Success** You notice that there are some booted prints here that are far fresher than others, only a day or two old by the looks of them. Strangely, they just appear and disappear, having no clear entry or exit point. Either the person can fly, or they teleported in and out.
+> - **Knowledge: Tracking**: The character automatically succeeds on this check.
+> - **Critical Success**: The character notices that there are some booted prints here that are far fresher than others, only a day or two old by the looks of them. Strangely, they just appear and disappear, having no clear entry or exit point. Either the person can fly, or they teleported in and out.
+
+> [!warning] Gamemaster
+> #### The Vanishing Prints
+>
+> The fresh booted prints belong to [[Serethus]], who teleports in to visit the shrine. No check reveals this to the players; leave the question of flight or teleportation unanswered.
 
 Examining the work area reveals that harvesting work was underway to take large pieces of the hide off the molt.
 
 > [!quote] Read Aloud
-> Sitting here in the darkness is a collection of dirty, rusted tools. Saws and shears left in the dirt, or laying on ragged scraps of hide. Alongside them are a few coils of frayed rope, the discarded ends of greater lengths.
+> Sitting here in the darkness is a collection of dirty, rusted tools. Saws and shears left in the dirt, or lying on ragged scraps of hide. Alongside them are a few coils of frayed rope, the discarded ends of greater lengths.
 
 > [!tip] Exploration
 > #### Signs of Work
 >
 > A successful **Awareness (DC 12)** check while examining the tools notes that they are all rusted and dulled, ill suited to the work being done with them. Their time sitting here on the ground has only worsened their condition, making them entirely useless now.
 >
-> Characters skilled with a [[Tailor's Toolkit]] or succeeding on a **Wilderness (DC 14)** check recognize that the work to cut down sections of dragon hide were inexpertly done, leaving large sections of the hide ragged. Given the amount removed, it probably took a few days of work.
+> Characters skilled with a [[Tailor's Toolkit]] or succeeding on a **Medicine (DC 14)** or **Tailoring (DC 14)** check recognize that the work to cut down sections of dragon hide was inexpertly done, leaving large sections of the hide ragged. Given the amount removed, it probably took a few days of work.
 >
-> Examining the cuts in the hide with a successful **Wilderness (DC 16)** check estimates that they took out probably fifty square feet of hide from the molt. This is a sizeable amount, and given how ragged the cuts were, it probably wasn't for use as a textile.
+> - **Critical Success**: The character estimates that they took out probably fifty square feet of hide from the molt. This is a sizeable amount, and given how ragged the cuts were, it probably wasn't for use as a textile.
 
 If characters want to harvest this rare resource, they can, and doing so is easy enough to accomplish if they have a sharp object and the proper skills. The tools on the ground are not suitable to this work, so the party will need to provide their own.
 
 > [!tip] Exploration
 > #### Harvesting The Skin
 >
-> It is possible for characters with proper tools to harvest sections of the dragon skin for use later. Character proficient with and making a successful **Wilderness (DC 14)** with a[[Tailor's Toolkit]] can collect one unit of [[Molted Dragon Skin]]. This takes about half an hour to do, and there is enough good skin to collect up to 6 pieces of dragon skin if characters are willing to spend the time.
+> It is possible for characters with proper tools to harvest sections of the dragon skin for use later. Characters proficient with and making a successful **Tailoring (DC 14)** with a [[Tailor's Toolkit]] can collect one unit of [[Molted Dragon Skin]]. This takes about half an hour to do, and there is enough good skin to collect up to 6 pieces of dragon skin if characters are willing to spend the time.
 >
-> Characters without proper tools can make do with a sufficiently sharp cutting implement (such as a dagger or axe) but must make a successful **Wilderness (DC 16)** check to collect a unit of dragon skin. However, because the cuts are awkward, this damages the skin, reducing the available harvestable units to 3 max.
->
-> This skin is can be utilized by the [[Gathering and Crafting]] system to create unique items such as armor and accessories with special properties.
+> Characters without proper tools can make do with a sufficiently sharp cutting implement (such as a dagger or axe) but must make a successful **Athletics (DC 16)** check to collect a unit of dragon skin. However, because the cuts are awkward, this damages the skin, reducing the available harvestable units to 3 max.
+
+#### Gathering and Crafting
+
+This skin will later be utilized by the [[Gathering and Crafting]] system to create unique items such as armor and accessories with special properties.
 
 ### Concluding the Event
 
-The party is now closer than ever to the origin of the Mutagists, even if they aren't entirely certain who it is they are chasing. From here they should have enough information to find the base of operations where these people are staging from.
+The party is now closer than ever to the origin of the [[Mutagists]], even if they aren't entirely certain who it is they are chasing. From here they should have enough information to find the base of operations where these people are staging from.
 
 > [!warning] Gamemaster
 > #### Next Steps
 >
-> So far the clues they should have run across are the journal in [[Cruel Traps]], the knowledge from Kern gained from helping him with [[Rocky Rescue]], and the trail found here by the skin. All together it should give them enough direction to find the Mutagist base and begin the [[Empty Laboratory]].
+> The party has now likely collected knowledge from at least one other source, including [[Missing Scouts]], [[Missing Scouts]], [[Rocky Rescue]], or tracking the harvesters' trail leading east from the skin toward the Mutagist base.
+>
+> With at least one of these additional clues gained, they have enough information to locate the Mutagist base in the [[Repurposed Quarry]] and begin the [[Empty Laboratory]] event.

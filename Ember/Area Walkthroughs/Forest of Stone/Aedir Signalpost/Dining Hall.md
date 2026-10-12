@@ -27,12 +27,12 @@ Anyone who examines the immediate area of the game board sees the following:
 > [!quote] Read Aloud
 > The board is less dusty than the rest of the room, though not by much, and it appears to have been abandoned mid-match. While the pieces are different from those seen in modern times, it appears to be a game of chess.
 
-This game is, in fact, one of the keys used to open the secret [[Unknown]]. The game in progress is an Aedir variant of chess called "Seas and Spires," which contains an alternate defeat condition: if your opponent is ever up by two pieces at the end of your turn, you lose the game.
+This game is, in fact, one of the keys used to open the secret [[Unknown]].
 
 > [!tip] Exploration
 > #### Identifying the Game
 >
-> Any character who makes a successful **Society (DC 17)** check can recognize the game as "Seas and Spires" and recall the alternate defeat condition.
+> Any character who makes a successful **Society (DC 14)** check can recognize the game as an Aedir variant of chess called "Seas and Spires," which contains an alternate defeat condition: if your opponent is ever up by two pieces at the end of your turn, you lose the game.
 >
 > - **Knowledge: Aedir**: The character gains **+2 Boons** on this check.
 > - **Experience With Chess:** The character gains **+2 Boons** on this check if they have experience playing chess.
@@ -41,15 +41,13 @@ This game is, in fact, one of the keys used to open the secret [[Unknown]]. The 
 >
 > A decorative piece — a soldier holding a flag — stands on the side of black, indicating that it's black's turn to move. The Towyr word engraved on its base carries the Basic Meaning of "Turn" and a Full Translation of "To Mark Order."
 >
-> Any character who analyzes the board state and makes a successful **Awareness (DC 14)** check deduces that black is currently down two pieces, and white stands poised to take black's most powerful piece on its next turn, which would cause black to lose the game. Black has two legal moves: to capture one of white's weakest pieces, or to move their most powerful piece out of harm's way.
+> Any character who analyzes the board state and makes a successful **Awareness (DC 14)** check deduces that black is currently down two pieces, and white stands poised to take black's most powerful piece on its next turn. Black has two obvious moves: to capture one of white's weakest pieces, or to move their most powerful piece out of harm's way.
 >
 > - **Experience With Chess:** The character gains **+2 Boons** on this check if they have experience playing chess.
 >
 > #### Solving the Puzzle
 >
-> The game pieces can only be moved by speaking a command phrase: the piece's name — engraved on its base — plus its destination on the board.
->
-> To solve the puzzle, the characters must make the only move that would allow the game to continue: capturing white's weakest piece. Whenever a character moves the wrong piece, a jolt of electricity arcs from its base and strikes them for `[[/damage 1d4 Lightning]]` damage. Then, the puzzle resets.
+> To solve the puzzle, the characters must make the only move that would allow the game to continue under the "Seas and Spires" variant: capturing white's weakest piece. Whenever a character moves the wrong piece, a jolt of electricity arcs from its base and strikes them with a **Lightning Zap (Hazard 4)**. Then, the puzzle resets.
 >
 > Any character who uses the **Talent: Recognize Spellcraft** talent can tell that there is some enchantment on the board that connects to a distant mechanism.
 >
@@ -59,4 +57,4 @@ This game is, in fact, one of the keys used to open the secret [[Unknown]]. The 
 >
 > If the characters — through the unfortunate combination of bad rolls and poor deductive reasoning — are unable to solve the puzzle, they may brute force it by moving every piece on black's side.
 >
-> There are seven black pieces remaining, and only one correct piece. Therefore, divide `[[/damage 6d4 Lightning]]` damage between the entire party to represent their failed attempts.
+> There are seven black pieces remaining, and only one correct piece. Therefore, divide **Lightning Zaps (Hazard 24)** between the entire party to represent their failed attempts.

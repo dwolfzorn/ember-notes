@@ -41,7 +41,7 @@ Characters can stop and investigate the tent before entering, or choose to leave
 >
 > - **Knowledge: Rituals**: The character gains **+2 Boons** on this check.
 >
-> Once the party has finished inspecting the tent, any character with a `[[/skill perception 18 passive format=long]]` or who makes a successful **Awareness (DC 16)** check notices the following:
+> Once the party has finished inspecting the tent, any character with a **Awareness (DC 18, Passive)** or who makes a successful check notices the following:
 >
 > > As you linger near the tent, the coughing and hacking noises become clearer. It's a dry, rasping sound that makes you feel uneasy; it seems uncomfortable, if not downright painful. Whoever or whatever is inside the tent is likely humanoid, as amidst the dry coughs, you hear a low murmur — either multiple people are conversing with one another, or the person inside is talking to themselves.
 
@@ -50,7 +50,7 @@ Characters can stop and investigate the tent before entering, or choose to leave
 >
 > When a character spends more than 10 minutes breathing in the black smoke that lingers within 5 feet of the tent and directly inside, they begin to suffer adverse effects on their health.
 >
-> Characters other than Nadin or Abyssal monsters must make a successful `[[/check con 16]]` saving throw or else become &Reference[Poisoned] for 1 minute, develop an uncontrollable dry cough, and take `[[/damage 1d4 poison]]` damage. Any character who succeeds on their saving throw still takes half that damage, with a minimum damage of 1, but does not suffer any other adverse effects.
+> Characters other than Nadin or Abyssal monsters must face **Noxious Smoke (Hazard 8)** and if they take any damage in this way are @Condition[Poisoned] for 3 rounds, developing an uncontrollable dry cough.
 >
 > At the Gamemaster's discretion, rather than track the exact time that characters are exposed to this hazard, the Gamemaster may choose to inflict it upon the characters randomly, or once they have spent significant time within the smoke while talking to Nadin.
 
@@ -66,7 +66,7 @@ If the characters choose to enter the strange structure, describe the following:
 >
 > Level 1 · Unknown Unknown
 >
-> ![Nadin](../../../assets/image187.webp)
+> ![Nadin](../../../assets/image217.webp)
 
 > [!quote] Read Aloud
 > The woman's rasping voice cuts through the smoke, landing not only in your ears but also in your mind.
@@ -104,7 +104,7 @@ If the characters choose to enter the strange structure, describe the following:
 >
 > #### Nadin's Motives
 >
-> Any character who makes a successful **Deception (DC 16)** check determines that Nadin is serious and forthcoming in her intentions. Although she appears unhinged and profoundly affected by Abyssal energies or powers — likely to provoke the party's suspicion — she is not lying to the party but rather concealing certain things for the sake of their own well-being.
+> Any character who makes a successful **Diplomacy (DC 16)** check determines that Nadin is serious and forthcoming in her intentions. Although she appears unhinged and profoundly affected by Abyssal energies or powers — likely to provoke the party's suspicion — she is not lying to the party but rather concealing certain things for the sake of their own well-being.
 >
 > - **Critical Success**: Nadin is deeply fascinated by the party and seems strangely interested in them; she has no intention of harming anyone.
 >
@@ -144,7 +144,7 @@ If the party asks Nadin want she wants from them or why she is in the Fogbound C
 > [!info] Social
 > #### Dousing the Light
 >
-> If the party agrees to her terms, Nadin offers the characters  **100** and a powerful dark relic when they meet again, so long as the party "turns off the lights." Though Nadin does not specify what this relic reward is, her eyes dart to one of the many black weapons on the walls of her tent.
+> If the party agrees to her terms, Nadin offers the characters  **10** and a powerful dark relic when they meet again, so long as the party "turns off the lights." Though Nadin does not specify what this relic reward is, her eyes dart to one of the many black weapons on the walls of her tent.
 >
 > If the party ultimately refuses Nadin's offer and chooses to leave, Nadin watches them depart with a grin. She has no desire to stop the party, and does not desperately try to convince them. Nadin is confident she will approach the party again with other offers.
 >

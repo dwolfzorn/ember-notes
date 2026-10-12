@@ -101,4 +101,4 @@ If the party managed to aid [[Liestra Grann]] during the course of [[The Abandon
 >
 > If the party is traveling with Ankarist on [[Ancient Paths]], he would recommend making Mythspire Observatory the next destination now that the situation in Skybrush is resolved.
 >
-> [[Nethehepticas]] and the malign influence they exert over this region will appear later in the main quest [[Unknown]].
+> [[Nethehepticas]] and the malign influence they exert over this region will feature in a future Main Quest.

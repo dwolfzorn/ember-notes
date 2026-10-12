@@ -24,7 +24,7 @@ tags: [ember, quests]
 >
 > Level 1 · Unknown Unknown
 >
-> ![Cherish Ellerie](../../../assets/image153.webp)
+> ![Cherish Ellerie](../../../assets/image183.webp)
 
 ### Framing Varinna
 

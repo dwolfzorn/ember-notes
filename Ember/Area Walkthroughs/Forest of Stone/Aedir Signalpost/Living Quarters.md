@@ -25,7 +25,9 @@ From the foyer, characters can investigate the following:
 >
 > Both Golarne's and Bejai's rooms are locked with heavy stone doors that cannot be easily demolished or forced open. The doors do appear to have a traditional keyhole, however, on the side of their exterior surface.
 >
-> The door can be unlocked with a successful**Stealth (DC 15)** using [[Lockpicks]].
+> The door can be unlocked with a successful **Stealth (DC 15)** using [[Lockpicks]]; alternatively, it can be forced open with a successful **Athletics (DC 20)** check.
+>
+> - **Appropriate Tools:** The character gains **+2 Boons** on this check if they use an appropriate tool, such as a [[Crowbar]].
 >
 > Any character with **Awareness (DC 13, Passive)** notices an elliptical indentation in the same place on each doorframe near where the conventional keyhole is located.
 >

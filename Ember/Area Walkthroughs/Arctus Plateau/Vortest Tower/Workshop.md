@@ -35,7 +35,7 @@ As with the [[Living Quarters]], the party's timely arrival to the chamber inadv
 >
 > Level 5 · Jahud Assassin
 >
-> ![Jahud Assassin](../../../assets/image092.webp)
+> ![Jahud Assassin](../../../assets/image102.webp)
 >
 > A four-armed, blue-skinned cutthroat stands before you, armed with two viridian daggers and an array of bladed bracers crafted from dark gray bone. A black half-mask obscures most of the creature's face, exposing its pale blue eyes, a pair of wicked horns, and a mane of bright azure hair that roils like arcane fire. The rogue's strappy leather armor is wrapped tightly around its muscular flesh, and its shoulders boast overlapping plates of cerulean chitin like primeval pauldrons. A pointed tale lashes with ferocious cruelty behind this otherworldly menace, who looks ready to slay anything that moves.
 
@@ -66,5 +66,5 @@ As with the [[Living Quarters]], the party's timely arrival to the chamber inadv
 > - The doors to the workstation and forge areas are unlocked.
 > - The bookshelves in the front room are lined with a variety of encyclopedic tomes and dried goods. Any character who spends at least 5 minutes to search the shelves more extensively will find `[[/roll 2d2]]` books of lore related to [[Signara]] and the arcane.
 > - The dried goods on the shelves in the front room include a variety of materials, including jars of desiccated insects, vials of granulated mineral ore, and everything in between.
-> - The two desks in the workstation area are bedecked with several projects in various stages of examination or completion. The majority of these tools and components are inscrutable to anyone other than Corvana Vortest, but any character who spends a few moments to search the area finds a [[Repair Kit (smith)]] and a [[Terra Tree Leaves]] from the tree. After the leaves are harvested, it takes 30 days for them to regrow.
+> - The two desks in the workstation area are bedecked with several projects in various stages of examination or completion. The majority of these tools and components are inscrutable to anyone other than Corvana Vortest, but any character who spends a few moments to search the area finds a [[Unknown]] and a [[Terra Tree Leaves]] from the tree. After the leaves are harvested, it takes 30 days for them to regrow.
 >   - **Knowledge: Plants**: The character gains **+2 Boons** on this check.

@@ -2,7 +2,7 @@
 title: "Spellcraft"
 aliases: ["Spellcraft"]
 journal: "Game Mechanics / Spellcraft"
-tags: [ember, game-mechanics, index]
+tags: [crucible, game-mechanics, index]
 ---
 
 # Spellcraft

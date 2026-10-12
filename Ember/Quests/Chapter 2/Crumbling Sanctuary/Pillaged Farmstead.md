@@ -11,10 +11,10 @@ tags: [ember, quests]
 > [!warning] Gamemaster
 > #### Gamemaster's Summary
 >
-> This Exploration Event challenges the party to collaborate with [[Sin Marmot]] when they encounter a burned and ransacked farmstead at [[Dradley Grange]]. Once the fires are quelled, a brief investigation follows — for clues regarding the arsonist's identity and what precisely became of the farmers who lived here. In this event, the party can:
+> This Exploration Event challenges the party to collaborate with [[Sin Marmot]] when they encounter a burned and ransacked farmstead at [[Dradley Grange]]. Once the fires are quelled, a brief investigation follows — for clues regarding the arsonist's identity and what precisely became of the farmers who lived here. In this event, the characters can:
 >
-> - Help Sin extinguish the raging fire.
-> - Investigate the incinerated scene for clues.
+> - Attempt to extinguish the raging fire via whatever means they have at their disposal.
+> - Investigate the scene for clues about the raiders who incinerated this place, who are allied with but distinct from the raiders responsible for [[Ambushed Refugees]].
 > - Befriend a [[Rask Juvenile]] which managed to escape the conflagration.
 
 ### The Grange Ablaze
@@ -35,8 +35,8 @@ tags: [ember, quests]
 >
 > A character might choose to rush into the burning buildings in search of survivors who can be saved. Any character that enters the farmhouse or guest house while the fire still rages must withstand the following hazards resulting from the blaze:
 >
-> - A successful **Wilderness (DC 15)** or **Science (DC 15)** will allow the character to use some ingenuity to cover themselves or their face with a wetted blanket or cloth before charging in, to better withstand the smoke and heat. On a failure, the character instead suffers **The Burning Flames (Hazard 10, Fortitude, Health, Fire)**.
-> - **Athletics (DC 15)** to avoid a falling support beam that threatens to crush anyone beneath. On a failure, the character is struck by **The Falling Beam (Hazard 5, Health, Bludgeoning)** and is **Restrained**. Escaping the fallen beam requires a successful **Athletics (DC 13)** check. This escape check may be repeated if they fail, but the character suffers additional damage for each turn they are restrained in this way (see "No Time to Waste" below).
+> - A successful **Wilderness (DC 15)** or **Science (DC 15)** will allow the character to use some ingenuity to cover themselves or their face with a wetted blanket or cloth before charging in, to better withstand the smoke and heat. On a failure, the character instead suffers **The Burning Flames (Hazard 10)**.
+> - **Athletics (DC 15)** to avoid a falling support beam that threatens to crush anyone beneath. On a failure, the character is struck by **The Falling Beam (Hazard 5)** and is **Restrained**. Escaping the fallen beam requires a successful **Athletics (DC 13)** check. This escape check may be repeated if they fail, but the character suffers additional damage for each turn they are restrained in this way (see "No Time to Waste" below).
 >
 > Characters who enter the building must succeed on a **Awareness (DC 13, Passive)** check to verify that there are no people within (living or dead). On a success, they also notice a [[Rask Juvenile]] trapped within the wreckage, pinned down by collapsed furniture and cowering from the blaze (see "The Frightened Rask" below).
 
@@ -45,7 +45,7 @@ tags: [ember, quests]
 >
 > Level 0.5 (Minion) · Rask Pack Member
 >
-> ![Rask Juvenile](../../../assets/image180.webp)
+> ![Rask Juvenile](../../../assets/image210.webp)
 >
 > The eyes of this majestic quadruped appear to glow with subtle phosphorescence. A lean mammal with features both canine and feline in nature, the young creature is marked by feathery tufts of fur, and appears remarkably dexterous. A striped pelt crowns the beast's regal head, and a short fluffy tail sways behind it with graceful intention.
 
@@ -60,7 +60,7 @@ tags: [ember, quests]
 >
 > #### No Time to Waste
 >
-> If a character lingers inside the house by becoming restrained or by tarrying unnecessarily (defined by GM discretion), they suffer**The Relentless Flames (Hazard 2, Fortitude, Health, Fire)** every 6 seconds until they perish or exit the building.
+> If a character lingers inside the house by becoming restrained or by tarrying unnecessarily (defined by GM discretion), they suffer**The Relentless Flames (Hazard 2)** every 6 seconds until they perish or exit the building.
 
 Through the party's efforts, the flames that once engulfed the farm are eventually quelled, and only smoldering ashes and singed beams of timber remain. There is no immediate danger of the fire spreading any further; but despite the group's heroic efforts, the main farmhouse has been lost to the blaze.
 

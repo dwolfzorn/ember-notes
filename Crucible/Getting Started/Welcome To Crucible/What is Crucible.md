@@ -2,8 +2,8 @@
 title: "What is Crucible"
 journal: "Getting Started / Welcome To Crucible"
 source_uuid: "JournalEntry.suLuc6NJCXmFOIjJ"
-type: ember.lore
-tags: [ember, getting-started]
+type: crucible.lore
+tags: [crucible, getting-started]
 ---
 
 # What is Crucible

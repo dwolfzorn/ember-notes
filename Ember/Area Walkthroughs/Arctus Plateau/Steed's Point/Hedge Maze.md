@@ -20,7 +20,7 @@ There are three chokepoints within the hedge maze, each with its own dangers:
 > [!danger] Hazard
 > #### Slippery Grass
 >
-> The slippery grass within the hedge maze is difficult terrain. In addition, characters have a chance to slip each time they move forward. Whenever characters take a movement action, roll a d4 `[[/roll d4]]`. On a 1, the character slips on the grass and falls into the hedges on each side. They must succeed on a `[[/save dexterity 18]]` saving throw or they are scratched by the hedges, taking `[[/damage 1d6 piercing]]` and `[[/damage 1d6 slashing]]` damage.
+> The slippery grass within the hedge maze is difficult terrain. In addition, characters have a chance to slip each time they move forward. Whenever characters take a movement action, roll a d4 `[[/roll d4]]`. On a 1, the character slips on the grass and falls into the hedges on each side and they must face `[[/'hazard 8 reflex health piercing]]`{Piercing Thorns}.
 
 ## The Dreaded Corner
 
@@ -30,9 +30,9 @@ There are three chokepoints within the hedge maze, each with its own dangers:
 > [!danger] Hazard
 > #### Fearful Growth
 >
-> The hedges at this corner are designed to create fear. Each creature who passes the corne**r** must succeed on a `[[/save wisdom 17]]` saving throw or drop whatever they are holding, become frightened, and immediately begin walking back the way they came. They can be convinced to move past the corner despite being afraid with a successful `[[/check persuasion 16]]` or `[[/check intimidation 16]]` check, or with a spell like [[Calm Emotions]].
+> The hedges at this corner are designed to create fear. Each creature who passes the corner must face **Terrifying Hedge (Hazard 8)** or drop whatever they are holding, become frightened, and immediately begin walking back the way they came. They can be convinced to move past the corner despite being afraid with a successful **Diplomacy (DC 16)**, **Intimidation (DC 16)** check, or with a spell designed to calm their emotions.
 >
-> Repeated exposure to the hedges lessens their effect; each time the same character passes the corner, the DC of the wisdom save lessens by 1.
+> Repeated exposure to the hedges lessens their effect; each time the same character passes the corner, the hazard should be rolled with an increasing **-1 Banes**.
 
 ## The Flower Trap
 
@@ -42,7 +42,7 @@ There are three chokepoints within the hedge maze, each with its own dangers:
 > [!danger] Hazard
 > #### Impenetrable Foliage
 >
-> While the flower wall may appear to be impenetrable, characters can figure out a way through with a successful `[[/check survival 17]]` or `[[/check perception 17]]` check. If those checks are failed or they do not attempt them, they are subject to the pollen from the flowers nearby. They must succeed on a `[[/save constitution 17]]` saving throw or take `[[/damage 1d8 poison]]` damage.
+> While the flower wall may appear to be impenetrable, characters can figure out a way through with a successful **Wilderness (DC 15)** or **Awareness (DC 17)** check. If those checks are failed or they do not attempt them, they are subject to the pollen from the flowers nearby. They must face **Poisonous Pollen (Hazard 8)**.
 
 ## The Final Questioning
 
@@ -54,7 +54,7 @@ There are three chokepoints within the hedge maze, each with its own dangers:
 > [!info] Social
 > #### A Simple Question
 >
-> Kali will give the characters a single opportunity to share what brought them to Steed's Point. If they try to ask her any questions, she refuses to answer until they do. With a successful `[[/check insight 17]]` check, characters know that Kali is most interested in protecting Steed's Point and will respond well to arguments about saving or preserving something important to the world.
+> Kali will give the characters a single opportunity to share what brought them to Steed's Point. If they try to ask her any questions, she refuses to answer until they do. With a successful **Diplomacy (DC 17)** check, characters know that Kali is most interested in protecting Steed's Point and will respond well to arguments about saving or preserving something important to the world.
 >
 > Kali responds as follows to the following broad reasons for the party's arrival:
 >

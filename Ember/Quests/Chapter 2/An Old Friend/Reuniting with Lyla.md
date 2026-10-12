@@ -21,6 +21,11 @@ tags: [ember, quests]
 >
 > The party must have separated from Lyla during the [[Leavetakings]] Event of the [[The Winding Trail]] Main Quest for this Event to occur.
 
+> [!danger] Hazard
+> #### Running this event.
+>
+> Entering Nain without completing any previous events in Lyla's Chapter 2 quest of [[An Old Friend]] is both possible and recommended. In fact, if the party has skipped most of the [[An Old Friend]] questline, then this is a great opportunity for them to catch up with Lyla. However, if the party has entered [[Nain]] too quickly, possibly heading straight through the Golden Flats on a beeline toward Ordain and only a few days have passed, consider *skipping* this event for now (it can always trigger again if the party returns later) as there would simply not have been enough time for Lyla to have gone to see Sigil, then headed to Arcturel and then back up to Nain.
+
 ### A Surprise Meeting
 
 When Lyla leaves Helkas to begin her investigation of the bandits, the party knows that she intends to visit Oldcraft Lodge. As her journey takes her through the Arctus Plateau, there are a few opportunities for the characters to learn of her travels, but the party can reunite with her in the small village of Nain. This can happen deliberately; if the party is looking for Lyla, they might have come across clues or visited Oldcraft Lodge, where Sigil directed them toward Nain. Or they may come across her randomly and they have an opportunity to reconnect.
@@ -28,9 +33,9 @@ When Lyla leaves Helkas to begin her investigation of the bandits, the party kno
 > [!abstract] Lyla Cevher
 > **[[Lyla Cevher]]**
 >
-> Level 2 · Human Cevher Heiress
+> Level 2 · Human Operator
 >
-> ![Lyla Cevher](../../../assets/image098.webp)
+> ![Lyla Cevher](../../../assets/image119.webp)
 >
 > A Human who is sharply dressed in a beautiful and richly decorated coat that proudly displays her wealthy background. It's clear from an initial glance at her overall bearing and clothing style that she is from the city of Ordain itself and while she holds herself with a confident air, she is also friendly and welcoming with a slight smile and small laughter lines appearing around her eyes.
 

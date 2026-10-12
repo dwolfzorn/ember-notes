@@ -32,8 +32,4 @@ The two men are **Merrow** (Neutral Good, Arcturian Human, he/him) and **Keffie*
 >
 > If all else fails, [[Sigil]] or [[Svala Bronwen]] can be alerted to the theft, resulting in the farmers' immediate removal from Oldcraft Lodge.
 >
-> #### A Strange Reward
->
-> If the characters peacefully resolve the dispute without involving Sigil or Svala, Keffie storms out of the lodge, leaving Merrow behind. He thanks the characters with a [[Suspiciously Large Carrot]].
->
-> > Don't look at me like that. It just grew that way.
+> If the characters peacefully resolve the dispute without involving Sigil or Svala, Keffie storms out of the lodge, leaving Merrow behind. He thanks the characters, then turns after his friend.

@@ -60,7 +60,7 @@ With Trianda under a wagon making repairs and Shel attempting to focus on their 
 > - The ooze attacks on the mine are getting worse every day.
 > - The mine supervisor, Jasper, is trapped on the other side of the now broken bridge near a giant ooze. He refuses to leave the Excavation Pit area until it is dealt with.
 > - To get deeper into the mine, characters can travel by foot past Jasper’s office (which holds supplies) or use the working mining cart to cross the center mining cavern.
-> - There is another exit to this section of the mine, but it has caved in. The miners were planning to clear it with Blast Flasks when the oozes attacked.
+> - There is another exit to this section of the mine, but it has caved in. The miners were planning to clear it with [[Blast Flask]] when the oozes attacked.
 
 > [!question] Q&A
 > **Q:** What happened here?
@@ -74,7 +74,7 @@ With Trianda under a wagon making repairs and Shel attempting to focus on their 
 >
 > **A:**
 >
-> > Blast Flasks. Like tiny explosions in a bottle. Been using them to try to clear the places in the mine where the rock has collapsed. Grabbed a few from the supply cache when we saw the oozes coming — there might be some left if you need an extra weapon.
+> > Blast flasks. Like tiny explosions in a bottle. Been using them to try to clear the places in the mine where the rock has collapsed. Grabbed a few from the supply cache when we saw the oozes coming — there might be some left if you need an extra weapon.
 
 > [!question] Q&A
 > **Q:** Where is Jasper?
@@ -136,7 +136,7 @@ With Trianda under a wagon making repairs and Shel attempting to focus on their 
 >
 > Level 1 · Hulg'run Operator
 >
-> ![Jasper](../../../assets/image075.webp)
+> ![Jasper](../../../assets/image076.webp)
 >
 > The hulg'run man steps carefully, as if he is assessing everything around him with sharp eyes and careful determination. He wears a slight scowl on his face, as if he is above whatever is around him, but the severity of his expression is somewhat undercut by the brilliance of the gems embedded in his face, arms, and legs, which have been carefully polished to a sparkling shine.
 

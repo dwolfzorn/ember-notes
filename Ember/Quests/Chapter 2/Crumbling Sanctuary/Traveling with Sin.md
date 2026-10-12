@@ -13,7 +13,7 @@ tags: [ember, quests]
 >
 >  This Social Event can occur multiple times while traveling with [[Sin Marmot]] and provides the party with an opportunity to learn about the Cindaric aspirant, her story, and her opinions on the current situation.
 >
->  This event can occur during a rest at any point during Chapter 2 if [[Sin Marmot]] is a member of the [[Party]]. In this event the party can:
+>  This event can occur during a rest at any point during Chapter 2 if [[Sin Marmot]] is a member of the [[DreamTeam]]. In this event the party can:
 >
 >  - Discuss the current situation with Sin and learn her thoughts on the matter.
 > - Get to know Sin better by understanding her story.

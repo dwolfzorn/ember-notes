@@ -2,8 +2,8 @@
 title: "Iconic Spells"
 journal: "Game Mechanics / Spellcraft"
 source_uuid: "JournalEntry.qoXoXou3DQqlPoE6"
-type: ember.lore
-tags: [ember, game-mechanics]
+type: crucible.lore
+tags: [crucible, game-mechanics]
 ---
 
 # Iconic Spells

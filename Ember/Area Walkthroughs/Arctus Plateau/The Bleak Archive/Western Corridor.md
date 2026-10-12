@@ -24,7 +24,7 @@ An unassuming hallway wraps around towards the southern [[Unknown]] where the pa
 >
 > The Spinning Blade Trap is triggered when 10 or more pounds of weight are applied to the pressure plate. When the trap is triggered, several whirling blades erupt from the nearby wall and sweep through the hallway.
 >
-> - Any character who is within the area of the trap immediately or at the start of a subsequent turn faces **Hazard 6 (Fortitude, Health, Slashing)**.
+> - Any character who is within the area of the trap immediately or at the start of a subsequent turn faces **Hazard 6**.
 
 A secret door into the [[Reflector Array]] is located to the west of the Spinning Blade Trap can only be opened and closed using the inconspicuous lever to the southeast.
 

@@ -29,9 +29,27 @@ Three [[Arcturian Miner]] — Shel, Trianda, and Gravin from [[Saving Jasper]] i
 >
 > Level 2 · Slime Metallic Ooze
 >
-> ![Luminous Silver Ooze](../../../assets/image070.webp)
+> ![Luminous Silver Ooze](../../../assets/image071.webp)
 >
 > Light reflects from what one moment looks like a heap of silver coins and the next moment like a slowly pulsing silver ooze of a creature, with sparkles of light emanating from the bits of metal dust and crystal trapped within its gelatinous center. It shifts shape as it edges forward, crackling with static electricity as it extends a long piece of itself like an arm poised to strike.
+
+> [!abstract] Luminous Gold Ooze
+> **[[Luminous Gold Ooze]]**
+>
+> Level 3 · Slime Metallic Ooze
+>
+> ![Luminous Gold Ooze](../../../assets/image072.webp)
+>
+> Like a puddle of congealing gold ore in motion, the creature elongates its gelatinous ooze of a body into a single slender viscous arm and pulling itself across the ground. Narrower and more willing to stretch than other luminous oozes, it moves more quickly than the average ooze as it moves in search of prey.
+
+> [!abstract] Arcturian Miner
+> **[[Arcturian Miner]]**
+>
+> Level 0.5 (Minion) · Human Miner
+>
+> ![Arcturian Miner](../../../assets/image073.webp)
+>
+> This miner is covered in the dirt and dust of a hard shift pulling precious materials from the crust of Ember, and wear the protective gear and heavy tools necessary for the task.
 
 > [!danger] Hazard
 > #### Luminous Silver Ooze Tactics
@@ -43,17 +61,7 @@ Three [[Arcturian Miner]] — Shel, Trianda, and Gravin from [[Saving Jasper]] i
 > Over the course of combat, the Luminous Silver Oozes will prioritize the following actions and abilities:
 >
 > - In melee, the Luminous Silver Oozes will strike out with their [[Electrified Pseudopod]] whenever it is available.
-
-> [!abstract] Luminous Gold Ooze
-> **[[Luminous Gold Ooze]]**
 >
-> Level 3 · Slime Metallic Ooze
->
-> ![Luminous Gold Ooze](../../../assets/image071.webp)
->
-> Like a puddle of congealing gold ore in motion, the creature elongates its gelatinous ooze of a body into a single slender viscous arm and pulling itself across the ground. Narrower and more willing to stretch than other luminous oozes, it moves more quickly than the average ooze as it moves in search of prey.
-
-> [!danger] Hazard
 > #### Luminous Gold Ooze Tactics
 >
 > The [[Luminous Gold Ooze]] begins combat near the beleaguered miners.
@@ -62,19 +70,9 @@ Three [[Arcturian Miner]] — Shel, Trianda, and Gravin from [[Saving Jasper]] i
 >
 > Over the course of combat, the Luminous Gold Ooze will prioritize the following actions and abilities:
 >
-> - In melee, the Luminous Gold Ooze will strike out with its [[Pseudopod]] attack.
+> - In melee, the Luminous Gold Ooze will strike out with its [[Unknown]] attack.
 > - Whenever able, the Luminous Gold Ooze will use its [[Multiply]] and [[Subdivide]] talents to create copies of itself.
-
-> [!abstract] Arcturian Miner
-> **[[Arcturian Miner]]**
 >
-> Level 0.5 (Minion) · Human Miner
->
-> ![Arcturian Miner](../../../assets/image072.webp)
->
-> This miner is covered in the dirt and dust of a hard shift pulling precious materials from the crust of Ember, and wear the protective gear and heavy tools necessary for the task.
-
-> [!danger] Hazard
 > #### Miners' Assistance
 >
 > At the start of combat, the Arcturian Miners are taking cover behind an impromptu barricade. They are not intended to be a part of initiative order, but can be added in as a group if the party needs additional support.

@@ -17,7 +17,7 @@ tags: [ember, quests]
 > - Meet a rival group of villainous adventurers known as the Salt Breakers, who wish to participate in the Expedition Challenge themselves.
 > - Gather information to prepare for their own involvement in the upcoming Expedition Challenge.
 >
-> This Event is depicted using the [[The Arctus Plateau]] Region Map, and may occur either before or after the characters meet the adventurer [[Fernis Ossa]] during [[An Auspicious Acquaintance]].
+> This Event is depicted using the [[Vista: All-Fable Keep]] Vista, and may occur either before or after the characters meet the adventurer [[Fernis Ossa]] during [[An Auspicious Acquaintance]].
 
 ### Meeting Adelyne Goss
 
@@ -41,7 +41,7 @@ If the party allows their conversation to finish, read the following:
 >
 > Level 1 · Unknown Unknown
 >
-> ![Adelyne Goss](../../../assets/image077.webp)
+> ![Adelyne Goss](../../../assets/image085.webp)
 
 > [!info] Social
 > #### Speaking with Adelyne Goss

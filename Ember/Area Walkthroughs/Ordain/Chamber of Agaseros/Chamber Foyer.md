@@ -48,7 +48,7 @@ The unassuming room serves as both a storage area for simple items and a prepara
 >
 > Anyone who walks up to the Bronze door can attempt to investigate it with a variety of different checks.
 >
-> - With a **Awareness (DC 12, Passive)** or successful **Awareness (DC 12)** check, it's clear that the surface of the door is smooth, except banding lines of reinforcing bronze. It is also clean and in excellent condition. In the very center is a protruding circular impression of a hand. Anyone who places thier hand upon the door finds that the door slides open.
+> - With a **Awareness (DC 14, Passive)** or successful **Awareness (DC 12)** check, it's clear that the surface of the door is smooth, except banding lines of reinforcing bronze. It is also clean and in excellent condition. In the very center is a protruding circular impression of a hand. Anyone who places thier hand upon the door finds that the door slides open.
 > - With a successful `[[/check inv 14]]` check, or anyone with **Knowledge: Machines** realizes that the large double door is made of solid bronze, likely weighing several tons. The mechanism is likely complex, and you can see some of the rotating gears that will allow the door to slide into the wall.
 > - If a character casts [[Detect Magic]] and or rolls a `[[/check arcana 16]]`, they discover that everything within the room is infused with magic to some degree. The amount of arcane energy in the air is almost overwhelming and can cause a painful reaction if a caster is not careful. Anyone who casts a spell in this room must roll a 1d20, `[[/roll 1d20]]`, including Detect Magic. On a result of 1, they suffer a reduction to their constitution by 1 for 25 hours.
 

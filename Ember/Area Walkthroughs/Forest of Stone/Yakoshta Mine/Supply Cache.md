@@ -14,16 +14,19 @@ tags: [ember, area-walkthroughs]
 This small area has supplies that have been placed midway through the map for miners to use as needed. The area hasn't been disturbed by the oozes, but has largely been picked over by miners searching for things to defend themselves with. Items that are still left in the supply area include:
 
 - A [[Healing Elixir]].
+- A [[Potion of Climbing]].
 - A [[Heartmoss]] (which can be fed to the friendly oozes)
 - A locked [[Barrel of Blast Powder]]; an image of a blast flask is painted on the barrel.
 - On top and beside the barrel are 3 loose [[Blast Flask]].
-- A pickaxe.
+- A [[Crowbar]].
 - A sign in/sign-out sheet; any character that inspects the sheet notices a [[Yakoshta Mine Maps]] affixed beneath it.
 
 > [!tip] Exploration
 > #### Barrel of Blast Powder
 >
 > The locked [[Barrel of Blast Powder]] can be unlocked with the Storage Key from Jasper's Key Ring, or by picking the lock with a successful **Stealth (DC 15)** check using lockpicks. It can also be pried open with a successful **Athletics (DC 15)** check.
+>
+> - **Appropriate Tools:** The character gains **+2 Boons** on this check if they use an appropriate tool, such as a [[Crowbar]].
 >
 > Once unlocked and opened, the characters find a note pinned to the underside of the lid, which reads:
 >

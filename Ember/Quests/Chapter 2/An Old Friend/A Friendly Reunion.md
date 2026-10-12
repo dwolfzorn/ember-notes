@@ -27,16 +27,41 @@ tags: [ember, quests]
 >
 > The party begins in the [[Oldcraft Lodge]] Scene. A complete room-by-room description of the lodge environment and the gameplay that occurs there is detailed in the [[Oldcraft Lodge]] Area Walkthrough.
 >
-> In addition to the details provided in the Area Walkthrough, there are three key moments during exploration of the location where Event-specific gameplay should occur:
+> In addition to the details provided in the Area Walkthrough, there are four key moments during exploration of the location where Event-specific gameplay should occur:
 >
-> 1. [[A Friendly Reunion]] with Lyla.
-> 2. [[A Friendly Reunion]].
-> 3. Returning to Sigil and finishing their conversation in [[A Friendly Reunion]].
+> 1. [[A Friendly Reunion]].
+> 2. [[A Friendly Reunion]] with Lyla.
+> 3. [[A Friendly Reunion]].
+> 4. Returning to Sigil and finishing their conversation in [[A Friendly Reunion]].
+
+### Meeting Svala
+
+> [!warning] Gamemaster
+> #### [[Ambushed Refugees]]
+>
+> If the characters already met Svala during the [[Ambushed Refugees]] Event, you will have to adjust the conversation below to reflect their prior interactions. If the characters advised Svala and the refugees to go somewhere other than Oldcraft Lodge, you may want to omit her from the location entirely, depending on how much time has passed.
+
+As the characters approach Oldcraft Lodge, read or paraphrase the following:
+
+> [!quote] Read Aloud
+> As you get closer, a Vrjnhar woman steps forward and waves to you in greeting.
+>
+> > Welcome, welcome to Oldcraft Lodge. I am Svala Bronwen, daughter of Bronwar. I'm guessing by the look of you that you're less refugees in need of help and more adventurers looking for a resting place ... either way, please make yourselves at home.
+>
+> Lyla moves forward and smiles before bowing her head slightly.
+>
+> > Greetings, Svala. My name is Lyla Cevher, and I am here to speak with Sigil, I'm an old friend of his. Is he in the library or out in the living room?
+>
+> Svala smiles in return and motions you forward, her posture relaxing.
+>
+> > Ah, of course. Welcome, Lyla! Sigil mentioned you; he's in the living room out front.
+
+If the characters are interested in speaking with Svala further, refer to [[Entrance Path]].
 
 ### Reviewing The Plan
 
 > [!quote] Read Aloud
-> As you step forward toward the large door of Oldcraft Lodge, Lyla stops you and beckons you to come closer so she can speak privately.
+> When you reach the large door of Oldcraft Lodge, Lyla stops you and beckons you to come closer so she can speak privately.
 >
 > > I brought us here to talk to Sigil, but it is far more crowded than I expected. I suspect that Sigil may be a little … distracted. So, we should review what we have and focus on what we need to discuss with him.
 
@@ -63,7 +88,7 @@ When the party manages to decode the Coded Bandit Instructions, each character a
 
 ### Speaking with Sigil
 
-Once the party has gone over the questions they need to ask Sigil with Lyla, then they can proceed inside, and you can read the following to the party:
+Once the party has gone over the questions they need to ask Sigil with Lyla, then they can proceed inside. Unlock the front door, then read or paraphrase the following:
 
 > [!quote] Read Aloud
 > Although the exterior of the Oldcraft Lodge is relatively unassuming, as soon as you step inside the main room you are immediately dazzled by a chaotic cacophony of sights and sounds. Bright yellow and pink motes of magic dance in the air, casting an enchanting glow around the space. Mystical runes are casually scattered in piles across tables and shelves. The room is filled with books of all sizes, colors, and ages; some sit half-open, while others have torn pages now lying in piles. Tall bookshelves line the walls, packed with more books and scrolls, and colorful rugs adorn the polished hardwood floor.
@@ -81,7 +106,7 @@ Once the party has gone over the questions they need to ask Sigil with Lyla, the
 >
 > Level 18 (Boss) · Human Shard God
 >
-> ![Sigil](../../../assets/image094.webp)
+> ![Sigil](../../../assets/image104.webp)
 >
 > The old man is small, dwarfed by his large cloak, a long winding beard that gains a deep gleam of magic where it curls around his waist, and the sheer number of papers around him. And yet he is focused, moving his eyes and hands seamlessly from one to the next, as if each open scroll and loose sheet of vellum is in precisely the place he expected and needed it to be. He looks at you much the same way, glancing up as he flips through a book in his hands and makes a precise note in the margins, as if assessing you to determine where you belong.
 

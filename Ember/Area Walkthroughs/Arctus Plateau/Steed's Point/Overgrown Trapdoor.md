@@ -23,7 +23,7 @@ The wooden trapdoor here reveals a Secret Passage that connects this remote, nor
 > [!danger] Hazard
 > #### Opening the Trapdoor
 >
-> The trapdoor can be unlocked by any character that succeeds on a **Stealth (DC 14)** check using a .
+> The trapdoor can be unlocked by any character that succeeds on a **Stealth (DC 14)** check using [[Lockpicks]].
 >
 > Alternately, the trapdoor can be opened with brute force. A successful **Athletics (DC 18)** check is required to pry the iron hardware from the weather-worn wood.
 

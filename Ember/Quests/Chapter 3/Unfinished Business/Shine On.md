@@ -23,7 +23,7 @@ tags: [ember, quests]
 >
 > #### Prerequisites
 >
-> This Event may only occur during a Rest while [[Agraband Swift]] is a member of the [[Party]].
+> This Event may only occur during a Rest while [[Agraband Swift]] is a member of the [[DreamTeam]].
 
 ### Nightmares & Dreamscapes
 
@@ -32,9 +32,9 @@ In this moment, the characters are timely witnesses to the first manifestation o
 > [!abstract] Agraband Swift
 > **[[Agraband Swift]]**
 >
-> Level 3 · Human Caravaneer
+> Level 3 · Human Bard
 >
-> ![Agraband Swift](../../../assets/image148.webp)
+> ![Agraband Swift](../../../assets/image178.webp)
 >
 > A lute is slung across the back of this aged human clad in an odd yet practical assortment of clothing and jewelry. The seasoned bard wears the salt-and-pepper locks of his long hair pulled back into a high half ponytail. His wide smile and calm demeanor lend him an air of experienced confidence, and a certain glint in his eye evokes the mirthful spirit of a beloved uncle. It's clear this man could spin a worthy tale at a moment’s notice.
 

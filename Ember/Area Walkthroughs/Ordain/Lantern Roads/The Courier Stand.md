@@ -78,7 +78,7 @@ After 20 minutes, a [[Wandren Patroller]] returns to the stand.
 >
 > Level 1 · Unknown Unknown
 >
-> ![Wandren Patroller](../../../assets/image050.webp)
+> ![Wandren Patroller](../../../assets/image051.webp)
 
 > [!danger] Hazard
 > #### Beacon Brigade Courier Tactics

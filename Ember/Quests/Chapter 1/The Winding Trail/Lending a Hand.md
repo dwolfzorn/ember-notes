@@ -31,7 +31,7 @@ While the party was away, Agraband and the rest of the Strayhearth Caravan spent
 >
 > #### Manual Labor
 >
-> In the absence of blast flasks or other methods of easily clearing the rubble, the required work involves several hours of hard labor, but no checks or challenges await the party. Instead, the work progresses rapidly and without any issues. Advance time by **4 hours** and then proceed.
+> In the absence of [[Blast Flask]] or other methods of easily clearing the rubble, the required work involves several hours of hard labor, but no checks or challenges await the party. Instead, the work progresses rapidly and without any issues. Advance time by **4 hours** and then proceed.
 
 ### A Caravan Reunited
 

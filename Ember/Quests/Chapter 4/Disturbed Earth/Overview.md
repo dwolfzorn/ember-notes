@@ -11,7 +11,7 @@ tags: [ember, quests]
 > [!warning] Gamemaster
 > #### Requirements
 >
-> This Side Quest occurs during Chapter 4, and begins while the party is traveling through the [[Redrak Fields]] biome. There are no specific prerequisites for this Side Quest to occur.
+> This Side Quest occurs during Chapter 4, and begins while the party is traveling through the [[Redrak Fields]] Biome. There are no specific prerequisites for this Side Quest to occur.
 >
 > #### Difficulty
 >

@@ -13,7 +13,7 @@ tags: [ember, quests]
 >
 > This Social Event can occur multiple times while traveling with [[Ankarist]], and provides the party with an opportunity to learn about the investigator, his story, and his opinions on the current situation.
 >
-> This Event can occur during a rest at any point during Chapter 2 if Ankarist is a member of the [[Party]]. In this Event, the characters can:
+> This Event can occur during a rest at any point during Chapter 2 if Ankarist is a member of the [[DreamTeam]]. In this Event, the characters can:
 >
 > - Discuss the current situation with Ankarist and learn his thoughts.
 > - Get to know Ankarist better by understanding his story.
@@ -153,7 +153,7 @@ tags: [ember, quests]
 >
 > > The idea of a solitary druid surviving within the Pathways for an indeterminate length of time is unsettling in itself, and requires cunning, power, or secrets that far outstrip our own. I have no desire to challenge someone capable of such endurance.
 > >
-> > Kern is unpredictable and undoubtedly dangerous; on that much, I have no doubts. I find much of what he says difficult to verify, and I am certain he does not require our assistance at all. However, I do not believe he poses a threat to us unless provoked — and I have no intention of testing that theory. Discretion, in this case, seems the wiser course.
+> > Kern is unpredictable and undoubtedly dangerous; on that much, I have no doubts. I find much of what they say difficult to verify, and I am certain they do not require our assistance at all. However, I do not believe Kern poses a threat to us unless provoked — and I have no intention of testing that theory. Discretion, in this case, seems the wiser course.
 
 > [!question] Q&A
 > **Q:** Kryz[[Rocky Rescue]]
@@ -210,7 +210,7 @@ tags: [ember, quests]
 >
 > [[Ankarist]] keeps his Warlock pact with the elder goddess [[Alar]] a secret to everyone but his closest intimates (of which he has very few).
 >
-> Any character who makes either a successful **Deception (DC 16)** or **`[[/skillCheck 16 arcana]]`** check sense that Ankarist is not being entirely forthcoming about the nature of his magical capabilities.
+> Any character who makes either a successful **Deception (DC 16)** or **Arcana (DC 16)** check sense that Ankarist is not being entirely forthcoming about the nature of his magical capabilities.
 >
 > - **Knowledge: Rituals**: The character gains **+2 Boons** on this check.
 > - **If the character is a Warlock**: The character gains **+2 Boons** on this check.

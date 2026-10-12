@@ -98,7 +98,7 @@ Each character who infiltrates the Toothbreaker Hideout via the canal advances t
 >
 > **3. Lose the Fight**
 >
-> Any character who makes a successful **Performance (DC 13)** check is able to convincingly lose the fight, and is taken as a prisoner. On a failure, the character takes damage from the **Toothbreaker Blows (Hazard 8, Bludgeoning)** during the process of being subdued.
+> Any character who makes a successful **Performance (DC 13)** check is able to convincingly lose the fight, and is taken as a prisoner. On a failure, the character takes damage from the **Toothbreaker Blows (Hazard 8)** during the process of being subdued.
 >
 > - **Knowledge: Warfare**: The character automatically succeeds on this check.
 > - **Attunement: Mayis**: The character gains **+2 Boons** on this check.

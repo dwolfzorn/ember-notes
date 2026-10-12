@@ -2,8 +2,8 @@
 title: "Equipment Overview"
 journal: "Game Mechanics / Equipment"
 source_uuid: "JournalEntry.OeNgdZVx5jHojMTQ"
-type: ember.lore
-tags: [ember, game-mechanics]
+type: crucible.lore
+tags: [crucible, game-mechanics]
 ---
 
 # Equipment Overview

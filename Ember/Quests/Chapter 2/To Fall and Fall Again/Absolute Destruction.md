@@ -27,7 +27,7 @@ As the characters approach the pillar, they are further hailed by Issa Sunsword,
 >
 > Level 1 · Unknown Unknown
 >
-> ![Issa Sunsword](../../../assets/image185.webp)
+> ![Issa Sunsword](../../../assets/image215.webp)
 
 > [!quote] Read Aloud
 > The woman studying the pillar turns toward you.
@@ -37,7 +37,7 @@ As the characters approach the pillar, they are further hailed by Issa Sunsword,
 > [!info] Social
 > #### The Questing Paladin
 >
-> Faced with Issa's question, any character who makes a successful `[[/check 13 religion]]` or `[[/check 13 history]]` check knows that Lantyr is both an Elder Goddess *and* the cosmic body known commonly as The Sun. They also know that worship of her generally involves reverence for the light, energy, radiance, and life, and hatred of all things twisted by evil and monsters.
+> Faced with Issa's question, any character who makes a successful **Society (DC 13)** check knows that Lantyr is both an Elder Goddess *and* the cosmic body known commonly as The Sun. They also know that worship of her generally involves reverence for the light, energy, radiance, and life, and hatred of all things twisted by evil and monsters.
 >
 > - **Knowledge: Gods**: The character automatically succeeds on this check.
 >
@@ -48,7 +48,7 @@ As the characters approach the pillar, they are further hailed by Issa Sunsword,
 > - Long ago, Kessia was a place where the [[Aedir]] built massive cities and entire kingdoms, but [[The Shattering]] ravaged the land, transforming most of the continent into the vast Obsidian Desert. According to many Kessians, only Lantyr's divine help saved what remains of the continent.
 > - Issa hopes that recovering and translating the inscriptions on the Shent pillar will explain why it was so brutally attacked.
 >
-> Any character who makes a successful `[[/check insight 14]]` check knows that Issa is being forthright about what brings her to this place.
+> Any character who makes a successful **Diplomacy (DC 14)** check knows that Issa is being forthright about what brings her to this place.
 >
 > - **Critical Success**: The character senses that Issa hopes to convince them to join her in worship of Lantyr, and that she is prepared to attack if it turns out they have any association with the corruption that Lantyr opposes.
 
@@ -80,15 +80,15 @@ As the characters approach the pillar, they are further hailed by Issa Sunsword,
 > [!tip] Exploration
 > #### The Ancient Stones
 >
-> Any character who makes a successful `[[/check history 15]]` check knows that the ancient pillar was placed here by the Shent, an ancient [[Ancestry]] of giants wiped out during the time of the Shattering.
+> Any character who makes a successful **Awareness (DC 15)** check knows that the ancient pillar was placed here by the Shent, an ancient [[Ancestry]] of giants wiped out during the time of the Shattering.
 >
 > - **Critical Success**: The character also knows that the Shent were targeted for destruction by creatures of corruption who descended on Ember after the Shattering.
 >
-> Any character who succeeds on a `[[/check investigation 15]]` check determines that the damage to the stones is ancient, and the result of a targeted effort. Something or someone purposefully attacked the stones in a coordinated assault.
+> Any character who succeeds on a **Science (DC 15)** check determines that the damage to the stones is ancient, and the result of a targeted effort. Something or someone purposefully attacked the stones in a coordinated assault.
 >
 > - **Knowledge: Warfare**: The character automatically succeeds on this check.
 >
-> Meanwhile, characters who succeed on a `[[/check religion 15]]` check have a strong feeling that the pillars were a part of a Shent ceremony of some kind, but the purpose of the ceremony has been lost to time.
+> Meanwhile, characters who succeed on a **Society (DC 15)** check have a strong feeling that the pillars were a part of a Shent ceremony of some kind, but the purpose of the ceremony has been lost to time.
 >
 > - **Knowledge: Rituals**: The character automatically succeeds on this check.
 
@@ -122,7 +122,7 @@ A group of 5 Abyssal Echoes appear from nowhere amidst the shadows cast by the g
 >
 > Level 1 · Abyssal Harbinger Echo
 >
-> ![Abyssal Echo](../../../assets/image024.webp)
+> ![Abyssal Echo](../../../assets/image025.webp)
 >
 > Emerging from the darkness is a terrifying eldritch apparition composed of dark smoke and malice, with prominent rows of gleaming sharp teeth. Its softly glowing eyes radiate spiteful hatred and cunning as it glides through the air with measured movements. Grasping hands, as if yearning to escape its form, materialize and vanish instantly, while its two enormous clawed hands seem to appear and disappear at will.
 
@@ -171,7 +171,7 @@ If Issa died in combat, the party can search her body for information:
 > [!tip] Exploration
 > #### Issa's Items
 >
-> Issa's shield has broken in two, but her sword [[Lantyr's Blade]] can be taken by anyone in the party. If the character who takes the sword has **Attunement: The Abyss** or is carrying an item of The Abyss (such as the[[Finger of Nethehepticas]]) the sword burns them as they grab the handle, dealing `[[/damage radiant 1d6]]` damage.
+> Issa's shield has broken in two, but her sword [[Lantyr's Blade]] can be taken by anyone in the party. If the character who takes the sword has **Attunement: The Abyss** or is carrying an item of The Abyss (such as the[[Finger of Nethehepticas]]) the sword burns them as they grab the handle, causing a **Mild Radiant Burn (Hazard 4)** .
 
 #### Abyss Attunement: Issa Sunsword Died
 

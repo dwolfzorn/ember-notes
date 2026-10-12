@@ -30,7 +30,7 @@ Once the party reaches Cindarin Temple and spots their ally Sin Marmot, they hav
 >
 > Level 2 · Keth Cindaric Aspirant
 >
-> ![Sin Marmot](../../../assets/image100.webp)
+> ![Sin Marmot](../../../assets/image121.webp)
 >
 > A Keth with a friendly demeanor and wide blue eyes and a strange half-mask that covers her mouth. She seems to view everything around her with an air of wondrous innocence but her keen glances also suggest the ability to read any given situation quickly and she may be more capable than she appears at first glance.
 
@@ -73,13 +73,13 @@ Consult the skill checks in "Reading the Crowd" below to determine if the charac
 >
 > - **Knowledge: Intrigue**: The character gains **+2 Boons**.
 >
-> - **Jon Vastil:** The Holy Speaker's intentions seem as pure as freshly driven snow, and the pride he feels for his fellow Cindaric Sages and their benevolent mission is unmistakable. Surely, there isn't a single inauthentic bone in the old man's body.
+> - **Jon Vastil:** The Holy Speaker's intentions seem as pure as freshly driven snow, and the pride he feels for his fellow Cindaric Sages and their benevolent mission is unmistakable. Surely, there isn't a single inauthentic bone in the old man's body. He also seems relatively unaware of the party and their contributions to the defense of Corpin Sanctuary.
 > - **Vinarith:** The steward seems eager to please the Holy Speaker and win the admiration of his fellow Cindarics. He conducts his role in the sacred rites with learned precision and utmost determination. There is a distinct air of responsibility about him.
 >   - **Critical Success**: Vinarith observes the Holy Speaker and the Second Sage with keen attention during the rites, as if simultaneously supervising and learning from them. His surveillance is direct, but nonchalant.
 > - **Lilla Arien:** If her body language is any indication, the "Second Sage" seems somewhat defeated by the lack of attention she received during the Holy Speaker's speech, but her overt sense of duty outshines this disappointment. She seems perfectly at home here in Cindarin Temple among her fellow sages.
 >   - **Critical Success**: In addition to her personal role in the ceremony, Lilla pays considerable attention to the throng of Cindaric sages and initiates during the rites. Her observance seems considerate and matronly.
 > - **Steros Kraver:** The stoic commander of the Burnished Hand is full of pride and personal satisfaction this day. His bearing is haughty with an air of casual contempt, like a lion amongst a clowder of house cats.
->   - **Critical Success**: Despite a certain amount of respect for the moment that his inherent sense of professionalism demands, Steros seems a bit bored by the initiation ceremony, and eager for the proceedings to end.
+>   - **Critical Success**: Despite a certain amount of respect for the moment that his inherent sense of professionalism demands, Steros seems a bit bored by the initiation ceremony, and eager for the proceedings to end. He also seems quite willing to take credit for the defense of Corpin Sanctuary, despite the party's involvement.
 > - **Sin Marmot:** The young druid is beside herself with eager anticipation and dutiful reverence. She seems mindful, present, and full of hopeful potential. Her eyes scan the sages on the dais like a dedicated scholar lost in study.
 > - **Other Cindarics:** At least a hundred sages are gathered here for the initiation rites, and the collective vibe among them is one of gratification and fulfillment. Some light anxiety dances about the room in the eyes of a few hopeful initiates, and nearly all of the experienced sages exude intentions that are both warm and welcoming.
 >
@@ -104,14 +104,14 @@ Consult the skill checks in "Reading the Crowd" below to determine if the charac
 >
 > Level 1 · Unknown Unknown
 >
-> ![Jon Vastil](../../../assets/image113.webp)
+> ![Jon Vastil](../../../assets/image144.webp)
 
 > [!abstract] Vinarith
 > **[[Vinarith]]**
 >
 > Level 12 (Boss) · Human Cindaric Sage
 >
-> ![Vinarith](../../../assets/image114.webp)
+> ![Vinarith](../../../assets/image145.webp)
 
 After the ceremony and song, the party has a few brief moments before they're approached by Steros Kraver and Lilla Arien (separately, in succession). If and when the characters attempt to engage with Jon Vastil or Vinarith, they are quickly intercepted by Steros, who is eager to invite them to the Burnished Hand barracks in a clandestine attempt to assess their respective motives and skill levels.
 
@@ -129,7 +129,7 @@ Following the initiation ceremony, Steros Kraver descends the dais into the crow
 >
 > Level 8 (Boss) · Human Fighter
 >
-> ![Steros Kraver](../../../assets/image115.webp)
+> ![Steros Kraver](../../../assets/image146.webp)
 >
 > This remarkably spruce warrior is clad in an impressive suit of aged bronze armor. The etching of a symmetrical crimson hand with roots like an ancient oak is emblazoned on the breast piece, and a lavish fur cloak is draped upon the matching pauldrons. A shock of long white hair frames this bearded soldier's handsome face, which is decorated with utter discernment. He wields a mighty greataxe as tall as he is, and equally as deadly.
 
@@ -170,7 +170,7 @@ Once Steros Kraver has departed, Lilla Arien approaches Sin and the party to pro
 >
 > Level 8 (Boss) · Signborn Cindaric Sage
 >
-> ![Lilla Arien](../../../assets/image116.webp)
+> ![Lilla Arien](../../../assets/image147.webp)
 >
 > A signborn woman with a round, friendly face that belies the stress she carries. Her gray skin contrasts with her bright blue eyes, rosy cheese, and messy head of white hair. Short, pale blue horns curve softly from her forehead. She is clad in the ornate robes of the Cindaric order.
 
@@ -182,7 +182,7 @@ Once Steros Kraver has departed, Lilla Arien approaches Sin and the party to pro
 > - Brief details about Sin's assignment at the Old City Library in Scholar's Nook, which will include the ethical handling and safe extrication of the moth colony in the building's lower archives.
 > - General information about the [[Cindaric Sages]] and their role as spiritual custodians of [[Ordain]] and its people.
 > - If pressed, the Second Sage provides her opinion about the Burnished Hand and their role during the incident at Corpin Sanctuary. Lilla's thankful for the militant order's protection in trying times, but she thinks they overstepped their bounds at Mial Mountain. Steros is a capable, if brusque, leader; and it wasn't his decision to march to Corpin Sanctuary — it was an edict by Jon Vastil.
-> - Sin expresses gratitude to Lilla that she's finally able to embark on her journey as a Cindaric, but also some frustration that the party's encounter with the undead at the Nain river crossing hasn't been taken more seriously — particularly given the incident at Corpin Sanctuary.
+> - Sin expresses gratitude to Lilla that she's finally able to embark on her journey as a Cindaric, but also some frustration that the party's encounter with the undead at the Nain river crossing hasn't been taken more seriously — particularly given the incident at Corpin Sanctuary. Lilla is sensitive to this concern despite Sin's station as a neophyte, and will assuage the young druid's fears if possible.
 > - Additional dialogue options for Lilla Arien regarding various subjects can be found in the [[Sage Advice]] event, but she currently has dozens of initiates to attend to (and relatively little time to do it).
 >
 > **Deception (DC 13)** It's easy to tell that Lilla Arien is one of the most authentic people in Ordain, let alone among the Cindaric Sages. Sincere to the core of her being, Lilla's words ring true and her emotions feel remarkably genuine.

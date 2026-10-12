@@ -28,14 +28,14 @@ The fingers of rock that climb out of the ground are oily, dark, and horrificall
 > [!danger] Hazard
 > #### Fingers of Rock
 >
-> Any character who touches the strange black rock must make a successful `[[/save wis 14]]` saving throw, or else roll upon the Minor Abyssal Madness table below.
+> Any character who touches the strange black rock must face **Twisted Stone (Hazard 6)**, or else roll upon the Minor Abyssal Madness table below.
 
 Meanwhile, the fog gathering between the party members' feet is not *immediately* dangerous, even to individuals who are not wearing shoes or footwear, but does present a danger to those who go out of their way to interact with it.
 
 > [!danger] Hazard
 > #### Encroaching Fog
 >
-> Any character who reaches down to touch the fog with their hand of fingers must make a successful `[[/save con 12]]` saving throw, or else roll upon the Minor Abyssal Madness table below.
+> Any character who reaches down to touch the fog with their hand of fingers must face **Bleak Fog (Hazard 6)**, or else roll upon the Minor Abyssal Madness table below.
 
 On a failed saving throw, roll on the following table to determine which effect grips the character.
 
@@ -64,13 +64,13 @@ If parties approach the large object they see in front of them, they immediately
 > [!tip] Exploration
 > #### Investigating the Area
 >
-> Any character who makes a successful `[[/check perception 14]]` or `[[/check investigation 14]]` check finds a small locked metal box.
+> Any character who makes a successful **Awareness (DC 14)** check finds a small locked metal box.
 >
-> However, curiosity this close to the creeping fog has its dangers. For each character who fails a check to search for the box, roll a `[[/gmroll d4]]`. On a 1, that character becomes fascinated by the fog around them and has a hard time refocusing on the task at hand. They must succeed on a `[[/save wisdom 15]]` saving throw or else are compelled to reach out to touch the fog, and must roll on the Minor Abyssal Madness table above.
+> However, curiosity this close to the creeping fog has its dangers. For each character who fails a check to search for the box, roll a `[[/gmroll d4]]`. On a 1, that character becomes fascinated by the fog around them and has a hard time refocusing on the task at hand. They must face **Bleak Fog (Hazard 6)** or else are compelled to reach out to touch the fog, and must roll on the Minor Abyssal Madness table above.
 >
-> If the party locates the box, any character with a `[[/check perception 16 passive format=long]]` or who makes a successful `[[/check perception 14]]` check notices that the metal is the same as that of the armor the body is wearing.
+> If the party locates the box, any character with a **Awareness (DC 16, Passive)** notices that the metal is the same as that of the armor the body is wearing.
 >
-> The box can be opened with a key found on the body nearby or with a `[[/skill sleightofhand 14 tool=thief]]`. Inside the box is  **2** in small coins and a journal, [[The Final Days of Daelin Lowd]].
+> The box can be opened with a key found on the body nearby or with a **Stealth (DC 14)**. Inside the box is  **2** in small coins and a journal, [[The Final Days of Daelin Lowd]].
 
 The body is positioned on one of the rocks as if it were sleeping, but is utterly unmoving — whoever this was is clearly dead.
 
@@ -79,11 +79,11 @@ The body is positioned on one of the rocks as if it were sleeping, but is utterl
 >
 > The party can examine the body for more information via any of the following methods:
 >
-> - A `[[/check perception 15 passive format=long]]` or `[[/check perception 13]]` to note that the armor she is wearing is iron, but has been coated with an odd silver patina, as if the fog itself painted over her body.
-> - `[[/check arcana 15]]` to determine that the body was magically preserved from decay for some time, though that magic has now worn off.
-> - `[[/check medicine 15]]` check to notice that the body is positioned as if she was sleeping when she died. Her cause of death is not clear beneath the heavy armor she is wearing.
-> - `[[/check investigation 15]]` check to locate a [[Inscribed Ring of Eternal Rest]] on a chain around the neck of the body, tucked into the armor. A small key also hangs on the chain.
-> - `[[/check history 15]]` or **Knowledge: Warfare** to conclude that the armor is handcrafted and was likely made somewhere on the [[Arctus Plateau]] in and around the [[Rustvar Valleys]] area.
+> - **Awareness (DC 15)** check to locate a [[Inscribed Ring of Eternal Rest]] on a chain around the neck of the body, tucked into the armor. A small key also hangs on the chain.
+> - A **`[[/skillCheck sciecne 15]]`** to note that the armor she is wearing is iron, but has been coated with an odd silver patina, as if the fog itself painted over her body.
+> - **Arcana (DC 15)** to determine that the body was magically preserved from decay for some time, though that magic has now worn off.
+> - **Medicine (DC 15)** check to notice that the body is positioned as if she was sleeping when she died. Her cause of death is not clear beneath the heavy armor she is wearing.
+> - **Society (DC 15)** or **Knowledge: Warfare** to conclude that the armor is handcrafted and was likely made somewhere on the [[Arctus Plateau]] in and around the [[Rustvar Valleys]] area.
 >
 > When making any of the above checks to examine the body:
 >
@@ -91,11 +91,11 @@ The body is positioned on one of the rocks as if it were sleeping, but is utterl
 >
 > #### Beneath the Armor
 >
-> The armor on the body is heavy and has almost fused to the body over time, but it can be taken off, gingerly, with a successful `[[/check sleightofhand 15]]` check. However, on touching the body, character's fingers become coated with fog. Any character succeeded on a check to remove the armor must also succeed on a `[[/save con 14]]` saving throw or else take `[[/damage 1d6 necrotic]]` damage.
+> The armor on the body is heavy and has almost fused to the body over time, but it can be taken off, gingerly, with a successful **Stealth (DC 15)** check. However, on touching the body, character's fingers become coated with fog. Any character succeeded on a check to remove the armor must also face **Clinging Fog (Hazard 6)**.
 >
 > After removing the armor, characters can examine the body underneath. Signs of damage are apparent on the body, and characters can spot the [[Inscribed Ring of Eternal Rest]] and a small key both hanging on a chain around the body's neck.
 >
-> Any character who makes a successful `[[/check medicine 15]]` check concludes the Kivahr was felled by a crushing blow, though it likely took some time for the them to die.
+> Any character who makes a successful **Medicine (DC 15)** check concludes the Kivahr was felled by a crushing blow, though it likely took some time for the them to die.
 >
 > - **Knowledge: Forensics**: The character automatically succeeds on this check.
 >
@@ -103,11 +103,11 @@ The body is positioned on one of the rocks as if it were sleeping, but is utterl
 >
 > If characters have seen the [[Inscribed Ring of Eternal Rest]] on Aberin Lowd's body or in the possession of Kendral Lowd, they can immediately tell that it is the same ring.
 >
-> Any character who makes a successful `[[/check arcana 14]]` check or who uses an[[Unknown]] Spell determines that this ring has protected the body from decay for a time via the [[Unknown]] Spell.
+> Any character who makes a successful **Arcana (DC 14)** check or who uses an **Talent: Recognize Spellcraft** determines that this ring has protected the body from decay for a time via Spell.
 >
 > #### Final Words
 >
-> With a [[Speak with Dead]] Spell, the corpse can reveal the following information in response to questions:
+> Using any magic that allows one to speak with the dead such as [[Rune: Soul]] or @Compendium.crucible.talent.Item.runeDeath0000000], the deceased being can reveal the following information in response to questions:
 >
 > - Her name was Daelin Lowd.
 > - She was with her family when they were attacked, but became separated from them.

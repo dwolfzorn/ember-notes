@@ -11,7 +11,7 @@ tags: [ember, gazetteer]
 > [!warning] Gamemaster
 > #### Gamemaster's Summary
 >
-> This location exists at ⬢ s.3227.2885 in the [[Sinkhole Depths]], east of [[Rock Bottom]].
+> This location exists at ⬢ p.3227.2885 in the [[Sinkhole Depths]], east of [[Rock Bottom]].
 >
 > - This location is featured in the [[Glitter in the Dark]] Side Quest.
 

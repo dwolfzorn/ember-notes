@@ -48,7 +48,7 @@ A lone [[Wandren Patroller]] guards the back of the theater.
 >
 > Level 1 · Unknown Unknown
 >
-> ![Wandren Patroller](../../../assets/image050.webp)
+> ![Wandren Patroller](../../../assets/image051.webp)
 
 > [!danger] Hazard
 > #### Beacon Brigade Patroller Tactics

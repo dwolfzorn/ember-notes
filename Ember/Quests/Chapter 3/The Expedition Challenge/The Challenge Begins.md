@@ -19,7 +19,7 @@ tags: [ember, quests]
 > - Meet a half-dozen other teams of competitors in the Expedition Challenge, including the [[Fulgurite Blades]] from [[Curious Party]].
 > - Listen to an opening address from Guildmaster [[Arcos Sarinland]], along with an initial set of clues for the challenge — hints as to where they might fine one of three Challenge Keys needed to open the [[Chamber of Agaseros]] beneath All-Fable Keep.
 >
-> This Event is depicted using the [[The Arctus Plateau]] Region Map.
+> This Event is depicted using the [[Vista: All-Fable Keep]] Vista.
 
 ### Arrival in the Hall
 
@@ -37,7 +37,7 @@ As the party enters the hall, the characters are stopped and provided brief inst
 >
 > Level 1 · Unknown Unknown
 >
-> ![Adelyne Goss](../../../assets/image077.webp)
+> ![Adelyne Goss](../../../assets/image085.webp)
 
 > [!info] Social
 > #### A Brief Conversation with the Loremistress
@@ -110,7 +110,7 @@ Fernis Ossa is here, reveling in the excitement of the moment while interacting 
 >
 > Level 1 · Unknown Unknown
 >
-> ![Fernis Ossa](../../../assets/image101.webp)
+> ![Fernis Ossa](../../../assets/image122.webp)
 
 > [!info] Social
 > #### Conversation with Fernis
@@ -282,7 +282,7 @@ During this visit to All-Fable Keep, the party is encouraged (and required) to s
 >
 > Level 1 · Unknown Unknown
 >
-> ![Eveis Brightstone](../../../assets/image142.webp)
+> ![Eveis Brightstone](../../../assets/image172.webp)
 
 > [!quote] Read Aloud
 > The majestic carrow regards your group with an expectant smile as you approach.
@@ -386,7 +386,7 @@ Once the party has been given enough time to meet with the various groups in the
 >
 > Level 1 · Unknown Unknown
 >
-> ![Arcos Sarinland](../../../assets/image143.webp)
+> ![Arcos Sarinland](../../../assets/image173.webp)
 
 > [!quote] Read Aloud
 > The guildmaster bows with his entire body, beaming with pride and gratitude towards the massive congregation of contestants assembled before him.

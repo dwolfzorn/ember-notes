@@ -11,25 +11,29 @@ tags: [ember, gazetteer]
 > [!warning] Gamemaster
 > #### Gamemaster's Summary
 >
-> This location exists at ⬢ p.3221.2886 in the [[Sinkhole Depths]]
+> This location exists at ⬢ p.3221.2886 in the [[Sinkhole Depths]].
+>
+> - This settlement is visually depicted by two Vistas:
+>   the [[Rock Bottom Causeway]] Level of the [[Vista: Arcturel]] Vista represents the elevated area of the settlement near the lifts to the rest of Artcurel,
+>   the [[Rock Bottom Slum]] Level of the [[Vista: Sinkhole Depths]] Vista represents the residential slums on the floor of the sinkhole.
 
 Resting at the bottom of the colossal Arcturel sinkhole, Rock Bottom is the final stop, located a full mile beneath The Dives, which itself lies a mile below the surface. This squalid, undesirable slum is a sprawling dump of industrial runoff and desperation. It is a place where the air is stagnant, the dampness clings to everything, and those who have run out of money, luck, or legal options eventually wash up.
 
 > [!info] Social
 > #### At a Glance
 >
-> - **Settlement Type**: Arcturel District
-> - **Size**: Tiny (50– 100)
-> - **Primary Cultures**: **Culture: Arcturian**
-> - **Predominant Ancestries**: **Ancestry: Human**, **Ancestry: Hulg'run**, **Ancestry: Keth**, **Ancestry: Fej**, and **Ancestry: Kiska**
+> - **Settlement Type:** Arcturel District
+> - **Size:** Tiny (50– 100)
+> - **Primary Cultures:** **Culture: Arcturian**
+> - **Predominant Ancestries:** **Ancestry: Human**, **Ancestry: Hulg'run**, **Ancestry: Keth**, **Ancestry: Fej**, and **Ancestry: Kiska**
 > - **Languages:** **Language: Common**, **Language: Arcden**
 > - **Religion:** No central religion; household worship; common reverence for Lantyr
 > - **Governance:** A loose trade alliance of local businesses
 > - **Architecture:** Practical; homes, businesses, and mines are built within whatever space is available to them, using whatever materials are immediately available
 > - **Economy:** Trade of [[Inkaro Pearl, White]], ores, and minerals
-> - **Organizations**: [[House Cevher]]; Inkaro Lamplighters; Silver Beam Consortium
+> - **Organizations:** [[House Cevher]]; Inkaro Lamplighters; Silver Beam Consortium
 
-**## Landmarks**
+## Landmarks
 
 This ramshackle suburb of Arcturel sits on the floor of the sinkhole, a mile beneath the Dives, and is seen by locals as an ironic bookend to Brimtown above: whereas Brimtown is a bright gateway, Rock Bottom is a gloomy sprawl, a makeshift village of tent rows and canvas pavilions, piles of crates and industrial waste, and the detritus of the finer society overhead. [[Inkaro Pearl, White]] are scarce here, and most residents rely instead on oil and lambent mushrooms for lantern light. Rock Bottom shelters those who can't afford to live elsewhere — or choose not to, for one oft-illicit reason or another.
 
@@ -37,13 +41,13 @@ This ramshackle suburb of Arcturel sits on the floor of the sinkhole, a mile ben
 
 Owned and operated by Buddy "Big Cap" Moss, this grimy mushroom vendor is one of the few places of noble repute in Rock Bottom, and is known for the remarkable quality of its savory fungi and candied insects.
 
-**## Characters of Interest**
+## Characters of Interest
 
 ****Buddy "Big Cap" Moss**Chaotic Neutral, Arcturian Thornling, they/them**
 
 A chummy merchant/spelunker clad in an oversized mushroom cap; owner and operator of Big Cap's Mushroom Stand in Rock Bottom.
 
-**## Life In Rock Bottom**
+## Life In Rock Bottom
 
 Life in Rock Bottom is a grim struggle for survival and perseverance. While miners and workers often pass through Rock Bottom on their way to various mining sites within the Sinkhole Depths, the few residents who actually live in Rock Bottom are considered among the lowest of the low and are often treated unfairly by those above. The air is heavy with the smell of rotting wood, rust, and stagnant water, forcing the populace to become expert scavengers who treat trash dropped from the upper districts as precious, life-saving treasures.
 

@@ -22,9 +22,11 @@ tags: [ember, quests]
 > [!abstract] Kali Andrella
 > **[[Kali Andrella]]**
 >
-> Level 1 · Unknown Unknown
+> Level 6 · Human Agrimage
 >
-> ![Kali Andrella](../../../assets/image087.webp)
+> ![Kali Andrella](../../../assets/image096.webp)
+>
+> While she is no longer a young woman, the Arcturian in front of you is a study in motion, moving gracefully from one task to the next as if dancing from one side of the room to the other. As she moves, the vines that wrap around her scarred arm also move and sway, almost seeming to reach out next to her fingertips, as if part brace and part magic. The woman's dance is not a light or carefree one, but her movements have determination and purpose. If she eyes the world appraisingly from time to time, she seems more than capable of tackling what it has to offer.
 
 > [!quote] Read Aloud
 > Kali sits in much the same place as she was when you left her. While she appears calm, there is something in the way she twists her hands together and occasionally furrows her brow that suggests a bit of unease.
@@ -44,7 +46,7 @@ tags: [ember, quests]
 > >
 > > Just haven't quite made up my mind.
 
-If the party has news of [[Moriah Foxhaven]], she is thrilled, and offers them a handful of something new she's been cooking up, Throwing Stones, which have the properties of [[Beads of Force]], as a thank you for the news.
+If the party has news of [[Moriah Foxhaven]], she is thrilled, and offers them a handful of something new she's been cooking up, [[Blast Stones]], as a thank you for the news. Each party member may take one.
 
 > [!quote] Read Aloud
 > > Moriah? Really? How's she looking? Is she eating? Did she say she was going to visit?

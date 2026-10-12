@@ -83,7 +83,7 @@ At the center of the tombs is the site of a profane ritual which still ripples w
 >
 > - **Critical Success**: The ritual appears to have channeled an immense amount of energy from somewhere. You're not sure if it was from Ember itself, or somewhere beyond, but there are evocation and conjuration elements that lead you to believe it was connecting to and pulling energy from something. That would account for the remarkable power the ritual would have been capable of.
 >
-> Inspecting the volatile ritual site requires a successful **`[[/skillCheck Arcana 15]]`** to resist the remnant abyssal energies in the area. Success subjects the user to **{Beckoning of the Void (Hazard 2, Willpower, Health, Void)**} from a growing pressure in the character's mind. This sharp headache may also cause nosebleeds or burst blood vessels in the eyes but is not fatal.
+> Inspecting the volatile ritual site requires a successful **`[[/skillCheck Arcana 15]]`** to resist the remnant abyssal energies in the area. Success subjects the user to **{Beckoning of the Void (Hazard 2)**} from a growing pressure in the character's mind. This sharp headache may also cause nosebleeds or burst blood vessels in the eyes but is not fatal.
 >
 > Characters that remain in the aura for longer than the time spent examining the ritual may need to repeat this check at your discretion. This should not exceed more than once every 10 minutes, and the check DC increases by 1 for each consecutive check after the first.
 >
@@ -132,9 +132,9 @@ The event should begin with an exploration and investigation of the ancient tomb
 >
 > - **Critical Success**: You recognize the carved symbols on the covers look like old depictions of spirits. They also bear resemblance to traditional Arcturian grave markers, which might be where the modern symbols originally derived their design.
 >
-> Characters with **Talent: Fletching Novice** recognize that careful effort was made to carve the outer wooden rings, and each one is unique. Some contain symbols or sequences of images depicting people doing things, while others hold what might be writing.
+> Characters with `[[/talent Compendium.crucible.talent.Item.fletchingNovice0]]` recognize that careful effort was made to carve the outer wooden rings, and each one is unique. Some contain symbols or sequences of images depicting people doing things, while others hold what might be writing.
 >
-> Characters with **Talent: Smithing Novice** recognize that both the large shrine stones and the stone medallions in the hanging markers were hand-made, likely with crude tools. While the large shrine stones are nothing more than stone loops with little ornamentation in most cases, the small marker medallions have all manner of varied and unique markings that likely spoke to qualities of whoever they were meant to commemorate.
+> Characters with `[[/talent Compendium.crucible.talent.Item.smithingNovice00]]` recognize that both the large shrine stones and the stone medallions in the hanging markers were hand-made, likely with crude tools. While the large shrine stones are nothing more than stone loops with little ornamentation in most cases, the small marker medallions have all manner of varied and unique markings that likely spoke to qualities of whoever they were meant to commemorate.
 
 ### Hidden Watcher Revealed
 
@@ -150,7 +150,7 @@ While investigating the site of the ossuaries, Avwynn, who has been shadowing th
 >
 > Level 12 (Boss) · Human Mystic
 >
-> ![Avwynn Taol](../../../assets/image121.webp)
+> ![Avwynn Taol](../../../assets/image142.webp)
 >
 > Tall, regal, and confident, this human woman carries herself with certainty and exudes a powerful confidence back with a steely, unwavering calm. Her icy blue eyes glimmer sharply against black sclera, betraying some hint of non-human ancestry, or perhaps magical twisting in her blood.
 

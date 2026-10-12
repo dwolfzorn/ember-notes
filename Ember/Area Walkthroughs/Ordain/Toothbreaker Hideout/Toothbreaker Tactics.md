@@ -15,7 +15,7 @@ The Toothbreaker enemies in the hideout typically employ the following tactics i
 >
 > Level 1 · Unknown Unknown
 >
-> ![Toothbreaker Thug](../../../assets/image034.webp)
+> ![Toothbreaker Thug](../../../assets/image035.webp)
 
 > [!danger] Hazard
 > #### Toothbreaker Thug Tactics
@@ -29,7 +29,7 @@ The Toothbreaker enemies in the hideout typically employ the following tactics i
 >
 > Level 1 · Unknown Unknown
 >
-> ![Toothbreaker Scaletamer](../../../assets/image032.webp)
+> ![Toothbreaker Scaletamer](../../../assets/image033.webp)
 
 > [!danger] Hazard
 > #### Toothbreaker Scaletamer Tactics
@@ -43,7 +43,7 @@ The Toothbreaker enemies in the hideout typically employ the following tactics i
 >
 > Level 1 · Unknown Unknown
 >
-> ![Scalemaw](../../../assets/image033.webp)
+> ![Scalemaw](../../../assets/image034.webp)
 
 > [!danger] Hazard
 > #### Scalemaw Tactics

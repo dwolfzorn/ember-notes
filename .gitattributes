@@ -1,0 +1,3 @@
+# Store and check out text files with LF on every OS (Windows autocrlf would
+# otherwise give CRLF working copies, which fail `npm run check`).
+* text=auto eol=lf

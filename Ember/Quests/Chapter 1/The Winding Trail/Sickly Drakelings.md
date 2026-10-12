@@ -29,7 +29,7 @@ As the party backtracks from the halted Strayhearth Caravan and the collapsed ca
 >
 > Level 2 · Afflicted Pallid Drake Drakeling
 >
-> ![Afflicted Pallid Drakeling](../../../assets/image013.webp)
+> ![Afflicted Pallid Drakeling](../../../assets/image014.webp)
 >
 > This serpentine creature has a long thin body accentuated by thin, ragged spotted frills midway along its body. Its features are dragon-like, boasting a crown of wavy horns, a maw filled with small, razor-sharp teeth, and a constant drool of acidic saliva. Its cloudy eyes suggest blindness, while the presence of unsettling yellow pustules in unhealed wounds point to a strange affliction. Despite its sickly appearance, the creature appears agile and dangerous.
 
@@ -39,6 +39,12 @@ As the party backtracks from the halted Strayhearth Caravan and the collapsed ca
 > The red box that is inset below is known as a Combat Block. These will appear whenever a Combat Event or combat gameplay occurs, and will provide all of the information you need to run the associated encounter.
 >
 > Each Combat Block will lead with an introductory paragraph that sets the stage, followed by a breakdown of the enemy tactics — the number of enemies; their opening, mid-combat, and closing tactics; how they make use of their weapons, abilities, and features; how they interact with the battlefield terrain; what happens when the enemy is defeated; and more.
+>
+> #### Foundry Feature: Elevation and Levels
+>
+> The [[Verdant Paths]] Area Map has two different Levels: the "Lower Paths" where the player characters begin the encounter, and the "Upper Paths" located 20 feet above ground level — where several of the Drakelings lurk, ready to pounce down upon an unsuspecting party.
+>
+> In this map — and in others you will encounter while playing *Ember* — elevation matters for gameplay. You can alter a Token's elevation while moving it using CTRL + Mouse Wheel during a dragged movement, in stepped increments with the Q and E keys, or by assigning a value directly in the Token HUD via Right-Click. The Gamemaster can switch which Level a Token is positioned within using the Change Level button in the Token HUD.
 
 > [!danger] Hazard
 > #### Drake Divebomb
@@ -80,7 +86,7 @@ The party may also wish to examine the bodies of the drakelings and what might b
 > [!tip] Exploration
 > #### The Belly of the Beast
 >
-> Characters with **Awareness (DC 15, Passive)** will notice that one of the drakelings has a humanoid finger wedged between its back teeth.
+> Characters with **Awareness (DC 13, Passive)** will notice that one of the drakelings has a humanoid finger wedged between its back teeth.
 >
 > Investigating the finger turns up a badly damaged severed humanoid finger still wearing a [[Simple Jeweled Ring]]. It has no maker's mark or inscriptions.
 

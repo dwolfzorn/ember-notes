@@ -26,7 +26,7 @@ tags: [ember, quests]
 >
 > Level 1 · Hulg'run Scout
 >
-> ![Tauric](../../../assets/image158.webp)
+> ![Tauric](../../../assets/image188.webp)
 >
 > The young man's gray body appears to be carved from rock, with lines of blue agate running through the stone like veins. His color is matched by the gelatinous body of the small blueish-green ooze that sits on his shoulder, nestled into a hollow that seems to have been carved for the purpose.
 
@@ -83,12 +83,12 @@ Tauric has been trying to figure out if there's anything to learn about the chan
 > [!tip] Exploration
 > #### The Abandoned Basin
 >
-> Any character with **Awareness (DC 14, Passive)**notices cuts in the stone at the bottom of the empty stone basin. Each party member can make one of the following checks:
+> Any character with **Awareness (DC 14, Passive)** notices cuts in the stone at the bottom of the empty stone basin. Each party member can make one of the following checks:
 >
-> - **Wilderness (DC 12)**to deduce that the marks are not natural — they were intentionally carved into the rock.
-> - **Society (DC 12)**to recall that the marks are typical of the carving techniques of the Shent culture that once lived in the Arctus Plateau. The Shent are believed to have used runes as part of their magic system.
-> - **Awareness (DC 14)**to recognize that the marks form a pattern that appears to be symbols of some kind, though it is not fully clear what those symbols are or do. One faintly resembles an ooze, while another could be the shape of a large hand.
-> - **Arcana (DC 12)**to confirm that the markings are definitely runic, and that they possess latent magic. With a critical success, or use of a spell to identify magic, the runes can be identified — they attract oozes to the area and provide a calming environment for them.
+> - **Wilderness (DC 12)** to deduce that the marks are not natural — they were intentionally carved into the rock.
+> - **Society (DC 12)** to recall that the marks are typical of the carving techniques of the Shent culture that once lived in the Arctus Plateau. The Shent are believed to have used runes as part of their magic system.
+> - **Awareness (DC 14)** to recognize that the marks form a pattern that appears to be symbols of some kind, though it is not fully clear what those symbols are or do. One faintly resembles an ooze, while another could be the shape of a large hand.
+> - **Arcana (DC 12)** to confirm that the markings are definitely runic, and that they possess latent magic. With a critical success, or use of a spell to identify magic, the runes can be identified — they attract oozes to the area and provide a calming environment for them.
 >
 > When making any of the above checks:
 >
@@ -123,7 +123,7 @@ Tauric suggests that the ooze that ran away when the party came to the island co
 >
 > #### Feed the Oozeling
 >
-> If the party sprinkles heartmoss on the path, the oozeling will crawl out from its hiding spot to investigate the delicious mossy treat. If the ooze's feast is interrupted, it will attempt to flee unless otherwise corralled. After eating, the ooze contentedly affixes itself to the nearest rock with a powerful natural adhesive. The ooze becomes complacent for a time, but prying it free from the rock can only be achieved with a successful **Athletics (DC 13)**check.
+> If the party sprinkles heartmoss on the path, the oozeling will crawl out from its hiding spot to investigate the delicious mossy treat. If the ooze's feast is interrupted, it will attempt to flee unless otherwise corralled. After eating, the ooze contentedly affixes itself to the nearest rock with a powerful natural adhesive. The ooze becomes complacent for a time, but prying it free from the rock can only be achieved with a successful **Athletics (DC 13)** check.
 >
 > #### Use the Ancient Runes
 >
@@ -136,7 +136,7 @@ If the party successfully locates and befriends an ooze, they gain an [[Oozeling
 >
 > Level 0.5 (Minion) · Slime Metallic Ooze
 >
-> ![Oozeling](../../../assets/image070.webp)
+> ![Oozeling](../../../assets/image071.webp)
 >
 > You spy a tiny translucent ooze that appears to regard you with a measure of curiosity, if its cautious and gregarious movements are any indication. This strange creature extends its viscous form into a hand-like tendril, which waves to you in friendly salutation.
 

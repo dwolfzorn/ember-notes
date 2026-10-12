@@ -11,6 +11,11 @@ tags: [ember, area-walkthroughs]
 > [!quote] Read Aloud
 > As you walk along the path to Oldcraft Lodge, you can hear the sounds of bustling campsites nearby — pots clanging, people chatting around campfires, and faint music. The aroma of cooked fish and fresh bread drifts through the air. Ahead, the grand lodge stands prominently at the cliff's edge, overlooking Lake Jinro.
 
+> [!warning] Gamemaster
+> #### [[Ambushed Refugees]]
+>
+> If the characters already met Svala during the [[Ambushed Refugees]] Event, you will have to adjust the conversation below to reflect their prior interactions. If the characters advised Svala and the refugees to go somewhere other than Oldcraft Lodge, you may want to omit her from the location entirely, depending on how much time has passed.
+
 As the party arrives, they are greeted by [[Svala Bronwen]].
 
 > [!abstract] Svala Bronwen
@@ -18,7 +23,7 @@ As the party arrives, they are greeted by [[Svala Bronwen]].
 >
 > Level 4 · Vrjnhar Protector
 >
-> ![Svala Bronwen](../../../assets/image095.webp)
+> ![Svala Bronwen](../../../assets/image105.webp)
 >
 > The vrjnhar woman is broad shouldered and intensely muscled, carrying herself with a fearless confidence. She sports pale white fur that pours off her chin and turns into a lengthy beard which is split into several braided coils and draped over her shoulders in several places. Each strand is adorned with bronze clasps and rings which contrast richly against her pale hair.
 >

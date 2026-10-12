@@ -68,7 +68,7 @@ If the characters can remain hidden throughout the course of their observation, 
 >
 > Level 4 (Elite) · Automaton Servitor
 >
-> ![Hew](../../../assets/image197.webp)
+> ![Hew](../../../assets/image227.webp)
 >
 > A humanoid clad in battered and dirty steel stands before you. It moves with a slow, almost weary smoothness, each motion punctuated by a mechanical whir. This faceless construct is heavy and reinforced, meant for manual labor. It has only glowing eyes on its otherwise smooth head. It's body bears a series of shallow scrapes gouges on its chest, and a pale spot, like something was pried off it recently.
 
@@ -77,31 +77,29 @@ If the characters can remain hidden throughout the course of their observation, 
 >
 > Level 4 (Elite) · Automaton Servitor
 >
-> ![Rider](../../../assets/image197.webp)
+> ![Rider](../../../assets/image227.webp)
 >
-> > [!quote] Read Aloud
-> > A humanoid clad in oxidized copper stands before you. It moves with a slow, smooth gait, unhurried but still precise. You notice that it has a simpler, lighter frame that other constructs of its type, as though weight were a concern. This faceless construct has only glowing eyes on its otherwise smooth head. It's chest has a word engraved into it:
-> >
-> > > Rider
+> A humanoid clad in oxidized copper stands before you. It moves with a slow, smooth gait, unhurried but still precise. You notice that it has a simpler, lighter frame that other constructs of its type, as though weight were a concern. This faceless construct has only glowing eyes on its otherwise smooth head. It's chest has a word engraved into it:
+>
+> > Rider
 
 > [!abstract] Lucent
 > **[[Lucent]]**
 >
 > Level 4 (Elite) · Automaton Servitor
 >
-> ![Lucent](../../../assets/image197.webp)
+> ![Lucent](../../../assets/image227.webp)
 >
-> > [!quote] Read Aloud
-> > A humanoid clad in brushed rose gold metal stands before you. It moves with smooth but mechanical precision, and appears especially watchful. This faceless construct has only glowing eyes on its otherwise smooth head. It's body bears a silvery badge that reads:
-> >
-> > > Lucent
+> A humanoid clad in brushed rose gold metal stands before you. It moves with smooth but mechanical precision, and appears especially watchful. This faceless construct has only glowing eyes on its otherwise smooth head. It's body bears a silvery badge that reads:
+>
+> > Lucent
 
 > [!abstract] Chamberlain
 > **[[Chamberlain]]**
 >
 > Level 4 (Elite) · Automaton Servitor
 >
-> ![Chamberlain](../../../assets/image197.webp)
+> ![Chamberlain](../../../assets/image227.webp)
 >
 > A humanoid clad in smooth silver steel stands before you. It moves with mechanical precision, and you can’t help but notice that its chassis is scuffed, worn and dirty. This faceless construct has only glowing eyes on its otherwise smooth head. It's body bears the logo of the Silver Beam Consortium, though it looks like some vain effort was made to pry it free.
 
@@ -110,7 +108,7 @@ If the characters can remain hidden throughout the course of their observation, 
 >
 > Level 1 · Jobri Pack Member
 >
-> ![Jobri](../../../assets/image081.webp)
+> ![Jobri](../../../assets/image090.webp)
 >
 > The eyes of this large reptilian beast are remarkably big, and the padded five-toed feet that accompany its six muscular legs only accentuate the creature's charming awkwardness. Fitted with tack and bridle, this riding lizard lurks with a measure of domesticated calm, absentmindedly hunting for insects with each flick of its prehensile tongue.
 
@@ -222,7 +220,7 @@ If the party raids the Chessmen camp and apprehends the Renegade Construct using
 >
 > Any character who succeeds on a**Diplomacy (DC 13)** check while searching the camp is also able to locate the following:
 >
-> - A set of [[Repair Kit (smith)]].
+> - A set of [[Unknown]].
 > - A leather purse containing  **33**].
 
 ### Concluding the Event

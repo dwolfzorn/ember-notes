@@ -37,7 +37,7 @@ If the party has arrived at Cindarin Temple in Ordain independently of Sin Marmo
 >
 > Level 2 · Keth Cindaric Aspirant
 >
-> ![Sin Marmot](../../../assets/image100.webp)
+> ![Sin Marmot](../../../assets/image121.webp)
 >
 > A Keth with a friendly demeanor and wide blue eyes and a strange half-mask that covers her mouth. She seems to view everything around her with an air of wondrous innocence but her keen glances also suggest the ability to read any given situation quickly and she may be more capable than she appears at first glance.
 
@@ -64,14 +64,14 @@ Once the party has had ample time to catch up with Sin (whether or not they've a
 >
 > One sage in particular takes note of your group, a spectral-armed Signborn scholar, who saunters over to join you with a cordial greeting.
 >
-> > Welcome to Corpin Sanctuary, friends. I am Lilla Arien, who some call the Second Sage. What brings you to our most holy abode?
+> > Welcome to Cindarin Temple, friends. I am Lilla Arien, who some call the Second Sage. What brings you to our most holy abode?
 
 > [!abstract] Lilla Arien
 > **[[Lilla Arien]]**
 >
 > Level 8 (Boss) · Signborn Cindaric Sage
 >
-> ![Lilla Arien](../../../assets/image116.webp)
+> ![Lilla Arien](../../../assets/image147.webp)
 >
 > A signborn woman with a round, friendly face that belies the stress she carries. Her gray skin contrasts with her bright blue eyes, rosy cheese, and messy head of white hair. Short, pale blue horns curve softly from her forehead. She is clad in the ornate robes of the Cindaric order.
 
@@ -80,7 +80,7 @@ Once the party has had ample time to catch up with Sin (whether or not they've a
 >
 > Level 12 (Boss) · Human Cindaric Sage
 >
-> ![Vinarith](../../../assets/image114.webp)
+> ![Vinarith](../../../assets/image145.webp)
 
 > [!info] Social
 > #### Meeting the Sages

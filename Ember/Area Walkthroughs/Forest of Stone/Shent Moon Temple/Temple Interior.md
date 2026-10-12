@@ -8,6 +8,13 @@ tags: [ember, area-walkthroughs]
 
 # Temple Interior
 
+> [!quote] Read Aloud
+> Inside the temple, a massive well of swirling water churns under a central platform; the water is propelled by a mass of gears and cogs that scythe around the central platform, a death trap. Flowing into the well at each of its corners are smaller basins of water, each fed from channels of water rushing from large fonts on the walls.
+>
+> Four bridges reach across the central basin to a slightly elevated platform surrounded by a glowing shell of energy being fed from unstable swirls and beams of energy which originate from a massive, clattering array of machinery overhead.
+>
+> Six orbs race around the temple interior on rails, propelled by machinery with an unknown power source. Above it all, a flickering, half-realized projection of Ember and its cosmos hangs in the air. The projection flickers in and out of view, as the majority of the energy meant for it is being siphoned into the shield formed around the elemental on the central platform.
+
 > [!warning] Gamemaster
 > #### Encounter Overview
 >
@@ -33,13 +40,6 @@ tags: [ember, area-walkthroughs]
 >
 > For more details on Interactable Objects and how they work, review the [[Area Maps]] section of the Player's Guide.
 
-> [!quote] Read Aloud
-> Inside the temple, a massive well of swirling water churns under a central platform; the water is propelled by a mass of gears and cogs that scythe around the central platform, a death trap. Flowing into the well at each of its corners are smaller basins of water, each fed from channels of water rushing from large fonts on the walls.
->
-> Four bridges reach across the central basin to a slightly elevated platform surrounded by a glowing shell of energy being fed from unstable swirls and beams of energy which originate from a massive, clattering array of machinery overhead.
->
-> Six orbs race around the temple interior on rails, propelled by machinery with an unknown power source. Above it all, a flickering, half-realized projection of Ember and its cosmos hangs in the air. The projection flickers in and out of view, as the majority of the energy meant for it is being siphoned into the shield formed around the elemental on the central platform.
-
 ## The Temple Invader
 
 The large elemental in the center of the area has no name other than the "Temple Invader," and is an elementally overcharged variant of a [[Water Wanderer]].
@@ -49,7 +49,7 @@ The large elemental in the center of the area has no name other than the "Temple
 >
 > Level 3 (Boss) · Frost Elemental Elemental Wanderer
 >
-> ![Temple Invader](../../../assets/image068.webp)
+> ![Temple Invader](../../../assets/image069.webp)
 >
 > Towering over its peers, and even that of lesser wanderers, this invader's form is both graceful and intimidating. Enhanced by energy flowing through an ancient stone machine, this elemental appears much more powerful and cunning than most. Its movements are fluid and deliberate, exuding an air of lethal precision and purpose.
 
@@ -60,7 +60,7 @@ It is reinforced by the presence of three lesser sprites who patrol about the ar
 >
 > Level 1 · Frost Elemental Elemental Sprite
 >
-> ![Water Sprite](../../../assets/image058.webp)
+> ![Water Sprite](../../../assets/image059.webp)
 >
 > This small, energetic elemental is a cohesive globule form with small orbiting teardrops of water that it seems to control. It is surprisingly agile, moving in quick bursts and leaps that are graceful yet unpredictable. They shimmer with an inner luminescence that gives them an almost ethereal appearance, and they are constantly in motion.
 
@@ -130,9 +130,9 @@ Add all four of the Fulgurite Blades to the Combat encounter and to initiative o
 > [!abstract] Sajor Velex
 > **[[Sajor Velex]]**
 >
-> Level 4 · Nir'ae War Mage
+> Level 4 · Nir'ae Mage
 >
-> ![Sajor Velex](../../../assets/image044.webp)
+> ![Sajor Velex](../../../assets/image045.webp)
 >
 > A bright-eyed woman stands before you with a curious expression, yet the corners of her mouth are turned downwards, as if she is slightly displeased with your presence. She has short black hair with a shock of white at the front, two large downwards-facing ears, and dark olive skin marked with vivid glittering patterns that signify she is either a descendant or a full Nir'ae herself.
 
@@ -141,7 +141,7 @@ Add all four of the Fulgurite Blades to the Combat encounter and to initiative o
 >
 > Level 2 · Cor'ak Fighter
 >
-> ![Rorhim Iron-Cask](../../../assets/image045.webp)
+> ![Rorhim Iron-Cask](../../../assets/image046.webp)
 >
 > A burly figure, tall even for Cor'ak, with a thick hornplate above his head and skin in varying shades of tan and brown. His bright blue eyes take in his surroundings with a noticeable lack of interest. He is clearly a warrior of considerable power, given the presence of an oversized sword slung across his back, an accompanying shortsword on his hip, and heavy armor strapped around his stocky frame.
 
@@ -150,7 +150,7 @@ Add all four of the Fulgurite Blades to the Combat encounter and to initiative o
 >
 > Level 2 · Kivahr Priest
 >
-> ![Kazra Steelshift](../../../assets/image046.webp)
+> ![Kazra Steelshift](../../../assets/image047.webp)
 >
 > Hooded and wrapped in a vibrant, shimmering shawl, this young Kivahr woman is initially slightly imposing, but her bookish demeanor and obvious curiosity about your presence reveal a true scholar at heart. Looking at the robes and symbols draped across the well-made chain mail armor, she confidently displays her devotion to the Goddess of Magic, Spectra, and appears to be a fanatic member of the Sect of Arcvold. She holds a mace in one hand and keeps her large pack at her side steady, which appears to be bulging with scrolls, tomes, and journals that she carries with her and studies while adventuring.
 
@@ -159,7 +159,7 @@ Add all four of the Fulgurite Blades to the Combat encounter and to initiative o
 >
 > Level 2 · Thornling Thief
 >
-> ![Leeph](../../../assets/image047.webp)
+> ![Leeph](../../../assets/image048.webp)
 >
 > A fidgety little radish-looking Thornling with eyes of shimmering pearlescence looks up at you with an unreadable expression. Their overly large leaves like fronds of hair, sweep back from their head, which they are constantly smoothing backwards to no effect, as if trying to calm themselves. They seem to be a restless ball of energy in all other respects, and even when standing still, their hands and eyes dart about in search of something to keep them occupied. They are clad in dark leathers over the top of their thorny barkskin, with a short-sword that appears to be nothing but a large dagger to anyone else hanging at thier side.
 

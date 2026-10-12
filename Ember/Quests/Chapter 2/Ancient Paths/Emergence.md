@@ -24,33 +24,36 @@ This area is blanketed in a powerful illusion spell that incites unease and fear
 > [!danger] Hazard
 > #### Malignant Aura
 >
-> As soon as the party begins this event and steps foot in the quarry they need to make a `[[/save wisdom 14]]` saving throw or become **Frightened** and unwilling to explore the area. Sensing that something horrible happened here, they are compelling to make their way out quickly.
+> As soon as the party begins this event and sets foot in the quarry, each character is subjected to **Malignant Aura (Hazard 3)**; on a hit, they become **Frightened** and unwilling to explore the area. Sensing that something horrible happened here, they are compelled to make their way out quickly.
 >
-> On a successful save, however, they realize that the fear is stemming from a magical source. Upon realizing this, the sensation fades, as does the horrifying nature of the plants and trees. In truth, the area is just abandoned and overgrown, but not inherently befouled.
+> Characters who resist the aura, however, realize that the fear is stemming from a magical source. Upon realizing this, the sensation fades, as does the horrifying nature of the plants and trees. In truth, the area is just abandoned and overgrown, but not inherently befouled.
 >
 > #### Fleeing the Site
 >
-> If the entire party fails their saves, or the party decides to leave without investigating the site, they can speak to Ankarist in the [[Emergence]] section after having retreated to a safe area just beyond the site (the party token doesn't need to move, as the hex encompasses an area far larger than the quarry itself). Should the party decide to return to the site to explore it, they will need to make saves again.
+> If the entire party fails to resist the aura, or the party decides to leave without investigating the site, they can speak to Ankarist in the [[Emergence]] section after having retreated to a safe area just beyond the site (the party token doesn't need to move, as the hex encompasses an area far larger than the quarry itself). Should the party decide to return to the site to explore it, they will need to resist the aura again.
 >
 > #### Rallying Your Allies
 >
-> It is unlikely that the entire party will succeed on their save, and some characters will be overwhelmed by a desire to flee. Characters that succeed on their saving throw can attempt to rally their friends, telling them the effect isn't real. When they do this, they can repeat their saving throw, possibly seeing through the illusion.
+> It is unlikely that the entire party will resist the aura, and some characters will be overwhelmed by a desire to flee. Characters who resist it can attempt to rally their friends, telling them the effect isn't real. When a character does this, one frightened ally can attempt to shake off the fear, ending **Frightened** with a successful **Intimidation (DC 14)** check, possibly seeing through the illusion.
 
-Characters that have succeeded on their save to resist the aura can attempt to examine the area and identify the nature of the effect, though there is not much to learn.
+Characters who have resisted the aura can attempt to examine the area and identify the nature of the effect, though there is not much to learn.
 
 > [!tip] Exploration
 > #### Magical Examination
 >
-> Walking around the area and making a successful **Awareness (DC 14)** locates several large flat stones that have been carved with illusion magic symbols. They are likely radiating the magic that makes up the effect, and they are laid out around the collapsed mine's perimeter.
+> Walking around the area and making a successful **Awareness (DC 14)** check locates several large flat stones that have been carved with illusion magic symbols. They are likely radiating the magic that makes up the effect, and they are laid out around the quarry's perimeter.
 >
-> Examining the stones with a successful **Arcana (DC 14)** **Arcana (DC 14)**check determines some key elements about these warding stones:
+> Examining the stones with a successful **Arcana (DC 14)** check determines that they are part of a larger spell and that the stones have been warded with a powerful illusion spell that creates not only the illusory terrain, but the aura of unease. It is an exceptionally powerful spell. The energy for the area is spilling out of the stones.
 >
-> - **Success** They are all part of a larger spell that is generating a powerful illusory aura that affects anyone entering the area. The warding effect is a mixture of the exceptionally powerful Illusion magic designed to create an area that is uniquely unnerving to everyone that enters it. This would require an exceptionally skilled spell caster to create.
-> - **Critical Success** The warding is built in a specific way to exclude a number of people. You suspect that the crew working in the lab in the pathways were able to come and go freely without being overrun with the area's magical fear effect.
+> - **Talent: Recognize Spellcraft**: The character gains **+2 Boons** on this check.
+> - **Critical Success**: The character is able to discern that the warding effect is exceptionally powerful spellcraft that weaves the Illusion and Control runes into a lasting aura, creating an area that is uniquely unnerving to everyone that enters it. This would require an exceptionally skilled spell caster to create.
+>   Furthermore, it seems as though the warding is built in a specific way to exclude a number of people. You suspect that the crew working in the lab in the pathways were able to come and go freely without being overrun with the area's magical fear effect.
 >
-> Characters that have the **Talent: Recognize Spellcraft** talent can examine the area and find that it has been warded with a powerful illusion spell the creates not only the illusory terrain, but the aura of unease. It is an exceptionally powerful spell. The energy for the area is spilling out of numerous warded stones around the collapsed mine's perimeter.
->
-> Casters skilled with **Talent: Rune: Soul** or **Talent: Rune: Oblivion** will note that this region has not been magically affected with any sort of consecrating or desecrating forces. Rather, whatever effect is here, it is not divine, or the work of someone wielding divine or abyssal magic. It's a **false** sensation of evil, and a very convincing one at that.
+> Spellcasters may attempt to discern the nature of the effect further through use of **Deathly Sense** or **Annihilating Sense** to identify signs of desecration. Such an attempt would discover that this region has not been magically consecrated or desecrated. Rather, whatever the effect here is, it's not evidence of undeath or abyssal influence. It is merely an illusion that produces a false sensation of evil.
+
+If any character identified the nature of the aura through any of these methods, mark the outcome:
+
+`[[/outcome studied]]`
 
 > [!warning] Gamemaster
 > #### Powerful Illusions
@@ -59,7 +62,7 @@ Characters that have succeeded on their save to resist the aura can attempt to e
 
 ## Where To Now?
 
-Once the part is done with the collapsed mine, whether they fled it, or studied it and then left on their own, they will need to decide what to do next. Luckily, Ankarist has a plan. He wants to head back to Ordain and report in, and wants the party to come with.
+Once the party is finished with the quarry, they will need to decide what to do next. Luckily, Ankarist has a plan: he wants to head back to Ordain and report in, and asks the party to come with.
 
 > [!info] Social
 > #### Onward to Ordain
@@ -74,17 +77,18 @@ Once the part is done with the collapsed mine, whether they fled it, or studied 
 > **A:**
 >
 > > Well, I need to transport all of the evidence we collected from this site back to my people at the Veiled Chain. From there, I start the long process of figuring out what it all means, finding new leads to follow, and mapping out connections in the evidence.
-> >
-> > However… we will need to reach the surface again first. So let's focus on that.
-
-If the party completed the [[Empty Laboratory]] outcome then Ankarist adds:
 
 > [!question] Q&A
-> **Q:**
+> **Q:** What happens to Kalasak?[[Empty Laboratory]]
 >
 > **A:**
 >
-> > I also need to get our captive back to the Veiled Chain offices so that he can be properly questioned about what his people were doing here.
+> > He's coming with us to Ordain. I need to get him back to the Veiled Chain offices so that he can be properly questioned about what his people were doing here.
+
+> [!warning] Gamemaster
+> #### Questioning a Prisoner
+>
+> A party that took [[Kalasak the Cutter]] or a [[Mutagist Vivisector]] alive will likely question them before leaving the quarry or on the road to Ordain. The [[Evidence]] page of the Repurposed Quarry lists what each can reveal. If the party captured a Vivisector instead of Kalasak, Ankarist answers the question above the same way: the prisoner comes with them to Ordain.
 
 > [!question] Q&A
 > **Q:** Will we be paid for helping you?
@@ -107,4 +111,4 @@ Once the party has finished talking to Ankarist, they can move on.
 > [!warning] Gamemaster
 > #### Next Steps
 >
-> The party now needs to head for Ordain, head for the Hallows, and report to Ankarist's superiors in the Veiled Chain in the [[Grim Findings]].
+> The party now needs to head for Ordain, head for [[The Hallows]], and report to Ankarist's superiors in the [[Veiled Chain]] in the [[Grim Findings]] event.

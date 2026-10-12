@@ -1,0 +1,33 @@
+---
+title: "Tomb of the Unifiers"
+journal: "Gazetteer / Arctus Plateau Gazetteer"
+source_uuid: "JournalEntry.emberArctusGazet"
+type: ember.lore
+tags: [ember, gazetteer]
+---
+
+# Tomb of the Unifiers
+
+> [!warning] Gamemaster
+> #### Gamemaster's Summary
+>
+> This Location exists at ⬢ s.3227.2889 on the north edge of the [[Caryx Savanna]], about a half-dozen miles east of [[Arcturel]].
+>
+> - This Location is detailed within the [[Tomb of the Unifiers]] Area Walkthrough, and can be explored via the [[Tomb of the Unifiers]] Area Map.
+> - This Location is featured in [[Summoning the Spark]].
+
+### Environment
+
+The Tomb of the Unifiers is constructed of Cinderspar, an ultra-durable stone forged via an ancient [[Sedyri]] technique long-lost to time. While thousands of years of water damage to the submerged floor has finally begun to introduce cracks and surface erosion to the floor plates, the mottled surfaces of the tomb's walls remain in near-identical condition to their original construction, preserving the intricate etchings that line the tomb. Raised balconies watch over each room, where the living Unifiers would stand during funeral processions for recently deceased mage-priests.
+
+### Ecology
+
+For millennia, the Tomb of the Unifiers has been a place of death. Despite the water submerging the floor, neither lichen nor barnacle line the tomb's floors. It is as if the environment of the Savanna itself knows that the Unifiers have passed into history, and dares not disturb their eternal slumber.
+
+Only one set of living creatures remains within the tomb: a pair of dangerous Hydrotherms, which lie in wait upon the balconies of the main chamber, appearing like nothing more than statues. The hibernating elementals watch over the sarcophagi of the very last Unifiers, waiting to awaken and ambush any who would pilfer their creators' treasures.
+
+### Lore
+
+Once, the Tomb of the Unifiers was a place of both solemnity and joy. Like everything the Sedyri did — and in the same way that such mage-priests balanced the fire of Ragen and the water of Mayis — funerals for the Unifiers weaved together this contradiction.
+
+Funeral processions were initially held in silence, but once the Cinderspar plate slotted into place to cover the deceased Unifier's niche — sealing their body away forever — the ritual became a celebration all of the Unifier's accomplishments in life, accompanied by boisterous song and dance. Now, such traditions have faded with the Sedyri themselves, leaving only the solemn silence to linger in this long forgotten place.

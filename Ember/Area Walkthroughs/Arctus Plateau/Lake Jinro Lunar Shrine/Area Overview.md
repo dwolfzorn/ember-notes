@@ -11,16 +11,16 @@ tags: [ember, area-walkthroughs]
 > [!warning] Gamemaster
 > #### Area Map Context
 >
->  The Area Map for the "Lake Jinro Lunar Shrine" depicts an island at the center of [[Lake Jinro]], where the climactic events of [[The Book Of Tales]] occur during [[The Moon Child of Lake Jinro]]. An [[Ancient Lunar Shrine]] occupies the center of the island's hilltop precipice, which seethes with primal magic to this very day.
+> The Area Map for the "Lake Jinro Lunar Shrine" depicts an island at the center of [[Lake Jinro]], where the climactic events of [[The Book Of Tales]] occur during [[The Moon Child of Lake Jinro]]. An [[Ancient Lunar Shrine]] occupies the center of the island's hilltop precipice, which seethes with primal magic to this very day.
 >
->  - This map depicts three conjoined sections of the location: the surrounding Shore, the six Altar Stones on the trail leading towards the hilly precipice of the island, and the Shrine at the top of the hill.
+> - This map depicts three conjoined sections of the location: the surrounding Shore, the six Altar Stones on the trail leading towards the hilly precipice of the island, and the Shrine at the top of the hill.
 > - The party arrives at the southeastern [[Grave Blade Shore]], where [[Amalthea Stonecraft]] awaits their timely reunion.
 >
->  The full gazetteer entry for the [[Lake Jinro Lunar Shrine]] is featured below.
+> The full gazetteer entry for the [[Lake Jinro Lunar Shrine]] is featured below.
 
- ## Gazetteer Entry
+## Gazetteer Entry
 
- > [!quote] Read Aloud
+> [!quote] Read Aloud
 > An air of ancient reverence lingers about this remote island, which appears overgrown and forgotten. From a blade-strewn beach to the southeast, a switchback path winds its way vertically, clockwise towards a 60-foot high precipice that towers over the waters edge. Some curious arrangement of weathered stone peeks out above the top of this hill, resolute against the ravages of time.
 
 A hallowed place revered by Arcturians of the Golden Flats and outlanders alike, the Lake Jinro Lunar Shrine endures as one of the region’s oldest landmarks.

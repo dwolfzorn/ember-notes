@@ -10,6 +10,10 @@ tags: [ember, area-walkthroughs]
 
 If the party plans to use the mining cart and explosives to detonate the giant ooze, they will need to send it into the [[Excavation Pit]] from here. This involves two challenges: replacing the track switch and clearing a makeshift barricade.
 
+#### Work in Progress: Missing Lever
+
+Narratively, the track switch is missing its lever, but it is not visually missing from the icon on the map. Communicate to your players that they must first find the missing lever before activating the switch.
+
 > [!tip] Exploration
 > #### The Missing Lever
 >

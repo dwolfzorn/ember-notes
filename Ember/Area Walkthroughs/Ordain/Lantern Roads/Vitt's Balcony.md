@@ -35,7 +35,7 @@ Two [[Wandren Watcher]] are stationed on the balcony. Both carry [[Brigade Key]]
 >
 > Level 1 · Unknown Unknown
 >
-> ![Wandren Watcher](../../../assets/image053.webp)
+> ![Wandren Watcher](../../../assets/image054.webp)
 
 > [!danger] Hazard
 > #### Beacon Brigade Watcher Tactics

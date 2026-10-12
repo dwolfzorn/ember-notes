@@ -10,6 +10,9 @@
     "build": "node scripts/prepare-content.mjs && npx quartz build",
     "serve": "node scripts/prepare-content.mjs && npx quartz build --serve",
     "smoke": "tsx scripts/smoke-search.ts",
+    "test": "tsx --test \"tests/*.test.ts\" \"quartz/**/*.test.ts\"",
+    "test:py": "python -m unittest discover -s tests -v",
+    "test:site": "tsx --test \"tests/site/*.test.ts\"",
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write"
   },

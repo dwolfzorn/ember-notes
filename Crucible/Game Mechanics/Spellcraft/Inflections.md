@@ -2,8 +2,8 @@
 title: "Inflections"
 journal: "Game Mechanics / Spellcraft"
 source_uuid: "JournalEntry.qoXoXou3DQqlPoE6"
-type: ember.lore
-tags: [ember, game-mechanics]
+type: crucible.lore
+tags: [crucible, game-mechanics]
 ---
 
 # Inflections
@@ -18,25 +18,25 @@ The following inflections are available within Tier 1 of the talent tree, from c
 
    ![Inflection: Compose](../../assets/image034.webp)   ## Inflection: Compose
 
-  Level 2 Wisdom 3 Presence 3    Enhance a spell by taking extra time in its formation, reducing other resource costs in exchange. The Compose inflection reduces the **Focus** cost of a spell by 1 while increasing its **Action** cost by 1 in exchange.
+  Level 2 Wisdom 3 Presence 3 Enchanting +1   Enhance a spell by taking extra time in its formation, reducing other resource costs in exchange. The **Compose** inflection reduces the **Focus** cost of a spell by 1 while increasing its **Action** cost by 1 in exchange.
 
  **Iconic Spells:**: Inflection: Compose grants 1 Iconic Spell slots.
 
      ![Inflection: Determine](../../assets/image035.webp)   ## Inflection: Determine
 
-  Level 2 Presence 3 Intellect 3    Enhance a spell to make it more difficult to counter. Any attempt to Counter-Spell this spell is made with +2 Banes.
+  Level 2 Presence 3 Intellect 3 Enchanting +1   Enhance a spell to make it more difficult to counter. Any attempt to **Counterspell** this spell is made with **+2 Banes**.
 
  **Iconic Spells:**: Inflection: Determine grants 1 Iconic Spell slots.
 
      ![Inflection: Elude](../../assets/image036.webp)   ## Inflection: Elude
 
-  Level 2 Dexterity 4    Enhance a spell to make it more difficult for an enemy to retaliate against its casting. This spell does not provide any opportunity to make reactions that involve Strike attacks, regardless of the results of the spell.
+  Level 2 Dexterity 4 Enchanting +1   Enhance a spell to make it more difficult for an enemy to retaliate against its casting. This spell does not provide any opportunity to make reactions that involve **Strike** attacks, regardless of the results of the spell.
 
  **Iconic Spells:**: Inflection: Elude grants 1 Iconic Spell slots.
 
      ![Inflection: Extend](../../assets/image037.webp)   ## Inflection: Extend
 
-  Level 2 Wisdom 3 Presence 3    Enhance the duration of a spell, increasing the duration of its effect. For spells which are instantaneous, any corresponding status conditions that they cause are increased in duration.
+  Level 2 Wisdom 3 Presence 3 Enchanting +1   Enhance the duration of a spell, increasing the duration of its effect. For spells which are instantaneous, any corresponding status conditions that they cause are increased in duration.
 
 Effect duration increases from the Extend inflection are not yet automated in Playtest 1. This inflection is included as an example of the intended direction for the Spellcraft system.
 
@@ -44,7 +44,7 @@ Effect duration increases from the Extend inflection are not yet automated in Pl
 
      ![Inflection: Negate](../../assets/image038.webp)   ## Inflection: Negate
 
-  Level 2 Presence 3 Intellect 3    Invert the effect of a spell. An Inverted Life Touch spell which normally heals a target deals Poison damage instead. An Inverted Death Ward spell inflicts vulnerability to Corruption damage upon an adjacent enemy.
+  Level 2 Presence 3 Intellect 3 Enchanting +1   Invert the effect of a spell. A **Touch of Life** spell which normally heals a target becomes a **Negated Touch of Life** spell, dealing **Poison** damage instead. A **Ward of Death** spell which normally increases resistance to **Corruption** damage becomes a **Negated Ward of Death** spell, inflicting vulnerability to **Corruption** damage upon an enemy instead.
 
 The effects of the Negate inflection are not yet automated for Playtest 1. This inflection is included as an example of the intended direction for the Spellcraft system.
 
@@ -52,19 +52,19 @@ The effects of the Negate inflection are not yet automated for Playtest 1. This 
 
      ![Inflection: Pull](../../assets/image039.webp)   ## Inflection: Pull
 
-  Level 2 Wisdom 3 Presence 3    Empower a spell to attract affected creatures toward the caster. Creatures affected by a spell with the **Pull** inflection move are forcibly moved a distance towards the spellcaster equal to the Ability Bonus that applied to the Spell, potentially colliding with walls or other movement-blocking obstacles.
+  Level 2 Wisdom 3 Presence 3 Enchanting +1   Empower a spell to attract affected creatures toward the caster. Creatures affected by a spell with the **Pull** inflection move are forcibly moved a distance towards the spellcaster equal to the **Ability Bonus** that applied to the **Spell**, potentially colliding with walls or other movement-blocking obstacles.
 
  **Iconic Spells:**: Inflection: Pull grants 1 Iconic Spell slots.
 
      ![Inflection: Push](../../assets/image040.webp)   ## Inflection: Push
 
-  Level 2 Wisdom 3 Presence 3    Empower a spell to repel affected creatures away from the caster. Creatures affected by a spell with the **Push** inflection are forcibly moved a distance away from the spellcaster equal to the Ability Bonus that applied to the Spell, potentially colliding with walls or other movement-blocking obstacles.
+  Level 2 Wisdom 3 Presence 3 Enchanting +1   Empower a spell to repel affected creatures away from the caster. Creatures affected by a spell with the **Push** inflection are forcibly moved a distance away from the spellcaster equal to the **Ability Bonus** that applied to the **Spell**, potentially colliding with walls or other movement-blocking obstacles.
 
  **Iconic Spells:**: Inflection: Push grants 1 Iconic Spell slots.
 
      ![Inflection: Quicken](../../assets/image041.webp)   ## Inflection: Quicken
 
-  Level 2 Presence 3 Intellect 3    Enhance a spell by hastening the speed with which it can be cast, at the expense of increased Focus. The Quicken inflection reduces the **Action** cost of a spell by 1 while increasing its **Focus** cost by 1 in exchange.
+  Level 2 Presence 3 Intellect 3 Enchanting +1   Enhance a spell by hastening the speed with which it can be cast, at the expense of increased **Focus**. The **Quicken** inflection reduces the **Action** cost of a spell by 1 while increasing its **Focus** cost by 1 in exchange.
 
  **Iconic Spells:**: Inflection: Quicken grants 1 Iconic Spell slots.
 
@@ -74,10 +74,10 @@ The following inflections are available within Tier 2 of the talent tree, from c
 
    ![Inflection: Reshape](../../assets/image042.webp)   ## Inflection: Reshape
 
-  Level 4 Wisdom 4 Presence 4    Enhance a Spell by carefully reshaping and controlling its area of effect at the cost of **2 Focus**.
+  Level 4 Wisdom 4 Presence 4 Enchanting +1   Enhance a **Spell** by carefully reshaping and controlling its area of effect at the cost of **2 Focus**.
 
-Offensive spells which use a template target only target enemies within the area. Healing spells which use a template target only target allies within the area.
+Offensive spells which use a region target only enemies within the area. Healing spells which use a region target only allies within the area.
 
-Single target spells do not incur any Banes due to intervening creatures.
+Single target spells do not incur any **Banes** due to intervening creatures.
 
  **Iconic Spells:**: Inflection: Reshape grants 1 Iconic Spell slots.

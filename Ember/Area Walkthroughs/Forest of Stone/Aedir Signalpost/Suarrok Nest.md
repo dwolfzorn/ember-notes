@@ -9,7 +9,7 @@ tags: [ember, area-walkthroughs]
 # Suarrok Nest
 
 > [!quote] Read Aloud
-> A large nest of straw, branches, and paper sits in the far corner, sparkling with the reflection of light on gem and glass and metal. The creature is nowhere to be seen, but it has not gone far. Just then, you hear a shrill cry as a shadow passes overhead, and you can even feel the breeze upon your face from the beating of massive wings.
+> A large nest of straw, branches, and paper sits in the far corner, sparkling with the reflection of light on gem and glass and metal. Just then, you hear a shrill cry in the distance: a large, winged beast appears to be circling something beyond your sight. It has not noticed you yet, but it remains well within striking distance.
 
 The nest here is perched 40 feet above the surface of the [[Lookout Post]]. The party can carefully search for the missing [[Elevator Glyphstone]] in the suarrok's nest without calling attention to themselves.
 
@@ -44,18 +44,18 @@ If at any time while exploring the Lookout Post the party makes loud noise or is
 >
 > Level 4 (Elite) · Winged Terror Suarrok
 >
-> ![Suarrok Juvenile](../../../assets/image066.webp)
+> ![Suarrok Juvenile](../../../assets/image067.webp)
 >
 > This creature is an unsettling thing, a strange mixture of bird and lizard, with massive, bat-like wings fringed with trailing feathers. A long, sinuous neck that coils and moves like a serpent holds a massive head with menacing, serrated beak that's perfectly designed for tearing through flesh. On this head rests a single, enormous eye that glows ominously, and as its gaze sweeps over you, a wash of stinging heat can be felt.
 
 > [!danger] Hazard
 > #### Suarrok Juvenile Tactics
 >
-> At the start of combat, the Suarrok Juvenile will use its [[Searing Stare]] to inflict the most threatening enemy with the **Broken** condition.
+> At the start of combat, the Suarrok Juvenile will use its [[Searing Stare]] to inflict the most threatening enemy with the **Blinded** condition.
 >
 > Over the course of combat, the Suarrok Juvenile will prioritize the following actions and abilities:
 >
-> - In melee, the Suarrok Juvenile will use its [[Swooping Strike]] and [[Raking Talons]] actions.
+> - In melee, the Suarrok Juvenile will use its [[Swooping Strike]] and [[Unknown]] actions.
 > - The Suarrok Juvenile uses its [[Elusive Flight]] talent to make hit-and-run attacks.
 >
 > The Suarrok Juvenile will fight aggressively until **Broken**, at which point it will attempt to flee toward the distant clouds. If it escapes, combat ends and the creature does not return until the following day.

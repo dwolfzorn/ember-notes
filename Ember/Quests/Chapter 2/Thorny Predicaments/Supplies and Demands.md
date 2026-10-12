@@ -98,7 +98,7 @@ Alternately, the party may try to fool the Canyon Crawler into thinking that the
 > [!danger] Hazard
 > #### Geyser
 >
-> A geyser of water erupts from the center of the water-filled crevasse towards a member of the party within 30 feet. Whomever is targeted must succeed on a **Athletics (DC 15)** or suffer a **Watery Blast (Hazard 3, Fortitude, Health, Bludgeoning)** and be pushed 15 feet away by the force of the blast. If their movement ends against solid rock, they take an additional **Hard Impact (Hazard 2, Fortitude, Health, Bludgeoning)** and fall **Prone**.
+> A geyser of water erupts from the center of the water-filled crevasse towards a member of the party within 30 feet. Whomever is targeted must succeed on a **Athletics (DC 15)** or suffer a **Watery Blast (Hazard 3)** and be pushed 15 feet away by the force of the blast. If their movement ends against solid rock, they take an additional **Hard Impact (Hazard 2)** and fall **Prone**.
 >
 > #### Ketral Attack
 >
@@ -138,7 +138,7 @@ Alternately, the party may try to fool the Canyon Crawler into thinking that the
 > [!danger] Hazard
 > #### Rocks Fall
 >
-> A cascade of large rocks crash down towards the party. Two of these rocks are close enough to pose a significant threat, each creating a 10-foot radius impact somewhere of the Crawler's choosing. Any creature within the area of effect must succeed on a **Athletics (DC 16)** check or suffer **Scree Collapse (Hazard 6, Fortitude, Health, Bludgeoning)**.
+> A cascade of large rocks crash down towards the party. Two of these rocks are close enough to pose a significant threat, each creating a 10-foot radius impact somewhere of the Crawler's choosing. Any creature within the area of effect must succeed on a **Athletics (DC 16)** check or suffer **Scree Collapse (Hazard 6)**.
 >
 > #### Gumtoad Attack
 >
@@ -151,9 +151,11 @@ If characters reach the Canyon Crawler in their lair, they find a young Thornlin
 > [!abstract] Carmin Anther
 > **[[Carmin Anther]]**
 >
-> Level 1 · Unknown Unknown
+> Level 0.5 · Thornling Prankster
 >
-> ![Carmin Anther](../../../assets/image168.webp)
+> ![Carmin Anther](../../../assets/image198.webp)
+>
+> The young thornling's body is more spikes and crags than smooth wood, with a green and red coloring that could easily blend into the background in the right bit of deep tangled foliage. They keep their head up high and their shoulders back, but shift their weight from one foot to another, as if unsure of exactly how to stand as they make their presence known.
 
 > [!quote] Read Aloud
 > > Do not enter this cavern!
@@ -241,7 +243,7 @@ If effectively persuaded, Carmin agrees to return to Brevin and to stop robbing 
 > >
 > > You know what? I like the sound of that.
 
-If the party does not succeed in talking Carmin down, they suddenly smash an [[Eversmoking Bottle]] upon the ground and vanish into the resulting haze, their voice lingering behind as they go.
+If the party does not succeed in talking Carmin down, they suddenly smash an [[Smoke Jar]] upon the ground and vanish into the resulting haze, their voice lingering behind as they go.
 
 > [!quote] Read Aloud
 > Carmin slips a thin bottle out of their pocket and drops it. The glass shatters on contact with the ground and creates a sudden burst of blinding smoke. You hear Carmin moving away, but can't catch sight of her. The last contact you get is her voice echoing off the stone around you:
@@ -271,11 +273,15 @@ Edivel is thrilled to get their spellbook back but is most intrigued by the wand
 >
 > Edivel asks the party what they make of the wand. Characters can notice the following:
 >
-> - With a successful **Society (DC 16)** check, characters can tell that this is a somewhat older version of the agrimage symbol, indicating that it might be from an older or more traditional agrimage.
+> - With a successful **Society (DC 16)** check, characters can tell that this is a somewhat older version of the [[Agrimage Circle]] symbol, indicating that it might be from an older or more traditional [[Agrimage]].
 > - With a successful **Awareness (DC 16)** check, characters notice initials carved into the side of the wand — "KA".
-> - If Carmin has been convinced to give up their ways, the party can ask where they got it. Carmin tells the party that the person they took the wand from was said to have been given it by a great agrimage in Steed's Point.
+> - If Carmin has been convinced to give up their ways, the party can ask where they got it. Carmin tells the party that the person they took the wand from was said to have been given it by a great agrimage in [[Steed's Point]].
 >
-> Either through success on these checks, or through Edivel's independent realization, Edivel is convinced that the wand previously belonged to Kali Andrella — a renowned agrimage who used to live in the now-ruined town of Steed's Point.
+> Either through success on these checks or via Edivel's independent realization, Edivel is convinced that the wand previously belonged to [[Kali Andrella]] — a renowned agrimage who used to live in the now-ruined town of Steed's Point.
+>
+> Edivel knows the precise location of Steed's Point and will relate it to the party. Check the "Steed's Point Discovered" Outcome below for the Steed's Point POI to appear on the Region Map.
+
+`[[/outcome steedsPoint]]`
 
 ### Concluding the Event
 

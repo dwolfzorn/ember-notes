@@ -63,7 +63,7 @@ The characters should not be told the behemoth's identity outright. Instead, the
 >
 > Any character who makes a successful **Wilderness (DC 12)** check convinces the cat to come down over the course of 10 minutes.
 >
-> - Characters with **Knowledge: Beasts** succeed on this check automatically.
+> - **Knowledge: Beasts**: The character automatically succeeds on this check.
 
 ### Collapsed Granary
 
@@ -77,7 +77,7 @@ The characters should not be told the behemoth's identity outright. Instead, the
 >
 > Any character who makes a successful **Medicine (DC 14)** check can stabilize the Yarnac over the course of 30 minutes.
 >
-> - Characters with **Knowledge: Beasts** gain **+2 Boons**on this check.
+> - **Knowledge: Beasts**: The character gains **+2 Boons** on this check.
 
 ### Broken Aedir Watchtower
 
@@ -89,9 +89,11 @@ The characters should not be told the behemoth's identity outright. Instead, the
 >
 > Amid the rubble lies a weathered bronze signal bell, still fixed to part of its cracked mounting — and clutched in the hands of a crushed cadaver. It can be worked loose and recovered, though doing so without further collapse requires care.
 >
-> Any character can attempt to retrieve the signal bell over the course of 10 minutes with a **Athletics (DC 14)** check. Characters with **Knowledge: Subterranea** gain **+2 Boons** on this roll.
+> Any character can attempt to retrieve the signal bell over the course of 10 minutes with a **Athletics (DC 14)** check.
 >
-> On a success, the character retrieves the signal bell, which is worth 3gp. On a failure, the character still retrieves the signal bell, but the rubble pile collapses, and the character suffers **Minor Crush Injuries (Hazard 6, Fortitude, Health, Bludgeoning)**. The character can be extricated over the course of 1 hour.
+> - **Knowledge: Subterranea**: The character gains **+2 Boons** on this check.
+>
+> On a success, the character retrieves the signal bell, which is worth 3 gp. On a failure, the character still retrieves the signal bell, but the rubble pile collapses, and the character suffers **Minor Crush Injuries (Hazard 6)**. The character can be extricated over the course of 1 hour.
 
 ### Shattered Irrigation Terrace
 
@@ -110,15 +112,19 @@ The party can inspect the ruins of the scene to learn about what happened here.
 > [!tip] Exploration
 > #### Examine Physical Clues
 >
-> Any character with a successful **Wilderness (DC 14, Passive)** check while examining the scene, gains some insight into the creature's Physical Clues as described in the relevant behemoth table entry. Use these clues in conjunction with the destroyed site result to describe the aftermath.
+> Any character who makes a successful **Wilderness (DC 14, Passive)** check while examining the scene gains some insight into the creature's Physical Clues as described in the relevant behemoth table entry. Use these clues in conjunction with the destroyed site result to describe the aftermath.
 >
-> - Characters with **Knowledge: Monsters**, **Knowledge: Subterranea**, or **Path: Monster Hunter** have **+2 Boons** on this roll.
+> - **Knowledge: Monsters**: The character gains **+2 Boons** on this check.
+> - **Knowledge: Subterranea**: The character gains **+2 Boons** on this check.
+> - **Path: Monster Hunter**: The character gains **+2 Boons** on this check.
 >
 > #### Infer Behavioral Clues
 >
-> Any character with a successful **Diplomacy (DC 16, Passive)** check while examining the scene, gets an overview of the creature's Behavioral Clues as described in the relevant behemoth table entry. Use these clues in conjunction with the destroyed site result to describe the creature's likely behavior.
+> Any character who makes a successful **Science (DC 16, Passive)** check while examining the scene gets an overview of the creature's Behavioral Clues as described in the relevant behemoth table entry. Use these clues in conjunction with the destroyed site result to describe the creature's likely behavior.
 >
-> - Characters with **Knowledge: Monsters**, **Knowledge: Subterranea**, or **Path: Monster Hunter** have **+2 Boons** on this roll.
+> - **Knowledge: Monsters**: The character gains **+2 Boons** on this check.
+> - **Knowledge: Subterranea**: The character gains **+2 Boons** on this check.
+> - **Path: Monster Hunter**: The character gains **+2 Boons** on this check.
 >
 > #### Outcome
 >
@@ -140,7 +146,7 @@ The party can inspect the ruins of the scene to learn about what happened here.
 >
 > #### Aftermath Loot
 >
-> A tuft of katherim hair, torn from its body by another animal — likely the result of a [[Gore Bird Ravage]], with whom the katherim share a symbiotic relationship. A character that is a capable **Talent: Tailoring Novice** can knit the hair into a small charm, such as a bracelet, worth 25 cp .
+> A tuft of katherim hair, torn from its body by another animal — likely the result of a [[Gore Bird Ravage]], with whom the katherim share a symbiotic relationship. A character that is a capable `[[/talent Compendium.crucible.talent.Item.tailoringNovice0]]` can knit the hair into a small charm, such as a bracelet, worth 25 cp .
 >
 > #### Encounter Loot
 >
@@ -166,7 +172,7 @@ If the characters successfully identify the katherim from the clues it has left 
 >
 > #### Aftermath Loot
 >
-> `[[/roll 1d4+1]]` long, dark avir feathers, streaked with blood. A character with Proficiency in [[Unknown]] can sew the feathers into a small charm, such as a bracelet or necklace, worth 25 sp.
+> `[[/roll 1d4+1]]` long, dark avir feathers, streaked with blood. A character that is a capable `[[/talent Compendium.crucible.talent.Item.tailoringNovice0]]` can sew the feathers into a small charm, such as a bracelet or necklace, worth 25 cp.
 >
 > #### Encounter Loot
 >
@@ -192,7 +198,7 @@ If the characters successfully identify the avir from the clues they have left b
 >
 > #### Aftermath Loot
 >
-> A fragment of the garganthus's claw, worth 25 sp, which can be wielded as a [[Unknown]].
+> A fragment of the garganthus's claw, worth 25 cp, which can be wielded as a [[Dagger]].
 >
 > #### Encounter Loot
 >
@@ -218,7 +224,7 @@ If the characters successfully identify the garganthus from the clues it has lef
 >
 > #### Aftermath Loot
 >
-> A fragment of the urkon's tusk, worth 25 sp, which can be wielded as a [[Unknown]].
+> A fragment of the urkon's tusk, worth 25 cp, which can be wielded as a [[Dagger]].
 >
 > #### Encounter Loot
 >

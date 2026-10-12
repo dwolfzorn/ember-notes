@@ -41,9 +41,9 @@ As the strange and terrible voice calls out to the party, read or paraphrase the
 >
 > The main choice that the party must make is whether to speak to the Snarling Voice or avoid the conversation. While the party does not have the ability to truly comprehend the voice, they can discover the following:
 >
-> - `[[/check arcana 16]]` to sense that there is something beyond the mundane about the Voice, but it is deeply corrupted, and not any form of magic or power that they are familiar with.
-> - `[[/check insight 16]]` to determine that the Snarling Voice is interested in the party, and might be willing to offer power or knowledge, but at a great cost.
-> - `[[/check history 16]]` to recall that others have had encounters with similar voices in the past and that they described being "marked forever" by the experience.
+> - **Arcana (DC 16)** to sense that there is something beyond the mundane about the Voice, but it is deeply corrupted, and not any form of magic or power that they are familiar with.
+> - **Awareness (DC 16)** to determine that the Snarling Voice is interested in the party, and might be willing to offer power or knowledge, but at a great cost.
+> - **Society (DC 16)** to recall that others have had encounters with similar voices in the past and that they described being "marked forever" by the experience.
 
 > [!info] Social
 > #### Speaking with the Snarling Voice
@@ -59,7 +59,7 @@ As the strange and terrible voice calls out to the party, read or paraphrase the
 > The Snarling Voice can and will answer any questions posed by the party, but:
 >
 > - Its responses make little sense — the only commonalities are its sense of hunger, and its deep fascination with the party members.
-> - Any character who asks a direct question to the Snarling Voice receives a [[Beast Mark]] immediately, and must make a successful `[[/save con 18]]` or else take `[[/damage 2d8+5 psychic]]` damage. All other party members must also succeed on a `[[/save wis 16]]` or receive a Beast Mark as well. Repeated questions from the same character inflict additional Beast Marks, and require the same saving throws each time.
+> - Any character who asks a direct question to the Snarling Voice receives a [[Beast Mark]] immediately, and must face **Snarling Psychosis (Hazard 12)**. All other party members must also succeed on a **Bestial Marking (Hazard 8)** or receive a Beast Mark as well. Repeated questions from the same character inflict additional Beast Marks, and require facing the same hazard each time.
 > - If the party asks directly what the Snarling Voice wants from them, dialogue for the voice's reply is provided immediately below.
 
 > [!question] Q&A
@@ -102,7 +102,7 @@ This section of the Event can only be completed if the party chose **not** to en
 >
 > Level 18 (Boss) · Memory Shent Seer
 >
-> ![Mioroth](../../../assets/image088.webp)
+> ![Mioroth](../../../assets/image098.webp)
 >
 > Appearing as if from legends, a ghostly, semi-transparent, colossal figure looms over you even as he sits with his legs crossed. He is serene, calm, and intangible, as if made of pure energy and flickering strands of light. Shadows and motes of magic constantly evaporate from his body, and his only constant is his wise and gentle smiling expression. He looks faintly like a Kivahr, but as if carved from stone, with heavy brows, long limbs, and a muscular frame. The clothing he wears matches no recognizable style.
 
@@ -111,7 +111,7 @@ This section of the Event can only be completed if the party chose **not** to en
 >
 > Mioroth's memory fades into view, though his image is flickering and his once calm demeanor is now harried and concerned. If the party asks what is wrong, dialogue for his reply is provided below. Afterward, Mioroth's image fades quickly, leaving the party members with no opportunity to ask additional questions.
 >
-> A successful **Deception (DC 15)** check suggests that Mioroth is not only greatly worried but seems to be in pain. It is unclear whether this is due to the effort to shield the party members' minds from the voice, or something else entirely.
+> A successful **Diplomacy (DC 15)** check suggests that Mioroth is not only greatly worried but seems to be in pain. It is unclear whether this is due to the effort to shield the party members' minds from the voice, or something else entirely.
 
 > [!question] Q&A
 > **Q:** What's wrong?

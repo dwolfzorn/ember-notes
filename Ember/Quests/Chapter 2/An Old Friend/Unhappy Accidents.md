@@ -20,6 +20,11 @@ tags: [ember, quests]
 >
 > The party only needs to investigate one of these leads to proceed to the next Event, where they can uncover direct evidence of sabotage in The Dives.
 
+> [!danger] Hazard
+> #### Running Glitter in the Dark Concurrently
+>
+> Entering the Tradway hex of Arcturel will trigger this event, but if you are running [[Glitter in the Dark]] as well, having potentially started the side quest in the adjacent Brimtown, you should run [[A Troubled Tradeway]] at the same time. Both events take place in the same places, and the party can question Zodi Trask about both quests.
+
 > [!warning] Gamemaster
 > #### What's Wrong In Arcturel
 >

@@ -30,7 +30,7 @@ The barn is rigged with a Briar Hedge Trap detailed below, and though it can be 
 >
 > The trap activates at both exits from the barn as soon as characters cross into the barn from either direction. An impassible hedge of briars covers all movable space in its path. The hedge prevents forward movement, but does no damage unless it is touched or attacked.
 >
-> If touched, its thorns rapidly extend. Any character within 5 feet of the hedge faces **Piercing Thorns (Hazard 6, Reflex, Health, Piercing)**.
+> If touched, its thorns rapidly extend. Any character within 5 feet of the hedge faces **Piercing Thorns (Hazard 6)**.
 >
 > #### Examining the Trap
 >
@@ -60,7 +60,7 @@ As soon as the party is trapped inside by the hedges, a pair of opportunistic go
 >
 > Level 4 · Gore Bird Swarm
 >
-> ![Gore Bird Ravage](../../../assets/image083.webp)
+> ![Gore Bird Ravage](../../../assets/image092.webp)
 >
 > A large swarm of tiny, keen-eyed birds circles above, their charcoal-colored feathers a stark contrast to their sharp red beaks. It is nearly impossible to see how many of them there are, but as they grow closer, making an unsettling cawing noise and rustling their crimson tailfeathers, you can smell the rot of the putrid flesh they so often feast on.
 

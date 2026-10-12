@@ -11,7 +11,7 @@ tags: [ember, gazetteer]
 > [!warning] Gamemaster
 > #### Gamemaster's Summary
 >
-> This location exists at ⬢ s.3208.2895 in the [[Mycelian Expanse]], southeast of [[Voidspan Bridge]].
+> This location exists at ⬢ p.3208.2895 in the [[Mycelian Expanse]], southeast of [[Voidspan Bridge]].
 >
 > - This location is featured in the [[Crumbling Sanctuary]] Main Quest.
 

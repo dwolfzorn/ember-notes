@@ -25,7 +25,7 @@ A Horrendor lurks here, having risen from the long-dead corpse of a medium-sized
 >
 > Level 4 · Ghoul Horrendor
 >
-> ![Horrendor](../../../assets/image090.webp)
+> ![Horrendor](../../../assets/image100.webp)
 >
 > A disheveled corpse lurks before you, ripe with sepulchral effluvium. A wicked grin dripping a dark crimson ichor twists its way across the cadaver's pale, deathless face, and the exaggerated brows that frame its milky white eyes betray some kind of cunning menace.
 
@@ -36,7 +36,7 @@ A Horrendor lurks here, having risen from the long-dead corpse of a medium-sized
 >
 > #### Horrendor Tactics
 >
-> Once in range, the Horrendor will attack gleefully and without remorse using a combination of [[Raking Talons]], [[Necrotic Bite]], and a series of mocking efforts at [[Intimidator]] emphasized through its [[Horrific Critical]].
+> Once in range, the Horrendor will attack gleefully and without remorse using a combination of [[Unknown]], [[Necrotic Bite]], and a series of mocking efforts at [[Intimidator]] emphasized through its [[Horrific Critical]].
 >
 > As a necromantic being, the Horrendor readily fights to the death. However, as one of the [[Restless Dead]], it is difficult to permanently defeat.
 >

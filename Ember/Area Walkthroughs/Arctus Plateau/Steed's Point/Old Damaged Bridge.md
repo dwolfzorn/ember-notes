@@ -25,7 +25,7 @@ A Drowned Vines trap hides below a wooden bridge.
 >
 > Acharacter with **Awareness (DC 16, Passive)** while studying the bridge notices that it has begun to fail at the middle, and can cross the bridge without triggering the collapse.
 >
-> An unaware character that crosses the middle of the bridge must make a successful **Athletics (DC 16)** to move to safety or fall 30 feet into the ravine as the bridge collapses under them. A character that falls into the ravine suffers a **Sudden Fall (Hazard 9, Fortitude, Health, Bludgeoning)**.
+> An unaware character that crosses the middle of the bridge must make a successful **Athletics (DC 16)** to move to safety or fall 30 feet into the ravine as the bridge collapses under them. A character that falls into the ravine suffers a **Sudden Fall (Hazard 9)**.
 >
 > Crossing the bridge on foot after it has collapsed requires a character to get a running start and make a successfull **Athletics (DC 14)** to jump over the gap and land on the other side.
 >

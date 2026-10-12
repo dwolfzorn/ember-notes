@@ -31,7 +31,7 @@ The creature pinned beneath the ancient blade is a Writhing Whisperer, a terribl
 >
 > Level 6 (Elite) · Abyssal Harbinger Whisperer
 >
-> ![Writhing Whisperer](../../../assets/image069.webp)
+> ![Writhing Whisperer](../../../assets/image070.webp)
 >
 > Ever shifting and reshaping itself, producing new limbs as quickly as it retracts existing ones, occasionally you glimpse flickers of stars and lights swirling around under the surface, but they are always consumed by blackness a moment later.
 >
@@ -72,7 +72,7 @@ As soon as any member of the party is within 120 feet of the Whisperer, it becom
 > [!danger] Hazard
 > #### Abyssal Intrusion
 >
-> First contact with the Writhing Whisperer has an immediately deleterious effect on the minds of the party. Any character who is exposed to the Writhing Whisperer's telepathy must withstand the **Abyssal Intrusion (Hazard 4, Willpower, Psychic, Harmless)** as it begins to weave itself into their minds for easy communication. Characters who fail immediately incur a single effect from the [[Minor Abyssal Madness]] table.
+> First contact with the Writhing Whisperer has an immediately deleterious effect on the minds of the party. Any character who is exposed to the Writhing Whisperer's telepathy must withstand the **Abyssal Intrusion (Hazard 4)** as it begins to weave itself into their minds for easy communication. Characters who fail immediately incur a single effect from the [[Minor Abyssal Madness]] table.
 
 The Whisperer is a being of absolute evil, but it will honor a pact made in exchange for its release. It is impossible for the party to discern this, however, due to the [[Inscrutable]] nature of the creature.
 

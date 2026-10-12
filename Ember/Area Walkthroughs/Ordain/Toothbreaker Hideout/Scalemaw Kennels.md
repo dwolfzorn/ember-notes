@@ -20,12 +20,12 @@ Each of these two rooms are similarly equipped and each contain a single caged S
 >
 > Level 1 · Unknown Unknown
 >
-> ![Scalemaw](../../../assets/image033.webp)
+> ![Scalemaw](../../../assets/image034.webp)
 
 > [!danger] Hazard
 > #### Scalemaw
 >
-> If freed or provoked the creature attacks following the tactics described in [[Gazetteer Reference]].
+> If freed or provoked the creature attacks following the tactics described in [[Toothbreaker Tactics]].
 
 > [!tip] Exploration
 > #### Notable Treasure

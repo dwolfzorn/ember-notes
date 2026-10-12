@@ -37,7 +37,7 @@ For groups which have been previously playing Ember as part of our Alpha test, t
 > This release also adds a new integrated system for tracking [[Milestone Progression]]. For groups which have been previously playing Ember, you may wish to take the following steps to utilize this new feature:
 >
 > 1. Go through each Quest that the party has experienced and review each Event which offers a Milestone award (marked with a star on the quest flowchart).
-> 2. If these events were completed, utilize the Award Milestone button to record that this event's milestone was allocated to the [[Party]].
+> 2. If these events were completed, utilize the Award Milestone button to record that this event's milestone was allocated to the [[DreamTeam]].
 > 3. Audit that the level of player characters is correct given the total number of milestones awarded and the [[Milestone Progression]] table.
 
 ## Highlights

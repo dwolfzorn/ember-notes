@@ -86,7 +86,7 @@ Roll or select from the [[Well of Orbis Echoes]] table below to determine which 
 | --- | --- |
 | 1 | #### Legacy of Destruction  In an instant, a massive fireball appears over the water and explodes outward, but the force is merely an illusion, and you see the ghostly remnants of a tower flickering in the air. [[Hidden Campsite]] |
 | 2 | #### Dragged Under  Massive pale hands, with skin stretched over bones, spring from the water and attempt to wrap around you. [[Hidden Campsite]] |
-| 3 | #### Ending of the Stars  Flashes of light appear above the water, and a twinkling constellation forms in the air before, all at once, they are all swallowed by a deep, dark void. [[Hidden Campsite]] |
+| 3 | #### Advent of Darkness  Flashes of light appear above the water, and a twinkling constellation forms in the air before, all at once, they are all swallowed by a deep, dark void. [[Hidden Campsite]] |
 | 4 | #### Depths Revealed  Bubbles rise from the pool as a large fire seems to form under the water. Steam follows, and you catch a glimpse of a vast underwater city that crumbles into dust. [[Hidden Campsite]] |
 
 > [!tip] Exploration

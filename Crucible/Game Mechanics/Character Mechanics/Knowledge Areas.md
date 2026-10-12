@@ -2,8 +2,8 @@
 title: "Knowledge Areas"
 journal: "Game Mechanics / Character Mechanics"
 source_uuid: "JournalEntry.xg2008Bzlw2i2ghf"
-type: ember.lore
-tags: [ember, game-mechanics]
+type: crucible.lore
+tags: [crucible, game-mechanics]
 ---
 
 # Knowledge Areas

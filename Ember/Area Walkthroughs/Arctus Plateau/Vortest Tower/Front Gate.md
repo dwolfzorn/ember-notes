@@ -68,7 +68,7 @@ Following the successful conclusion of [[The Signborn's Secret]], Corvana Vortes
 > [!danger] Hazard
 > #### Sleep of Ages Trap
 >
-> Any character who attempts to pick the lock of the front gate without speaking the Arcane Lock's password becomes the target of a powerful Sleep spell, and must face **Hazard 10 (Willpower, Morale, Harmless)** to avoid its effects. If affected by this hazard:
+> Any character who attempts to pick the lock of the front gate without speaking the Arcane Lock's password becomes the target of a powerful Sleep spell, and must face **Hazard 10** to avoid its effects. If affected by this hazard:
 >
 > - The character is placed into an immediate and unwaking slumber for a duration of 12 hours.
 > - Creatures that don't naturally require sleep are still subject to the effects of this Spell.

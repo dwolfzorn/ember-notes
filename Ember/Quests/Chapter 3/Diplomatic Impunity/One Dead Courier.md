@@ -85,6 +85,10 @@ The courier and their bag can be examined in closer detail.
 >
 > Refer to [[Magic and Spellcraft]] and the [[Soul Cycle]] for guidance on how death and resurrection works in Ember.
 
+If the party manages to identify the location of the district, check the "Embassy Rise Discovered" Outcome below for the Embassy Rise POI to appear on the Region Map.
+
+`[[/outcome embassyRise]]`
+
 The dropped bag beside the courier will also warrant examination.
 
 #### Signara Attunement: Undeniable Curiosity
@@ -126,6 +130,6 @@ If the party chooses to wait for the authorities to arrive so they can report th
 > [!warning] Gamemaster
 > #### Next Steps
 >
-> Once the party has defeated the attackers and finished examining the dead courier, they can choose to visit the Tayan Embassy to hand over the wayward documents, or report the crime to the authorities in the Hallows.
+> Once the party has defeated the attackers and finished examining the dead courier, they can choose to visit the Tayan Embassy in [[Embassy Rise]] to hand over the wayward documents, or report the crime to the Veiled Chain in [[The Hallows]].
 >
 > If the party chooses to report the attack, the [[Coming Clean]] event needs to be manually triggered to do so.

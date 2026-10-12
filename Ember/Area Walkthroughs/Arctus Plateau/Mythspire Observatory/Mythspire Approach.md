@@ -9,14 +9,14 @@ tags: [ember, area-walkthroughs]
 # Mythspire Approach
 
 > [!quote] Read Aloud
-> The air grows colder and more biting as you approach the observatory, each breath a laborious effort that reminds you of the monument's treacherous isolation and the daunting effort required to reach it. Eventually, the full splendor of Mythspire Observatory comes into full view, silhouetted against the open sky.
+> The air grows colder and more biting as you approach the observatory, each breath a laborious effort that reminds you of the monument's treacherous isolation and the daunting effort required to reach it. Eventually, the splendor of Mythspire Observatory comes into full view, silhouetted against the open sky.
 >
 > A mournful howl cuts through the mountain air as you take stock of the crumbling edifice and its impressive scale. Everything seems to be oversized here, from the massive crystal-paned windows to the great stone doors that wait ahead.
 
 > [!tip] Exploration
 > #### Inspecting the Ruins
 >
-> Any character who makes a successful **Society (DC 13)**check is able to correctly identify this place as a [[Shent]] edifice of some kind — although some of its features depart from Shent tradition and seem unique to this location.
+> Any character who makes a successful **Society (DC 13)** check is able to correctly identify this place as a [[Shent]] edifice of some kind — although some of its features depart from Shent tradition and seem unique to this location.
 >
 > - **Knowledge: Shent**: The character automatically succeeds on this check.
 > - **Knowledge: Legends**: The character gains **+2 Boons** on this check.
@@ -32,12 +32,10 @@ If the characters attempt to examine the doors, read the following aloud:
 >
 > The front doors to Mythspire Observatory are crafted from the same stone as the rest of the edifice, but are rune-marked and locked by powerful Shent magic that still endures the test of time.
 >
-> Any character who makes a successful **Awareness (DC 14)** check while examining the front entrance is able to detect a large hand-shaped recession near the center of the door, located approximately six feet high.
+> Any character who makes a successful **Awareness (DC 14, Passive)** check while examining the front entrance is able to detect a large hand-shaped recession near the center of the door, located approximately six feet high.
 >
-> The doors can be opened by any Giant or Humanoid who places their hand in the recession, which causes the doors to slide open smoothly, moved by some unseen magic.
+> - **Ankarist's Insight:** If Ankarist scouted Mythspire Observatory on his own before [[Reuniting with Ankarist]], he can explain the mechanism.
 >
-> Alternately, the doors can be forced open by any character who makes a successful **Athletics (DC 30)** check.
+> The doors can be opened by any Giant or Humanoid who places their hand in the recession, which causes the doors to slide open smoothly, moved by some unseen magic. Alternatively, the doors can be forced open by any character who makes a successful **Athletics (DC 30)** check.
 >
-> - **One or more other characters assist**: The character gains **+2 Boons** on this check.
->
-> Additionally, casting the [[Dispel Magic]] Spell on the doors suppresses the door's magic for a duration of `[[/roll 1d4]]` hours, enabling the characters to open the door without additional effort.
+> Usage of **Counterspell (Control, Aspect, DC 15)** can suppress the door's magic for a duration of 1 hour, enabling the characters to open the door freely.

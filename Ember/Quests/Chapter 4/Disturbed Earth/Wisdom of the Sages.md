@@ -39,7 +39,7 @@ Before the ritual can be performed, the central depression of the henge must be 
 >
 > Any character who makes a successful **Athletics (DC 16)** check can keep a firm grip on the boulders as localized inversions of gravity cause them to buck, kick, and fly away.
 >
-> Any character who fails this check must withstand the **Boulderfall (Hazard 12, Reflex, Bludgeoning)** as a boulder collides with them at high speed, before it bounces and rolls across the cliffside.
+> Any character who fails this check must withstand the **Boulderfall (Hazard 12)** as a boulder collides with them at high speed, before it bounces and rolls across the cliffside.
 >
 > Fully clearing the rubble merely requires attempting three such checks — regardless of success. These checks may be spread across any number of characters.
 
@@ -76,7 +76,7 @@ Calling Terrane requires a difficult magical rite, most easily performed by a la
 >
 > If the above steps are performed correctly, the ground thrums with a pleasant harmonic resonance, and bright green light bursts forth from the floor as Terrane is called and the portal opens.
 >
-> Otherwise, the portal still opens in a blinding burst of green light … but a localized earthquake shakes the rocky cliffside, and gravity flings nearby stones at high speeds in random directions. Each character must try and evade the **Stone Shrapnel (Hazard 6, Piercing, Reflex)** or suffer damage.
+> Otherwise, the portal still opens in a blinding burst of green light … but a localized earthquake shakes the rocky cliffside, and gravity flings nearby stones at high speeds in random directions. Each character must try and evade the **Stone Shrapnel (Hazard 6)** or suffer damage.
 
 #### Cora Attunement: Summoning Terrane
 
@@ -89,7 +89,7 @@ Any party member who successfully contributes to the ritual advances their **Att
 >
 > Level 1 · Unknown Unknown
 >
-> ![Terrane](../../../assets/image111.webp)
+> ![Terrane](../../../assets/image138.webp)
 
 > [!question] Q&A
 > **Q:** GreetingRitual performed correctly
@@ -297,9 +297,7 @@ Eamon and Rala are openly troubled by this turn of events. Read or paraphrase th
 >
 > > It's … shocking, that a great sage like Terrane would do such a thing. Mr. Mariflor, I was admittedly glad to hear the Circle had no knowledge of it. It would have been … difficult to bear that knowledge, even as an apprentice. I'd like to think we're better than such tactics — that they belong to the enemies of good. I fear what would happen to the Plateau without the soil we make from Orial's mud, but there must be another way.
 >
-> Eamon nods in agreement, but in his eyes, you see a fear that for all the Circle's power, magic on the scale a great Korvathi sage has enabled may be beyond their mortal capabilities. Rala seems to lose himself in thought, before finally speaking again.
->
-> > Terrane said the nutrients were unique to Coran elementals. Is … she not a Coran elemental? Could she not do herself what she has forced Slaith to do for all these centuries? Surely that would be a fairer fulfillment of the compact she voluntarily made …
+> Eamon nods in agreement, but in his eyes, you see a fear that for all the Circle's power, magic on the scale a great Korvathi sage has enabled may be beyond their mortal capabilities.
 
 > [!question] Q&A
 > **Q:** About Slaith's imprisonment?Terrane revealed she could take Slaith's place

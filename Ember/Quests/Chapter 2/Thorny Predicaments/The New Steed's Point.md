@@ -20,9 +20,11 @@ tags: [ember, quests]
 > [!abstract] Kali Andrella
 > **[[Kali Andrella]]**
 >
-> Level 1 · Unknown Unknown
+> Level 6 · Human Agrimage
 >
-> ![Kali Andrella](../../../assets/image087.webp)
+> ![Kali Andrella](../../../assets/image096.webp)
+>
+> While she is no longer a young woman, the Arcturian in front of you is a study in motion, moving gracefully from one task to the next as if dancing from one side of the room to the other. As she moves, the vines that wrap around her scarred arm also move and sway, almost seeming to reach out next to her fingertips, as if part brace and part magic. The woman's dance is not a light or carefree one, but her movements have determination and purpose. If she eyes the world appraisingly from time to time, she seems more than capable of tackling what it has to offer.
 
 ### Catching up with Kali
 
@@ -90,7 +92,6 @@ With their talk complete, Kali is open for business as a seller, with a few item
 > As a thank you for all they have done for her and for Steed's Point, Kali will allow the group to take one item for free from the following list. With a successful **Diplomacy (DC 20)**, the party can convince Kali to part with one additional item at no cost.
 >
 > - [[Growing Thorns]]
-> - a pouch of Throwing Stones, which have the properties of [[Beads of Force]]
 > - an [[Alchemist's Toolkit]]
 > - an [[Everbloom]]
 > - A [[Potion of Healing]]
@@ -99,7 +100,7 @@ With their talk complete, Kali is open for business as a seller, with a few item
 >
 > - If the party saved Brevin, she gives them an additional [[Potion of Healing]] and a [[Potion of Climbing]].
 > - If the party completed Grassland Artifice and she has been reunited with Moriah, she shares some of the knowledge that Moriah has brought from her recent travels, clearing the fog of war from an area TBD.
-> - If the party helped Rattletrap, she gives them a new tool from his smithing shop, a [[Temporary Tool]], which they can use in an emergency if needed.
+> - If the party helped Rattletrap, she will reward them with a choice of toolkit from her shop.
 
 As the party departs, Kali wishes them well on their next adventures and offers an incentive to return.
 

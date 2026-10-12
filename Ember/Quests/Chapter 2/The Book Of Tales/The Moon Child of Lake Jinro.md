@@ -32,12 +32,11 @@ Full details about this location and its associated encounters are available in 
 >
 > Level 10 (Elite) · Human Bard
 >
-> ![Amalthea Stonecraft](../../../assets/image176.webp)
+> ![Amalthea Stonecraft](../../../assets/image206.webp)
 >
 > A wizened woman dressed in loose-fitting Arcturian garb stands before you, her elderly hands perched upon a knotted walking stick. You spy a pair of feathered wings on her stooped back, as brilliant and violet as any amythest, draped beneath the folds of a stitched brown apron. Similar quills line her forearms, and a ruffle of smaller feathers around her neck serves as an ersatz collar.
 >
->  > [!quote] Read Aloud
-> > A plume of purple feathers sits upon her aged head like a posh hat, capturing a fashionable kind of folk sensibility, which she wears with grace and aplomb. Her smile is as bright as the dawn, and her wrinkled eyes regard the world with a warm and perpetual interest.
+> A plume of purple feathers sits upon her aged head like a posh hat, capturing a fashionable kind of folk sensibility, which she wears with grace and aplomb. Her smile is as bright as the dawn, and her wrinkled eyes regard the world with a warm and perpetual interest.
 
 > [!info] Social
 > #### More Info From Amalthea
