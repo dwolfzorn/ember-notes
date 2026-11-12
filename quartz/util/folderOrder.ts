@@ -10,18 +10,25 @@ import { FileTrieNode } from "./fileTrie"
 // pages" rather than naming a real subfolder. We walk every such note and turn that
 // document order into a slug -> position map so the site's navigation can match Foundry
 // instead of falling back to alphabetical.
+//
+// A few exports list their pages out of the order Ember's journal UI shows them in (e.g.
+// "Flowchart" last instead of right after "Overview"). Pages named in PINNED_PAGES are moved to
+// the front of their folder, in that order; everything else keeps its index-note position.
+export const PINNED_PAGES = ["Overview", "Area Overview", "Flowchart"]
+
 export function buildFolderOrder(
   contentDir: string,
   corpusRoots: string[],
 ): Record<string, number> {
-  const orderMap: Record<string, number> = {}
-  const counters = new Map<string, number>()
+  const children = new Map<string, string[]>()
+  const seen = new Set<string>()
 
   const record = (parentKey: string, childKey: string) => {
-    if (childKey in orderMap) return
-    const next = counters.get(parentKey) ?? 0
-    counters.set(parentKey, next + 1)
-    orderMap[childKey] = next
+    if (seen.has(childKey)) return
+    seen.add(childKey)
+    const list = children.get(parentKey) ?? []
+    list.push(childKey)
+    children.set(parentKey, list)
   }
 
   const processFolderNote = (filePath: string) => {
@@ -92,6 +99,16 @@ export function buildFolderOrder(
     walk(path.join(contentDir, root))
   }
 
+  const pinRank = new Map(PINNED_PAGES.map((name, i) => [sluggify(name), i]))
+  const rankOf = (childKey: string) =>
+    pinRank.get(childKey.slice(childKey.lastIndexOf("/") + 1)) ?? PINNED_PAGES.length
+
+  const orderMap: Record<string, number> = {}
+  for (const list of children.values()) {
+    // Array.prototype.sort is stable, so unpinned pages keep their document order.
+    const ranked = [...list].sort((a, b) => rankOf(a) - rankOf(b))
+    ranked.forEach((childKey, i) => (orderMap[childKey] = i))
+  }
   return orderMap
 }
 
