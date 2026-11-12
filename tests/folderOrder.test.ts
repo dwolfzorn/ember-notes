@@ -51,6 +51,18 @@ const fixture: Record<string, string> = {
   ].join("\r\n"),
   // Not underscore-prefixed: never treated as an index note.
   "Crucible/Game Mechanics/Combat/Initiative.md": "## Pages\n\n- [[Should Not Count]]\n",
+  // Exported out of Ember's UI order: Overview and Flowchart should still lead.
+  "Ember/Quests/Ooze Control/_Ooze Control.md": [
+    "# Ooze Control",
+    "",
+    "## Pages",
+    "",
+    "- [[Flying Predator]]",
+    "- [[Overview]]",
+    "- [[Stone Life]]",
+    "- [[Flowchart]]",
+  ].join("\n"),
+  "Ember/Areas/Dives/_Dives.md": "## Pages\n\n- [[Main Plaza]]\n- [[Area Overview]]\n",
   // Outside the configured corpus roots: never walked.
   "Other/_Other.md": "## Pages\n\n- [[Ignored]]\n",
 }
@@ -107,6 +119,16 @@ describe("buildFolderOrder", () => {
     assert(!keys.some((k) => k.endsWith("/Crucible")))
     assert(!keys.some((k) => k.includes("Should-Not-Count")))
     assert(!keys.some((k) => k.startsWith("Other")))
+  })
+
+  test("Overview and Flowchart pages are pinned to the front, others keep index order", () => {
+    const q = "Ember/Quests/Ooze-Control"
+    assert.strictEqual(order[`${q}/Overview`], 0)
+    assert.strictEqual(order[`${q}/Flowchart`], 1)
+    assert.strictEqual(order[`${q}/Flying-Predator`], 2)
+    assert.strictEqual(order[`${q}/Stone-Life`], 3)
+    assert.strictEqual(order["Ember/Areas/Dives/Area-Overview"], 0)
+    assert.strictEqual(order["Ember/Areas/Dives/Main-Plaza"], 1)
   })
 
   test("a missing content directory yields an empty map", () => {
